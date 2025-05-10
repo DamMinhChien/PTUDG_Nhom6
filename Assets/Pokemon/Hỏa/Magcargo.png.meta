@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: 7d7d59726d0c6e9488ccbc80bd8528d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4736782092311289360
+    second: Magcargo_0
+  - first:
+      213: 1787871184426505462
+    second: Magcargo_1
+  - first:
+      213: -8217514923815059821
+    second: Magcargo_2
+  - first:
+      213: 7555715882458306394
+    second: Magcargo_3
+  - first:
+      213: -8037431497945284584
+    second: Magcargo_4
+  - first:
+      213: -6439590488037866888
+    second: Magcargo_5
+  - first:
+      213: 7295030908024628490
+    second: Magcargo_6
+  - first:
+      213: 6319816411168857440
+    second: Magcargo_7
+  - first:
+      213: -8271619807416192149
+    second: Magcargo_8
+  - first:
+      213: -1448317552010603806
+    second: Magcargo_9
+  - first:
+      213: 7540439070058998379
+    second: Magcargo_10
+  - first:
+      213: 2378986690269178045
+    second: Magcargo_11
+  - first:
+      213: -5593176110521678616
+    second: Magcargo_12
+  - first:
+      213: 2828805503001993870
+    second: Magcargo_13
+  - first:
+      213: 4390808358040426518
+    second: Magcargo_14
+  - first:
+      213: -7145244109731393057
+    second: Magcargo_15
+  - first:
+      213: -7675996887026001756
+    second: Magcargo_16
+  - first:
+      213: 6785367838278923440
+    second: Magcargo_17
+  - first:
+      213: 4346794412755946238
+    second: Magcargo_18
+  - first:
+      213: 4026994666913531337
+    second: Magcargo_19
+  - first:
+      213: 6229991388482857838
+    second: Magcargo_20
+  - first:
+      213: -6373057285383997915
+    second: Magcargo_21
+  - first:
+      213: 227770606023986152
+    second: Magcargo_22
+  - first:
+      213: -5727698712902729269
+    second: Magcargo_23
+  - first:
+      213: -8103384671142121860
+    second: Magcargo_24
+  - first:
+      213: 8008167704084786326
+    second: Magcargo_25
+  - first:
+      213: 860249793911409710
+    second: Magcargo_26
+  - first:
+      213: 8551226663015201770
+    second: Magcargo_27
+  - first:
+      213: -761570768602339090
+    second: Magcargo_28
+  - first:
+      213: -5243371106278504942
+    second: Magcargo_29
+  - first:
+      213: -6238416647685120812
+    second: Magcargo_30
+  - first:
+      213: -5753867470331994234
+    second: Magcargo_31
+  - first:
+      213: -5948954826682342803
+    second: Magcargo_32
+  - first:
+      213: 6565146775889695329
+    second: Magcargo_33
+  - first:
+      213: -6897059053407989343
+    second: Magcargo_34
+  - first:
+      213: -1961410010290552989
+    second: Magcargo_35
+  - first:
+      213: -6008110847323814205
+    second: Magcargo_36
+  - first:
+      213: 4512870936480194641
+    second: Magcargo_37
+  - first:
+      213: 1761689845571998167
+    second: Magcargo_38
+  - first:
+      213: 2584934309340450671
+    second: Magcargo_39
+  - first:
+      213: 1085053626133524560
+    second: Magcargo_40
+  - first:
+      213: -7695437720323628906
+    second: Magcargo_41
+  - first:
+      213: -2169494166244714187
+    second: Magcargo_42
+  - first:
+      213: 8732833347639676865
+    second: Magcargo_43
+  - first:
+      213: -7168518773254344966
+    second: Magcargo_44
+  - first:
+      213: -8815940579724600771
+    second: Magcargo_45
+  - first:
+      213: -2323402141431361323
+    second: Magcargo_46
+  - first:
+      213: 2853713940823003101
+    second: Magcargo_47
+  - first:
+      213: 8300842218648705796
+    second: Magcargo_48
+  - first:
+      213: -1238651701622476587
+    second: Magcargo_49
+  - first:
+      213: 2179073053735618725
+    second: Magcargo_50
+  - first:
+      213: -729511323745714546
+    second: Magcargo_51
+  - first:
+      213: 8592334052590327123
+    second: Magcargo_52
+  - first:
+      213: -3264292085537100860
+    second: Magcargo_53
+  - first:
+      213: 1257533087527168439
+    second: Magcargo_54
+  - first:
+      213: -4372089089029660982
+    second: Magcargo_55
+  - first:
+      213: -6319617200530194667
+    second: Magcargo_56
+  - first:
+      213: 3558014701893476598
+    second: Magcargo_57
+  - first:
+      213: 4378597274304760299
+    second: Magcargo_58
+  - first:
+      213: -5886353037576755139
+    second: Magcargo_59
+  - first:
+      213: -1213804709740721065
+    second: Magcargo_60
+  - first:
+      213: -1893940616862390323
+    second: Magcargo_61
+  - first:
+      213: 3598103112817340542
+    second: Magcargo_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magcargo_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 418
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1aa5998c1934eb0800000000000000
+      internalID: -4736782092311289360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 418
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f416e3ae5bcfc810800000000000000
+      internalID: 1787871184426505462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 418
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e388d07b585fd80800000000000000
+      internalID: -8217514923815059821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 418
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5754bd209b4bd860800000000000000
+      internalID: 7555715882458306394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 418
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8108f6203ae457090800000000000000
+      internalID: -8037431497945284584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 418
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872c48dc19af1a6a0800000000000000
+      internalID: -6439590488037866888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 418
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05ad4ac5f72d3560800000000000000
+      internalID: 7295030908024628490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 418
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d5769ca8f74b750800000000000000
+      internalID: 6319816411168857440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 418
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637fdd2c9d453d80800000000000000
+      internalID: -8271619807416192149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 418
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2d1762cda86ebe0800000000000000
+      internalID: -1448317552010603806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 349
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae75d126505a860800000000000000
+      internalID: 7540439070058998379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 349
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db860e65acbd30120800000000000000
+      internalID: 2378986690269178045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 349
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4872e16fb0162b0800000000000000
+      internalID: -5593176110521678616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 349
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82aa190e9fe14720800000000000000
+      internalID: 2828805503001993870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 349
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618d0d920f84fec30800000000000000
+      internalID: 4390808358040426518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 349
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1120ed65ef6dc90800000000000000
+      internalID: -7145244109731393057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 349
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89fcb1081697590800000000000000
+      internalID: -7675996887026001756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 349
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4b9f639187a2e50800000000000000
+      internalID: 6785367838278923440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 349
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa88f3fc7ae25c30800000000000000
+      internalID: 4346794412755946238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 349
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c506c94052c2e730800000000000000
+      internalID: 4026994666913531337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 280
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b6340f820657650800000000000000
+      internalID: 6229991388482857838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 280
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b8733a2a5e87a0800000000000000
+      internalID: -6373057285383997915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 280
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebc55ec824392300800000000000000
+      internalID: 227770606023986152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 280
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc188f40e502380b0800000000000000
+      internalID: -5727698712902729269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6a3e339efa8f80800000000000000
+      internalID: -8103384671142121860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 280
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69caab7091ab22f60800000000000000
+      internalID: 8008167704084786326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 280
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c413831a830fb00800000000000000
+      internalID: 860249793911409710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 280
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebbedaf75f0ca670800000000000000
+      internalID: 8551226663015201770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 280
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8e222cb6b5e65f0800000000000000
+      internalID: -761570768602339090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_29
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 280
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21609b862cdcb37b0800000000000000
+      internalID: -5243371106278504942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 211
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc58d98c11bc69a0800000000000000
+      internalID: -6238416647685120812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f9f2265082620b0800000000000000
+      internalID: -5753867470331994234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 211
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62e0c2aa11117da0800000000000000
+      internalID: -5948954826682342803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 211
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162d43385361c1b50800000000000000
+      internalID: 6565146775889695329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 211
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a199b64559b840a0800000000000000
+      internalID: -6897059053407989343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 211
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f7cb5dcfba7c4e0800000000000000
+      internalID: -1961410010290552989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_36
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 211
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c7164407ee9ca0800000000000000
+      internalID: -6008110847323814205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 211
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150261ed430f0ae30800000000000000
+      internalID: 4512870936480194641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_38
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 211
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15bb9a497c27810800000000000000
+      internalID: 1761689845571998167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_39
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 211
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f05fb0f088fd320800000000000000
+      internalID: 2584934309340450671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 142
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05030fb2682ee0f00800000000000000
+      internalID: 1085053626133524560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 142
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e7f06a20543590800000000000000
+      internalID: -7695437720323628906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 142
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53993bedc8864e1e0800000000000000
+      internalID: -2169494166244714187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 142
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf8fb049a1413970800000000000000
+      internalID: 8732833347639676865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 142
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afea47af72e448c90800000000000000
+      internalID: -7168518773254344966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 142
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a509860cc77a580800000000000000
+      internalID: -8815940579724600771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 142
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01a91ff0e91cfd0800000000000000
+      internalID: -2323402141431361323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 142
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc555a5bd6a9720800000000000000
+      internalID: 2853713940823003101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_48
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1f13a404823370800000000000000
+      internalID: 8300842218648705796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_49
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0fb5c07dc6fcee0800000000000000
+      internalID: -1238651701622476587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8898ba56f9d3e10800000000000000
+      internalID: 2179073053735618725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 73
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef280f05140e5f0800000000000000
+      internalID: -729511323745714546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 73
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559324fb4a1e3770800000000000000
+      internalID: 8592334052590327123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb2176a4a7e2b2d0800000000000000
+      internalID: -3264292085537100860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 73
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b96b5f2ea7a37110800000000000000
+      internalID: 1257533087527168439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_55
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 73
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace960a43283353c0800000000000000
+      internalID: -4372089089029660982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 73
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff2fd83a53c48a0800000000000000
+      internalID: -6319617200530194667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 73
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06afb258b906130800000000000000
+      internalID: 3558014701893476598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_58
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 73
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9cd6da507e3cc30800000000000000
+      internalID: 4378597274304760299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_59
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 73
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3822bc79197f4ea0800000000000000
+      internalID: -5886353037576755139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c45392c03b72fe0800000000000000
+      internalID: -1213804709740721065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7ab322b0f57b5e0800000000000000
+      internalID: -1893940616862390323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magcargo_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7074b0b7b70fe130800000000000000
+      internalID: 3598103112817340542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

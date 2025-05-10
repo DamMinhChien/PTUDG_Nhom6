@@ -1,0 +1,3292 @@
+fileFormatVersion: 2
+guid: 421b01a845c9a3c4b944dbbf2f576fda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3114785347188129400
+    second: Banette_0
+  - first:
+      213: -8801504941096374861
+    second: Banette_1
+  - first:
+      213: 4098852520099007514
+    second: Banette_2
+  - first:
+      213: -7230636064555957273
+    second: Banette_3
+  - first:
+      213: -5816038719901100100
+    second: Banette_4
+  - first:
+      213: -3187197746778459876
+    second: Banette_5
+  - first:
+      213: 3172155996756662665
+    second: Banette_6
+  - first:
+      213: -2488711596902027018
+    second: Banette_7
+  - first:
+      213: 5444501592421597445
+    second: Banette_8
+  - first:
+      213: -5435032404552328889
+    second: Banette_9
+  - first:
+      213: 6268217988140327324
+    second: Banette_10
+  - first:
+      213: -542944954164095481
+    second: Banette_11
+  - first:
+      213: 2923677517362780608
+    second: Banette_12
+  - first:
+      213: -1792636589521853491
+    second: Banette_13
+  - first:
+      213: -4830541044197607841
+    second: Banette_14
+  - first:
+      213: -8045825507714307569
+    second: Banette_15
+  - first:
+      213: 7325755122620494247
+    second: Banette_16
+  - first:
+      213: -7511563716404672533
+    second: Banette_17
+  - first:
+      213: -4893753705930097002
+    second: Banette_18
+  - first:
+      213: -8105361680232725696
+    second: Banette_19
+  - first:
+      213: 1766737954600723105
+    second: Banette_20
+  - first:
+      213: -893187585545789826
+    second: Banette_21
+  - first:
+      213: 1972759034528894495
+    second: Banette_22
+  - first:
+      213: 1174500305303787413
+    second: Banette_23
+  - first:
+      213: 4272848747069957351
+    second: Banette_24
+  - first:
+      213: -5783763754139851921
+    second: Banette_25
+  - first:
+      213: 2190092450845058151
+    second: Banette_26
+  - first:
+      213: 5807444992172693876
+    second: Banette_27
+  - first:
+      213: 1976655977493746930
+    second: Banette_28
+  - first:
+      213: -6220478657898004883
+    second: Banette_29
+  - first:
+      213: 6798982098914046706
+    second: Banette_30
+  - first:
+      213: 8628372268654933997
+    second: Banette_31
+  - first:
+      213: 2622316815449519108
+    second: Banette_32
+  - first:
+      213: -7376711678570940841
+    second: Banette_33
+  - first:
+      213: 2994018630931190656
+    second: Banette_34
+  - first:
+      213: -4458816264474951234
+    second: Banette_35
+  - first:
+      213: 275178040899252192
+    second: Banette_36
+  - first:
+      213: -3839096491225315870
+    second: Banette_37
+  - first:
+      213: -2879649324680740933
+    second: Banette_38
+  - first:
+      213: -6945405267582557647
+    second: Banette_39
+  - first:
+      213: 598480948400863055
+    second: Banette_40
+  - first:
+      213: -8420841647507208018
+    second: Banette_41
+  - first:
+      213: -7211670401900330689
+    second: Banette_42
+  - first:
+      213: -1842951536412448712
+    second: Banette_43
+  - first:
+      213: 3305199716683792167
+    second: Banette_44
+  - first:
+      213: -2980992828780472523
+    second: Banette_45
+  - first:
+      213: 8652418316916870610
+    second: Banette_46
+  - first:
+      213: -3741375667317707008
+    second: Banette_47
+  - first:
+      213: -999749265342074603
+    second: Banette_48
+  - first:
+      213: -7359011149165716738
+    second: Banette_49
+  - first:
+      213: 4880819825481033636
+    second: Banette_50
+  - first:
+      213: -8650458836162919326
+    second: Banette_51
+  - first:
+      213: 7935841130430201988
+    second: Banette_52
+  - first:
+      213: -3909201614133182628
+    second: Banette_53
+  - first:
+      213: -6024392422144801814
+    second: Banette_54
+  - first:
+      213: 7664806620651077898
+    second: Banette_55
+  - first:
+      213: 1573851101368028012
+    second: Banette_56
+  - first:
+      213: -8630103545976997705
+    second: Banette_57
+  - first:
+      213: 6251867892729821743
+    second: Banette_58
+  - first:
+      213: -5389202560727775663
+    second: Banette_59
+  - first:
+      213: -169042991243616539
+    second: Banette_60
+  - first:
+      213: 3263059311046444389
+    second: Banette_61
+  - first:
+      213: 3338692749643143418
+    second: Banette_62
+  - first:
+      213: 2917468008929324706
+    second: Banette_63
+  - first:
+      213: -2654760788136069977
+    second: Banette_64
+  - first:
+      213: 1265905930885823086
+    second: Banette_65
+  - first:
+      213: 8942063043931854867
+    second: Banette_66
+  - first:
+      213: 5704906744644670265
+    second: Banette_67
+  - first:
+      213: -3782047405689479686
+    second: Banette_68
+  - first:
+      213: 4080027912259127450
+    second: Banette_69
+  - first:
+      213: 7474144079408053824
+    second: Banette_70
+  - first:
+      213: -8763364254264760217
+    second: Banette_71
+  - first:
+      213: 6166780676749571305
+    second: Banette_72
+  - first:
+      213: -3881133720130905261
+    second: Banette_73
+  - first:
+      213: -926206510191955441
+    second: Banette_74
+  - first:
+      213: 4923740905989139854
+    second: Banette_75
+  - first:
+      213: 1584327332524110192
+    second: Banette_76
+  - first:
+      213: -4766916585965145085
+    second: Banette_77
+  - first:
+      213: 6224610509915232315
+    second: Banette_78
+  - first:
+      213: -8746440791153064563
+    second: Banette_79
+  - first:
+      213: 4079507093123578811
+    second: Banette_80
+  - first:
+      213: 5390460944486037371
+    second: Banette_81
+  - first:
+      213: -8919151061272835714
+    second: Banette_82
+  - first:
+      213: 5369040605401500183
+    second: Banette_83
+  - first:
+      213: -4265275272596845720
+    second: Banette_84
+  - first:
+      213: 8625667974904569004
+    second: Banette_85
+  - first:
+      213: 7585926134784491276
+    second: Banette_86
+  - first:
+      213: -3063005440768222706
+    second: Banette_87
+  - first:
+      213: 4855094247571427223
+    second: Banette_88
+  - first:
+      213: 2185826237957965949
+    second: Banette_89
+  - first:
+      213: 8803646011464862431
+    second: Banette_90
+  - first:
+      213: 1776866947095514621
+    second: Banette_91
+  - first:
+      213: -6380933296838225971
+    second: Banette_92
+  - first:
+      213: -5851488724755652247
+    second: Banette_93
+  - first:
+      213: 8961050127424646554
+    second: Banette_94
+  - first:
+      213: -6567661935803031091
+    second: Banette_95
+  - first:
+      213: 8027074230580594788
+    second: Banette_96
+  - first:
+      213: 8597519988998643773
+    second: Banette_97
+  - first:
+      213: 4129425405727737696
+    second: Banette_98
+  - first:
+      213: 4807380633491990256
+    second: Banette_99
+  - first:
+      213: -132651619049950361
+    second: Banette_100
+  - first:
+      213: -8545247650023576116
+    second: Banette_101
+  - first:
+      213: -6515410329612649176
+    second: Banette_102
+  - first:
+      213: 2799721785294763394
+    second: Banette_103
+  - first:
+      213: 3121718539563535048
+    second: Banette_104
+  - first:
+      213: 7035874716516327377
+    second: Banette_105
+  - first:
+      213: 6979071542132501115
+    second: Banette_106
+  - first:
+      213: -8805403008057073909
+    second: Banette_107
+  - first:
+      213: -1818846981247353227
+    second: Banette_108
+  - first:
+      213: -2869264117634007098
+    second: Banette_109
+  - first:
+      213: -7302557694985769563
+    second: Banette_110
+  - first:
+      213: 5485488820041167598
+    second: Banette_111
+  - first:
+      213: 5456810294591319661
+    second: Banette_112
+  - first:
+      213: -8646833343525372874
+    second: Banette_113
+  - first:
+      213: -254463740061607654
+    second: Banette_114
+  - first:
+      213: -169055232452217069
+    second: Banette_115
+  - first:
+      213: 208896507341000670
+    second: Banette_116
+  - first:
+      213: 5668304957148050388
+    second: Banette_117
+  - first:
+      213: 3240965641817725417
+    second: Banette_118
+  - first:
+      213: 3792914491887088656
+    second: Banette_119
+  - first:
+      213: -5848852813939823297
+    second: Banette_120
+  - first:
+      213: 935165444183077252
+    second: Banette_121
+  - first:
+      213: 1036125038941882218
+    second: Banette_122
+  - first:
+      213: 6871349849087645612
+    second: Banette_123
+  - first:
+      213: 2640565083355203697
+    second: Banette_124
+  - first:
+      213: 5037821388250319324
+    second: Banette_125
+  - first:
+      213: 3292387683158061543
+    second: Banette_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Banette_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 736
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7dba35c0f93b20800000000000000
+      internalID: 3114785347188129400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 736
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdea1173e5cad580800000000000000
+      internalID: -8801504941096374861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 736
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c473f76ac02e830800000000000000
+      internalID: 4098852520099007514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 736
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e383001fce97ab90800000000000000
+      internalID: -7230636064555957273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 736
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb790645997494fa0800000000000000
+      internalID: -5816038719901100100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 736
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11385a298cc4c3d0800000000000000
+      internalID: -3187197746778459876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 736
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895ece7213c50c20800000000000000
+      internalID: 3172155996756662665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 736
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f072460df1567dd0800000000000000
+      internalID: -2488711596902027018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 736
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50186532a51ce8b40800000000000000
+      internalID: 5444501592421597445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 736
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749dbe7f2d2e294b0800000000000000
+      internalID: -5435032404552328889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 675
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9161ddbc0f2df650800000000000000
+      internalID: 6268217988140327324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 675
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706557ad0721778f0800000000000000
+      internalID: -542944954164095481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 675
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95434363df29820800000000000000
+      internalID: 2923677517362780608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 675
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3ae2605864f17e0800000000000000
+      internalID: -1792636589521853491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 675
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5638ab738876fcb0800000000000000
+      internalID: -4830541044197607841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 675
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a69ef445c775090800000000000000
+      internalID: -8045825507714307569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 675
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1fa43787f4aa560800000000000000
+      internalID: 7325755122620494247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 675
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be78cff099091c790800000000000000
+      internalID: -7511563716404672533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 675
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef8c3cee4e51cb0800000000000000
+      internalID: -4893753705930097002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 675
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434aa1fe78f38f80800000000000000
+      internalID: -8105361680232725696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 614
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a22d232fc6b48810800000000000000
+      internalID: 1766737954600723105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 614
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e11cd8f92ca93f0800000000000000
+      internalID: -893187585545789826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 614
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e8988c3e5a06b10800000000000000
+      internalID: 1972759034528894495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 614
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597583e0ec9ac4010800000000000000
+      internalID: 1174500305303787413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 614
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e3140c453c4b30800000000000000
+      internalID: 4272848747069957351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 614
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63e6b16281fbbfa0800000000000000
+      internalID: -5783763754139851921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 614
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76462edfa75c46e10800000000000000
+      internalID: 2190092450845058151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 614
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47913138370389050800000000000000
+      internalID: 5807444992172693876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 614
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4daa5832e7e6b10800000000000000
+      internalID: 1976655977493746930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_29
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 614
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e371f3e9b6ca9a0800000000000000
+      internalID: -6220478657898004883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 553
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2f2084236da5e50800000000000000
+      internalID: 6798982098914046706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 553
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7320ffcd22eb770800000000000000
+      internalID: 8628372268654933997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 553
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404f6610047546420800000000000000
+      internalID: 2622316815449519108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 553
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756bd44dfc7a0a990800000000000000
+      internalID: -7376711678570940841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 553
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0831e83f414ec8920800000000000000
+      internalID: 2994018630931190656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 553
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb18c353b3a1f12c0800000000000000
+      internalID: -4458816264474951234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 553
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efa9c168f0a1d300800000000000000
+      internalID: 275178040899252192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_37
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 553
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50116e41ac8bac0800000000000000
+      internalID: -3839096491225315870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 553
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff5bc323e6908d0800000000000000
+      internalID: -2879649324680740933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 553
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326d9c15b6fc9f90800000000000000
+      internalID: -6945405267582557647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 492
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b54e604b3e4800800000000000000
+      internalID: 598480948400863055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 492
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8848a1329232b80800000000000000
+      internalID: -8420841647507208018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 492
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3148818afffaeb90800000000000000
+      internalID: -7211670401900330689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 492
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83820ed87558c66e0800000000000000
+      internalID: -1842951536412448712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 492
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb8a071ad6edd20800000000000000
+      internalID: 3305199716683792167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 492
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5379d82f0d261a6d0800000000000000
+      internalID: -2980992828780472523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 492
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc9e3ed90931870800000000000000
+      internalID: 8652418316916870610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_47
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 492
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fec3a37a6f31cc0800000000000000
+      internalID: -3741375667317707008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_48
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 492
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511f3de075d2022f0800000000000000
+      internalID: -999749265342074603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_49
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 492
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa96db795a8fd990800000000000000
+      internalID: -7359011149165716738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 431
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a72b7685c72cb340800000000000000
+      internalID: 4880819825481033636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 431
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264ce56458563f780800000000000000
+      internalID: -8650458836162919326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 431
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4800a355675c12e60800000000000000
+      internalID: 7935841130430201988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_53
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 431
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f353208d9bfb9c0800000000000000
+      internalID: -3909201614133182628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 431
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3018ab20f056ca0800000000000000
+      internalID: -6024392422144801814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 431
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0148f7f20dde5a60800000000000000
+      internalID: 7664806620651077898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 431
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0662fc3177d510800000000000000
+      internalID: 1573851101368028012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_57
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 431
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8b3379c86bb3880800000000000000
+      internalID: -8630103545976997705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_58
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 431
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab4d089b813c650800000000000000
+      internalID: 6251867892729821743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 431
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156023103d4b535b0800000000000000
+      internalID: -5389202560727775663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 370
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee972b8b4077adf0800000000000000
+      internalID: -169042991243616539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 370
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56544fba727b84d20800000000000000
+      internalID: 3263059311046444389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 370
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d6acdd5b655e20800000000000000
+      internalID: 3338692749643143418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 370
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae6ccb52bdec7820800000000000000
+      internalID: 2917468008929324706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 370
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47383f025682bd0800000000000000
+      internalID: -2654760788136069977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 370
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a7281bcb6619110800000000000000
+      internalID: 1265905930885823086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 370
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318d4bc16f6981c70800000000000000
+      internalID: 8942063043931854867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 370
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93396475576eb2f40800000000000000
+      internalID: 5704906744644670265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 370
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd0343ce7738bc0800000000000000
+      internalID: -3782047405689479686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_69
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 370
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9842efe4cb2f9830800000000000000
+      internalID: 4080027912259127450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 309
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eb435c07e79b760800000000000000
+      internalID: 7474144079408053824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 309
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768613b14a6426680800000000000000
+      internalID: -8763364254264760217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 309
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b66d3a5ec49550800000000000000
+      internalID: 6166780676749571305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 309
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9ec5d171732ac0800000000000000
+      internalID: -3881133720130905261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_74
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 309
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ba5316147523f0800000000000000
+      internalID: -926206510191955441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 309
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dea835444a45440800000000000000
+      internalID: 4923740905989139854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 309
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ba079059acf510800000000000000
+      internalID: 1584327332524110192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_77
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 309
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30431ab0f9288ddb0800000000000000
+      internalID: -4766916585965145085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_78
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 309
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3819a48742426650800000000000000
+      internalID: 6224610509915232315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_79
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 309
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c55ae0766e9680800000000000000
+      internalID: -8746440791153064563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb315846125d9830800000000000000
+      internalID: 4079507093123578811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 248
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f4bb4ba3ceca40800000000000000
+      internalID: 5390460944486037371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 248
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c8ce8d5fc83480800000000000000
+      internalID: -8919151061272835714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_83
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aca95fbf9a28a40800000000000000
+      internalID: 5369040605401500183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b8b9becb2bec4c0800000000000000
+      internalID: -4265275272596845720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 248
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac56aa825784b770800000000000000
+      internalID: 8625667974904569004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_86
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 248
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7e2ca0af964960800000000000000
+      internalID: 7585926134784491276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 248
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0adbe5b7c40e75d0800000000000000
+      internalID: -3063005440768222706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_88
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 248
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f8989ae72c06340800000000000000
+      internalID: 4855094247571427223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_89
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 248
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788636e16d955e10800000000000000
+      internalID: 2185826237957965949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdac5a95765dc2a70800000000000000
+      internalID: 8803646011464862431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 187
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdc2caf213b8a810800000000000000
+      internalID: 1776866947095514621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_92
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 187
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfce7269fe5277a0800000000000000
+      internalID: -6380933296838225971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 187
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9616cb1e1065bcea0800000000000000
+      internalID: -5851488724755652247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_94
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 187
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6d9bfc9b0c5c70800000000000000
+      internalID: 8961050127424646554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_95
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 187
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc12b9f244afad4a0800000000000000
+      internalID: -6567661935803031091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_96
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 187
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c273cb75e56f60800000000000000
+      internalID: 8027074230580594788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_97
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 187
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30a59dd0e6805770800000000000000
+      internalID: 8597519988998643773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_98
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 187
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06700e2278aae4930800000000000000
+      internalID: 4129425405727737696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_99
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 187
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6e16f273f37b240800000000000000
+      internalID: 4807380633491990256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 126
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763b5a72e0ab82ef0800000000000000
+      internalID: -132651619049950361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6a96798e296980800000000000000
+      internalID: -8545247650023576116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_102
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 126
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82df68943dc9495a0800000000000000
+      internalID: -6515410329612649176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_103
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 126
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ba62512c9ad620800000000000000
+      internalID: 2799721785294763394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_104
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 126
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca8f6fd872925b20800000000000000
+      internalID: 3121718539563535048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_105
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 126
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df9b1ae6c274a160800000000000000
+      internalID: 7035874716516327377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_106
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 126
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a68d24794aad060800000000000000
+      internalID: 6979071542132501115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_107
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 126
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1a900e9cecc580800000000000000
+      internalID: -8805403008057073909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_108
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 126
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb5f5ae4822c6e0800000000000000
+      internalID: -1818846981247353227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_109
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 126
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf76adac735e28d0800000000000000
+      internalID: -2869264117634007098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade39e877a18aa90800000000000000
+      internalID: -7302557694985769563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee23ee9b40f502c40800000000000000
+      internalID: 5485488820041167598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6fcf2d0c7abb40800000000000000
+      internalID: 5456810294591319661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_113
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cba2f03e6400880800000000000000
+      internalID: -8646833343525372874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_114
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 65
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19196d9396f77cf0800000000000000
+      internalID: -254463740061607654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 65
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b34a692567adf0800000000000000
+      internalID: -169055232452217069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_116
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 65
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf41e2444626e200800000000000000
+      internalID: 208896507341000670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_117
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 65
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d33569935dd9ae40800000000000000
+      internalID: 5668304957148050388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_118
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e99ac174193afc20800000000000000
+      internalID: 3240965641817725417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_119
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 65
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0147c5872a323a430800000000000000
+      internalID: 3792914491887088656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3da291ba53b4dea0800000000000000
+      internalID: -5848852813939823297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_121
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b0ca44006afc00800000000000000
+      internalID: 935165444183077252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_122
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c409bb3e016e00800000000000000
+      internalID: 1036125038941882218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79d422840fb5f50800000000000000
+      internalID: 6871349849087645612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_124
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cfa7f3fb25a420800000000000000
+      internalID: 2640565083355203697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_125
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd986807cdfe9e540800000000000000
+      internalID: 5037821388250319324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banette_126
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 4
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1f18d6729e0bd20800000000000000
+      internalID: 3292387683158061543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

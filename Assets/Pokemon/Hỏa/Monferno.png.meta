@@ -1,0 +1,3292 @@
+fileFormatVersion: 2
+guid: 74adeaf330a067445ada3eddd3576c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1640158923712020853
+    second: Monferno_0
+  - first:
+      213: 5621627383717283394
+    second: Monferno_1
+  - first:
+      213: 3618283446417431883
+    second: Monferno_2
+  - first:
+      213: -6081639166184862275
+    second: Monferno_3
+  - first:
+      213: -4678823356754740700
+    second: Monferno_4
+  - first:
+      213: 5204537858346045774
+    second: Monferno_5
+  - first:
+      213: -990444782983602831
+    second: Monferno_6
+  - first:
+      213: 4971991716711574430
+    second: Monferno_7
+  - first:
+      213: 6544590599825202647
+    second: Monferno_8
+  - first:
+      213: -5194987519235717075
+    second: Monferno_9
+  - first:
+      213: 7187606192128391284
+    second: Monferno_10
+  - first:
+      213: 4403978139471518451
+    second: Monferno_11
+  - first:
+      213: -2063964274823456128
+    second: Monferno_12
+  - first:
+      213: 3065780667555781930
+    second: Monferno_13
+  - first:
+      213: -2679232350189648635
+    second: Monferno_14
+  - first:
+      213: 2902889718814585955
+    second: Monferno_15
+  - first:
+      213: -1326657431515571774
+    second: Monferno_16
+  - first:
+      213: -3913269765578877324
+    second: Monferno_17
+  - first:
+      213: -2073508872949387467
+    second: Monferno_18
+  - first:
+      213: 8224104333671226118
+    second: Monferno_19
+  - first:
+      213: 517725205477947855
+    second: Monferno_20
+  - first:
+      213: 6060714061481118617
+    second: Monferno_21
+  - first:
+      213: -7328403308629070909
+    second: Monferno_22
+  - first:
+      213: -8427579505359404531
+    second: Monferno_23
+  - first:
+      213: 8334368150429043074
+    second: Monferno_24
+  - first:
+      213: -8614462742834250156
+    second: Monferno_25
+  - first:
+      213: -3813990694655317161
+    second: Monferno_26
+  - first:
+      213: 5560487412366513881
+    second: Monferno_27
+  - first:
+      213: -4797982144816227516
+    second: Monferno_28
+  - first:
+      213: 7208064526760966121
+    second: Monferno_29
+  - first:
+      213: -7272527921296967648
+    second: Monferno_30
+  - first:
+      213: 8251832847433601241
+    second: Monferno_31
+  - first:
+      213: -7127015236030946245
+    second: Monferno_32
+  - first:
+      213: -7819537181369208171
+    second: Monferno_33
+  - first:
+      213: 815285110469197836
+    second: Monferno_34
+  - first:
+      213: 2940244531651409466
+    second: Monferno_35
+  - first:
+      213: 533706720365380671
+    second: Monferno_36
+  - first:
+      213: -1906460722482352642
+    second: Monferno_37
+  - first:
+      213: 1994674017653022754
+    second: Monferno_38
+  - first:
+      213: 3506379594578271072
+    second: Monferno_39
+  - first:
+      213: -1849592658930164752
+    second: Monferno_40
+  - first:
+      213: -1573753851044659710
+    second: Monferno_41
+  - first:
+      213: 2209686041705082669
+    second: Monferno_42
+  - first:
+      213: 7358532218148830079
+    second: Monferno_43
+  - first:
+      213: -5236312220864288266
+    second: Monferno_44
+  - first:
+      213: -4846633210352300192
+    second: Monferno_45
+  - first:
+      213: 8154606728376960855
+    second: Monferno_46
+  - first:
+      213: 3093047937860745745
+    second: Monferno_47
+  - first:
+      213: -4035132581018657746
+    second: Monferno_48
+  - first:
+      213: -599426111755290016
+    second: Monferno_49
+  - first:
+      213: 5110479986889998657
+    second: Monferno_50
+  - first:
+      213: -4338734821226187110
+    second: Monferno_51
+  - first:
+      213: -3897982885451399855
+    second: Monferno_52
+  - first:
+      213: -2936587616996974134
+    second: Monferno_53
+  - first:
+      213: -4407963037496311031
+    second: Monferno_54
+  - first:
+      213: -7455487522415382041
+    second: Monferno_55
+  - first:
+      213: -6588579583289978983
+    second: Monferno_56
+  - first:
+      213: 5156985722948346288
+    second: Monferno_57
+  - first:
+      213: 5520905435614860745
+    second: Monferno_58
+  - first:
+      213: -2412269350068129633
+    second: Monferno_59
+  - first:
+      213: -8447050457071757030
+    second: Monferno_60
+  - first:
+      213: -1505284138444175728
+    second: Monferno_61
+  - first:
+      213: -7273951907961321398
+    second: Monferno_62
+  - first:
+      213: -7241035902876439087
+    second: Monferno_63
+  - first:
+      213: 4125380407616182459
+    second: Monferno_64
+  - first:
+      213: 219305747920310528
+    second: Monferno_65
+  - first:
+      213: 8544704255431773528
+    second: Monferno_66
+  - first:
+      213: -4478007659448841563
+    second: Monferno_67
+  - first:
+      213: 6501609287511274065
+    second: Monferno_68
+  - first:
+      213: -5832290061184510770
+    second: Monferno_69
+  - first:
+      213: 4500314956234724846
+    second: Monferno_70
+  - first:
+      213: -6586831646810618269
+    second: Monferno_71
+  - first:
+      213: -4442439872970923174
+    second: Monferno_72
+  - first:
+      213: -6977486074758059294
+    second: Monferno_73
+  - first:
+      213: -4804616478969051549
+    second: Monferno_74
+  - first:
+      213: -2979482416880797704
+    second: Monferno_75
+  - first:
+      213: 3984557677910236896
+    second: Monferno_76
+  - first:
+      213: -7977427631830639222
+    second: Monferno_77
+  - first:
+      213: -6539065997670892361
+    second: Monferno_78
+  - first:
+      213: -9095704465048165289
+    second: Monferno_79
+  - first:
+      213: 4362737004831331518
+    second: Monferno_80
+  - first:
+      213: 6370544380295889146
+    second: Monferno_81
+  - first:
+      213: 6335974331926860747
+    second: Monferno_82
+  - first:
+      213: -9160410648771930165
+    second: Monferno_83
+  - first:
+      213: -429879317092414102
+    second: Monferno_84
+  - first:
+      213: 2931817679084539920
+    second: Monferno_85
+  - first:
+      213: -1568634638756280573
+    second: Monferno_86
+  - first:
+      213: 4244686865965619914
+    second: Monferno_87
+  - first:
+      213: -5784692268991298375
+    second: Monferno_88
+  - first:
+      213: -4108476140498624504
+    second: Monferno_89
+  - first:
+      213: 6695807099185257070
+    second: Monferno_90
+  - first:
+      213: 4351762949408076146
+    second: Monferno_91
+  - first:
+      213: 5148517636482449578
+    second: Monferno_92
+  - first:
+      213: 2995970156258000162
+    second: Monferno_93
+  - first:
+      213: 4379629224229348199
+    second: Monferno_94
+  - first:
+      213: -8665212987955937478
+    second: Monferno_95
+  - first:
+      213: 6421683224577237139
+    second: Monferno_96
+  - first:
+      213: 1484988045639913685
+    second: Monferno_97
+  - first:
+      213: -1198107142265772372
+    second: Monferno_98
+  - first:
+      213: -2333760360788332916
+    second: Monferno_99
+  - first:
+      213: -6948848439177659812
+    second: Monferno_100
+  - first:
+      213: -8291546631726477287
+    second: Monferno_101
+  - first:
+      213: -1742286442589231015
+    second: Monferno_102
+  - first:
+      213: -8245217478130971742
+    second: Monferno_103
+  - first:
+      213: 8429582295384969602
+    second: Monferno_104
+  - first:
+      213: -896739069009931305
+    second: Monferno_105
+  - first:
+      213: 7957800405879275125
+    second: Monferno_106
+  - first:
+      213: -4105533892296372752
+    second: Monferno_107
+  - first:
+      213: -3967506268231911670
+    second: Monferno_108
+  - first:
+      213: 8276124097229492524
+    second: Monferno_109
+  - first:
+      213: -6679364413168580764
+    second: Monferno_110
+  - first:
+      213: 3925473725870326821
+    second: Monferno_111
+  - first:
+      213: 1925545128430528870
+    second: Monferno_112
+  - first:
+      213: 2425548943264008586
+    second: Monferno_113
+  - first:
+      213: -8405390631388364204
+    second: Monferno_114
+  - first:
+      213: -4155080676133222167
+    second: Monferno_115
+  - first:
+      213: 5299329196749602305
+    second: Monferno_116
+  - first:
+      213: 6647280262530646222
+    second: Monferno_117
+  - first:
+      213: 6716980039206191612
+    second: Monferno_118
+  - first:
+      213: -7203767522092961140
+    second: Monferno_119
+  - first:
+      213: 5734077787362506096
+    second: Monferno_120
+  - first:
+      213: -2509780637734277167
+    second: Monferno_121
+  - first:
+      213: 5152390497961735171
+    second: Monferno_122
+  - first:
+      213: 1302378581364743845
+    second: Monferno_123
+  - first:
+      213: 2455477286710023988
+    second: Monferno_124
+  - first:
+      213: 6944699607105988523
+    second: Monferno_125
+  - first:
+      213: -7081811077488007643
+    second: Monferno_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monferno_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 940
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e35f8162cfc39e0800000000000000
+      internalID: -1640158923712020853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 940
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c3122258040e40800000000000000
+      internalID: 5621627383717283394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 940
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d1360cf99b63230800000000000000
+      internalID: 3618283446417431883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 940
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc277766da99ba0800000000000000
+      internalID: -6081639166184862275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 940
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a35dd42fa711fb0800000000000000
+      internalID: -4678823356754740700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 940
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d9ca7b9b3a3840800000000000000
+      internalID: 5204537858346045774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 940
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d9f9ca7bb3142f0800000000000000
+      internalID: -990444782983602831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 940
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b27c4af10100540800000000000000
+      internalID: 4971991716711574430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 940
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd11fec97e03da50800000000000000
+      internalID: 6544590599825202647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 940
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280e5f1062b7e7b0800000000000000
+      internalID: -5194987519235717075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 862
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f53b00c18fb360800000000000000
+      internalID: 7187606192128391284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 862
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa19c9d8c21e1d30800000000000000
+      internalID: 4403978139471518451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 862
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1d0a6d635b53e0800000000000000
+      internalID: -2063964274823456128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 862
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1ce02647db8a20800000000000000
+      internalID: 3065780667555781930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 862
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50506386f5471dad0800000000000000
+      internalID: -2679232350189648635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 862
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364b310b1d2294820800000000000000
+      internalID: 2902889718814585955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 862
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d1ef4814c69de0800000000000000
+      internalID: -1326657431515571774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 862
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4761560b1e541b9c0800000000000000
+      internalID: -3913269765578877324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 862
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2b3d7aaa6933e0800000000000000
+      internalID: -2073508872949387467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_19
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 862
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b593c7153e12270800000000000000
+      internalID: 8224104333671226118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 784
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc977c3d4545f2700800000000000000
+      internalID: 517725205477947855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 784
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b0ccfe35bfb1450800000000000000
+      internalID: 6060714061481118617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 784
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbed52b4084c4a90800000000000000
+      internalID: -7328403308629070909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 784
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c0b257193b0b80800000000000000
+      internalID: -8427579505359404531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 784
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28907a9ecaf99a370800000000000000
+      internalID: 8334368150429043074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 784
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef68ad6c7437880800000000000000
+      internalID: -8614462742834250156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 784
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bac6cababf11bc0800000000000000
+      internalID: -3813990694655317161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6132047d1da2d40800000000000000
+      internalID: 5560487412366513881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 784
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bdf8bf8a42a6db0800000000000000
+      internalID: -4797982144816227516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 784
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77ea34f70380460800000000000000
+      internalID: 7208064526760966121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 706
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028fbf7136ac21b90800000000000000
+      internalID: -7272527921296967648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d01e213146648270800000000000000
+      internalID: 8251832847433601241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 706
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3424934761c71d90800000000000000
+      internalID: -7127015236030946245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 706
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592778cfc5c6b7390800000000000000
+      internalID: -7819537181369208171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 706
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c008e280d79705b00800000000000000
+      internalID: 815285110469197836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 706
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fdddc2d8ddc820800000000000000
+      internalID: 2940244531651409466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 706
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f340e993f6b186700800000000000000
+      internalID: 533706720365380671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_37
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 706
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd6432e214ea85e0800000000000000
+      internalID: -1906460722482352642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 706
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e8e863718eab10800000000000000
+      internalID: 1994674017653022754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_39
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 706
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1486e9a929a030800000000000000
+      internalID: 3506379594578271072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 628
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb1c49b64de456e0800000000000000
+      internalID: -1849592658930164752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 628
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e7498e537e82ae0800000000000000
+      internalID: -1573753851044659710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 628
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f68fc5fb16aae10800000000000000
+      internalID: 2209686041705082669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 628
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b3703b012ce1660800000000000000
+      internalID: 7358532218148830079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 628
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9e85e37c1e457b0800000000000000
+      internalID: -5236312220864288266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 628
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f075416cc4dbcb0800000000000000
+      internalID: -4846633210352300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 628
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7574bef4d9bfa2170800000000000000
+      internalID: 8154606728376960855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_47
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 628
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ab17936b6bcea20800000000000000
+      internalID: 3093047937860745745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_48
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 628
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c17ceeb445008c0800000000000000
+      internalID: -4035132581018657746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 628
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a7bb390296ea7f0800000000000000
+      internalID: -599426111755290016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 550
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141425ab8721ce640800000000000000
+      internalID: 5110479986889998657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 550
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96f13eeaa7b9c3c0800000000000000
+      internalID: -4338734821226187110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 550
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dfd14d73597e9c0800000000000000
+      internalID: -3897982885451399855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 550
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1a51dfe152f37d0800000000000000
+      internalID: -2936587616996974134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_54
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 550
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030bf6c8f4c3d2c0800000000000000
+      internalID: -4407963037496311031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 550
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1f2176999c88890800000000000000
+      internalID: -7455487522415382041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 550
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f0c9bd6c9a094a0800000000000000
+      internalID: -6588579583289978983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_57
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 550
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e810313b419740800000000000000
+      internalID: 5156985722948346288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 550
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d8502e323e9c40800000000000000
+      internalID: 5520905435614860745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_59
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 550
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9070ae8ec5e58ed0800000000000000
+      internalID: -2412269350068129633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 472
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19df6a1d5c06ca80800000000000000
+      internalID: -8447050457071757030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 472
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096410a2d082c1be0800000000000000
+      internalID: -1505284138444175728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 472
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c0bc574bbd0b90800000000000000
+      internalID: -7273951907961321398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 472
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2333063ca28b90800000000000000
+      internalID: -7241035902876439087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 472
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8915f9f9b404930800000000000000
+      internalID: 4125380407616182459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 472
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ddf17a612b0300800000000000000
+      internalID: 219305747920310528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_66
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 472
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d87cf9f33e49670800000000000000
+      internalID: 8544704255431773528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_67
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 472
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac21d52cbead1c0800000000000000
+      internalID: -4478007659448841563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_68
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 472
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1527d72333b5a3a50800000000000000
+      internalID: 6501609287511274065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_69
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 472
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec45e04171b8f0fa0800000000000000
+      internalID: -5832290061184510770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 394
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee59fb7eb94547e30800000000000000
+      internalID: 4500314956234724846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 394
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3664d88048fd694a0800000000000000
+      internalID: -6586831646810618269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 394
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53698bf8784952c0800000000000000
+      internalID: -4442439872970923174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 394
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaafc0226dfa2f90800000000000000
+      internalID: -6977486074758059294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_74
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 394
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366cf01b4c2925db0800000000000000
+      internalID: -4804616478969051549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 394
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f73c4f1780c6a6d0800000000000000
+      internalID: -2979482416880797704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_76
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 394
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee15e2d81efb4730800000000000000
+      internalID: 3984557677910236896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_77
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 394
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5957c5db7a4190800000000000000
+      internalID: -7977427631830639222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_78
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 394
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcbdfdde129045a0800000000000000
+      internalID: -6539065997670892361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_79
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 394
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754aedaeaf095c180800000000000000
+      internalID: -9095704465048165289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 316
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb45c6de03e8b8c30800000000000000
+      internalID: 4362737004831331518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 316
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c56d7c58b86850800000000000000
+      internalID: 6370544380295889146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 316
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc35e70e517ede750800000000000000
+      internalID: 6335974331926860747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 316
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75e338c0fafd080800000000000000
+      internalID: -9160410648771930165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 316
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d4b68e903c80af0800000000000000
+      internalID: -429879317092414102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_85
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 316
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0105b0c45a8efa820800000000000000
+      internalID: 2931817679084539920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_86
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 316
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3070f866b171b3ae0800000000000000
+      internalID: -1568634638756280573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_87
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 316
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca95ac173828ea30800000000000000
+      internalID: 4244686865965619914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 316
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b443dba705a8bfa0800000000000000
+      internalID: -5784692268991298375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_89
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 316
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8006965c7b2cbf6c0800000000000000
+      internalID: -4108476140498624504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 238
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad97fa4194cec50800000000000000
+      internalID: 6695807099185257070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 238
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271bc2a8851946c30800000000000000
+      internalID: 4351762949408076146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 238
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ce5a2385337740800000000000000
+      internalID: 5148517636482449578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_93
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 238
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dfd69dbf2d39920800000000000000
+      internalID: 2995970156258000162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_94
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 238
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632c1e339197cc30800000000000000
+      internalID: 4379629224229348199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_95
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 238
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff8cd92bafeb780800000000000000
+      internalID: -8665212987955937478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 238
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390e2058ed66e1950800000000000000
+      internalID: 6421683224577237139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_97
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 238
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0911c72ccbb9410800000000000000
+      internalID: 1484988045639913685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_98
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 238
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6e366e6e77f5fe0800000000000000
+      internalID: -1198107142265772372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_99
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 238
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ee2501151dc9fd0800000000000000
+      internalID: -2333760360788332916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 161
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab9c0492bb09f90800000000000000
+      internalID: -6948848439177659812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_101
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 161
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9105b59d4428eec80800000000000000
+      internalID: -8291546631726477287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_102
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 172
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9586d7426b722d7e0800000000000000
+      internalID: -1742286442589231015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_103
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 173
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab4920836a139d80800000000000000
+      internalID: -8245217478130971742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_104
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 166
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281d7519f64ebf470800000000000000
+      internalID: 8429582295384969602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 166
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3d27f51942e83f0800000000000000
+      internalID: -896739069009931305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_106
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 160
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb4e19e49cf6e60800000000000000
+      internalID: 7957800405879275125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_107
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 160
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd09505da63607c0800000000000000
+      internalID: -4105533892296372752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_108
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 160
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b6edd11690f8c0800000000000000
+      internalID: -3967506268231911670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_109
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 160
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c211a648403bad270800000000000000
+      internalID: 8276124097229492524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46783bb74712e43a0800000000000000
+      internalID: -6679364413168580764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_111
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52441ad3e851a7630800000000000000
+      internalID: 3925473725870326821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 82
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e513a719e8ba10800000000000000
+      internalID: 1925545128430528870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 82
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89439ca9e749a120800000000000000
+      internalID: 2425548943264008586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 82
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45243b121cd0a5b80800000000000000
+      internalID: -8405390631388364204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_115
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 82
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84dfdb3203656c0800000000000000
+      internalID: -4155080676133222167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_116
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ebd10d3dffa8940800000000000000
+      internalID: 5299329196749602305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_117
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 82
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ca921e22ef3c50800000000000000
+      internalID: 6647280262530646222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_118
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 82
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14640f1c1873d50800000000000000
+      internalID: 6716980039206191612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_119
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 82
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8237291b93170c90800000000000000
+      internalID: -7203767522092961140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075333efd59839f40800000000000000
+      internalID: 5734077787362506096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_121
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe1bfaec77b2dd0800000000000000
+      internalID: -2509780637734277167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047b1ffbd7f08740800000000000000
+      internalID: 5152390497961735171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_123
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae92516b6af21210800000000000000
+      internalID: 1302378581364743845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_124
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4371464259b931220800000000000000
+      internalID: 2455477286710023988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_125
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 4
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e8518f77806060800000000000000
+      internalID: 6944699607105988523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monferno_126
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526a6e7985a58bd90800000000000000
+      internalID: -7081811077488007643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

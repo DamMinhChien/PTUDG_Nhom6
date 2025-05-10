@@ -1,0 +1,3617 @@
+fileFormatVersion: 2
+guid: ada47fb1a58606c4c87c009b719a239c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6859265753662134133
+    second: Chimchar_0
+  - first:
+      213: -3940584488042331973
+    second: Chimchar_1
+  - first:
+      213: 7825928673981257273
+    second: Chimchar_2
+  - first:
+      213: -2401453384026827461
+    second: Chimchar_3
+  - first:
+      213: 7259359123809998332
+    second: Chimchar_4
+  - first:
+      213: 6441460512007625392
+    second: Chimchar_5
+  - first:
+      213: 6399318209729570113
+    second: Chimchar_6
+  - first:
+      213: 8769108471271031254
+    second: Chimchar_7
+  - first:
+      213: 1121753802200517969
+    second: Chimchar_8
+  - first:
+      213: -6354768967417167859
+    second: Chimchar_9
+  - first:
+      213: 7351238620652887524
+    second: Chimchar_10
+  - first:
+      213: 6505069181076194774
+    second: Chimchar_11
+  - first:
+      213: -804226229525524343
+    second: Chimchar_12
+  - first:
+      213: 5748381051289139651
+    second: Chimchar_13
+  - first:
+      213: 7553089276530717384
+    second: Chimchar_14
+  - first:
+      213: 6453909073132786410
+    second: Chimchar_15
+  - first:
+      213: -5912064579159445991
+    second: Chimchar_16
+  - first:
+      213: 5566007124563097607
+    second: Chimchar_17
+  - first:
+      213: -163585872424573417
+    second: Chimchar_18
+  - first:
+      213: 3004652911806363990
+    second: Chimchar_19
+  - first:
+      213: 7514218302830221532
+    second: Chimchar_20
+  - first:
+      213: 7943539448645976796
+    second: Chimchar_21
+  - first:
+      213: 4569116727363448034
+    second: Chimchar_22
+  - first:
+      213: -992588213823680692
+    second: Chimchar_23
+  - first:
+      213: 5695353117023914729
+    second: Chimchar_24
+  - first:
+      213: 4939459201889507287
+    second: Chimchar_25
+  - first:
+      213: 4183092112693173933
+    second: Chimchar_26
+  - first:
+      213: 8853250998193744904
+    second: Chimchar_27
+  - first:
+      213: 3294178342912587765
+    second: Chimchar_28
+  - first:
+      213: 3446162978397682412
+    second: Chimchar_29
+  - first:
+      213: 7299199052661784803
+    second: Chimchar_30
+  - first:
+      213: -7882337652424447614
+    second: Chimchar_31
+  - first:
+      213: -1691974198936282534
+    second: Chimchar_32
+  - first:
+      213: -975877643774326471
+    second: Chimchar_33
+  - first:
+      213: -7510267111453725002
+    second: Chimchar_34
+  - first:
+      213: -6781733009053822753
+    second: Chimchar_35
+  - first:
+      213: -7222654002104109936
+    second: Chimchar_36
+  - first:
+      213: -6529238726912580547
+    second: Chimchar_37
+  - first:
+      213: -1317035399513696863
+    second: Chimchar_38
+  - first:
+      213: -8876171945820502805
+    second: Chimchar_39
+  - first:
+      213: 668690548599569061
+    second: Chimchar_40
+  - first:
+      213: 6990689723715276460
+    second: Chimchar_41
+  - first:
+      213: -8966227984047897409
+    second: Chimchar_42
+  - first:
+      213: 5923911683241880266
+    second: Chimchar_43
+  - first:
+      213: 8671401434190225089
+    second: Chimchar_44
+  - first:
+      213: -7560114796170090898
+    second: Chimchar_45
+  - first:
+      213: -8794521116879199597
+    second: Chimchar_46
+  - first:
+      213: 3920278471423672796
+    second: Chimchar_47
+  - first:
+      213: 1895348112740428131
+    second: Chimchar_48
+  - first:
+      213: -638341061445089342
+    second: Chimchar_49
+  - first:
+      213: -8317852199780599597
+    second: Chimchar_50
+  - first:
+      213: 1501547586913550001
+    second: Chimchar_51
+  - first:
+      213: -6989762766956301448
+    second: Chimchar_52
+  - first:
+      213: 6070779286581330351
+    second: Chimchar_53
+  - first:
+      213: -6499738045213341635
+    second: Chimchar_54
+  - first:
+      213: -1197905594961206751
+    second: Chimchar_55
+  - first:
+      213: 9074786777328649617
+    second: Chimchar_56
+  - first:
+      213: 7731396506042383139
+    second: Chimchar_57
+  - first:
+      213: 8792961101176816087
+    second: Chimchar_58
+  - first:
+      213: 964262412294913586
+    second: Chimchar_59
+  - first:
+      213: 7141959818351651080
+    second: Chimchar_60
+  - first:
+      213: -7496354578677167309
+    second: Chimchar_61
+  - first:
+      213: 7328298966336215198
+    second: Chimchar_62
+  - first:
+      213: 1091620698667816757
+    second: Chimchar_63
+  - first:
+      213: 7477149019187896413
+    second: Chimchar_64
+  - first:
+      213: -9107826334419247966
+    second: Chimchar_65
+  - first:
+      213: -581258361711215245
+    second: Chimchar_66
+  - first:
+      213: 3054885130287248569
+    second: Chimchar_67
+  - first:
+      213: -177733596476506780
+    second: Chimchar_68
+  - first:
+      213: 3924336794171633375
+    second: Chimchar_69
+  - first:
+      213: -8981253734642644392
+    second: Chimchar_70
+  - first:
+      213: 3829524153529985975
+    second: Chimchar_71
+  - first:
+      213: -6401510035128255113
+    second: Chimchar_72
+  - first:
+      213: -7222218032618708434
+    second: Chimchar_73
+  - first:
+      213: -7896543957471876731
+    second: Chimchar_74
+  - first:
+      213: -4163249427976656003
+    second: Chimchar_75
+  - first:
+      213: -6779164687235554184
+    second: Chimchar_76
+  - first:
+      213: 5804436869014646756
+    second: Chimchar_77
+  - first:
+      213: -4636827357701780640
+    second: Chimchar_78
+  - first:
+      213: -3254060677645080318
+    second: Chimchar_79
+  - first:
+      213: -7443751172867019970
+    second: Chimchar_80
+  - first:
+      213: -5043813405234905658
+    second: Chimchar_81
+  - first:
+      213: -7297982269353577575
+    second: Chimchar_82
+  - first:
+      213: 3186792649039407721
+    second: Chimchar_83
+  - first:
+      213: -5098048234037639308
+    second: Chimchar_84
+  - first:
+      213: 4487454968750592314
+    second: Chimchar_85
+  - first:
+      213: 7965480083888269264
+    second: Chimchar_86
+  - first:
+      213: -4131516292945350436
+    second: Chimchar_87
+  - first:
+      213: -3552761218697665990
+    second: Chimchar_88
+  - first:
+      213: 6683496089713540625
+    second: Chimchar_89
+  - first:
+      213: -5808792692052549524
+    second: Chimchar_90
+  - first:
+      213: -5583741393300412594
+    second: Chimchar_91
+  - first:
+      213: 6069122709963512725
+    second: Chimchar_92
+  - first:
+      213: -9062421747216198630
+    second: Chimchar_93
+  - first:
+      213: -8145438649877308057
+    second: Chimchar_94
+  - first:
+      213: 3847033177168021105
+    second: Chimchar_95
+  - first:
+      213: -8341921325953055487
+    second: Chimchar_96
+  - first:
+      213: -6361420634320115123
+    second: Chimchar_97
+  - first:
+      213: -1617350679846625501
+    second: Chimchar_98
+  - first:
+      213: 5089099694192814383
+    second: Chimchar_99
+  - first:
+      213: 4578924921809383588
+    second: Chimchar_100
+  - first:
+      213: -7338963518255670165
+    second: Chimchar_101
+  - first:
+      213: 5200955296092202589
+    second: Chimchar_102
+  - first:
+      213: 4902960508746766643
+    second: Chimchar_103
+  - first:
+      213: -6414958602675206745
+    second: Chimchar_104
+  - first:
+      213: 3952332968559913588
+    second: Chimchar_105
+  - first:
+      213: -2305823477723900331
+    second: Chimchar_106
+  - first:
+      213: 2012795089746244782
+    second: Chimchar_107
+  - first:
+      213: -4739819521393448186
+    second: Chimchar_108
+  - first:
+      213: -99272331966035225
+    second: Chimchar_109
+  - first:
+      213: -6827194110308592959
+    second: Chimchar_110
+  - first:
+      213: 3861668693068394905
+    second: Chimchar_111
+  - first:
+      213: 7117980960340207870
+    second: Chimchar_112
+  - first:
+      213: -2088144932522126719
+    second: Chimchar_113
+  - first:
+      213: -3301107461005166538
+    second: Chimchar_114
+  - first:
+      213: 8746449793139405788
+    second: Chimchar_115
+  - first:
+      213: 460104588264780232
+    second: Chimchar_116
+  - first:
+      213: 2151023758680577904
+    second: Chimchar_117
+  - first:
+      213: 5721079548103879905
+    second: Chimchar_118
+  - first:
+      213: -5345211264558929189
+    second: Chimchar_119
+  - first:
+      213: -5999330530820296626
+    second: Chimchar_120
+  - first:
+      213: -605860933948568619
+    second: Chimchar_121
+  - first:
+      213: -6634522467240692817
+    second: Chimchar_122
+  - first:
+      213: -1654278098957291309
+    second: Chimchar_123
+  - first:
+      213: -5976085391469242684
+    second: Chimchar_124
+  - first:
+      213: -516654573125202286
+    second: Chimchar_125
+  - first:
+      213: 1674588203599421562
+    second: Chimchar_126
+  - first:
+      213: 7130122195702661952
+    second: Chimchar_127
+  - first:
+      213: -8661192063849248726
+    second: Chimchar_128
+  - first:
+      213: 5704440195689055285
+    second: Chimchar_129
+  - first:
+      213: 4334103016481443985
+    second: Chimchar_130
+  - first:
+      213: 317403153942590205
+    second: Chimchar_131
+  - first:
+      213: 3463869699943523598
+    second: Chimchar_132
+  - first:
+      213: -4067491301195942608
+    second: Chimchar_133
+  - first:
+      213: -5019071457014831642
+    second: Chimchar_134
+  - first:
+      213: 6705034089535444415
+    second: Chimchar_135
+  - first:
+      213: 3290148406177895585
+    second: Chimchar_136
+  - first:
+      213: 7589477652809094637
+    second: Chimchar_137
+  - first:
+      213: -718363786007084375
+    second: Chimchar_138
+  - first:
+      213: 1476657156381879492
+    second: Chimchar_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chimchar_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 850
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8867f4932efec0a0800000000000000
+      internalID: -6859265753662134133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 850
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb082d6494b3059c0800000000000000
+      internalID: -3940584488042331973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 850
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936523a5aa84b9c60800000000000000
+      internalID: 7825928673981257273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 850
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35db64eed25caed0800000000000000
+      internalID: -2401453384026827461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 850
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf59faf49ac6eb460800000000000000
+      internalID: 7259359123809998332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 850
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba9be4153aa46950800000000000000
+      internalID: 6441460512007625392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 850
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145ae97b102fec850800000000000000
+      internalID: 6399318209729570113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 850
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18af2a1b122b970800000000000000
+      internalID: 8769108471271031254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 850
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0b99c325419f00800000000000000
+      internalID: 1121753802200517969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 850
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d008c6b0b435fc7a0800000000000000
+      internalID: -6354768967417167859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 785
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edd523b398d40660800000000000000
+      internalID: 7351238620652887524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 785
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5436174f5a64a50800000000000000
+      internalID: 6505069181076194774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 785
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98054165180d6d4f0800000000000000
+      internalID: -804226229525524343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 785
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9fca32c1a56cf40800000000000000
+      internalID: 5748381051289139651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 785
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2fc64dda6f1d860800000000000000
+      internalID: 7553089276530717384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 785
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae210c49b14e09950800000000000000
+      internalID: 6453909073132786410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 785
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e2806b69024fda0800000000000000
+      internalID: -5912064579159445991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 785
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70870e46dfd6e3d40800000000000000
+      internalID: 5566007124563097607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 785
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166cd70483dabdf0800000000000000
+      internalID: -163585872424573417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 785
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659bf8967eba2b920800000000000000
+      internalID: 3004652911806363990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 720
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd81fe00cbdd74860800000000000000
+      internalID: 7514218302830221532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 720
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd288d7ba0f1d3e60800000000000000
+      internalID: 7943539448645976796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 720
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec2bcf8473c86f30800000000000000
+      internalID: 4569116727363448034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fccca474e9932f0800000000000000
+      internalID: -992588213823680692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 720
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eacf921c75f90f40800000000000000
+      internalID: 5695353117023914729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 720
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7982749fb7c8440800000000000000
+      internalID: 4939459201889507287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 720
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae90df0d145d0a30800000000000000
+      internalID: 4183092112693173933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 720
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce5b650e01dda70800000000000000
+      internalID: 8853250998193744904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 720
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f614efb547bd20800000000000000
+      internalID: 3294178342912587765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 720
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafe7568fa33df20800000000000000
+      internalID: 3446162978397682412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 655
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e006c69dd6fb4560800000000000000
+      internalID: 7299199052661784803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 655
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ed83eaaf4c9290800000000000000
+      internalID: -7882337652424447614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 655
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ad6473e66e488e0800000000000000
+      internalID: -1691974198936282534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 655
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390692147cf472f0800000000000000
+      internalID: -975877643774326471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 655
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be608d6adb26c790800000000000000
+      internalID: -7510267111453725002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 655
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05ec962c172e1a0800000000000000
+      internalID: -6781733009053822753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 655
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094f70dc37af3cb90800000000000000
+      internalID: -7222654002104109936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 655
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e6a4a8fb7365a0800000000000000
+      internalID: -6529238726912580547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 655
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a51f573843f8bde0800000000000000
+      internalID: -1317035399513696863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_39
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 655
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c41ca4a081d480800000000000000
+      internalID: -8876171945820502805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 590
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa30f5d28aa74900800000000000000
+      internalID: 668690548599569061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 590
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec505f34be30160800000000000000
+      internalID: 6990689723715276460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 590
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb488a3572f819380800000000000000
+      internalID: -8966227984047897409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 590
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2b682a46f53250800000000000000
+      internalID: 5923911683241880266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 590
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce98bd49a1075870800000000000000
+      internalID: 8671401434190225089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 590
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e666b19e5a3151790800000000000000
+      internalID: -7560114796170090898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_46
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 590
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3926ebab3a593f580800000000000000
+      internalID: -8794521116879199597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 590
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c1ddcf70a76630800000000000000
+      internalID: 3920278471423672796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 590
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369a9990111ad4a10800000000000000
+      internalID: 1895348112740428131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_49
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 590
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7050bcf282427f0800000000000000
+      internalID: -638341061445089342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 525
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d830e18e7d019c80800000000000000
+      internalID: -8317852199780599597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 525
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb353239196d410800000000000000
+      internalID: 1501547586913550001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 525
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873715bfbcf5ffe90800000000000000
+      internalID: -6989762766956301448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 525
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1ca76c89dbf3450800000000000000
+      internalID: 6070779286581330351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 525
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3887f95faa4cc5a0800000000000000
+      internalID: -6499738045213341635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 525
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12262e9453f206fe0800000000000000
+      internalID: -1197905594961206751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 525
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19506136e7e10fd70800000000000000
+      internalID: 9074786777328649617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 525
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3a58d8207b4b60800000000000000
+      internalID: 7731396506042383139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 525
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1c87fc88fd60a70800000000000000
+      internalID: 8792961101176816087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_59
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 525
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e791b1e8fb16d00800000000000000
+      internalID: 964262412294913586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 460
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a6f47d965d1360800000000000000
+      internalID: 7141959818351651080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 460
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b03936a3997f790800000000000000
+      internalID: -7496354578677167309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 460
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e981558351953b560800000000000000
+      internalID: 7328298966336215198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371f85ed37362f00800000000000000
+      internalID: 1091620698667816757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ea55da6b24c760800000000000000
+      internalID: 7477149019187896413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 460
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1ef444308a9180800000000000000
+      internalID: -9107826334419247966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 460
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d3a738994fee7f0800000000000000
+      internalID: -581258361711215245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_67
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f46c27d1256a20800000000000000
+      internalID: 3054885130287248569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 460
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d7d555c30988df0800000000000000
+      internalID: -177733596476506780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 460
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6893b58b067630800000000000000
+      internalID: 3924336794171633375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 395
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a89f4205d2c5380800000000000000
+      internalID: -8981253734642644392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 395
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbeeed8de3352530800000000000000
+      internalID: 3829524153529985975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_72
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 395
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df41a2a844927a0800000000000000
+      internalID: -6401510035128255113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 395
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22675bd6f685cb90800000000000000
+      internalID: -7222218032618708434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 395
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589a1adbb17d96290800000000000000
+      internalID: -7896543957471876731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 395
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6a1ef3ba2936c0800000000000000
+      internalID: -4163249427976656003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 395
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874e37f62a19be1a0800000000000000
+      internalID: -6779164687235554184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_77
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 395
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6cc244908d8050800000000000000
+      internalID: 5804436869014646756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_78
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 398
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b4f5bc51ea6afb0800000000000000
+      internalID: -4636827357701780640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 398
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e56fed0147d2d0800000000000000
+      internalID: -3254060677645080318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 335
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b2dd83fbb72b890800000000000000
+      internalID: -7443751172867019970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 335
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdbe936e66c00ab0800000000000000
+      internalID: -5043813405234905658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 339
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993b41adacb58ba90800000000000000
+      internalID: -7297982269353577575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_83
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 339
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ae1daa703c93c20800000000000000
+      internalID: 3186792649039407721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477016a44281049b0800000000000000
+      internalID: -5098048234037639308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_85
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d0fdb484a64e30800000000000000
+      internalID: 4487454968750592314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 333
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7eb91fee11b8e60800000000000000
+      internalID: 7965480083888269264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_87
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 333
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f04f32d7e9a6c0800000000000000
+      internalID: -4131516292945350436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 330
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32edb3be7e02bec0800000000000000
+      internalID: -3552761218697665990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_89
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 330
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e761d684c80cc50800000000000000
+      internalID: 6683496089713540625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 265
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a258a2d5036fa0800000000000000
+      internalID: -5808792692052549524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 265
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472fa669c09282b0800000000000000
+      internalID: -5583741393300412594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 264
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b91a9f2fad93450800000000000000
+      internalID: 6069122709963512725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 264
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1457688f6fcb3280800000000000000
+      internalID: -9062421747216198630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 268
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d535e44b695fe80800000000000000
+      internalID: -8145438649877308057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_95
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 268
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1760e3cca48636530800000000000000
+      internalID: 3847033177168021105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_96
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 270
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105005e50ca8b3c80800000000000000
+      internalID: -8341921325953055487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_97
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 270
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a628823a1b7b7a0800000000000000
+      internalID: -6361420634320115123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 272
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f518230240e89e0800000000000000
+      internalID: -1617350679846625501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_99
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 272
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2969ea653d10a640800000000000000
+      internalID: 5089099694192814383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 206
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b1a9c4fb9b8f30800000000000000
+      internalID: 4578924921809383588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 206
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd1da4093c62a90800000000000000
+      internalID: -7338963518255670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 204
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56234439418d2840800000000000000
+      internalID: 5200955296092202589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399e9f0b90da0440800000000000000
+      internalID: 4902960508746766643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_104
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 200
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a545b6832d79f6a0800000000000000
+      internalID: -6414958602675206745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_105
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 200
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a241105e189d630800000000000000
+      internalID: 3952332968559913588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_106
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 200
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556d28783c11000e0800000000000000
+      internalID: -2305823477723900331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_107
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 200
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b9f94872eeeb10800000000000000
+      internalID: 2012795089746244782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_108
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 200
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ba1e70247c83eb0800000000000000
+      internalID: -4739819521393448186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_109
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 200
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac32d07505f9ef0800000000000000
+      internalID: -99272331966035225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2da62f02fe041a0800000000000000
+      internalID: -6827194110308592959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_111
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 135
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b6926737679530800000000000000
+      internalID: 3861668693068394905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_112
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 135
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8621388f528c260800000000000000
+      internalID: 7117980960340207870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 135
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1829c715f3b6503e0800000000000000
+      internalID: -2088144932522126719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 138
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6383565114c1032d0800000000000000
+      internalID: -3301107461005166538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_115
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 138
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3fcd50fb1a16970800000000000000
+      internalID: 8746449793139405788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_116
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 140
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bc0f6fae926600800000000000000
+      internalID: 460104588264780232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_117
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 140
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d49f36b8f9dd10800000000000000
+      internalID: 2151023758680577904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_118
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 144
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eceb74998b556f40800000000000000
+      internalID: 5721079548103879905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_119
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 144
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6c8eccaef1d5b0800000000000000
+      internalID: -5345211264558929189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 76
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40fc440ba81ebca0800000000000000
+      internalID: -5999330530820296626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db85b8c0bc8797f0800000000000000
+      internalID: -605860933948568619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 73
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa335cd97f07de3a0800000000000000
+      internalID: -6634522467240692817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 73
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d031ff65d2da09e0800000000000000
+      internalID: -1654278098957291309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 70
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61316cffda01da0800000000000000
+      internalID: -5976085391469242684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_125
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 70
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e8a41376974d8f0800000000000000
+      internalID: -516654573125202286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_126
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 70
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706a9c49155d3710800000000000000
+      internalID: 1674588203599421562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_127
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 70
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434cf72c5843f260800000000000000
+      internalID: 7130122195702661952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_128
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 69
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2845d6f4b34dc780800000000000000
+      internalID: -8661192063849248726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_129
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 69
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5348182722e3a2f40800000000000000
+      internalID: 5704440195689055285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190535dfab3d52c30800000000000000
+      internalID: 4334103016481443985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df23651ac74a76400800000000000000
+      internalID: 317403153942590205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_132
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 10
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e056f55c323221030800000000000000
+      internalID: 3463869699943523598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0357939463e5d87c0800000000000000
+      internalID: -4067491301195942608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5245e1a1da85ab0800000000000000
+      internalID: -5019071457014831642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_135
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 12
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb515a9caf01d0d50800000000000000
+      internalID: 6705034089535444415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_136
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 11
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a41d802b84f8ad20800000000000000
+      internalID: 3290148406177895585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 11
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de59376e6bd335960800000000000000
+      internalID: 7589477652809094637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_138
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 9
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20b8351fbd706f0800000000000000
+      internalID: -718363786007084375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimchar_139
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 9
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2e2d2cd32e7410800000000000000
+      internalID: 1476657156381879492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

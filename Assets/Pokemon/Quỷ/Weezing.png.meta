@@ -1,0 +1,6342 @@
+fileFormatVersion: 2
+guid: 75f7155761306764a9420e3e649bb8c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5864485081308525482
+    second: Weezing_0
+  - first:
+      213: -8595421042856145745
+    second: Weezing_1
+  - first:
+      213: 5522329092831780541
+    second: Weezing_2
+  - first:
+      213: -5829143756868846489
+    second: Weezing_3
+  - first:
+      213: -8929498412960167381
+    second: Weezing_4
+  - first:
+      213: 9101374133800973665
+    second: Weezing_5
+  - first:
+      213: 9150651770081291382
+    second: Weezing_6
+  - first:
+      213: 2806065756884315299
+    second: Weezing_7
+  - first:
+      213: -3230130678219199068
+    second: Weezing_8
+  - first:
+      213: 2776086684766707610
+    second: Weezing_9
+  - first:
+      213: -7561020203670216043
+    second: Weezing_10
+  - first:
+      213: 140660479056274040
+    second: Weezing_11
+  - first:
+      213: -4973840127446811839
+    second: Weezing_12
+  - first:
+      213: -4594469062071711954
+    second: Weezing_13
+  - first:
+      213: -9016560934718407902
+    second: Weezing_14
+  - first:
+      213: 1344656906060477524
+    second: Weezing_15
+  - first:
+      213: 4410996221593322923
+    second: Weezing_16
+  - first:
+      213: -7828449339946998323
+    second: Weezing_17
+  - first:
+      213: -4599504099108837823
+    second: Weezing_18
+  - first:
+      213: 404832263587684209
+    second: Weezing_19
+  - first:
+      213: 5437379125020556732
+    second: Weezing_20
+  - first:
+      213: 852666187261450407
+    second: Weezing_21
+  - first:
+      213: -5086901538114908879
+    second: Weezing_22
+  - first:
+      213: 4374278202744856690
+    second: Weezing_23
+  - first:
+      213: -8795507086740370702
+    second: Weezing_24
+  - first:
+      213: 2923419078776674938
+    second: Weezing_25
+  - first:
+      213: 8056596724414749722
+    second: Weezing_26
+  - first:
+      213: 2017043652165872981
+    second: Weezing_27
+  - first:
+      213: 3941160972992724184
+    second: Weezing_28
+  - first:
+      213: -327016460757761721
+    second: Weezing_29
+  - first:
+      213: -5635956851520914131
+    second: Weezing_30
+  - first:
+      213: -5640024483760873106
+    second: Weezing_31
+  - first:
+      213: -3359700396333393155
+    second: Weezing_32
+  - first:
+      213: 8390096688913942944
+    second: Weezing_33
+  - first:
+      213: -604852113758636923
+    second: Weezing_34
+  - first:
+      213: 6675885882431237515
+    second: Weezing_35
+  - first:
+      213: 3550903767208328364
+    second: Weezing_36
+  - first:
+      213: -1495165233876789690
+    second: Weezing_37
+  - first:
+      213: -1988252983137402436
+    second: Weezing_38
+  - first:
+      213: 8223373420226784015
+    second: Weezing_39
+  - first:
+      213: 4662134868775027044
+    second: Weezing_40
+  - first:
+      213: 6008894348643912938
+    second: Weezing_41
+  - first:
+      213: 1694018613433066319
+    second: Weezing_42
+  - first:
+      213: -4837580442998295191
+    second: Weezing_43
+  - first:
+      213: 2394530781198303200
+    second: Weezing_44
+  - first:
+      213: -9017537440349073334
+    second: Weezing_45
+  - first:
+      213: 9130699441604371654
+    second: Weezing_46
+  - first:
+      213: -7425159815839331450
+    second: Weezing_47
+  - first:
+      213: -548228649256295613
+    second: Weezing_48
+  - first:
+      213: -174697746394071510
+    second: Weezing_49
+  - first:
+      213: 4239719113393422079
+    second: Weezing_50
+  - first:
+      213: 7498837710778036016
+    second: Weezing_51
+  - first:
+      213: 5067573520795136591
+    second: Weezing_52
+  - first:
+      213: 1833305240791960661
+    second: Weezing_53
+  - first:
+      213: -5020642680864057806
+    second: Weezing_54
+  - first:
+      213: -7686185191343721181
+    second: Weezing_55
+  - first:
+      213: -5353394523680065697
+    second: Weezing_56
+  - first:
+      213: -8039605312122209178
+    second: Weezing_57
+  - first:
+      213: 8406904934488206001
+    second: Weezing_58
+  - first:
+      213: -8597628276515063385
+    second: Weezing_59
+  - first:
+      213: -457363427569072812
+    second: Weezing_60
+  - first:
+      213: -714060540139994162
+    second: Weezing_61
+  - first:
+      213: 5786978711669576693
+    second: Weezing_62
+  - first:
+      213: 4053474909629792041
+    second: Weezing_63
+  - first:
+      213: 1787871441834436145
+    second: Weezing_64
+  - first:
+      213: -3880863772389317696
+    second: Weezing_65
+  - first:
+      213: 4205924172517616871
+    second: Weezing_66
+  - first:
+      213: -743862787991793302
+    second: Weezing_67
+  - first:
+      213: -402059828160049104
+    second: Weezing_68
+  - first:
+      213: -7070751506490635962
+    second: Weezing_69
+  - first:
+      213: 19560844195641491
+    second: Weezing_70
+  - first:
+      213: 7990979245580700581
+    second: Weezing_71
+  - first:
+      213: 3661922289614113334
+    second: Weezing_72
+  - first:
+      213: 714142621282845439
+    second: Weezing_73
+  - first:
+      213: -6060301350233032153
+    second: Weezing_74
+  - first:
+      213: 6350650943184806109
+    second: Weezing_75
+  - first:
+      213: 4430092547441549249
+    second: Weezing_76
+  - first:
+      213: -1071498153124396614
+    second: Weezing_77
+  - first:
+      213: -4329653984742030396
+    second: Weezing_78
+  - first:
+      213: -3502321661892404827
+    second: Weezing_79
+  - first:
+      213: -68134179349948818
+    second: Weezing_80
+  - first:
+      213: -2766440018591571971
+    second: Weezing_81
+  - first:
+      213: 2697350793997287640
+    second: Weezing_82
+  - first:
+      213: 8899518954739667507
+    second: Weezing_83
+  - first:
+      213: 5325949341989021297
+    second: Weezing_84
+  - first:
+      213: -3961340316681492938
+    second: Weezing_85
+  - first:
+      213: 3526620844391053091
+    second: Weezing_86
+  - first:
+      213: -4373947682689458344
+    second: Weezing_87
+  - first:
+      213: 137109658734240758
+    second: Weezing_88
+  - first:
+      213: -7269786377862745439
+    second: Weezing_89
+  - first:
+      213: -1249347637133176807
+    second: Weezing_90
+  - first:
+      213: -6110619557005012226
+    second: Weezing_91
+  - first:
+      213: 9060844734183296579
+    second: Weezing_92
+  - first:
+      213: 397425090572446606
+    second: Weezing_93
+  - first:
+      213: 278871877382029483
+    second: Weezing_94
+  - first:
+      213: 7098556738970718145
+    second: Weezing_95
+  - first:
+      213: -2821959597199689095
+    second: Weezing_96
+  - first:
+      213: -4771104692724368006
+    second: Weezing_97
+  - first:
+      213: 5656683496266605588
+    second: Weezing_98
+  - first:
+      213: 8868409960834762777
+    second: Weezing_99
+  - first:
+      213: -4650924778575864590
+    second: Weezing_100
+  - first:
+      213: 8232648939305948999
+    second: Weezing_101
+  - first:
+      213: 3320797957736890357
+    second: Weezing_102
+  - first:
+      213: 2569548047090956526
+    second: Weezing_103
+  - first:
+      213: 6950197800001665726
+    second: Weezing_104
+  - first:
+      213: 4321063661836359101
+    second: Weezing_105
+  - first:
+      213: 3397809986011212535
+    second: Weezing_106
+  - first:
+      213: 6725434887011371763
+    second: Weezing_107
+  - first:
+      213: 6237317534424654988
+    second: Weezing_108
+  - first:
+      213: -6833185239979632889
+    second: Weezing_109
+  - first:
+      213: -6337255199098588955
+    second: Weezing_110
+  - first:
+      213: 4937405196279505705
+    second: Weezing_111
+  - first:
+      213: 844200350097700451
+    second: Weezing_112
+  - first:
+      213: -697033850594134802
+    second: Weezing_113
+  - first:
+      213: 2137215970515507535
+    second: Weezing_114
+  - first:
+      213: -2868769522021161325
+    second: Weezing_115
+  - first:
+      213: 8064816808403913625
+    second: Weezing_116
+  - first:
+      213: -6706810820907292765
+    second: Weezing_117
+  - first:
+      213: -2990737487498768816
+    second: Weezing_118
+  - first:
+      213: 1333394618732967372
+    second: Weezing_119
+  - first:
+      213: 7662141683699249206
+    second: Weezing_120
+  - first:
+      213: -4762620199969206370
+    second: Weezing_121
+  - first:
+      213: -7734788688059312918
+    second: Weezing_122
+  - first:
+      213: -550738167520583880
+    second: Weezing_123
+  - first:
+      213: 7919296341429327533
+    second: Weezing_124
+  - first:
+      213: -3648826922186900497
+    second: Weezing_125
+  - first:
+      213: -3114510659362561444
+    second: Weezing_126
+  - first:
+      213: -164419732496328277
+    second: Weezing_127
+  - first:
+      213: -7158258855078118690
+    second: Weezing_128
+  - first:
+      213: 1458901191913462053
+    second: Weezing_129
+  - first:
+      213: 4418653446414462429
+    second: Weezing_130
+  - first:
+      213: 8075166859391585390
+    second: Weezing_131
+  - first:
+      213: -4124759274840260087
+    second: Weezing_132
+  - first:
+      213: 2294902972059095268
+    second: Weezing_133
+  - first:
+      213: -2752408331804710249
+    second: Weezing_134
+  - first:
+      213: -4129382561181359908
+    second: Weezing_135
+  - first:
+      213: -5238287008184365922
+    second: Weezing_136
+  - first:
+      213: 7373708152250755666
+    second: Weezing_137
+  - first:
+      213: 948622213302719651
+    second: Weezing_138
+  - first:
+      213: 2926365537159276814
+    second: Weezing_139
+  - first:
+      213: -1363876965284885681
+    second: Weezing_140
+  - first:
+      213: -6925842685903585928
+    second: Weezing_141
+  - first:
+      213: 3704030309501189743
+    second: Weezing_142
+  - first:
+      213: 7232073743364644337
+    second: Weezing_143
+  - first:
+      213: -6610613095742083232
+    second: Weezing_144
+  - first:
+      213: -5729356748829717922
+    second: Weezing_145
+  - first:
+      213: -6792956503153412667
+    second: Weezing_146
+  - first:
+      213: 6020975575369570556
+    second: Weezing_147
+  - first:
+      213: -1832937568421993093
+    second: Weezing_148
+  - first:
+      213: -3663265861771668733
+    second: Weezing_149
+  - first:
+      213: 783732064204829381
+    second: Weezing_150
+  - first:
+      213: -2690224797484743101
+    second: Weezing_151
+  - first:
+      213: -3943767880333491184
+    second: Weezing_152
+  - first:
+      213: 694708945814592838
+    second: Weezing_153
+  - first:
+      213: 3933456114317224042
+    second: Weezing_154
+  - first:
+      213: 6894706839685190841
+    second: Weezing_155
+  - first:
+      213: -5880340432082682151
+    second: Weezing_156
+  - first:
+      213: 5473243612209983448
+    second: Weezing_157
+  - first:
+      213: -7919093401574543019
+    second: Weezing_158
+  - first:
+      213: -1695640306219782947
+    second: Weezing_159
+  - first:
+      213: 3438204310728241610
+    second: Weezing_160
+  - first:
+      213: -7245295541033223971
+    second: Weezing_161
+  - first:
+      213: -597688916045390202
+    second: Weezing_162
+  - first:
+      213: -248378387086071242
+    second: Weezing_163
+  - first:
+      213: 1619627038505805342
+    second: Weezing_164
+  - first:
+      213: -1848792449645186542
+    second: Weezing_165
+  - first:
+      213: 9035891489762284036
+    second: Weezing_166
+  - first:
+      213: -3112923625130974790
+    second: Weezing_167
+  - first:
+      213: 6046770938141399967
+    second: Weezing_168
+  - first:
+      213: 1258597915758247181
+    second: Weezing_169
+  - first:
+      213: 1852750864014455044
+    second: Weezing_170
+  - first:
+      213: 7364415863285991476
+    second: Weezing_171
+  - first:
+      213: -7249994238603515729
+    second: Weezing_172
+  - first:
+      213: 1599733317135051345
+    second: Weezing_173
+  - first:
+      213: 8686683712999475529
+    second: Weezing_174
+  - first:
+      213: -2887797516589721513
+    second: Weezing_175
+  - first:
+      213: -6412593043694136622
+    second: Weezing_176
+  - first:
+      213: 4899303793447617233
+    second: Weezing_177
+  - first:
+      213: -1885453193845089701
+    second: Weezing_178
+  - first:
+      213: -2098575825650641514
+    second: Weezing_179
+  - first:
+      213: 5379718818079465555
+    second: Weezing_180
+  - first:
+      213: 9080449541026435952
+    second: Weezing_181
+  - first:
+      213: 912575888313120345
+    second: Weezing_182
+  - first:
+      213: -6778775286744847566
+    second: Weezing_183
+  - first:
+      213: -1024396484537928064
+    second: Weezing_184
+  - first:
+      213: -1685579750699752936
+    second: Weezing_185
+  - first:
+      213: 733953564507246926
+    second: Weezing_186
+  - first:
+      213: 8797079398181800373
+    second: Weezing_187
+  - first:
+      213: 8130953329139191438
+    second: Weezing_188
+  - first:
+      213: -7925570655666026054
+    second: Weezing_189
+  - first:
+      213: -2468819325726084664
+    second: Weezing_190
+  - first:
+      213: -6849433051135546582
+    second: Weezing_191
+  - first:
+      213: -2693798190617028534
+    second: Weezing_192
+  - first:
+      213: 4427088792663472239
+    second: Weezing_193
+  - first:
+      213: -6516178393517801913
+    second: Weezing_194
+  - first:
+      213: 9155289566040950707
+    second: Weezing_195
+  - first:
+      213: -3266533725091973881
+    second: Weezing_196
+  - first:
+      213: 4958255258729253504
+    second: Weezing_197
+  - first:
+      213: 642348000749890064
+    second: Weezing_198
+  - first:
+      213: 4421695384756232680
+    second: Weezing_199
+  - first:
+      213: -6433454527948509286
+    second: Weezing_200
+  - first:
+      213: -4690259328634950791
+    second: Weezing_201
+  - first:
+      213: 5237428550046062132
+    second: Weezing_202
+  - first:
+      213: -9034780945015495636
+    second: Weezing_203
+  - first:
+      213: 7346815044402208979
+    second: Weezing_204
+  - first:
+      213: -7794411916350836772
+    second: Weezing_205
+  - first:
+      213: -8988301710672503517
+    second: Weezing_206
+  - first:
+      213: 9136659016571906477
+    second: Weezing_207
+  - first:
+      213: -5485510226818253091
+    second: Weezing_208
+  - first:
+      213: 2599705420442465649
+    second: Weezing_209
+  - first:
+      213: 1139185212407204388
+    second: Weezing_210
+  - first:
+      213: 834030113662255522
+    second: Weezing_211
+  - first:
+      213: -8756645503507623196
+    second: Weezing_212
+  - first:
+      213: -8884734586485467303
+    second: Weezing_213
+  - first:
+      213: -8917483372681175896
+    second: Weezing_214
+  - first:
+      213: -6572964890784593120
+    second: Weezing_215
+  - first:
+      213: 7772428092945281860
+    second: Weezing_216
+  - first:
+      213: 3124672912121252168
+    second: Weezing_217
+  - first:
+      213: -4744091669061255360
+    second: Weezing_218
+  - first:
+      213: 7203352355993879067
+    second: Weezing_219
+  - first:
+      213: -1796832630919391089
+    second: Weezing_220
+  - first:
+      213: 8971407732670721133
+    second: Weezing_221
+  - first:
+      213: -6662678209825885050
+    second: Weezing_222
+  - first:
+      213: 5696205141424715956
+    second: Weezing_223
+  - first:
+      213: -2538268656319751012
+    second: Weezing_224
+  - first:
+      213: 540369176312585489
+    second: Weezing_225
+  - first:
+      213: -3324474213212260492
+    second: Weezing_226
+  - first:
+      213: 8425019025643381413
+    second: Weezing_227
+  - first:
+      213: 7700689395439697559
+    second: Weezing_228
+  - first:
+      213: -2124524523760938886
+    second: Weezing_229
+  - first:
+      213: 6476294876921966120
+    second: Weezing_230
+  - first:
+      213: -4713012057658539615
+    second: Weezing_231
+  - first:
+      213: -3942163081752423390
+    second: Weezing_232
+  - first:
+      213: 8784237404933011444
+    second: Weezing_233
+  - first:
+      213: -4074531424478043146
+    second: Weezing_234
+  - first:
+      213: 8767171135291867501
+    second: Weezing_235
+  - first:
+      213: -3621761406111436989
+    second: Weezing_236
+  - first:
+      213: 5497488974008572735
+    second: Weezing_237
+  - first:
+      213: 7322314967558298305
+    second: Weezing_238
+  - first:
+      213: -7265492623236971604
+    second: Weezing_239
+  - first:
+      213: -2908393329208291381
+    second: Weezing_240
+  - first:
+      213: 6475091807853525659
+    second: Weezing_241
+  - first:
+      213: -1202403019982010559
+    second: Weezing_242
+  - first:
+      213: -97256960075127315
+    second: Weezing_243
+  - first:
+      213: -4886533971912562612
+    second: Weezing_244
+  - first:
+      213: -3928794130529915863
+    second: Weezing_245
+  - first:
+      213: -8444411194357418339
+    second: Weezing_246
+  - first:
+      213: 666366681380531980
+    second: Weezing_247
+  - first:
+      213: -8487451029763947807
+    second: Weezing_248
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weezing_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 659
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0702d3e92d9ea0800000000000000
+      internalID: -5864485081308525482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 659
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac44ad1a1ee6b880800000000000000
+      internalID: -8595421042856145745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 715
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1b072d0143ac40800000000000000
+      internalID: 5522329092831780541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 706
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c752323a8ba1fa0800000000000000
+      internalID: -5829143756868846489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 715
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a4811018c041480800000000000000
+      internalID: -8929498412960167381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 706
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b225bd839e4e70800000000000000
+      internalID: 9101374133800973665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 721
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67caefa7d45adfe70800000000000000
+      internalID: 9150651770081291382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 713
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2a7f40f521f620800000000000000
+      internalID: 2806065756884315299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 721
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad27aa13454c23d0800000000000000
+      internalID: -3230130678219199068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 713
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1637a124a68620800000000000000
+      internalID: 2776086684766707610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 700
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5926fac4f2cd11790800000000000000
+      internalID: -7561020203670216043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 659
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e510e5f9b3f100800000000000000
+      internalID: 140660479056274040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 700
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf2f1b1ce59fab0800000000000000
+      internalID: -4973840127446811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 659
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2781b70bba2d30c0800000000000000
+      internalID: -4594469062071711954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 707
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf1760a9dbed280800000000000000
+      internalID: -9016560934718407902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 661
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454b28ee45e29a210800000000000000
+      internalID: 1344656906060477524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 707
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba509ad61b1073d30800000000000000
+      internalID: 4410996221593322923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 661
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5615e5dc2cb5390800000000000000
+      internalID: -7828449339946998323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 662
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462aad14674b20c0800000000000000
+      internalID: -4599504099108837823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 662
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd2c08cc04e9500800000000000000
+      internalID: 404832263587684209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 664
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd79f77183757b40800000000000000
+      internalID: 5437379125020556732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_21
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 664
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a894b3316745db00800000000000000
+      internalID: 852666187261450407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 680
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dc54da002b769b0800000000000000
+      internalID: -5086901538114908879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 680
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270675779de84bc30800000000000000
+      internalID: 4374278202744856690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 681
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac86bb7e410f580800000000000000
+      internalID: -8795507086740370702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 680
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a5518c922129820800000000000000
+      internalID: 2923419078776674938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 681
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c11510908cecf60800000000000000
+      internalID: 8056596724414749722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 680
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dadcfc38afdfb10800000000000000
+      internalID: 2017043652165872981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 684
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3dd51601d1b630800000000000000
+      internalID: 3941160972992724184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 685
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74104d4f244367bf0800000000000000
+      internalID: -327016460757761721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 684
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dbaa7aa1f09c1b0800000000000000
+      internalID: -5635956851520914131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 685
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e616de83d9b9ab1b0800000000000000
+      internalID: -5640024483760873106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 661
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa1fcc3a42ff51d0800000000000000
+      internalID: -3359700396333393155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 661
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a985e56c7c9f6470800000000000000
+      internalID: 8390096688913942944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 659
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b5c905322b97f0800000000000000
+      internalID: -604852113758636923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 659
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8deb57f6d285ac50800000000000000
+      internalID: 6675885882431237515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_36
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 662
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7c0ca928574130800000000000000
+      internalID: 3550903767208328364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 662
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646924a342b104be0800000000000000
+      internalID: -1495165233876789690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 592
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb10c70327e4864e0800000000000000
+      internalID: -1988252983137402436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 592
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba1007e8a4f1270800000000000000
+      internalID: 8223373420226784015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 591
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4614c4c46fa33b040800000000000000
+      internalID: 4662134868775027044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 591
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecc5c7d291e36350800000000000000
+      internalID: 6008894348643912938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 589
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e39024fc528710800000000000000
+      internalID: 1694018613433066319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 589
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b5bab7367ddcb0800000000000000
+      internalID: -4837580442998295191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_44
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef30190f051b3120800000000000000
+      internalID: 2394530781198303200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_45
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 631
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40553799754bd280800000000000000
+      internalID: -9017537440349073334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_46
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 588
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4afaff3c2c6be70800000000000000
+      internalID: 9130699441604371654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_47
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 631
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4468dc7884f890800000000000000
+      internalID: -7425159815839331450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_48
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 586
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e269b2fc4468f0800000000000000
+      internalID: -548228649256295613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_49
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 586
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ebe134359539df0800000000000000
+      internalID: -174697746394071510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 513
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffebf35121286da30800000000000000
+      internalID: 4239719113393422079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 513
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6a3bda29311860800000000000000
+      internalID: 7498837710778036016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 569
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f427b2c9443a35640800000000000000
+      internalID: 5067573520795136591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 560
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c444a3765317910800000000000000
+      internalID: 1833305240791960661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_54
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 569
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236deee0518135ab0800000000000000
+      internalID: -5020642680864057806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 560
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325f618aa4f255590800000000000000
+      internalID: -7686185191343721181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_56
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5737815b0ce4b5b0800000000000000
+      internalID: -5353394523680065697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_57
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 567
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cbc9470959d6090800000000000000
+      internalID: -8039605312122209178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae5a80f735ba470800000000000000
+      internalID: 8406904934488206001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_59
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 567
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9377b72a61fa880800000000000000
+      internalID: -8597628276515063385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 554
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558d76c26e17a9f0800000000000000
+      internalID: -457363427569072812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_61
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 513
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305d4d8b52716f0800000000000000
+      internalID: -714060540139994162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 554
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f310df3a7a7f4050800000000000000
+      internalID: 5786978711669576693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 513
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f317e34f5d04830800000000000000
+      internalID: 4053474909629792041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 561
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1366b929a9bcfc810800000000000000
+      internalID: 1787871441834436145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_65
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 515
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36d01f5f6642ac0800000000000000
+      internalID: -3880863772389317696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_66
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 561
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec242f30c17e5a30800000000000000
+      internalID: 4205924172517616871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_67
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 515
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611e184cb44da5f0800000000000000
+      internalID: -743862787991793302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_68
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 516
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030d01c67b89b6af0800000000000000
+      internalID: -402059828160049104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_69
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 516
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494190a7f4afdd90800000000000000
+      internalID: -7070751506490635962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_70
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 518
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398b9c1fb7e754000800000000000000
+      internalID: 19560844195641491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_71
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 518
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab4b5c2949a5ee60800000000000000
+      internalID: 7990979245580700581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 534
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac883bbe2c1d230800000000000000
+      internalID: 3661922289614113334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_73
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 534
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2c78c2ee429e900800000000000000
+      internalID: 714142621282845439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_74
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 535
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3a83e70c75eba0800000000000000
+      internalID: -6060301350233032153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_75
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 534
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a709b26b022850800000000000000
+      internalID: 6350650943184806109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 535
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfdb5443b9da7d30800000000000000
+      internalID: 4430092547441549249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 534
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab188855b164121f0800000000000000
+      internalID: -1071498153124396614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_78
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 538
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3c81fe3aaf9e3c0800000000000000
+      internalID: -4329653984742030396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 539
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95fbd2101456fc0800000000000000
+      internalID: -3502321661892404827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_80
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 538
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6698ca2350fd0ff0800000000000000
+      internalID: -68134179349948818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_81
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 539
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9c67d571ab99d0800000000000000
+      internalID: -2766440018591571971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 515
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d083d6814aee6520800000000000000
+      internalID: 2697350793997287640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_83
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 515
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3321d117651718b70800000000000000
+      internalID: 8899518954739667507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 513
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1762bfc55b299e940800000000000000
+      internalID: 5325949341989021297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63624c558fd7609c0800000000000000
+      internalID: -3961340316681492938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_86
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 516
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ba6f19f211f030800000000000000
+      internalID: 3526620844391053091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 516
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd62bb1cd9c43c0800000000000000
+      internalID: -4373947682689458344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f32128128c17e100800000000000000
+      internalID: 137109658734240758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 446
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2748a6ec78c1b90800000000000000
+      internalID: -7269786377862745439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_90
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 445
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91014bf71fc69aee0800000000000000
+      internalID: -1249347637133176807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 445
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2592b63e7b23ba0800000000000000
+      internalID: -6110619557005012226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_92
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 443
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec6f187469ebd70800000000000000
+      internalID: 9060844734183296579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_93
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 443
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8be564a300f38500800000000000000
+      internalID: 397425090572446606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_94
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 442
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c335be70ced300800000000000000
+      internalID: 278871877382029483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_95
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 485
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf0e4c8eb3238260800000000000000
+      internalID: 7098556738970718145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_96
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 442
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a786e92b266d8d0800000000000000
+      internalID: -2821959597199689095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_97
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 485
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7df6f37f81a9cdb0800000000000000
+      internalID: -4771104692724368006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_98
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 440
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41429c16ba3908e40800000000000000
+      internalID: 5656683496266605588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_99
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 440
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918871e5fdbe21b70800000000000000
+      internalID: 8868409960834762777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 367
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5ce73e88947fb0800000000000000
+      internalID: -4650924778575864590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 367
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747d3d3879e304270800000000000000
+      internalID: 8232648939305948999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 423
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffffb1f528d51e20800000000000000
+      internalID: 3320797957736890357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 414
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8b724b55ed8a320800000000000000
+      internalID: 2569548047090956526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_104
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 423
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebafccb4310147060800000000000000
+      internalID: 6950197800001665726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_105
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 414
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5da97a18087fb30800000000000000
+      internalID: 4321063661836359101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_106
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 429
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa297e0e22772f20800000000000000
+      internalID: 3397809986011212535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_107
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 421
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa0558956b855d50800000000000000
+      internalID: 6725434887011371763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_108
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 429
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8462b630476f8650800000000000000
+      internalID: 6237317534424654988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_109
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 421
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707529e5a36ab21a0800000000000000
+      internalID: -6833185239979632889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_110
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 408
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e03bbef8fb8d08a0800000000000000
+      internalID: -6337255199098588955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 367
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9236864dddf258440800000000000000
+      internalID: 4937405196279505705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_112
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 408
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36675d2eeb337bb00800000000000000
+      internalID: 844200350097700451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_113
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 367
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f9eae763a356f0800000000000000
+      internalID: -697033850594134802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_114
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 415
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495eda0a9ae8ad10800000000000000
+      internalID: 2137215970515507535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_115
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 369
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3962671b1551038d0800000000000000
+      internalID: -2868769522021161325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 415
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bc383782cfbef60800000000000000
+      internalID: 8064816808403913625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_117
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 369
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72314b71f9ce2a0800000000000000
+      internalID: -6706810820907292765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_118
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 370
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e0139c914ce76d0800000000000000
+      internalID: -2990737487498768816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_119
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 370
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5fef2575b218210800000000000000
+      internalID: 1333394618732967372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_120
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307b9bf345655a60800000000000000
+      internalID: 7662141683699249206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_121
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 372
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f4cbc5926c7edb0800000000000000
+      internalID: -4762620199969206370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_122
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 388
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d38b3ba288a490800000000000000
+      internalID: -7734788688059312918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_123
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 388
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f9fa8fd826b58f0800000000000000
+      internalID: -550738167520583880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_124
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 389
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da612f5701ef6ed60800000000000000
+      internalID: 7919296341429327533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_125
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 388
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febfa202f33cc5dc0800000000000000
+      internalID: -3648826922186900497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_126
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 389
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e6838e0907c4d0800000000000000
+      internalID: -3114510659362561444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_127
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 388
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dd7adf1dd7bdf0800000000000000
+      internalID: -164419732496328277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_128
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 392
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda36c45f71c8ac90800000000000000
+      internalID: -7158258855078118690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 393
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529556a87ee0f3410800000000000000
+      internalID: 1458901191913462053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_130
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 392
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde61306e5325d30800000000000000
+      internalID: 4418653446414462429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_131
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 393
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cca0c7971c01070800000000000000
+      internalID: 8075166859391585390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_132
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 369
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902062f1b49e1c6c0800000000000000
+      internalID: -4124759274840260087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_133
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 369
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0129b181229df10800000000000000
+      internalID: 2294902972059095268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_134
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 367
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a64f1843b7dc9d0800000000000000
+      internalID: -2752408331804710249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 367
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0a713607c71b6c0800000000000000
+      internalID: -4129382561181359908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 370
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c80ad38bddd47b0800000000000000
+      internalID: -5238287008184365922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_137
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 370
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aee443f7ca45660800000000000000
+      internalID: 7373708152250755666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_138
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 300
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a414f180ee2a2d00800000000000000
+      internalID: 948622213302719651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_139
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 300
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e25593f98c9820800000000000000
+      internalID: 2926365537159276814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_140
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 299
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b4bde4029821de0800000000000000
+      internalID: -1363876965284885681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_141
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 299
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dba7895c672ef90800000000000000
+      internalID: -6925842685903585928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_142
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 297
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e391311fb576330800000000000000
+      internalID: 3704030309501189743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_143
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 297
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdddae90cc7d5460800000000000000
+      internalID: 7232073743364644337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_144
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 296
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f6fb8f9626244a0800000000000000
+      internalID: -6610613095742083232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_145
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8482746c3d70b0800000000000000
+      internalID: -5729356748829717922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_146
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 296
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c57cde0d029ab1a0800000000000000
+      internalID: -6792956503153412667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_147
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8d433a26dce8350800000000000000
+      internalID: 6020975575369570556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_148
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 294
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b752dba2ef81096e0800000000000000
+      internalID: -1832937568421993093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_149
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 294
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d8478b17792dc0800000000000000
+      internalID: -3663265861771668733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 221
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c23306f82060ea00800000000000000
+      internalID: 783732064204829381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_151
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 221
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34689f3dcc66aaad0800000000000000
+      internalID: -2690224797484743101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_152
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 277
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0148020020ce449c0800000000000000
+      internalID: -3943767880333491184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_153
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 268
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d90910b1a14a900800000000000000
+      internalID: 694708945814592838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_154
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 277
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a686771ee71769630800000000000000
+      internalID: 3933456114317224042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_155
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 268
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b454e9475beeaf50800000000000000
+      internalID: 6894706839685190841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_156
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 283
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de385b4885d46ea0800000000000000
+      internalID: -5880340432082682151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_157
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 275
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa3fa111ed4fb40800000000000000
+      internalID: 5473243612209983448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_158
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 283
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517208228ab91290800000000000000
+      internalID: -7919093401574543019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_159
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 275
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc6fe81020e778e0800000000000000
+      internalID: -1695640306219782947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_160
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 262
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17c2eaa94f6bf20800000000000000
+      internalID: 3438204310728241610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_161
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 221
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd83ef7b71a837b90800000000000000
+      internalID: -7245295541033223971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_162
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 262
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1de8f81594b7f0800000000000000
+      internalID: -597688916045390202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_163
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 221
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa9d34c259d8cf0800000000000000
+      internalID: -248378387086071242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_164
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a1cad5321a7610800000000000000
+      internalID: 1619627038505805342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_165
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 223
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2127977ff05c756e0800000000000000
+      internalID: -1848792449645186542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402914c8f6fe56d70800000000000000
+      internalID: 9035891489762284036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_167
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 223
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a527b47cacc4d0800000000000000
+      internalID: -3112923625130974790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_168
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 224
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd21e81227ae350800000000000000
+      internalID: 6046770938141399967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_169
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 224
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d31d3d220777110800000000000000
+      internalID: 1258597915758247181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_170
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 226
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40131e2381b46b910800000000000000
+      internalID: 1852750864014455044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_171
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 226
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438c9659539a33660800000000000000
+      internalID: 7364415863285991476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_172
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 242
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8a860f6a8d26b90800000000000000
+      internalID: -7249994238603515729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_173
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 242
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2137e9f4633610800000000000000
+      internalID: 1599733317135051345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_174
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 243
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949418d10dc4d8870800000000000000
+      internalID: 8686683712999475529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_175
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 242
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581a68757b7ce7d0800000000000000
+      internalID: -2887797516589721513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_176
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 243
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d258752a94e107a0800000000000000
+      internalID: -6412593043694136622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_177
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 242
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24b2fa7d2ddf340800000000000000
+      internalID: 4899303793447617233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_178
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 246
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5adc3c4f4685d5e0800000000000000
+      internalID: -1885453193845089701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6951fd1c76c50e2e0800000000000000
+      internalID: -2098575825650641514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_180
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 246
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3506c1713c998aa40800000000000000
+      internalID: 5379718818079465555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_181
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0735dbd4fbc340e70800000000000000
+      internalID: 9080449541026435952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_182
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 223
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9567d757fee1aac00800000000000000
+      internalID: 912575888313120345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_183
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 223
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b606dcac3fce1a0800000000000000
+      internalID: -6778775286744847566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_184
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 221
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08635f523dc98c1f0800000000000000
+      internalID: -1024396484537928064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_185
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 221
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81223f6b52e9b98e0800000000000000
+      internalID: -1685579750699752936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_186
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 224
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411616d0e68f2a00800000000000000
+      internalID: 733953564507246926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9888d8a11851a70800000000000000
+      internalID: 8797079398181800373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_188
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0f9429f2f6d070800000000000000
+      internalID: 8130953329139191438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_189
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 154
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab944caea77b20290800000000000000
+      internalID: -7925570655666026054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_190
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 153
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13a7357edfcbdd0800000000000000
+      internalID: -2468819325726084664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_191
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 153
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bee3a0eece1f0a0800000000000000
+      internalID: -6849433051135546582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_192
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 151
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489ea761d4bd9ad0800000000000000
+      internalID: -2693798190617028534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_193
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 151
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68b1db1dcd207d30800000000000000
+      internalID: 4427088792663472239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_194
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 150
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ebb497642e195a0800000000000000
+      internalID: -6516178393517801913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_195
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 193
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b706bf7a5f1e0f70800000000000000
+      internalID: 9155289566040950707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_196
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 150
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7053f0542e0faa2d0800000000000000
+      internalID: -3266533725091973881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_197
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 193
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a054a43e24fc440800000000000000
+      internalID: 4958255258729253504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_198
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 148
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a21e67a141ae800800000000000000
+      internalID: 642348000749890064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_199
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 148
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1216976840d5d30800000000000000
+      internalID: 4421695384756232680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_200
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f20075137c7b6a0800000000000000
+      internalID: -6433454527948509286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_201
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 75
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b604c9df9d8eeb0800000000000000
+      internalID: -4690259328634950791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_202
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361cf564851fa840800000000000000
+      internalID: 5237428550046062132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_203
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 122
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2422ec49920e9280800000000000000
+      internalID: -9034780945015495636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_204
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e6189b5125f560800000000000000
+      internalID: 7346815044402208979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_205
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 122
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf26dc98afa4d390800000000000000
+      internalID: -7794411916350836772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_206
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 137
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d54595733234380800000000000000
+      internalID: -8988301710672503517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_207
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 129
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da963aca7feebce70800000000000000
+      internalID: 9136659016571906477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_208
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 137
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeb9be138d8fd3b0800000000000000
+      internalID: -5485510226818253091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_209
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 129
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175712a5e42041420800000000000000
+      internalID: 2599705420442465649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_210
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 116
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ac8ee3ae23fcf00800000000000000
+      internalID: 1139185212407204388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_211
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a141d038f1139b00800000000000000
+      internalID: 834030113662255522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_212
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 116
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2186b2f452a7680800000000000000
+      internalID: -8756645503507623196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_213
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 75
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95718e887f413b480800000000000000
+      internalID: -8884734586485467303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_214
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 123
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd2e09e1cbe3480800000000000000
+      internalID: -8917483372681175896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_215
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 77
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b8ba3c14328c4a0800000000000000
+      internalID: -6572964890784593120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_216
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 123
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4433542ab263ddb60800000000000000
+      internalID: 7772428092945281860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_217
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 77
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849c54655711d5b20800000000000000
+      internalID: 3124672912121252168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_218
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 78
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb6b323c9992eb0800000000000000
+      internalID: -4744091669061255360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_219
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 78
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b120df28dc277f360800000000000000
+      internalID: 7203352355993879067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_220
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 80
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8818310e3e5017e0800000000000000
+      internalID: -1796832630919391089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_221
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 80
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ce701ecc7d08c70800000000000000
+      internalID: 8971407732670721133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_222
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b792f7796983a0800000000000000
+      internalID: -6662678209825885050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_223
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8bf56756cfc0f40800000000000000
+      internalID: 5696205141424715956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_224
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9d8bfa1246ccd0800000000000000
+      internalID: -2538268656319751012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_225
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9ea127e6cf7700800000000000000
+      internalID: 540369176312585489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_226
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477798021581dd1d0800000000000000
+      internalID: -3324474213212260492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_227
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a1698a2eabe470800000000000000
+      internalID: 8425019025643381413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_228
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79efcc484385eda60800000000000000
+      internalID: 7700689395439697559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_229
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 101
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709f9ca33c2482e0800000000000000
+      internalID: -2124524523760938886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_230
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ead9fa0eb60e950800000000000000
+      internalID: 6476294876921966120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_231
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 101
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a141211184089eb0800000000000000
+      internalID: -4713012057658539615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_232
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 77
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224dc79409f9a49c0800000000000000
+      internalID: -3942163081752423390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_233
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 77
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73bbff061e7e970800000000000000
+      internalID: 8784237404933011444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_234
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 75
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e1d9d14b5477c0800000000000000
+      internalID: -4074531424478043146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_235
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 75
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61412472bf3ba970800000000000000
+      internalID: 8767171135291867501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_236
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 78
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2287a03becbdc0800000000000000
+      internalID: -3621761406111436989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_237
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 78
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b586c48110b4c40800000000000000
+      internalID: 5497488974008572735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_238
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca96deeaa61e9560800000000000000
+      internalID: 7322314967558298305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_239
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca34db114f8cb2b90800000000000000
+      internalID: -7265492623236971604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_240
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8c692daf43a7d0800000000000000
+      internalID: -2908393329208291381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_241
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab62751b52cd950800000000000000
+      internalID: 6475091807853525659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_242
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1478d1de2d4305fe0800000000000000
+      internalID: -1202403019982010559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_243
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 5
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a9c26f4976aef0800000000000000
+      internalID: -97256960075127315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_244
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 4
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48e5451e3b8f2cb0800000000000000
+      internalID: -4886533971912562612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_245
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 47
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cef1ecd8e1a79c0800000000000000
+      internalID: -3928794130529915863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_246
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 4
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d967ef652cc6fca80800000000000000
+      internalID: -8444411194357418339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_247
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 47
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fa7d557f86f3900800000000000000
+      internalID: 666366681380531980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weezing_248
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28562c144863a80800000000000000
+      internalID: -8487451029763947807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1942 @@
+fileFormatVersion: 2
+guid: b7f47382d863d844c93d98a9ec3bd265
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5782015157081633579
+    second: Ampharos_0
+  - first:
+      213: 3853493478881268263
+    second: Ampharos_1
+  - first:
+      213: 5795615708526699495
+    second: Ampharos_2
+  - first:
+      213: 7448300738955245107
+    second: Ampharos_3
+  - first:
+      213: -2708792349766208734
+    second: Ampharos_4
+  - first:
+      213: -303709461812290524
+    second: Ampharos_5
+  - first:
+      213: -5085303069380222882
+    second: Ampharos_6
+  - first:
+      213: 6049167962195240304
+    second: Ampharos_7
+  - first:
+      213: -5738959986885799102
+    second: Ampharos_8
+  - first:
+      213: -8892830341819499222
+    second: Ampharos_9
+  - first:
+      213: -1284582177024168431
+    second: Ampharos_10
+  - first:
+      213: -5522842219276530126
+    second: Ampharos_11
+  - first:
+      213: -4304498607931054067
+    second: Ampharos_12
+  - first:
+      213: -9097756794412317394
+    second: Ampharos_13
+  - first:
+      213: 6125457572021042545
+    second: Ampharos_14
+  - first:
+      213: 726018755726922939
+    second: Ampharos_15
+  - first:
+      213: -1887176998602475524
+    second: Ampharos_16
+  - first:
+      213: -9079677204520627381
+    second: Ampharos_17
+  - first:
+      213: -5711619786810931499
+    second: Ampharos_18
+  - first:
+      213: -7155811971953081846
+    second: Ampharos_19
+  - first:
+      213: -6323226993203851168
+    second: Ampharos_20
+  - first:
+      213: 845303429822588026
+    second: Ampharos_21
+  - first:
+      213: -1265901210762554059
+    second: Ampharos_22
+  - first:
+      213: -225904847239471780
+    second: Ampharos_23
+  - first:
+      213: 1289516306586482999
+    second: Ampharos_24
+  - first:
+      213: -1018020176704629772
+    second: Ampharos_25
+  - first:
+      213: -3815785385917937885
+    second: Ampharos_26
+  - first:
+      213: -9519808574974485
+    second: Ampharos_27
+  - first:
+      213: 3910729795947655513
+    second: Ampharos_28
+  - first:
+      213: 6232493632584116097
+    second: Ampharos_29
+  - first:
+      213: 5048115461639999884
+    second: Ampharos_30
+  - first:
+      213: -7239109162532060755
+    second: Ampharos_31
+  - first:
+      213: 7008513628896486392
+    second: Ampharos_32
+  - first:
+      213: 1561235174090740332
+    second: Ampharos_33
+  - first:
+      213: -4712950853531958079
+    second: Ampharos_34
+  - first:
+      213: -258934625705295577
+    second: Ampharos_35
+  - first:
+      213: -8372188852556274819
+    second: Ampharos_36
+  - first:
+      213: 3017541665907409155
+    second: Ampharos_37
+  - first:
+      213: -541213883657945778
+    second: Ampharos_38
+  - first:
+      213: 3238943453503587649
+    second: Ampharos_39
+  - first:
+      213: -8211157178679282797
+    second: Ampharos_40
+  - first:
+      213: 1977883065913633985
+    second: Ampharos_41
+  - first:
+      213: 3762353194450233359
+    second: Ampharos_42
+  - first:
+      213: -3659121948573619499
+    second: Ampharos_43
+  - first:
+      213: -507418518642619139
+    second: Ampharos_44
+  - first:
+      213: 5493716753967550159
+    second: Ampharos_45
+  - first:
+      213: 8256839486532350989
+    second: Ampharos_46
+  - first:
+      213: 3882340676786827834
+    second: Ampharos_47
+  - first:
+      213: -7181919705394596116
+    second: Ampharos_48
+  - first:
+      213: -2766153776571393938
+    second: Ampharos_49
+  - first:
+      213: -6603574065144126810
+    second: Ampharos_50
+  - first:
+      213: -3656211032191206330
+    second: Ampharos_51
+  - first:
+      213: -588525116545202211
+    second: Ampharos_52
+  - first:
+      213: -1899523015442593710
+    second: Ampharos_53
+  - first:
+      213: 4064080789156291614
+    second: Ampharos_54
+  - first:
+      213: -8360580556185000032
+    second: Ampharos_55
+  - first:
+      213: 7863975752764792203
+    second: Ampharos_56
+  - first:
+      213: -6907355867559561032
+    second: Ampharos_57
+  - first:
+      213: -3067479382799220303
+    second: Ampharos_58
+  - first:
+      213: 5781244014823591821
+    second: Ampharos_59
+  - first:
+      213: 7454690547491773065
+    second: Ampharos_60
+  - first:
+      213: -5841162304342123109
+    second: Ampharos_61
+  - first:
+      213: 8977314130518989011
+    second: Ampharos_62
+  - first:
+      213: 749671572841988882
+    second: Ampharos_63
+  - first:
+      213: -5758398889895271142
+    second: Ampharos_64
+  - first:
+      213: -2323957377663833379
+    second: Ampharos_65
+  - first:
+      213: -4326219952914377305
+    second: Ampharos_66
+  - first:
+      213: -6359495760085518313
+    second: Ampharos_67
+  - first:
+      213: -1939011473625928695
+    second: Ampharos_68
+  - first:
+      213: -4531953075159824705
+    second: Ampharos_69
+  - first:
+      213: -5307073090532513489
+    second: Ampharos_70
+  - first:
+      213: 261931277496109915
+    second: Ampharos_71
+  - first:
+      213: -6239515097993217973
+    second: Ampharos_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ampharos_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 544
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2376c3a628dd3050800000000000000
+      internalID: 5782015157081633579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 544
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722900107eb5a7530800000000000000
+      internalID: 3853493478881268263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 543
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36869c7c92e6050800000000000000
+      internalID: 5795615708526699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 543
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336f4bd2f0ead5760800000000000000
+      internalID: 7448300738955245107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 544
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b3eda5bf686ad0800000000000000
+      internalID: -2708792349766208734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 544
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd0c58ad109cbf0800000000000000
+      internalID: -303709461812290524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 543
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50636e2dcf5d69b0800000000000000
+      internalID: -5085303069380222882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 543
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07522553636f2f350800000000000000
+      internalID: 6049167962195240304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 544
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243dd795c4e1b50b0800000000000000
+      internalID: -5738959986885799102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 544
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d780c9be1569480800000000000000
+      internalID: -8892830341819499222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e2da5e05f3c2ee0800000000000000
+      internalID: -1284582177024168431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 466
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e0e79434cea53b0800000000000000
+      internalID: -5522842219276530126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 467
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d082b1282595344c0800000000000000
+      internalID: -4304498607931054067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 467
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e254820c5664eb180800000000000000
+      internalID: -9097756794412317394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 466
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d7a0b253ff10550800000000000000
+      internalID: 6125457572021042545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 466
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4df533636531a00800000000000000
+      internalID: 726018755726922939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 466
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f20ab4866fc5e0800000000000000
+      internalID: -1887176998602475524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 466
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43165d40b18ef180800000000000000
+      internalID: -9079677204520627381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 466
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ca0bb0104cb0b0800000000000000
+      internalID: -5711619786810931499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 466
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02cf34bce271bc90800000000000000
+      internalID: -7155811971953081846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 390
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605ce33d826f38a0800000000000000
+      internalID: -6323226993203851168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 390
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74aef5adfe1bbb00800000000000000
+      internalID: 845303429822588026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535d2cb4e8d9e6ee0800000000000000
+      internalID: -1265901210762554059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 389
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d90430dbc6ddcf0800000000000000
+      internalID: -225904847239471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 390
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739392aaf3845e110800000000000000
+      internalID: 1289516306586482999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 390
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f317510b044fd1f0800000000000000
+      internalID: -1018020176704629772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 389
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3270c3d886b9b0bc0800000000000000
+      internalID: -3815785385917937885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 389
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51f87d8cd2edff0800000000000000
+      internalID: -9519808574974485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 390
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951fefb8704b54630800000000000000
+      internalID: 3910729795947655513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_29
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 390
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1876f0b00f34e7650800000000000000
+      internalID: 6232493632584116097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 312
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81953c24428e0640800000000000000
+      internalID: 5048115461639999884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 312
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da140053294898b90800000000000000
+      internalID: -7239109162532060755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 313
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ebd5430e334160800000000000000
+      internalID: 7008513628896486392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 313
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62168a7e1f9aa510800000000000000
+      internalID: 1561235174090740332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 312
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c48a534b2c389eb0800000000000000
+      internalID: -4712950853531958079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 312
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72189ce6454186cf0800000000000000
+      internalID: -258934625705295577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 312
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73e5eaa89200db80800000000000000
+      internalID: -8372188852556274819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 312
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010a53582670e920800000000000000
+      internalID: 3017541665907409155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dfe0d17d83d78f0800000000000000
+      internalID: -541213883657945778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_39
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 312
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14588a909e903fc20800000000000000
+      internalID: 3238943453503587649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 236
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933ce1fc0c1c0e80800000000000000
+      internalID: -8211157178679282797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 236
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccea0f4b2ad27b10800000000000000
+      internalID: 1977883065913633985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 236
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0823caeb40963430800000000000000
+      internalID: 3762353194450233359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 236
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da2f6189ff283dc0800000000000000
+      internalID: -3659121948573619499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 236
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc0ad3bb8945f8f0800000000000000
+      internalID: -507418518642619139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 236
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce09d0e74a9d3c40800000000000000
+      internalID: 5493716753967550159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 236
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04fd2234cf269270800000000000000
+      internalID: 8256839486532350989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_47
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 236
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32bde8a648d0e530800000000000000
+      internalID: 3882340676786827834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_48
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 236
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b3925412b45c90800000000000000
+      internalID: -7181919705394596116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_49
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 236
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e685b51cbc5ac99d0800000000000000
+      internalID: -2766153776571393938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22a1fff546b54a0800000000000000
+      internalID: -6603574065144126810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cf06a0077824dc0800000000000000
+      internalID: -3656211032191206330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78dee468325d7f0800000000000000
+      internalID: -588525116545202211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2588ddda1e983a5e0800000000000000
+      internalID: -1899523015442593710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14662002f3866830800000000000000
+      internalID: 4064080789156291614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a72e88c74049fb80800000000000000
+      internalID: -8360580556185000032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d94d13844722d60800000000000000
+      internalID: 7863975752764792203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_57
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f6e86f642420a0800000000000000
+      internalID: -6907355867559561032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_58
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b10b68e0cf1e65d0800000000000000
+      internalID: -3067479382799220303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_59
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 159
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fc9671dca1b3050800000000000000
+      internalID: 5781244014823591821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a95b96e81647760800000000000000
+      internalID: 7454690547491773065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_61
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d194ef4d500fea0800000000000000
+      internalID: -5841162304342123109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8ddaa43a3d59c70800000000000000
+      internalID: 8977314130518989011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2138475d25e576a00800000000000000
+      internalID: 749671572841988882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15e9cc08be0610b0800000000000000
+      internalID: -5758398889895271142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_65
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae23fe315afbfd0800000000000000
+      internalID: -2323957377663833379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_66
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5d456cfdd26f3c0800000000000000
+      internalID: -4326219952914377305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ff7ddc488eb7a0800000000000000
+      internalID: -6359495760085518313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cae1b865f3715e0800000000000000
+      internalID: -1939011473625928695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_69
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 82
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb60c5080b44b11c0800000000000000
+      internalID: -4531953075159824705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2966c9642d7956b0800000000000000
+      internalID: -5307073090532513489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b48beeb1192a300800000000000000
+      internalID: 261931277496109915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ampharos_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487d65a31ac869a0800000000000000
+      internalID: -6239515097993217973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

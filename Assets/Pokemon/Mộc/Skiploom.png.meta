@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: ae74b08dfc0180646a0aa5683ce6f297
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5992693977759720145
+    second: Skiploom_0
+  - first:
+      213: 7344289581097268577
+    second: Skiploom_1
+  - first:
+      213: 7841500593652419086
+    second: Skiploom_2
+  - first:
+      213: -3019416233094703601
+    second: Skiploom_3
+  - first:
+      213: 6052240698706646996
+    second: Skiploom_4
+  - first:
+      213: -6852385539377591937
+    second: Skiploom_5
+  - first:
+      213: -2374774321242235821
+    second: Skiploom_6
+  - first:
+      213: -1795327394013113305
+    second: Skiploom_7
+  - first:
+      213: 8262148426111469751
+    second: Skiploom_8
+  - first:
+      213: 4940492862527307647
+    second: Skiploom_9
+  - first:
+      213: 4811143464167840224
+    second: Skiploom_10
+  - first:
+      213: 4522429220712033900
+    second: Skiploom_11
+  - first:
+      213: -7060203924884597108
+    second: Skiploom_12
+  - first:
+      213: 4586775743129711408
+    second: Skiploom_13
+  - first:
+      213: 1586965580791726388
+    second: Skiploom_14
+  - first:
+      213: 714230887383847685
+    second: Skiploom_15
+  - first:
+      213: -8449766068277752707
+    second: Skiploom_16
+  - first:
+      213: -143017989411821533
+    second: Skiploom_17
+  - first:
+      213: -1286900552665750708
+    second: Skiploom_18
+  - first:
+      213: -5836851732830901846
+    second: Skiploom_19
+  - first:
+      213: -33428290806340817
+    second: Skiploom_20
+  - first:
+      213: -7562028543467689419
+    second: Skiploom_21
+  - first:
+      213: 124929181327794937
+    second: Skiploom_22
+  - first:
+      213: 6324876018156760010
+    second: Skiploom_23
+  - first:
+      213: 2941940045045659960
+    second: Skiploom_24
+  - first:
+      213: 3456021864156382762
+    second: Skiploom_25
+  - first:
+      213: -4204163011092343160
+    second: Skiploom_26
+  - first:
+      213: 8865312657438100866
+    second: Skiploom_27
+  - first:
+      213: -3343464988469152273
+    second: Skiploom_28
+  - first:
+      213: 4178570248768017114
+    second: Skiploom_29
+  - first:
+      213: -7657525503688832553
+    second: Skiploom_30
+  - first:
+      213: 6235397474521795735
+    second: Skiploom_31
+  - first:
+      213: -4931700225220418065
+    second: Skiploom_32
+  - first:
+      213: 5595830748410601825
+    second: Skiploom_33
+  - first:
+      213: 1152086789524905664
+    second: Skiploom_34
+  - first:
+      213: 8035188255069811703
+    second: Skiploom_35
+  - first:
+      213: 2022047275585167167
+    second: Skiploom_36
+  - first:
+      213: -1936432702485646863
+    second: Skiploom_37
+  - first:
+      213: 6202643046933507280
+    second: Skiploom_38
+  - first:
+      213: 5086221364693946066
+    second: Skiploom_39
+  - first:
+      213: -2649096181039092126
+    second: Skiploom_40
+  - first:
+      213: 7608043934471676114
+    second: Skiploom_41
+  - first:
+      213: -2188869649240929969
+    second: Skiploom_42
+  - first:
+      213: -7904855719641095290
+    second: Skiploom_43
+  - first:
+      213: 2097255141905845753
+    second: Skiploom_44
+  - first:
+      213: 5993405789694640566
+    second: Skiploom_45
+  - first:
+      213: 214001412199060209
+    second: Skiploom_46
+  - first:
+      213: 16200388918462987
+    second: Skiploom_47
+  - first:
+      213: 2310326649031400984
+    second: Skiploom_48
+  - first:
+      213: 8988840399447330562
+    second: Skiploom_49
+  - first:
+      213: -7297636257543269288
+    second: Skiploom_50
+  - first:
+      213: -5202461185815993803
+    second: Skiploom_51
+  - first:
+      213: -1492648390218143313
+    second: Skiploom_52
+  - first:
+      213: -7514088046135172173
+    second: Skiploom_53
+  - first:
+      213: 3224012041058193136
+    second: Skiploom_54
+  - first:
+      213: -9011096376850883707
+    second: Skiploom_55
+  - first:
+      213: 2561818134030945034
+    second: Skiploom_56
+  - first:
+      213: 674593502457657870
+    second: Skiploom_57
+  - first:
+      213: 3089446392392813172
+    second: Skiploom_58
+  - first:
+      213: -2770729130192839260
+    second: Skiploom_59
+  - first:
+      213: 2523782477248840549
+    second: Skiploom_60
+  - first:
+      213: 3156537549897769582
+    second: Skiploom_61
+  - first:
+      213: -6574712654327221011
+    second: Skiploom_62
+  - first:
+      213: 7840092405654329167
+    second: Skiploom_63
+  - first:
+      213: 1976641059146309173
+    second: Skiploom_64
+  - first:
+      213: -2968467720776163133
+    second: Skiploom_65
+  - first:
+      213: 2236056353002338640
+    second: Skiploom_66
+  - first:
+      213: 2730279330725776778
+    second: Skiploom_67
+  - first:
+      213: -7920192758374144769
+    second: Skiploom_68
+  - first:
+      213: -1709158349792898758
+    second: Skiploom_69
+  - first:
+      213: -691469293803377753
+    second: Skiploom_70
+  - first:
+      213: 7482844265551202211
+    second: Skiploom_71
+  - first:
+      213: 2558598036451722640
+    second: Skiploom_72
+  - first:
+      213: -8034842185862189785
+    second: Skiploom_73
+  - first:
+      213: -338872717110328442
+    second: Skiploom_74
+  - first:
+      213: -3350618677607882737
+    second: Skiploom_75
+  - first:
+      213: 208588343433868700
+    second: Skiploom_76
+  - first:
+      213: 8433317407941465861
+    second: Skiploom_77
+  - first:
+      213: 7002248364972202523
+    second: Skiploom_78
+  - first:
+      213: 6600719162753927327
+    second: Skiploom_79
+  - first:
+      213: -5731685109591130701
+    second: Skiploom_80
+  - first:
+      213: 2890993779306807913
+    second: Skiploom_81
+  - first:
+      213: -7528380797189120216
+    second: Skiploom_82
+  - first:
+      213: -9022043977379750195
+    second: Skiploom_83
+  - first:
+      213: -7980662693355436005
+    second: Skiploom_84
+  - first:
+      213: 6932806711027630837
+    second: Skiploom_85
+  - first:
+      213: 998198771851559632
+    second: Skiploom_86
+  - first:
+      213: -8367299859352786056
+    second: Skiploom_87
+  - first:
+      213: 8954564974548376096
+    second: Skiploom_88
+  - first:
+      213: 4036787101831122510
+    second: Skiploom_89
+  - first:
+      213: 5376116136838828711
+    second: Skiploom_90
+  - first:
+      213: 1139100050245174098
+    second: Skiploom_91
+  - first:
+      213: -4239712425692050825
+    second: Skiploom_92
+  - first:
+      213: -8703711336165971915
+    second: Skiploom_93
+  - first:
+      213: 1416913705624070329
+    second: Skiploom_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skiploom_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 426
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2adff0c635a2350800000000000000
+      internalID: 5992693977759720145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b7e856782ce560800000000000000
+      internalID: 7344289581097268577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 424
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0acaae6e3b92dc60800000000000000
+      internalID: 7841500593652419086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 424
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06975dfee0e816d0800000000000000
+      internalID: -3019416233094703601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 422
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7529d69d0edf350800000000000000
+      internalID: 6052240698706646996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 422
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79006d48af67e0a0800000000000000
+      internalID: -6852385539377591937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 420
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c13a0465b1b0fd0800000000000000
+      internalID: -2374774321242235821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 420
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72412584f37b517e0800000000000000
+      internalID: -1795327394013113305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 419
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84de3083c09a270800000000000000
+      internalID: 8262148426111469751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 419
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ffa462518209440800000000000000
+      internalID: 4940492862527307647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 374
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e99a297d7d94c240800000000000000
+      internalID: 4811143464167840224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 374
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e23665a65e2ce30800000000000000
+      internalID: 4522429220712033900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 374
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c865f67dfed150e90800000000000000
+      internalID: -7060203924884597108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 374
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033ff919c3087af30800000000000000
+      internalID: 4586775743129711408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 375
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431ccd1a9c8060610800000000000000
+      internalID: 1586965580791726388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 375
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503502a353579e900800000000000000
+      internalID: 714230887383847685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 377
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc72997866cba80800000000000000
+      internalID: -8449766068277752707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 377
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3282e9875e5e30ef0800000000000000
+      internalID: -143017989411821533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 377
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43aa1104c2042ee0800000000000000
+      internalID: -1286900552665750708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 377
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9adf126465ffea0800000000000000
+      internalID: -5836851732830901846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 333
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f232a09852d398ff0800000000000000
+      internalID: -33428290806340817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 333
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a6e35ea174e0790800000000000000
+      internalID: -7562028543467689419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 333
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2af13bd66dbb100800000000000000
+      internalID: 124929181327794937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 333
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbee965a3976c750800000000000000
+      internalID: 6324876018156760010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 334
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839717742eed3d820800000000000000
+      internalID: 2941940045045659960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 334
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26460d139146ff20800000000000000
+      internalID: 3456021864156382762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 332
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886110a1400d7a5c0800000000000000
+      internalID: -4204163011092343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 332
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d4f5934eae70b70800000000000000
+      internalID: 8865312657438100866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 330
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe53753be40a991d0800000000000000
+      internalID: -3343464988469152273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 330
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad255d290834df930800000000000000
+      internalID: 4178570248768017114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 282
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9022e20210bb590800000000000000
+      internalID: -7657525503688832553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4d3e67f4988650800000000000000
+      internalID: 6235397474521795735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 281
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e50146c41f8bb0800000000000000
+      internalID: -4931700225220418065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 281
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161e83eea6268ad40800000000000000
+      internalID: 5595830748410601825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce5d00c4d80dff00800000000000000
+      internalID: 1152086789524905664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 282
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b3de4529b28f60800000000000000
+      internalID: 8035188255069811703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 282
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdc4ca841cf0c10800000000000000
+      internalID: 2022047275585167167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_37
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 282
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b4ec77b86025e0800000000000000
+      internalID: -1936432702485646863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 283
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dca409fcf6341650800000000000000
+      internalID: 6202643046933507280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_39
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 283
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec59b1263e59640800000000000000
+      internalID: 5086221364693946066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e22511f058c3bd0800000000000000
+      internalID: -2649096181039092126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0efb536a3359960800000000000000
+      internalID: 7608043934471676114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 239
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f494c51b6a29f91e0800000000000000
+      internalID: -2188869649240929969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 239
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e31eca9f4c4290800000000000000
+      internalID: -7904855719641095290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 241
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdc8a89072fa1d10800000000000000
+      internalID: 2097255141905845753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 241
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1c481bfcadc2350800000000000000
+      internalID: 5993405789694640566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 241
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29e8b862948f200800000000000000
+      internalID: 214001412199060209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 241
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a45bafa2e893000800000000000000
+      internalID: 16200388918462987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 242
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e92aeb8ddef0020800000000000000
+      internalID: 2310326649031400984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_49
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 242
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f0db7e7b6cebc70800000000000000
+      internalID: 8988840399447330562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545f110d7699ba90800000000000000
+      internalID: -7297636257543269288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5322ea58d152dc7b0800000000000000
+      internalID: -5202461185815993803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92d7e823c094be0800000000000000
+      internalID: -1492648390218143313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 192
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3aa1fbbb898b790800000000000000
+      internalID: -7514088046135172173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 190
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe0bdaaeddfdbc20800000000000000
+      internalID: 3224012041058193136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b5efc869722f280800000000000000
+      internalID: -9011096376850883707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_56
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 189
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b811215086d8320800000000000000
+      internalID: 2561818134030945034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 189
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a76c16733ac5900800000000000000
+      internalID: 674593502457657870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 190
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8f23102befda20800000000000000
+      internalID: 3089446392392813172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_59
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 190
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad570a39846c89d0800000000000000
+      internalID: -2770729130192839260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c5ce9ac6460320800000000000000
+      internalID: 2523782477248840549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 144
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62a6d57d264ecb20800000000000000
+      internalID: 3156537549897769582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 145
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47f8adcade1c4a0800000000000000
+      internalID: -6574712654327221011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 145
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47934d118a9dcc60800000000000000
+      internalID: 7840092405654329167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 147
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1ed212907e6b10800000000000000
+      internalID: 1976641059146309173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c06ce7e552edc6d0800000000000000
+      internalID: -2968467720776163133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 147
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b57ae761180f10800000000000000
+      internalID: 2236056353002338640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 147
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d408de596e3e520800000000000000
+      internalID: 2730279330725776778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 149
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ec7436a2d51290800000000000000
+      internalID: -7920192758374144769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_69
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 149
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3193bf4989d748e0800000000000000
+      internalID: -1709158349792898758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab62c147586766f0800000000000000
+      internalID: -691469293803377753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a78fb5b63768d760800000000000000
+      internalID: 7482844265551202211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 104
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09587bdab57f18320800000000000000
+      internalID: 2558598036451722640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_73
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 104
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6c553a918e7090800000000000000
+      internalID: -8034842185862189785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68341982f051c4bf0800000000000000
+      internalID: -338872717110328442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 103
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a467a0163081d0800000000000000
+      internalID: -3350618677607882737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 101
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95b9a24efd05e200800000000000000
+      internalID: 208588343433868700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 101
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507187a3089290570800000000000000
+      internalID: 8433317407941465861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_78
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 96
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a5a37d9cbfc2160800000000000000
+      internalID: 7002248364972202523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_79
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 96
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98cf0e3b177a9b50800000000000000
+      internalID: 6600719162753927327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdbc66b2c6f470b0800000000000000
+      internalID: -5731685109591130701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 48
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962427f668fde1820800000000000000
+      internalID: 2890993779306807913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9ba15d81d58790800000000000000
+      internalID: -7528380797189120216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dced35cadc24bc280800000000000000
+      internalID: -9022043977379750195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_84
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 48
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184652509dfe3190800000000000000
+      internalID: -7980662693355436005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_85
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f20f3bd8f6463060800000000000000
+      internalID: 6932806711027630837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_86
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2817b8e705add00800000000000000
+      internalID: 998198771851559632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_87
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87be91a1c1161eb80800000000000000
+      internalID: -8367299859352786056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_88
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 48
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a5c1aa661054c70800000000000000
+      internalID: 8954564974548376096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_89
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 48
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ec5863b7c850830800000000000000
+      internalID: 4036787101831122510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2168f742dcb9a40800000000000000
+      internalID: 5376116136838828711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2534e72e575eecf00800000000000000
+      internalID: 1139100050245174098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 9
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac0d403048925c0800000000000000
+      internalID: -4239712425692050825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_93
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 9
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538694c67a4363780800000000000000
+      internalID: -8703711336165971915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skiploom_94
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8ea151283e9a310800000000000000
+      internalID: 1416913705624070329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

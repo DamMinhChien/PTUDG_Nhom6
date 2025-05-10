@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: 612e5f1afe9a4234783553782ea1da24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5725409290370156166
+    second: Steelix_0
+  - first:
+      213: 3254133119409585432
+    second: Steelix_1
+  - first:
+      213: 2912944926868312405
+    second: Steelix_2
+  - first:
+      213: 7992100530542422254
+    second: Steelix_3
+  - first:
+      213: 7580319702611724373
+    second: Steelix_4
+  - first:
+      213: -2071383983287585364
+    second: Steelix_5
+  - first:
+      213: -184924228658807432
+    second: Steelix_6
+  - first:
+      213: -4651833453659897822
+    second: Steelix_7
+  - first:
+      213: -7253826794143592859
+    second: Steelix_8
+  - first:
+      213: 3797408472626588002
+    second: Steelix_9
+  - first:
+      213: -3607566214054450410
+    second: Steelix_10
+  - first:
+      213: -858037607549388730
+    second: Steelix_11
+  - first:
+      213: -8939334587488626140
+    second: Steelix_12
+  - first:
+      213: -9011929099501386944
+    second: Steelix_13
+  - first:
+      213: 1519636282516218017
+    second: Steelix_14
+  - first:
+      213: -2258783244836528397
+    second: Steelix_15
+  - first:
+      213: -7938396492609707198
+    second: Steelix_16
+  - first:
+      213: -225415293361073697
+    second: Steelix_17
+  - first:
+      213: -8667968344745692172
+    second: Steelix_18
+  - first:
+      213: -7995297583377651091
+    second: Steelix_19
+  - first:
+      213: 7767820154877182926
+    second: Steelix_20
+  - first:
+      213: 216344960494050051
+    second: Steelix_21
+  - first:
+      213: 3784857952075096428
+    second: Steelix_22
+  - first:
+      213: -9221610799378089920
+    second: Steelix_23
+  - first:
+      213: -7110413297942767536
+    second: Steelix_24
+  - first:
+      213: 161013516798445581
+    second: Steelix_25
+  - first:
+      213: 9194201967894032770
+    second: Steelix_26
+  - first:
+      213: 1122999005938769367
+    second: Steelix_27
+  - first:
+      213: 482294008759662608
+    second: Steelix_28
+  - first:
+      213: -5089233659169474791
+    second: Steelix_29
+  - first:
+      213: -875188734716109673
+    second: Steelix_30
+  - first:
+      213: 1297432040525291337
+    second: Steelix_31
+  - first:
+      213: 2083438451519914002
+    second: Steelix_32
+  - first:
+      213: -7355501628565363814
+    second: Steelix_33
+  - first:
+      213: 680155864695989876
+    second: Steelix_34
+  - first:
+      213: -2096171744312767056
+    second: Steelix_35
+  - first:
+      213: -4165849842302484603
+    second: Steelix_36
+  - first:
+      213: -1729212614725108591
+    second: Steelix_37
+  - first:
+      213: -731798071374294253
+    second: Steelix_38
+  - first:
+      213: -4163927554301696562
+    second: Steelix_39
+  - first:
+      213: 4727871106121244548
+    second: Steelix_40
+  - first:
+      213: -6613334981566958815
+    second: Steelix_41
+  - first:
+      213: 8975587715212968350
+    second: Steelix_42
+  - first:
+      213: -6791008323117681539
+    second: Steelix_43
+  - first:
+      213: -1638353470167123422
+    second: Steelix_44
+  - first:
+      213: -6987310831939825407
+    second: Steelix_45
+  - first:
+      213: -7149143511321353306
+    second: Steelix_46
+  - first:
+      213: -7443664240544059560
+    second: Steelix_47
+  - first:
+      213: -773927374256366020
+    second: Steelix_48
+  - first:
+      213: -1709993366315710551
+    second: Steelix_49
+  - first:
+      213: -7122992141328468946
+    second: Steelix_50
+  - first:
+      213: -2121532653808171704
+    second: Steelix_51
+  - first:
+      213: -3833992157995088210
+    second: Steelix_52
+  - first:
+      213: 8231248667582659339
+    second: Steelix_53
+  - first:
+      213: -9086789759507146951
+    second: Steelix_54
+  - first:
+      213: 2692024923380707782
+    second: Steelix_55
+  - first:
+      213: -4222272855792679992
+    second: Steelix_56
+  - first:
+      213: -5386443486227104134
+    second: Steelix_57
+  - first:
+      213: -2806440377509508400
+    second: Steelix_58
+  - first:
+      213: 757719482396073645
+    second: Steelix_59
+  - first:
+      213: 2718512739510730700
+    second: Steelix_60
+  - first:
+      213: 3291493300441325330
+    second: Steelix_61
+  - first:
+      213: 2948347441976186485
+    second: Steelix_62
+  - first:
+      213: 1700376143333315714
+    second: Steelix_63
+  - first:
+      213: -4728035749610175238
+    second: Steelix_64
+  - first:
+      213: 5387378567519599777
+    second: Steelix_65
+  - first:
+      213: -2795509909380896015
+    second: Steelix_66
+  - first:
+      213: 2496271976168878805
+    second: Steelix_67
+  - first:
+      213: -5781707886365845776
+    second: Steelix_68
+  - first:
+      213: -2333362676137211467
+    second: Steelix_69
+  - first:
+      213: 139864862055243595
+    second: Steelix_70
+  - first:
+      213: -6724364485110546315
+    second: Steelix_71
+  - first:
+      213: -2486961400059235767
+    second: Steelix_72
+  - first:
+      213: -4853340721992641704
+    second: Steelix_73
+  - first:
+      213: 6477329097980186431
+    second: Steelix_74
+  - first:
+      213: 1782955610770284160
+    second: Steelix_75
+  - first:
+      213: 841481113064677402
+    second: Steelix_76
+  - first:
+      213: -3608895927873165280
+    second: Steelix_77
+  - first:
+      213: -7859628431862780928
+    second: Steelix_78
+  - first:
+      213: 2989803802374618922
+    second: Steelix_79
+  - first:
+      213: -5735876051417409241
+    second: Steelix_80
+  - first:
+      213: 1147405629466637023
+    second: Steelix_81
+  - first:
+      213: 4345709523522718346
+    second: Steelix_82
+  - first:
+      213: -6820314712271915166
+    second: Steelix_83
+  - first:
+      213: -4423240046073384588
+    second: Steelix_84
+  - first:
+      213: 2077092514432374488
+    second: Steelix_85
+  - first:
+      213: -2315119504437008082
+    second: Steelix_86
+  - first:
+      213: -4731755098984316627
+    second: Steelix_87
+  - first:
+      213: 640861332657283751
+    second: Steelix_88
+  - first:
+      213: 6285261291901750687
+    second: Steelix_89
+  - first:
+      213: -6337320447205267641
+    second: Steelix_90
+  - first:
+      213: 25893875263449431
+    second: Steelix_91
+  - first:
+      213: -2540831207197540607
+    second: Steelix_92
+  - first:
+      213: 661292334362700152
+    second: Steelix_93
+  - first:
+      213: -4089842992556742998
+    second: Steelix_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Steelix_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 895
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f3cdb5924b80b0800000000000000
+      internalID: -5725409290370156166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 895
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dfd3ab4d0092d20800000000000000
+      internalID: 3254133119409585432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 890
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55113404afbdc6820800000000000000
+      internalID: 2912944926868312405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 890
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8213ca615a9ee60800000000000000
+      internalID: 7992100530542422254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 887
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55801167b94b23960800000000000000
+      internalID: 7580319702611724373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 887
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b5baed37f043e0800000000000000
+      internalID: -2071383983287585364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 886
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dbd60d4640f6df0800000000000000
+      internalID: -184924228658807432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 886
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220c250de1e517fb0800000000000000
+      internalID: -4651833453659897822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 887
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e4cd096fa355b90800000000000000
+      internalID: -7253826794143592859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 887
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26967f5e2ea13b430800000000000000
+      internalID: 3797408472626588002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 790
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b659b54a95fedc0800000000000000
+      internalID: -3607566214054450410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 790
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b71e8753a714f0800000000000000
+      internalID: -858037607549388730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 793
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a90682e8a11f380800000000000000
+      internalID: -8939334587488626140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 793
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c6333b323fe280800000000000000
+      internalID: -9011929099501386944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 794
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ac27c525d61510800000000000000
+      internalID: 1519636282516218017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 794
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe1aea3b9037a0e0800000000000000
+      internalID: -2258783244836528397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 793
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243aacb037625d190800000000000000
+      internalID: -7938396492609707198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 793
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1d5482cf92fdcf0800000000000000
+      internalID: -225415293361073697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_18
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 792
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33a1f17b035b780800000000000000
+      internalID: -8667968344745692172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 792
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a6c35753ffa0190800000000000000
+      internalID: -7995297583377651091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 694
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec303927647dccb60800000000000000
+      internalID: 7767820154877182926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 694
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b9137689c900300800000000000000
+      internalID: 216344960494050051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 694
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61afbe1144868430800000000000000
+      internalID: 3784857952075096428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 694
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048b92e06d1460080800000000000000
+      internalID: -9221610799378089920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 696
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05858e137ccb25d90800000000000000
+      internalID: -7110413297942767536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 696
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08cec0c0f80c3200800000000000000
+      internalID: 161013516798445581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 698
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28175811afd589f70800000000000000
+      internalID: 9194201967894032770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 698
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd81065a1b59f00800000000000000
+      internalID: 1122999005938769367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_28
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 698
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183b6d78d371b600800000000000000
+      internalID: 482294008759662608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_29
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 698
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917fd3e63f86f59b0800000000000000
+      internalID: -5089233659169474791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 600
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c92d39b74bad3f0800000000000000
+      internalID: -875188734716109673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 600
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f58b71197610210800000000000000
+      internalID: 1297432040525291337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 601
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100c3eab3cd9ec10800000000000000
+      internalID: 2083438451519914002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 601
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ed8c6d320ce990800000000000000
+      internalID: -7355501628565363814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 596
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766a13c726607900800000000000000
+      internalID: 680155864695989876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 596
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdc60097e6e8e2e0800000000000000
+      internalID: -2096171744312767056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_36
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 593
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f71f9d3adef26c0800000000000000
+      internalID: -4165849842302484603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_37
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 593
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c7f26e94a9008e0800000000000000
+      internalID: -1729212614725108591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_38
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 592
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135b64088128d5f0800000000000000
+      internalID: -731798071374294253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_39
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 592
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5e26763f1c636c0800000000000000
+      internalID: -4163927554301696562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 495
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f9030c8b5cc9140800000000000000
+      internalID: 4727871106121244548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 495
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123790b8fd6b834a0800000000000000
+      internalID: -6613334981566958815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 496
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9101a7e871bf8c70800000000000000
+      internalID: 8975587715212968350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 496
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7479d119ed71c1a0800000000000000
+      internalID: -6791008323117681539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 499
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af82203366349e0800000000000000
+      internalID: -1638353470167123422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_45
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 499
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101dcf691d5180f90800000000000000
+      internalID: -6987310831939825407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_46
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 500
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3e66faad329cc90800000000000000
+      internalID: -7149143511321353306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_47
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 500
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe71bbfcac2b890800000000000000
+      internalID: -7443664240544059560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_48
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 499
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e9f7f47257245f0800000000000000
+      internalID: -773927374256366020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 499
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74a70e712e448e0800000000000000
+      internalID: -1709993366315710551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24b73ef26c062d90800000000000000
+      internalID: -7122992141328468946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 400
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8454f5eaa4dce82e0800000000000000
+      internalID: -2121532653808171704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c117127ceacac0800000000000000
+      internalID: -3833992157995088210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 400
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfb295d054b3270800000000000000
+      internalID: 8231248667582659339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375beb8bdc35e180800000000000000
+      internalID: -9086789759507146951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 400
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1fa94a76efb5520800000000000000
+      internalID: 2692024923380707782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_56
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 402
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c304bd45397765c0800000000000000
+      internalID: -4222272855792679992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 402
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e77b810328f35b0800000000000000
+      internalID: -5386443486227104134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 404
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da8b3788558d09d0800000000000000
+      internalID: -2806440377509508400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_59
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 404
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae5c9bcad5f38a00800000000000000
+      internalID: 757719482396073645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf39ebeee81ab520800000000000000
+      internalID: 2718512739510730700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 306
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1269b7bbbdad20800000000000000
+      internalID: 3291493300441325330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 306
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761c61a062aae820800000000000000
+      internalID: 2948347441976186485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 306
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2845ee7e713f89710800000000000000
+      internalID: 1700376143333315714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 307
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af443233984a26eb0800000000000000
+      internalID: -4728035749610175238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 307
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acfe8b7340d3ca40800000000000000
+      internalID: 5387378567519599777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_66
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 302
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa64457c8a5439d0800000000000000
+      internalID: -2795509909380896015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_67
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 302
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2fe42f22a84a220800000000000000
+      internalID: 2496271976168878805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_68
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 299
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6d6166f4f33cfa0800000000000000
+      internalID: -5781707886365845776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_69
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 299
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9cfac320b3e9fd0800000000000000
+      internalID: -2333362676137211467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 200
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f9c5bd956e0f100800000000000000
+      internalID: 139864862055243595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 200
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570cbb4c0224ea2a0800000000000000
+      internalID: -6724364485110546315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 201
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9427c5b78c98c7dd0800000000000000
+      internalID: -2486961400059235767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 201
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d0b3d35875acb0800000000000000
+      internalID: -4853340721992641704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_74
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 202
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f096a0f7814e950800000000000000
+      internalID: 6477329097980186431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_75
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 202
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e90467ea45eb810800000000000000
+      internalID: 1782955610770284160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_76
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 205
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ab6d2d9a8dab00800000000000000
+      internalID: 841481113064677402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_77
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 205
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02824cb3640aaedc0800000000000000
+      internalID: -3608895927873165280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_78
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 206
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2244559dfce290800000000000000
+      internalID: -7859628431862780928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_79
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 206
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fb6a4b7baed7920800000000000000
+      internalID: 2989803802374618922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 107
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72958970f131660b0800000000000000
+      internalID: -5735876051417409241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 107
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd274ad37576cef00800000000000000
+      internalID: 1147405629466637023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 106
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a8a9e79cf0f4c30800000000000000
+      internalID: 4345709523522718346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 106
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26779ae97ef5951a0800000000000000
+      internalID: -6820314712271915166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 106
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47173890d9e7d92c0800000000000000
+      internalID: -4423240046073384588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_85
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 106
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d65d5013a053dc10800000000000000
+      internalID: 2077092514432374488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_86
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 106
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e292475a31b0fdfd0800000000000000
+      internalID: -2315119504437008082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_87
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 106
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2185e0becd655eb0800000000000000
+      internalID: -4731755098984316627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_88
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 108
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a222539cfbc4e800800000000000000
+      internalID: 640861332657283751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_89
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 108
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d015028dbb93750800000000000000
+      internalID: 6285261291901750687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a28c31a05d08a0800000000000000
+      internalID: -6337320447205267641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_91
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 12
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759afe4a75efb5000800000000000000
+      internalID: 25893875263449431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f73cc9a772dbcd0800000000000000
+      internalID: -2540831207197540607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_93
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a06adfd16d2900800000000000000
+      internalID: 661292334362700152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steelix_94
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6e8899775fd37c0800000000000000
+      internalID: -4089842992556742998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

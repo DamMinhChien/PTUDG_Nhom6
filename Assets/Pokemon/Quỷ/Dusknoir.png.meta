@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: 4abb7806e198b5e46a7d30b785c5b8bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6219758034750738863
+    second: Dusknoir_0
+  - first:
+      213: -3088683384186411536
+    second: Dusknoir_1
+  - first:
+      213: 5318506665047958734
+    second: Dusknoir_2
+  - first:
+      213: -2753028864948716865
+    second: Dusknoir_3
+  - first:
+      213: -2511142543349533763
+    second: Dusknoir_4
+  - first:
+      213: 2958044003559755978
+    second: Dusknoir_5
+  - first:
+      213: -8930886266557534363
+    second: Dusknoir_6
+  - first:
+      213: 1347853116791599912
+    second: Dusknoir_7
+  - first:
+      213: 8959497778759024686
+    second: Dusknoir_8
+  - first:
+      213: 8423804132036264528
+    second: Dusknoir_9
+  - first:
+      213: 2635759340285154998
+    second: Dusknoir_10
+  - first:
+      213: 8468476160471191524
+    second: Dusknoir_11
+  - first:
+      213: 2938409009607333151
+    second: Dusknoir_12
+  - first:
+      213: 4210736244622645590
+    second: Dusknoir_13
+  - first:
+      213: -2321457437686961366
+    second: Dusknoir_14
+  - first:
+      213: 5916981844203660622
+    second: Dusknoir_15
+  - first:
+      213: -8513723249408957954
+    second: Dusknoir_16
+  - first:
+      213: 10636264309035897
+    second: Dusknoir_17
+  - first:
+      213: 623899569030792852
+    second: Dusknoir_18
+  - first:
+      213: 8941960083101038270
+    second: Dusknoir_19
+  - first:
+      213: -3948566251068243875
+    second: Dusknoir_20
+  - first:
+      213: 2175690303301986821
+    second: Dusknoir_21
+  - first:
+      213: -6706448668222770295
+    second: Dusknoir_22
+  - first:
+      213: 7499407481565310608
+    second: Dusknoir_23
+  - first:
+      213: -6356260731093231121
+    second: Dusknoir_24
+  - first:
+      213: 6496499202122039615
+    second: Dusknoir_25
+  - first:
+      213: 3313734079031160600
+    second: Dusknoir_26
+  - first:
+      213: 5294340068631032698
+    second: Dusknoir_27
+  - first:
+      213: -5321390532857891625
+    second: Dusknoir_28
+  - first:
+      213: -6113978634636211947
+    second: Dusknoir_29
+  - first:
+      213: -6897766142784749830
+    second: Dusknoir_30
+  - first:
+      213: -8413527163239931489
+    second: Dusknoir_31
+  - first:
+      213: -562360353113397758
+    second: Dusknoir_32
+  - first:
+      213: 5133066680462249427
+    second: Dusknoir_33
+  - first:
+      213: 3489175917646929096
+    second: Dusknoir_34
+  - first:
+      213: 4896146915132035513
+    second: Dusknoir_35
+  - first:
+      213: 8183097014147213858
+    second: Dusknoir_36
+  - first:
+      213: -733401613893503588
+    second: Dusknoir_37
+  - first:
+      213: -1561490904246548587
+    second: Dusknoir_38
+  - first:
+      213: -4032883378765286590
+    second: Dusknoir_39
+  - first:
+      213: 1372877771965385223
+    second: Dusknoir_40
+  - first:
+      213: 3345289215783075319
+    second: Dusknoir_41
+  - first:
+      213: -132316644248017096
+    second: Dusknoir_42
+  - first:
+      213: -1492970757228287670
+    second: Dusknoir_43
+  - first:
+      213: -4946058960630072326
+    second: Dusknoir_44
+  - first:
+      213: -1684589153917163020
+    second: Dusknoir_45
+  - first:
+      213: -5907769899143955036
+    second: Dusknoir_46
+  - first:
+      213: -257299224566135679
+    second: Dusknoir_47
+  - first:
+      213: -4333623427038261507
+    second: Dusknoir_48
+  - first:
+      213: 607942270515664209
+    second: Dusknoir_49
+  - first:
+      213: -1043532230963728551
+    second: Dusknoir_50
+  - first:
+      213: -5358409730547826675
+    second: Dusknoir_51
+  - first:
+      213: 4019498995752471504
+    second: Dusknoir_52
+  - first:
+      213: -1434445594979559549
+    second: Dusknoir_53
+  - first:
+      213: 2052195738504278187
+    second: Dusknoir_54
+  - first:
+      213: 5733281018866130102
+    second: Dusknoir_55
+  - first:
+      213: -7726737338357239894
+    second: Dusknoir_56
+  - first:
+      213: 8896870313659208170
+    second: Dusknoir_57
+  - first:
+      213: 8016608658065265913
+    second: Dusknoir_58
+  - first:
+      213: -6381986002444266169
+    second: Dusknoir_59
+  - first:
+      213: -216852485619311893
+    second: Dusknoir_60
+  - first:
+      213: 1570683900793324791
+    second: Dusknoir_61
+  - first:
+      213: 6396537858865747603
+    second: Dusknoir_62
+  - first:
+      213: 3389210975392662363
+    second: Dusknoir_63
+  - first:
+      213: 8780283492241795532
+    second: Dusknoir_64
+  - first:
+      213: -394044484310366134
+    second: Dusknoir_65
+  - first:
+      213: 4620031532268663584
+    second: Dusknoir_66
+  - first:
+      213: 6887053511443892042
+    second: Dusknoir_67
+  - first:
+      213: 218183401194591238
+    second: Dusknoir_68
+  - first:
+      213: -8303052864273185685
+    second: Dusknoir_69
+  - first:
+      213: 5533356027556200547
+    second: Dusknoir_70
+  - first:
+      213: -1718891313143973062
+    second: Dusknoir_71
+  - first:
+      213: 4154006310134107498
+    second: Dusknoir_72
+  - first:
+      213: -7576366790963144803
+    second: Dusknoir_73
+  - first:
+      213: -8837775015869529505
+    second: Dusknoir_74
+  - first:
+      213: 5882636562202399794
+    second: Dusknoir_75
+  - first:
+      213: -4170729115130253702
+    second: Dusknoir_76
+  - first:
+      213: -650859302842099187
+    second: Dusknoir_77
+  - first:
+      213: 1427149211616630946
+    second: Dusknoir_78
+  - first:
+      213: -7678319703950351603
+    second: Dusknoir_79
+  - first:
+      213: 1899497014512779064
+    second: Dusknoir_80
+  - first:
+      213: 1658804681843028136
+    second: Dusknoir_81
+  - first:
+      213: 5996803202332677457
+    second: Dusknoir_82
+  - first:
+      213: 1818138394158019872
+    second: Dusknoir_83
+  - first:
+      213: -1114432803810455081
+    second: Dusknoir_84
+  - first:
+      213: -5558696363658931978
+    second: Dusknoir_85
+  - first:
+      213: 5462872108921032009
+    second: Dusknoir_86
+  - first:
+      213: 2842153081590628369
+    second: Dusknoir_87
+  - first:
+      213: 9186305321006480279
+    second: Dusknoir_88
+  - first:
+      213: 2554625103709303000
+    second: Dusknoir_89
+  - first:
+      213: 681937546672406484
+    second: Dusknoir_90
+  - first:
+      213: 7383245646492070271
+    second: Dusknoir_91
+  - first:
+      213: 4021092931615929406
+    second: Dusknoir_92
+  - first:
+      213: -150053827422834533
+    second: Dusknoir_93
+  - first:
+      213: 5725199541275881746
+    second: Dusknoir_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dusknoir_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 769
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eecc5650bfea9a0800000000000000
+      internalID: -6219758034750738863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 769
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5eaed93dac225d0800000000000000
+      internalID: -3088683384186411536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 769
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42bb912a12fc940800000000000000
+      internalID: 5318506665047958734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 769
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab55065d64bc9d0800000000000000
+      internalID: -2753028864948716865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 770
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3b7435921a62dd0800000000000000
+      internalID: -2511142543349533763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 770
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0572e49551d0920800000000000000
+      internalID: 2958044003559755978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 771
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6c68224e1f0480800000000000000
+      internalID: -8930886266557534363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 771
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82334cbb44984b210800000000000000
+      internalID: 1347853116791599912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 774
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2045d4a2c7865c70800000000000000
+      internalID: 8959497778759024686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 774
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524d731a3d57e470800000000000000
+      internalID: 8423804132036264528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 690
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b65d17b729149420800000000000000
+      internalID: 2635759340285154998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 690
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efcfb53332168570800000000000000
+      internalID: 8468476160471191524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 690
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15d3760d6357c820800000000000000
+      internalID: 2938409009607333151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 690
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65958971e4a8f6a30800000000000000
+      internalID: 4210736244622645590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 691
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bea7192c688cfd0800000000000000
+      internalID: -2321457437686961366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 691
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45e13643a75d1250800000000000000
+      internalID: 5916981844203660622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 694
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1aef2ffcd29d980800000000000000
+      internalID: -8513723249408957954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 694
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97390e340a9c52000800000000000000
+      internalID: 10636264309035897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 691
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496899b3a5988a800800000000000000
+      internalID: 623899569030792852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 691
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b5fca159381c70800000000000000
+      internalID: 8941960083101038270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 605
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d504bf04aefd339c0800000000000000
+      internalID: -3948566251068243875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 605
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aa395bdca913e10800000000000000
+      internalID: 2175690303301986821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 604
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b032f778ede2a0800000000000000
+      internalID: -6706448668222770295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 604
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e6b94fe5f331860800000000000000
+      internalID: 7499407481565310608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 604
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe95c6fba860ac7a0800000000000000
+      internalID: -6356260731093231121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 604
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c71aba93382a50800000000000000
+      internalID: 6496499202122039615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 602
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f22c4869fbcfd20800000000000000
+      internalID: 3313734079031160600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 602
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73bed6ed36497940800000000000000
+      internalID: 5294340068631032698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 600
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f0e9118f9626b0800000000000000
+      internalID: -5321390532857891625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 600
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194e2633d8c62ba0800000000000000
+      internalID: -6113978634636211947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 514
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe39933d363640a0800000000000000
+      internalID: -6897766142784749830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 514
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ebfe2f952d3b80800000000000000
+      internalID: -8413527163239931489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 514
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206a9e40d381238f0800000000000000
+      internalID: -562360353113397758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 514
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd885123f05c3740800000000000000
+      internalID: 5133066680462249427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 514
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc513ab20b0c6030800000000000000
+      internalID: 3489175917646929096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 514
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1d19cadab92f340800000000000000
+      internalID: 4896146915132035513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 515
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aedc2e063309170800000000000000
+      internalID: 8183097014147213858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 515
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95fd2e2e1f62d5f0800000000000000
+      internalID: -733401613893503588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_38
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 516
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5978164bb48745ae0800000000000000
+      internalID: -1561490904246548587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_39
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 516
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433e142fe15808c0800000000000000
+      internalID: -4032883378765286590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 434
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ac60e4f017d0310800000000000000
+      internalID: 1372877771965385223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 434
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf1b151dadc6e20800000000000000
+      internalID: 3345289215783075319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 435
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837a9bd86bae92ef0800000000000000
+      internalID: -132316644248017096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 435
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49ac53a107e74be0800000000000000
+      internalID: -1492970757228287670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 435
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb185a4911c5bb0800000000000000
+      internalID: -4946058960630072326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 435
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9aa4007132f98e0800000000000000
+      internalID: -1684589153917163020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 436
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad77c2d392630ea0800000000000000
+      internalID: -5907769899143955036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 436
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18480cee7b3ed6cf0800000000000000
+      internalID: -257299224566135679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 439
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec2112470ebd3c0800000000000000
+      internalID: -4333623427038261507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_49
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 439
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d7062648df6800800000000000000
+      internalID: 607942270515664209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f6cbdf6f0a481f0800000000000000
+      internalID: -1043532230963728551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 351
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0043b97dba13a5b0800000000000000
+      internalID: -5358409730547826675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 350
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db8dd85a0128c730800000000000000
+      internalID: 4019498995752471504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 350
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3879e95d453d71ce0800000000000000
+      internalID: -1434445594979559549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 349
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03e13b62dda7c10800000000000000
+      internalID: 2052195738504278187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_55
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 349
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc510fd5b4b09f40800000000000000
+      internalID: 5733281018866130102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_56
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 349
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf287a245d15c490800000000000000
+      internalID: -7726737338357239894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_57
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 349
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11062a968087b70800000000000000
+      internalID: 8896870313659208170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_58
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 347
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f41d47c917b04f60800000000000000
+      internalID: 8016608658065265913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_59
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 347
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7455bc24b81ae67a0800000000000000
+      internalID: -6381986002444266169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea100230d59dfcf0800000000000000
+      internalID: -216852485619311893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 260
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f406399fa03cc510800000000000000
+      internalID: 1570683900793324791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 259
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d706da4115c850800000000000000
+      internalID: 6396537858865747603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b538221ec65e80f20800000000000000
+      internalID: 3389210975392662363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_64
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 259
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc96c46f055d9d970800000000000000
+      internalID: 8780283492241795532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_65
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 259
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a488af611a2188af0800000000000000
+      internalID: -394044484310366134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 259
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233afb5336ad1040800000000000000
+      internalID: 4620031532268663584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_67
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 259
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4748b2fdaab39f50800000000000000
+      internalID: 6887053511443892042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_68
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 260
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604171cb5a4270300800000000000000
+      internalID: 218183401194591238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_69
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 260
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6405b15961a5cc80800000000000000
+      internalID: -8303052864273185685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 176
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36001467dfd6acc40800000000000000
+      internalID: 5533356027556200547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_71
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 176
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7c8035754528e0800000000000000
+      internalID: -1718891313143973062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 178
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d464eeabef5a930800000000000000
+      internalID: 4154006310134107498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 178
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9753908b865bd690800000000000000
+      internalID: -7576366790963144803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 178
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f524646927ae95580800000000000000
+      internalID: -8837775015869529505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 178
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2349cc829c253a150800000000000000
+      internalID: 5882636562202399794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_76
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 178
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e284e97f79e16c0800000000000000
+      internalID: -4170729115130253702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 178
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a965799eea7f6f0800000000000000
+      internalID: -650859302842099187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_78
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 178
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a853e785a04ec310800000000000000
+      internalID: 1427149211616630946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_79
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 178
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03282629e0217590800000000000000
+      internalID: -7678319703950351603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 94
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ff2f1887e5c5a10800000000000000
+      internalID: 1899497014512779064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a03205c112450710800000000000000
+      internalID: 1658804681843028136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 93
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d6f67dbce83350800000000000000
+      internalID: 5996803202332677457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_83
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 93
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025b9409c335b3910800000000000000
+      internalID: 1818138394158019872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_84
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 93
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1d5daf44db880f0800000000000000
+      internalID: -1114432803810455081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_85
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 93
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09ad5cb1b8bd2b0800000000000000
+      internalID: -5558696363658931978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 93
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d80a15d3500db40800000000000000
+      internalID: 5462872108921032009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_87
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 93
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110cd795b2b517720800000000000000
+      internalID: 2842153081590628369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_88
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 93
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3fd0b4005c7f70800000000000000
+      internalID: 9186305321006480279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_89
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 93
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d073e03ff9d37320800000000000000
+      internalID: 2554625103709303000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dff86ce59ab67900800000000000000
+      internalID: 681937546672406484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71fb902cce867660800000000000000
+      internalID: 7383245646492070271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_92
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343dc577bacdc730800000000000000
+      internalID: 4021092931615929406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b903647c6d6eaedf0800000000000000
+      internalID: -150053827422834533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusknoir_94
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 4
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2117afd36aef37f40800000000000000
+      internalID: 5725199541275881746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

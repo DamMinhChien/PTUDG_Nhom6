@@ -1,0 +1,2367 @@
+fileFormatVersion: 2
+guid: b154a969f127a3f48a4b28e978515417
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8118613589119142443
+    second: Sunflora_0
+  - first:
+      213: -1497977861713691730
+    second: Sunflora_1
+  - first:
+      213: 5600888734718830271
+    second: Sunflora_2
+  - first:
+      213: 5542040217035515061
+    second: Sunflora_3
+  - first:
+      213: -804621381497125771
+    second: Sunflora_4
+  - first:
+      213: -6249507471490345655
+    second: Sunflora_5
+  - first:
+      213: -361376943643429807
+    second: Sunflora_6
+  - first:
+      213: -1644344069904652179
+    second: Sunflora_7
+  - first:
+      213: 222856266250864571
+    second: Sunflora_8
+  - first:
+      213: -3122141248082801558
+    second: Sunflora_9
+  - first:
+      213: -6837847877125780966
+    second: Sunflora_10
+  - first:
+      213: -3784043911207298589
+    second: Sunflora_11
+  - first:
+      213: 222033949262666170
+    second: Sunflora_12
+  - first:
+      213: 6528009698541798387
+    second: Sunflora_13
+  - first:
+      213: 3684242795074418072
+    second: Sunflora_14
+  - first:
+      213: -4755094840051390068
+    second: Sunflora_15
+  - first:
+      213: 4196992236463101363
+    second: Sunflora_16
+  - first:
+      213: -8810747693449526766
+    second: Sunflora_17
+  - first:
+      213: 3920538055045911785
+    second: Sunflora_18
+  - first:
+      213: 1632136212328409583
+    second: Sunflora_19
+  - first:
+      213: 3873877714114217075
+    second: Sunflora_20
+  - first:
+      213: 4487170719250632583
+    second: Sunflora_21
+  - first:
+      213: 3777707313025112304
+    second: Sunflora_22
+  - first:
+      213: -8919912062843533301
+    second: Sunflora_23
+  - first:
+      213: -8615749132080009411
+    second: Sunflora_24
+  - first:
+      213: -8461998228138133079
+    second: Sunflora_25
+  - first:
+      213: 3307554397583578870
+    second: Sunflora_26
+  - first:
+      213: 3155180296606320639
+    second: Sunflora_27
+  - first:
+      213: 8841487624792681172
+    second: Sunflora_28
+  - first:
+      213: 5978197235259488066
+    second: Sunflora_29
+  - first:
+      213: -2466174551121619809
+    second: Sunflora_30
+  - first:
+      213: -3649961044048652547
+    second: Sunflora_31
+  - first:
+      213: -166995937441884028
+    second: Sunflora_32
+  - first:
+      213: -7165247246045998907
+    second: Sunflora_33
+  - first:
+      213: -6782359387352838393
+    second: Sunflora_34
+  - first:
+      213: 4985131839479545337
+    second: Sunflora_35
+  - first:
+      213: -7132167959037141580
+    second: Sunflora_36
+  - first:
+      213: -8005386681432526859
+    second: Sunflora_37
+  - first:
+      213: -9171372815793224739
+    second: Sunflora_38
+  - first:
+      213: -9090758450078777155
+    second: Sunflora_39
+  - first:
+      213: 3736493938846558065
+    second: Sunflora_40
+  - first:
+      213: 5753581833506329136
+    second: Sunflora_41
+  - first:
+      213: 5518068555041951463
+    second: Sunflora_42
+  - first:
+      213: 3538140795669647040
+    second: Sunflora_43
+  - first:
+      213: 9005098011967491218
+    second: Sunflora_44
+  - first:
+      213: -169555347995925163
+    second: Sunflora_45
+  - first:
+      213: -3274426252828240221
+    second: Sunflora_46
+  - first:
+      213: -2984695735608894491
+    second: Sunflora_47
+  - first:
+      213: -3146843048245921634
+    second: Sunflora_48
+  - first:
+      213: -6187079725776659514
+    second: Sunflora_49
+  - first:
+      213: -1963102642099242414
+    second: Sunflora_50
+  - first:
+      213: -3997129704147410726
+    second: Sunflora_51
+  - first:
+      213: -1526279914037254284
+    second: Sunflora_52
+  - first:
+      213: -4552582164663460576
+    second: Sunflora_53
+  - first:
+      213: 7059202055246677233
+    second: Sunflora_54
+  - first:
+      213: -2206166287560157268
+    second: Sunflora_55
+  - first:
+      213: 5230244756734200458
+    second: Sunflora_56
+  - first:
+      213: 2222027005476757306
+    second: Sunflora_57
+  - first:
+      213: 3832358554257746724
+    second: Sunflora_58
+  - first:
+      213: -5981816752791241782
+    second: Sunflora_59
+  - first:
+      213: -2199456010903134634
+    second: Sunflora_60
+  - first:
+      213: 2472655789011147036
+    second: Sunflora_61
+  - first:
+      213: 4383865325505719170
+    second: Sunflora_62
+  - first:
+      213: -8274575964781924181
+    second: Sunflora_63
+  - first:
+      213: -4791019484613261431
+    second: Sunflora_64
+  - first:
+      213: -5027162364925199535
+    second: Sunflora_65
+  - first:
+      213: 3975898962728003917
+    second: Sunflora_66
+  - first:
+      213: -1887745525975722464
+    second: Sunflora_67
+  - first:
+      213: -1836363125566106545
+    second: Sunflora_68
+  - first:
+      213: 7772840699373792944
+    second: Sunflora_69
+  - first:
+      213: -4048874003805401235
+    second: Sunflora_70
+  - first:
+      213: -3150565902738942596
+    second: Sunflora_71
+  - first:
+      213: 6948143448735384190
+    second: Sunflora_72
+  - first:
+      213: 5956122140722491925
+    second: Sunflora_73
+  - first:
+      213: -3641349605884170618
+    second: Sunflora_74
+  - first:
+      213: -5984592047864297996
+    second: Sunflora_75
+  - first:
+      213: 2377846287432620135
+    second: Sunflora_76
+  - first:
+      213: -4674428935034403222
+    second: Sunflora_77
+  - first:
+      213: -7649558979094361301
+    second: Sunflora_78
+  - first:
+      213: 5781787382322966637
+    second: Sunflora_79
+  - first:
+      213: -853187140730911379
+    second: Sunflora_80
+  - first:
+      213: -5463382642093646443
+    second: Sunflora_81
+  - first:
+      213: -8534956933363756328
+    second: Sunflora_82
+  - first:
+      213: -7028391390523002067
+    second: Sunflora_83
+  - first:
+      213: 3145665478960536910
+    second: Sunflora_84
+  - first:
+      213: -4233657441438428111
+    second: Sunflora_85
+  - first:
+      213: 3692612934076221265
+    second: Sunflora_86
+  - first:
+      213: -1814827483686055429
+    second: Sunflora_87
+  - first:
+      213: -9184785859967340788
+    second: Sunflora_88
+  - first:
+      213: 8798005947054377939
+    second: Sunflora_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sunflora_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 492
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0b188b0c1ba070800000000000000
+      internalID: 8118613589119142443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 492
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf727421d163be0800000000000000
+      internalID: -1497977861713691730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 492
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6276321aa5abd40800000000000000
+      internalID: 5600888734718830271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 492
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4a453e63849ec40800000000000000
+      internalID: 5542040217035515061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 492
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5740e29dd1965d4f0800000000000000
+      internalID: -804621381497125771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 492
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9451ba4e01a4549a0800000000000000
+      internalID: -6249507471490345655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 492
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154fd1c95912cfaf0800000000000000
+      internalID: -361376943643429807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 492
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6820d0d7cd1e29e0800000000000000
+      internalID: -1644344069904652179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 492
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74ad9e79eb71300800000000000000
+      internalID: 222856266250864571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 492
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c0e61a31deba4d0800000000000000
+      internalID: -3122141248082801558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a42cf85951b11a0800000000000000
+      internalID: -6837847877125780966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 431
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9520a8c106c7bc0800000000000000
+      internalID: -3784043911207298589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 431
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d0e153b2d41300800000000000000
+      internalID: 222033949262666170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 431
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f383e3eb36289a50800000000000000
+      internalID: 6528009698541798387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 431
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895f3ba5d4f012330800000000000000
+      internalID: 3684242795074418072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 431
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a171cf62820eb0800000000000000
+      internalID: -4755094840051390068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 431
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59473d336be3a30800000000000000
+      internalID: 4196992236463101363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 431
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212495677afe9b580800000000000000
+      internalID: -8810747693449526766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 431
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49963d69c886630800000000000000
+      internalID: 3920538055045911785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 431
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e2e8dc3386a610800000000000000
+      internalID: 1632136212328409583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 370
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374841d9147c2c530800000000000000
+      internalID: 3873877714114217075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 370
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc77fbef1a54e30800000000000000
+      internalID: 4487170719250632583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 370
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8d14a39cc1d6430800000000000000
+      internalID: 3777707313025112304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 370
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b084d721d3b163480800000000000000
+      internalID: -8919912062843533301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 370
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fad7400d5be6880800000000000000
+      internalID: -8615749132080009411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a977d1f171f09a80800000000000000
+      internalID: -8461998228138133079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 370
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6104f433bc6ed20800000000000000
+      internalID: 3307554397583578870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 370
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7088d43c379cb20800000000000000
+      internalID: 3155180296606320639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 370
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa7c9862643ba70800000000000000
+      internalID: 8841487624792681172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 370
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2473ddc26b2d6f250800000000000000
+      internalID: 5978197235259488066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 309
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f949946ef4366cdd0800000000000000
+      internalID: -2466174551121619809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 309
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6577dc4cbb85dc0800000000000000
+      internalID: -3649961044048652547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 309
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488d7d56416beadf0800000000000000
+      internalID: -166995937441884028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 309
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01593c79def8c90800000000000000
+      internalID: -7165247246045998907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 309
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f4cc9521830e1a0800000000000000
+      internalID: -6782359387352838393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 309
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdfaa2eefebe2540800000000000000
+      internalID: 4985131839479545337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 309
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1b237703750d90800000000000000
+      internalID: -7132167959037141580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 309
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff22934a3727e090800000000000000
+      internalID: -8005386681432526859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 309
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd388fb140db8b080800000000000000
+      internalID: -9171372815793224739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 309
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08c24ca5327d180800000000000000
+      internalID: -9090758450078777155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 248
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177695ac071bad330800000000000000
+      internalID: 3736493938846558065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 248
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032194c9134d8df40800000000000000
+      internalID: 5753581833506329136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee47856d1e149c40800000000000000
+      internalID: 5518068555041951463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce053bce400a1130800000000000000
+      internalID: 3538140795669647040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 248
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c06ea4ee888fc70800000000000000
+      internalID: 9005098011967491218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 248
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5556fe03f4e95adf0800000000000000
+      internalID: -169555347995925163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 248
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a695f4fba6ee82d0800000000000000
+      internalID: -3274426252828240221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 248
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9864ca0b3496d0800000000000000
+      internalID: -2984695735608894491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 248
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f4699bea2454d0800000000000000
+      internalID: -3146843048245921634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 248
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9f0c15c3132aa0800000000000000
+      internalID: -6187079725776659514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 187
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a3b084c88a1c4e0800000000000000
+      internalID: -1963102642099242414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 187
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a12736b75788c0800000000000000
+      internalID: -3997129704147410726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_52
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 187
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477eef7318091dae0800000000000000
+      internalID: -1526279914037254284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 187
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d947054aaf1d0c0800000000000000
+      internalID: -4552582164663460576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 187
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48fa43ed257f160800000000000000
+      internalID: 7059202055246677233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 187
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7d882437f1261e0800000000000000
+      internalID: -2206166287560157268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 187
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8acd7d25ef859840800000000000000
+      internalID: 5230244756734200458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 187
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f54c6e9c936de10800000000000000
+      internalID: 2222027005476757306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 187
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6676ecc54f2530800000000000000
+      internalID: 3832358554257746724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_59
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 187
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb56a3b515cfca0800000000000000
+      internalID: -5981816752791241782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 126
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e550b4966f971e0800000000000000
+      internalID: -2199456010903134634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 126
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1992d3e653a05220800000000000000
+      internalID: 2472655789011147036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 126
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28babed694e96dc30800000000000000
+      internalID: 4383865325505719170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 126
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03038200dca2d80800000000000000
+      internalID: -8274575964781924181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 126
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c6a3a921e28db0800000000000000
+      internalID: -4791019484613261431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 126
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbb62d67eeb3ab0800000000000000
+      internalID: -5027162364925199535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 126
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d492f389a0b3d2730800000000000000
+      internalID: 3975898962728003917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 126
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02652e122716dc5e0800000000000000
+      internalID: -1887745525975722464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_68
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 126
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44910e777de386e0800000000000000
+      internalID: -1836363125566106545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_69
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 126
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beafdd0f6daedb60800000000000000
+      internalID: 7772840699373792944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f8dde9b828fc7c0800000000000000
+      internalID: -4048874003805401235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7599cdf001f644d0800000000000000
+      internalID: -3150565902738942596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72845e57a3cc6060800000000000000
+      internalID: 6948143448735384190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5127a94b78568a250800000000000000
+      internalID: 5956122140722491925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ee34e73d3577dc0800000000000000
+      internalID: -3641349605884170618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5cb6d7d3572fca0800000000000000
+      internalID: -5984592047864297996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_76
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 65
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76817ec999ecff020800000000000000
+      internalID: 2377846287432620135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_77
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66877756a7112fb0800000000000000
+      internalID: -4674428935034403222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_78
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 65
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b4eaa33ae47d590800000000000000
+      internalID: -7649558979094361301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_79
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603232bdf80d3050800000000000000
+      internalID: 5781787382322966637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658dcdd0ded824f0800000000000000
+      internalID: -853187140730911379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d19f9ee6a2e24b0800000000000000
+      internalID: -5463382642093646443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 4
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d29895a3edbd8980800000000000000
+      internalID: -8534956933363756328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_83
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237671b443267e90800000000000000
+      internalID: -7028391390523002067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_84
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd6af2616a7ab20800000000000000
+      internalID: 3145665478960536910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1349f56ecf60f35c0800000000000000
+      internalID: -4233657441438428111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_86
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15740a436ebce3330800000000000000
+      internalID: 3692612934076221265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_87
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1d64ad40070d6e0800000000000000
+      internalID: -1814827483686055429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_88
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fad966ce5198080800000000000000
+      internalID: -9184785859967340788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflora_89
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 4
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db43f58bcbc81a70800000000000000
+      internalID: 8798005947054377939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

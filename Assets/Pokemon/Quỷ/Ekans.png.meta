@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 437afdccb34eafd4e8c60a134686b152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5825324814091356248
+    second: Ekans_0
+  - first:
+      213: -2692419678757557120
+    second: Ekans_1
+  - first:
+      213: 8866133671541224623
+    second: Ekans_2
+  - first:
+      213: 3792041794129992657
+    second: Ekans_3
+  - first:
+      213: -4123266290435322426
+    second: Ekans_4
+  - first:
+      213: -226525592653781900
+    second: Ekans_5
+  - first:
+      213: 6570166739011422434
+    second: Ekans_6
+  - first:
+      213: -2976993760641124616
+    second: Ekans_7
+  - first:
+      213: 3576616175387455406
+    second: Ekans_8
+  - first:
+      213: 8528234856611636853
+    second: Ekans_9
+  - first:
+      213: -7813105281699339932
+    second: Ekans_10
+  - first:
+      213: -6467966929369047475
+    second: Ekans_11
+  - first:
+      213: -4295511921004212812
+    second: Ekans_12
+  - first:
+      213: 1548876001146595383
+    second: Ekans_13
+  - first:
+      213: -9013576387325006054
+    second: Ekans_14
+  - first:
+      213: 4100385203942094776
+    second: Ekans_15
+  - first:
+      213: -3884095697665565054
+    second: Ekans_16
+  - first:
+      213: -2245961499141108156
+    second: Ekans_17
+  - first:
+      213: -660433594608095999
+    second: Ekans_18
+  - first:
+      213: 5376178204651277401
+    second: Ekans_19
+  - first:
+      213: -8916710319240611954
+    second: Ekans_20
+  - first:
+      213: 375855025482855926
+    second: Ekans_21
+  - first:
+      213: 559117796062898657
+    second: Ekans_22
+  - first:
+      213: -9209673662835509305
+    second: Ekans_23
+  - first:
+      213: 6062196743115067007
+    second: Ekans_24
+  - first:
+      213: -1693760636236011826
+    second: Ekans_25
+  - first:
+      213: -908040788878502958
+    second: Ekans_26
+  - first:
+      213: 5503823571518000428
+    second: Ekans_27
+  - first:
+      213: -6916560639985213701
+    second: Ekans_28
+  - first:
+      213: 4598212704021379770
+    second: Ekans_29
+  - first:
+      213: 7105822483526356516
+    second: Ekans_30
+  - first:
+      213: -7921286138497843629
+    second: Ekans_31
+  - first:
+      213: -3303517143388690665
+    second: Ekans_32
+  - first:
+      213: -7881148855322109349
+    second: Ekans_33
+  - first:
+      213: 6958517229804263393
+    second: Ekans_34
+  - first:
+      213: -3577262248024998336
+    second: Ekans_35
+  - first:
+      213: -7973784225278916849
+    second: Ekans_36
+  - first:
+      213: -6360862169532083872
+    second: Ekans_37
+  - first:
+      213: 230266259869116882
+    second: Ekans_38
+  - first:
+      213: -4267016705039474696
+    second: Ekans_39
+  - first:
+      213: 4484447170355436185
+    second: Ekans_40
+  - first:
+      213: 89356760687361354
+    second: Ekans_41
+  - first:
+      213: 2354189563104313767
+    second: Ekans_42
+  - first:
+      213: 255448647628192564
+    second: Ekans_43
+  - first:
+      213: -1842859531697552742
+    second: Ekans_44
+  - first:
+      213: 8171947467329250604
+    second: Ekans_45
+  - first:
+      213: -2572352388549875536
+    second: Ekans_46
+  - first:
+      213: -2557357138697460573
+    second: Ekans_47
+  - first:
+      213: 3732087713857365063
+    second: Ekans_48
+  - first:
+      213: -3723352762665971330
+    second: Ekans_49
+  - first:
+      213: -6683518222524125622
+    second: Ekans_50
+  - first:
+      213: 7300097594631222799
+    second: Ekans_51
+  - first:
+      213: 8410755786896461204
+    second: Ekans_52
+  - first:
+      213: 7505056271881774759
+    second: Ekans_53
+  - first:
+      213: 3190043856938934410
+    second: Ekans_54
+  - first:
+      213: -5822467248022508465
+    second: Ekans_55
+  - first:
+      213: 4249990639166548828
+    second: Ekans_56
+  - first:
+      213: -7593218036304900865
+    second: Ekans_57
+  - first:
+      213: -4368984261930290428
+    second: Ekans_58
+  - first:
+      213: 5093239037551653053
+    second: Ekans_59
+  - first:
+      213: -7445728170403845413
+    second: Ekans_60
+  - first:
+      213: -4587800452552581228
+    second: Ekans_61
+  - first:
+      213: -4533181172600796555
+    second: Ekans_62
+  - first:
+      213: 2424822120147512134
+    second: Ekans_63
+  - first:
+      213: -1148818067206211079
+    second: Ekans_64
+  - first:
+      213: 5572569746050142519
+    second: Ekans_65
+  - first:
+      213: 8677745224518312088
+    second: Ekans_66
+  - first:
+      213: -5024246191454412254
+    second: Ekans_67
+  - first:
+      213: 7552070441872738881
+    second: Ekans_68
+  - first:
+      213: 8779379824173782367
+    second: Ekans_69
+  - first:
+      213: 1723589199104914867
+    second: Ekans_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ekans_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 428
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f0da02f9482fa0800000000000000
+      internalID: -5825324814091356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 428
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6265319a92aad0800000000000000
+      internalID: -2692419678757557120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 427
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa438577995da0b70800000000000000
+      internalID: 8866133671541224623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 427
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db9d80bbe900a430800000000000000
+      internalID: 3792041794129992657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 427
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd8244a72737c6c0800000000000000
+      internalID: -4123266290435322426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 427
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47426557c283bdcf0800000000000000
+      internalID: -226525592653781900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 427
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ccd1c6dbed2b50800000000000000
+      internalID: 6570166739011422434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 427
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f67e6e82f79fa6d0800000000000000
+      internalID: -2976993760641124616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 426
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafa2e73671b2a130800000000000000
+      internalID: 3576616175387455406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 426
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e075ea606a5670800000000000000
+      internalID: 8528234856611636853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 367
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46125935426429390800000000000000
+      internalID: -7813105281699339932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 367
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edbf3b85a2d36a0800000000000000
+      internalID: -6467966929369047475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 367
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd861c9aa64364c0800000000000000
+      internalID: -4295511921004212812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 367
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73868794486be7510800000000000000
+      internalID: 1548876001146595383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 367
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fe4ad180859e280800000000000000
+      internalID: -9013576387325006054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 367
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77c334e9e77e830800000000000000
+      internalID: 4100385203942094776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 368
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e5503ba8be81ac0800000000000000
+      internalID: -3884095697665565054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 368
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8d788aedb4d0e0800000000000000
+      internalID: -2245961499141108156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 368
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d66a3152ba5d6f0800000000000000
+      internalID: -660433594608095999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 368
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ccf69c7950c9a40800000000000000
+      internalID: 5376178204651277401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 307
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877a98153b714480800000000000000
+      internalID: -8916710319240611954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f573f0872e473500800000000000000
+      internalID: 375855025482855926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 307
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ade55ca262c700800000000000000
+      internalID: 559117796062898657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 307
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c73b6d399aa03080800000000000000
+      internalID: -9209673662835509305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 307
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e47e7a1df312450800000000000000
+      internalID: 6062196743115067007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 307
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ec9edcad8e78e0800000000000000
+      internalID: -1693760636236011826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 306
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d459a6bdf563f0800000000000000
+      internalID: -908040788878502958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 306
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d80c6b062816c40800000000000000
+      internalID: 5503823571518000428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 307
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9b325eb07300a0800000000000000
+      internalID: -6916560639985213701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 307
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaf1e8871220df30800000000000000
+      internalID: 4598212704021379770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e829786e3fc9260800000000000000
+      internalID: 7105822483526356516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 247
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e3c9ec930f11290800000000000000
+      internalID: -7921286138497843629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 247
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71767ee29ac8722d0800000000000000
+      internalID: -3303517143388690665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 247
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a9c884fd880a290800000000000000
+      internalID: -7881148855322109349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 248
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e71bed7d8e919060800000000000000
+      internalID: 6958517229804263393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 248
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04efd0640f20b5ec0800000000000000
+      internalID: -3577262248024998336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_36
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 248
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0703a87e7d675190800000000000000
+      internalID: -7973784225278916849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 248
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d1dfde8da9b7a0800000000000000
+      internalID: -6360862169532083872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 247
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9a14f71f1123300800000000000000
+      internalID: 230266259869116882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_39
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 247
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffd6751ae288c4c0800000000000000
+      internalID: -4267016705039474696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 187
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a9a0b11f4fb3e30800000000000000
+      internalID: 4484447170355436185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 187
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dbc0b10857d3100800000000000000
+      internalID: 89356760687361354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 187
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c3c24fe2cba020800000000000000
+      internalID: 2354189563104313767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 187
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7b3c01398b8300800000000000000
+      internalID: 255448647628192564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 186
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9289321509dc66e0800000000000000
+      internalID: -1842859531697552742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 186
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252059bce6986170800000000000000
+      internalID: 8171947467329250604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 187
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86b5ba12b2d4cd0800000000000000
+      internalID: -2572352388549875536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_47
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 187
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e0285b31728cd0800000000000000
+      internalID: -2557357138697460573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_48
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 187
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446117900a0bc330800000000000000
+      internalID: 3732087713857365063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_49
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 187
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7153d7b36ef35cc0800000000000000
+      internalID: -3723352762665971330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6990669f5f33a0800000000000000
+      internalID: -6683518222524125622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067da1b5182f4560800000000000000
+      internalID: 7300097594631222799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 128
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d468a73d109b470800000000000000
+      internalID: 8410755786896461204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a4d07ae0572860800000000000000
+      internalID: 7505056271881774759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8023ce7cff454c20800000000000000
+      internalID: 3190043856938934410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 128
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ca54df2e0723fa0800000000000000
+      internalID: -5822467248022508465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_56
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 127
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be14a08fffafa30800000000000000
+      internalID: 4249990639166548828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_57
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 127
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc05f33d687f9690800000000000000
+      internalID: -7593218036304900865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_58
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 127
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037f5e26ff3e53c0800000000000000
+      internalID: -4368984261930290428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_59
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 127
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03b656be1dea640800000000000000
+      internalID: 5093239037551653053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa5fc9da57ba890800000000000000
+      internalID: -7445728170403845413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 67
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1a3dabcbd450c0800000000000000
+      internalID: -4587800452552581228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 66
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a04a8cdb7e611c0800000000000000
+      internalID: -4533181172600796555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_63
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be6eafed2b6a120800000000000000
+      internalID: 2424822120147512134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_64
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 67
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f97f98fd049e00f0800000000000000
+      internalID: -1148818067206211079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_65
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 67
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7315867c8aeb55d40800000000000000
+      internalID: 5572569746050142519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 67
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a1c61e4b8d6870800000000000000
+      internalID: 8677745224518312088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 67
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222204e55ba464ab0800000000000000
+      internalID: -5024246191454412254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_68
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 67
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a4d86ed085ec860800000000000000
+      internalID: 7552070441872738881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_69
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 67
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f551c185f6f96d970800000000000000
+      internalID: 8779379824173782367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ekans_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5395f9e3b6be710800000000000000
+      internalID: 1723589199104914867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

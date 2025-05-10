@@ -1,0 +1,3317 @@
+fileFormatVersion: 2
+guid: 0ac1a43d8234d3c4d9b293658d081020
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -119000405186951532
+    second: Cyndaquil_0
+  - first:
+      213: 8008720603079664275
+    second: Cyndaquil_1
+  - first:
+      213: -2948830455482874028
+    second: Cyndaquil_2
+  - first:
+      213: -3192299143416014623
+    second: Cyndaquil_3
+  - first:
+      213: -4777089386964379505
+    second: Cyndaquil_4
+  - first:
+      213: 6685121061598071484
+    second: Cyndaquil_5
+  - first:
+      213: 3477553494276564059
+    second: Cyndaquil_6
+  - first:
+      213: -4721270210750272239
+    second: Cyndaquil_7
+  - first:
+      213: 6459165026230787355
+    second: Cyndaquil_8
+  - first:
+      213: 8466867758451800581
+    second: Cyndaquil_9
+  - first:
+      213: -2618864398546366644
+    second: Cyndaquil_10
+  - first:
+      213: 5120189977635187954
+    second: Cyndaquil_11
+  - first:
+      213: -6466177223548507969
+    second: Cyndaquil_12
+  - first:
+      213: 6250651849378214765
+    second: Cyndaquil_13
+  - first:
+      213: -8386950699128058040
+    second: Cyndaquil_14
+  - first:
+      213: -7113076326664179880
+    second: Cyndaquil_15
+  - first:
+      213: -6564793576525397003
+    second: Cyndaquil_16
+  - first:
+      213: 8319342157941963241
+    second: Cyndaquil_17
+  - first:
+      213: -3177832199121486954
+    second: Cyndaquil_18
+  - first:
+      213: 3112015181683149606
+    second: Cyndaquil_19
+  - first:
+      213: -9079260480731870508
+    second: Cyndaquil_20
+  - first:
+      213: 3587809448248795791
+    second: Cyndaquil_21
+  - first:
+      213: -2688166856252259326
+    second: Cyndaquil_22
+  - first:
+      213: 6104167154040647517
+    second: Cyndaquil_23
+  - first:
+      213: 3658809872396103103
+    second: Cyndaquil_24
+  - first:
+      213: 966912361425919364
+    second: Cyndaquil_25
+  - first:
+      213: 6503312220629336568
+    second: Cyndaquil_26
+  - first:
+      213: -2687821253165868550
+    second: Cyndaquil_27
+  - first:
+      213: 5296376563649138426
+    second: Cyndaquil_28
+  - first:
+      213: 5429110908032101730
+    second: Cyndaquil_29
+  - first:
+      213: 2832024509394639983
+    second: Cyndaquil_30
+  - first:
+      213: -4092681836677517309
+    second: Cyndaquil_31
+  - first:
+      213: 4768065752204769605
+    second: Cyndaquil_32
+  - first:
+      213: -7567646677015316817
+    second: Cyndaquil_33
+  - first:
+      213: -1999659136197020367
+    second: Cyndaquil_34
+  - first:
+      213: 9059672619157110437
+    second: Cyndaquil_35
+  - first:
+      213: 6183615722272729919
+    second: Cyndaquil_36
+  - first:
+      213: -3752212080536479678
+    second: Cyndaquil_37
+  - first:
+      213: 2584848036361757251
+    second: Cyndaquil_38
+  - first:
+      213: 8034666309821730627
+    second: Cyndaquil_39
+  - first:
+      213: -5723266663282498296
+    second: Cyndaquil_40
+  - first:
+      213: -833949954987400454
+    second: Cyndaquil_41
+  - first:
+      213: 7683857116956067268
+    second: Cyndaquil_42
+  - first:
+      213: 9126962457441791316
+    second: Cyndaquil_43
+  - first:
+      213: -7895713235207605155
+    second: Cyndaquil_44
+  - first:
+      213: 7000724202535774086
+    second: Cyndaquil_45
+  - first:
+      213: 7388677839675553678
+    second: Cyndaquil_46
+  - first:
+      213: -2766684811002659301
+    second: Cyndaquil_47
+  - first:
+      213: -595190967647150518
+    second: Cyndaquil_48
+  - first:
+      213: -166063001799974030
+    second: Cyndaquil_49
+  - first:
+      213: -5136080192296869318
+    second: Cyndaquil_50
+  - first:
+      213: 6848277193437027286
+    second: Cyndaquil_51
+  - first:
+      213: -6992511770203114971
+    second: Cyndaquil_52
+  - first:
+      213: 5540398007024482959
+    second: Cyndaquil_53
+  - first:
+      213: 7505254207142612901
+    second: Cyndaquil_54
+  - first:
+      213: 8197506397098889493
+    second: Cyndaquil_55
+  - first:
+      213: -8035635564530468877
+    second: Cyndaquil_56
+  - first:
+      213: -1098435684407283283
+    second: Cyndaquil_57
+  - first:
+      213: 5512998886465923362
+    second: Cyndaquil_58
+  - first:
+      213: -773892362205710995
+    second: Cyndaquil_59
+  - first:
+      213: 2699048857339605614
+    second: Cyndaquil_60
+  - first:
+      213: -4529629244663904468
+    second: Cyndaquil_61
+  - first:
+      213: -4956796243669302679
+    second: Cyndaquil_62
+  - first:
+      213: -7103553832338025091
+    second: Cyndaquil_63
+  - first:
+      213: -1669280154978957568
+    second: Cyndaquil_64
+  - first:
+      213: 8371611142325600943
+    second: Cyndaquil_65
+  - first:
+      213: 174520110056923907
+    second: Cyndaquil_66
+  - first:
+      213: 959228465579679414
+    second: Cyndaquil_67
+  - first:
+      213: 6141146836470480363
+    second: Cyndaquil_68
+  - first:
+      213: -4693597623267189573
+    second: Cyndaquil_69
+  - first:
+      213: -4894253302977099656
+    second: Cyndaquil_70
+  - first:
+      213: -2745435408696136066
+    second: Cyndaquil_71
+  - first:
+      213: -1706028966237478962
+    second: Cyndaquil_72
+  - first:
+      213: -1974509689042557947
+    second: Cyndaquil_73
+  - first:
+      213: 3505681103927415139
+    second: Cyndaquil_74
+  - first:
+      213: 6219495100200712150
+    second: Cyndaquil_75
+  - first:
+      213: 6377099092558769026
+    second: Cyndaquil_76
+  - first:
+      213: 7109556256667974198
+    second: Cyndaquil_77
+  - first:
+      213: -2090941835442775409
+    second: Cyndaquil_78
+  - first:
+      213: -4222824978289085794
+    second: Cyndaquil_79
+  - first:
+      213: -115480340559724119
+    second: Cyndaquil_80
+  - first:
+      213: 3568463834262822524
+    second: Cyndaquil_81
+  - first:
+      213: 5107844606480209558
+    second: Cyndaquil_82
+  - first:
+      213: 4415893410544381885
+    second: Cyndaquil_83
+  - first:
+      213: -5415964437817112848
+    second: Cyndaquil_84
+  - first:
+      213: 8421386678859187209
+    second: Cyndaquil_85
+  - first:
+      213: -149481410120193374
+    second: Cyndaquil_86
+  - first:
+      213: 2791374026215973274
+    second: Cyndaquil_87
+  - first:
+      213: 2204646961951187896
+    second: Cyndaquil_88
+  - first:
+      213: 6846001639447581909
+    second: Cyndaquil_89
+  - first:
+      213: -3484247600138755745
+    second: Cyndaquil_90
+  - first:
+      213: -3553449251128737914
+    second: Cyndaquil_91
+  - first:
+      213: -1078436190867722311
+    second: Cyndaquil_92
+  - first:
+      213: 4157629059377486005
+    second: Cyndaquil_93
+  - first:
+      213: -3977063208513216228
+    second: Cyndaquil_94
+  - first:
+      213: -4306831074342278261
+    second: Cyndaquil_95
+  - first:
+      213: -1928408646954868293
+    second: Cyndaquil_96
+  - first:
+      213: 4384714756166819424
+    second: Cyndaquil_97
+  - first:
+      213: -8044321906529039530
+    second: Cyndaquil_98
+  - first:
+      213: 1167041631186189414
+    second: Cyndaquil_99
+  - first:
+      213: 2092862385187898585
+    second: Cyndaquil_100
+  - first:
+      213: 5210782708572723123
+    second: Cyndaquil_101
+  - first:
+      213: 8613317307001926501
+    second: Cyndaquil_102
+  - first:
+      213: 202801924199824554
+    second: Cyndaquil_103
+  - first:
+      213: -7073711309257216900
+    second: Cyndaquil_104
+  - first:
+      213: 1983574550172190281
+    second: Cyndaquil_105
+  - first:
+      213: -3553794730878280280
+    second: Cyndaquil_106
+  - first:
+      213: 8006083972478770635
+    second: Cyndaquil_107
+  - first:
+      213: -715279102902586566
+    second: Cyndaquil_108
+  - first:
+      213: 1500984248998794551
+    second: Cyndaquil_109
+  - first:
+      213: 8138205819082016336
+    second: Cyndaquil_110
+  - first:
+      213: 8356791483240194432
+    second: Cyndaquil_111
+  - first:
+      213: 7555358771518239064
+    second: Cyndaquil_112
+  - first:
+      213: 3261660872076926345
+    second: Cyndaquil_113
+  - first:
+      213: 7954458249131372687
+    second: Cyndaquil_114
+  - first:
+      213: 4625258180248328419
+    second: Cyndaquil_115
+  - first:
+      213: 7670853776193066837
+    second: Cyndaquil_116
+  - first:
+      213: -446601782997649521
+    second: Cyndaquil_117
+  - first:
+      213: -7110899344538064082
+    second: Cyndaquil_118
+  - first:
+      213: -7860183803990611926
+    second: Cyndaquil_119
+  - first:
+      213: -3081447804284774060
+    second: Cyndaquil_120
+  - first:
+      213: -7847457023586745338
+    second: Cyndaquil_121
+  - first:
+      213: 8962368833766904292
+    second: Cyndaquil_122
+  - first:
+      213: -528355081760469790
+    second: Cyndaquil_123
+  - first:
+      213: -1685164275215121364
+    second: Cyndaquil_124
+  - first:
+      213: -5234298524736151043
+    second: Cyndaquil_125
+  - first:
+      213: -7712027279142096465
+    second: Cyndaquil_126
+  - first:
+      213: 105583381532401630
+    second: Cyndaquil_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyndaquil_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 568
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49644b013c9395ef0800000000000000
+      internalID: -119000405186951532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 568
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3926aebd4f0b42f60800000000000000
+      internalID: 8008720603079664275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 568
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45707160356a317d0800000000000000
+      internalID: -2948830455482874028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 568
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e897e3b7dca2b3d0800000000000000
+      internalID: -3192299143416014623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 568
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8813bd338e54bdb0800000000000000
+      internalID: -4777089386964379505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 568
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba090daf2256cc50800000000000000
+      internalID: 6685121061598071484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 568
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e5c96a70c24030800000000000000
+      internalID: 3477553494276564059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da897f1cdaa7eb0800000000000000
+      internalID: -4721270210750272239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 568
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ddc168e5093a950800000000000000
+      internalID: 6459165026230787355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 568
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3abeed5b508570800000000000000
+      internalID: 8466867758451800581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 521
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0ab174bce7abd0800000000000000
+      internalID: -2618864398546366644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 521
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce57f18a19e0740800000000000000
+      internalID: 5120189977635187954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 521
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb86baf03168346a0800000000000000
+      internalID: -6466177223548507969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 521
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63b3d85db6ceb650800000000000000
+      internalID: 6250651849378214765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 521
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f02cd66c09b9b80800000000000000
+      internalID: -8386950699128058040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 521
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe0f084c6494d90800000000000000
+      internalID: -7113076326664179880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 521
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3007f160b25e4a0800000000000000
+      internalID: -6564793576525397003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 521
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ff096d9d347370800000000000000
+      internalID: 8319342157941963241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 521
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb097a37216e3d0800000000000000
+      internalID: -3177832199121486954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 521
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bc8dfc159103b20800000000000000
+      internalID: 3112015181683149606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 474
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da0cbe52bcfff180800000000000000
+      internalID: -9079260480731870508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 474
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82e8a42fa57ac130800000000000000
+      internalID: 3587809448248795791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 474
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2040b1c9c76b1bad0800000000000000
+      internalID: -2688166856252259326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 474
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f23327fab56b450800000000000000
+      internalID: 6104167154040647517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 474
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdacd89134b6c230800000000000000
+      internalID: 3658809872396103103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 474
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dd9b77ba92b6d00800000000000000
+      internalID: 966912361425919364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 474
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f181163208604a50800000000000000
+      internalID: 6503312220629336568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 474
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af99d499fc0f2bad0800000000000000
+      internalID: -2687821253165868550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 474
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afec2095c62808940800000000000000
+      internalID: 5296376563649138426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 474
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26da37f2b93185b40800000000000000
+      internalID: 5429110908032101730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 427
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cdaad594f5d4720800000000000000
+      internalID: 2832024509394639983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 427
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b422bd8fd337c0800000000000000
+      internalID: -4092681836677517309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 427
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549fed11a829b2240800000000000000
+      internalID: 4768065752204769605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 427
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa636de31715af690800000000000000
+      internalID: -7567646677015316817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 427
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135bc1b3c98cf34e0800000000000000
+      internalID: -1999659136197020367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 427
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae31363f3c6abd70800000000000000
+      internalID: 9059672619157110437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 427
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2699bcbd90d550800000000000000
+      internalID: 6183615722272729919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 427
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24891b92ef67debc0800000000000000
+      internalID: -3752212080536479678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 427
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34265bd08993fd320800000000000000
+      internalID: 2584848036361757251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 427
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f09b5707ed08f60800000000000000
+      internalID: 8034666309821730627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 380
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805263cfa4fd290b0800000000000000
+      internalID: -5723266663282498296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 380
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e5843fe63d64f0800000000000000
+      internalID: -833949954987400454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 380
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c50609465b82aa60800000000000000
+      internalID: 7683857116956067268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 380
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de4229ffb79ae70800000000000000
+      internalID: 9126962457441791316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 380
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b91755aacc6290800000000000000
+      internalID: -7895713235207605155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 380
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ef9e1291972160800000000000000
+      internalID: 7000724202535774086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 380
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8779a9295bd98660800000000000000
+      internalID: 7388677839675553678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 380
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eb7baa2d2ca99d0800000000000000
+      internalID: -2766684811002659301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 380
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eded7e7f47db7f0800000000000000
+      internalID: -595190967647150518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 380
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273a067649602bdf0800000000000000
+      internalID: -166063001799974030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 333
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a938f64af8b8b0800000000000000
+      internalID: -5136080192296869318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 333
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db193ed2d7f90f50800000000000000
+      internalID: 6848277193437027286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 333
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223e49c79b95fe90800000000000000
+      internalID: -6992511770203114971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 333
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8af9f212a273ec40800000000000000
+      internalID: 5540398007024482959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 333
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afcdb5dfe4082860800000000000000
+      internalID: 7505254207142612901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 333
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511521bc2a463c170800000000000000
+      internalID: 8197506397098889493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_56
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 333
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77aa75700bb7090800000000000000
+      internalID: -8035635564530468877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 333
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da17a46909291c0f0800000000000000
+      internalID: -1098435684407283283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 333
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229ece2374b128c40800000000000000
+      internalID: 5512998886465923362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_59
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 333
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6537503ff49245f0800000000000000
+      internalID: -773892362205710995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b625b2a2f47520800000000000000
+      internalID: 2699048857339605614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 286
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27469373368321c0800000000000000
+      internalID: -4529629244663904468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 286
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962c910241ce53bb0800000000000000
+      internalID: -4956796243669302679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 286
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7590acfc6b1b6d90800000000000000
+      internalID: -7103553832338025091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_64
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 286
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007ced31b8685d8e0800000000000000
+      internalID: -1669280154978957568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 286
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa20500baffed2470800000000000000
+      internalID: 8371611142325600943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 286
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ea1e8d150c6200800000000000000
+      internalID: 174520110056923907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 286
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed15d053ddf4d00800000000000000
+      internalID: 959228465579679414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_68
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3655b28cb93550800000000000000
+      internalID: 6141146836470480363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 286
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc9a8254ddfcdeb0800000000000000
+      internalID: -4693597623267189573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87884434d8e141cb0800000000000000
+      internalID: -4894253302977099656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 239
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e23eeaa0146e9d0800000000000000
+      internalID: -2745435408696136066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 239
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf53e2b1b7f258e0800000000000000
+      internalID: -1706028966237478962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 239
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042d0336e12994e0800000000000000
+      internalID: -1974509689042557947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 239
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361946fd36ea6a030800000000000000
+      internalID: 3505681103927415139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 239
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7feb167d5105650800000000000000
+      internalID: 6219495100200712150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 239
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b6e6d56d1008850800000000000000
+      internalID: 6377099092558769026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 239
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab9555fb73aa260800000000000000
+      internalID: 7109556256667974198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_78
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 239
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1e6c9a7b7bf2e0800000000000000
+      internalID: -2090941835442775409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 239
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92be644e038565c0800000000000000
+      internalID: -4222824978289085794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1856afd3bb56ef0800000000000000
+      internalID: -115480340559724119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 192
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e501363fab58130800000000000000
+      internalID: 3568463834262822524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d5296b95b2e640800000000000000
+      internalID: 5107844606480209558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6c7519a7684d30800000000000000
+      internalID: 4415893410544381885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 192
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f643cfe901a6d4b0800000000000000
+      internalID: -5415964437817112848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_85
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 192
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904cb95e096ced470800000000000000
+      internalID: 8421386678859187209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 192
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aae241137fecedf0800000000000000
+      internalID: -149481410120193374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 192
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ead333e3fcb620800000000000000
+      internalID: 2791374026215973274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 192
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3ae3e2bba789e10800000000000000
+      internalID: 2204646961951187896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_89
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 192
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4d30b2832e10f50800000000000000
+      internalID: 6846001639447581909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 145
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51e83c944775afc0800000000000000
+      internalID: -3484247600138755745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 145
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ff71babbc9faec0800000000000000
+      internalID: -3553449251128737914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 145
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf676a8fff9801f0800000000000000
+      internalID: -1078436190867722311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 145
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85908f99dd2b930800000000000000
+      internalID: 4157629059377486005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 145
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116b4f4512aec8c0800000000000000
+      internalID: -3977063208513216228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_95
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 145
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be63ad4ff0b34c0800000000000000
+      internalID: -4306831074342278261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 145
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a6708d8aec35e0800000000000000
+      internalID: -1928408646954868293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 145
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e9cbae6d2a9dc30800000000000000
+      internalID: 4384714756166819424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 145
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b817eb8d3dc5090800000000000000
+      internalID: -8044321906529039530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_99
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 145
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cf1f82e2a223010800000000000000
+      internalID: 1167041631186189414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c6e830475b0d10800000000000000
+      internalID: 2092862385187898585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 98
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7993af34b605840800000000000000
+      internalID: 5210782708572723123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f2959476a88770800000000000000
+      internalID: 8613317307001926501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac32bb864f70d200800000000000000
+      internalID: 202801924199824554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_104
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 98
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c6f08da0125dd90800000000000000
+      internalID: -7073711309257216900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 98
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c4804b82178b10800000000000000
+      internalID: 1983574550172190281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 98
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad585565826eaec0800000000000000
+      internalID: -3553794730878280280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9b8574f25b1f60800000000000000
+      internalID: 8006083972478770635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 98
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333b341271d216f0800000000000000
+      internalID: -715279102902586566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 98
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735970fc83194d410800000000000000
+      internalID: 1500984248998794551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_110
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 51
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056866b0317b0f070800000000000000
+      internalID: 8138205819082016336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_111
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 51
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081aa8ce39949f370800000000000000
+      internalID: 8356791483240194432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_112
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 51
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f9fec5c60ad860800000000000000
+      internalID: 7555358771518239064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9fe9384fb34d20800000000000000
+      internalID: 3261660872076926345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_114
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 51
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80b62012a9e36e60800000000000000
+      internalID: 7954458249131372687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_115
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 51
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8db2c2fc7303040800000000000000
+      internalID: 4625258180248328419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_116
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 51
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55793f51ed8547a60800000000000000
+      internalID: 7670853776193066837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 51
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f877e586b0a5dc9f0800000000000000
+      internalID: -446601782997649521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_118
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 51
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b2047a8b2015d90800000000000000
+      internalID: -7110899344538064082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_119
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 51
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a286cdda9740be290800000000000000
+      internalID: -7860183803990611926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d2b75c8f7c35d0800000000000000
+      internalID: -3081447804284774060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_121
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604c7f62a6b381390800000000000000
+      internalID: -7847457023586745338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_122
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e155ba38fab06c70800000000000000
+      internalID: 8962368833766904292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_123
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec056c3ad7eaa8f0800000000000000
+      internalID: -528355081760469790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_124
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24cf9325081d98e0800000000000000
+      internalID: -1685164275215121364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df120c869390c57b0800000000000000
+      internalID: -5234298524736151043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_126
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1fc98bc0069f490800000000000000
+      internalID: -7712027279142096465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyndaquil_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf5c6ea68b177100800000000000000
+      internalID: 105583381532401630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

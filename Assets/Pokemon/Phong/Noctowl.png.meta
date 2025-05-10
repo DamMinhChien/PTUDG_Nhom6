@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: 3abc6c36634ef5241ae742955c441558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3223862956903745140
+    second: Noctowl_0
+  - first:
+      213: -3887151646739275793
+    second: Noctowl_1
+  - first:
+      213: 3774594577291142096
+    second: Noctowl_2
+  - first:
+      213: -2274352966649050191
+    second: Noctowl_3
+  - first:
+      213: -8843246056915576547
+    second: Noctowl_4
+  - first:
+      213: -4345271376260568707
+    second: Noctowl_5
+  - first:
+      213: 4252684974065818648
+    second: Noctowl_6
+  - first:
+      213: -607975601685324886
+    second: Noctowl_7
+  - first:
+      213: 4948467037445285008
+    second: Noctowl_8
+  - first:
+      213: -4598846555507910707
+    second: Noctowl_9
+  - first:
+      213: -8223063177318620975
+    second: Noctowl_10
+  - first:
+      213: 7022390209686877726
+    second: Noctowl_11
+  - first:
+      213: -6998958925930284434
+    second: Noctowl_12
+  - first:
+      213: 8686510241740106741
+    second: Noctowl_13
+  - first:
+      213: -3005519383114364373
+    second: Noctowl_14
+  - first:
+      213: 4390304775874009892
+    second: Noctowl_15
+  - first:
+      213: -4642574343285384492
+    second: Noctowl_16
+  - first:
+      213: 6888350898391176084
+    second: Noctowl_17
+  - first:
+      213: -3711138640438119803
+    second: Noctowl_18
+  - first:
+      213: 1599274711001733371
+    second: Noctowl_19
+  - first:
+      213: 3455707976446807858
+    second: Noctowl_20
+  - first:
+      213: -8596784617177977729
+    second: Noctowl_21
+  - first:
+      213: 3666437435264803666
+    second: Noctowl_22
+  - first:
+      213: 8300571977840614593
+    second: Noctowl_23
+  - first:
+      213: 1473163596378720383
+    second: Noctowl_24
+  - first:
+      213: 1446261632656259218
+    second: Noctowl_25
+  - first:
+      213: 2650631379236581946
+    second: Noctowl_26
+  - first:
+      213: -9061694659796959625
+    second: Noctowl_27
+  - first:
+      213: 5210366021794277866
+    second: Noctowl_28
+  - first:
+      213: -318270258830462617
+    second: Noctowl_29
+  - first:
+      213: -8178199411921083819
+    second: Noctowl_30
+  - first:
+      213: 6614098612518971758
+    second: Noctowl_31
+  - first:
+      213: -3452296136777049874
+    second: Noctowl_32
+  - first:
+      213: -5911794076139461181
+    second: Noctowl_33
+  - first:
+      213: 3592939095131400421
+    second: Noctowl_34
+  - first:
+      213: -7287415575514337814
+    second: Noctowl_35
+  - first:
+      213: 7311230657417449567
+    second: Noctowl_36
+  - first:
+      213: 1696819403671654218
+    second: Noctowl_37
+  - first:
+      213: 2964876039136541014
+    second: Noctowl_38
+  - first:
+      213: 4729303315487054861
+    second: Noctowl_39
+  - first:
+      213: -7955777576194562333
+    second: Noctowl_40
+  - first:
+      213: 5630562749434206717
+    second: Noctowl_41
+  - first:
+      213: -1018638532933829913
+    second: Noctowl_42
+  - first:
+      213: -7848635249866869539
+    second: Noctowl_43
+  - first:
+      213: 5740547325814756882
+    second: Noctowl_44
+  - first:
+      213: -8340019856068098660
+    second: Noctowl_45
+  - first:
+      213: 495580524567378479
+    second: Noctowl_46
+  - first:
+      213: 9073573537532570394
+    second: Noctowl_47
+  - first:
+      213: -540016097778358415
+    second: Noctowl_48
+  - first:
+      213: 1653539463971406345
+    second: Noctowl_49
+  - first:
+      213: 3599475678526147347
+    second: Noctowl_50
+  - first:
+      213: -3469146683478487210
+    second: Noctowl_51
+  - first:
+      213: -1964729690536017577
+    second: Noctowl_52
+  - first:
+      213: -6042172673309667585
+    second: Noctowl_53
+  - first:
+      213: 1537470831507558353
+    second: Noctowl_54
+  - first:
+      213: 1992909268524716065
+    second: Noctowl_55
+  - first:
+      213: 778537867367268125
+    second: Noctowl_56
+  - first:
+      213: -8321601286035977601
+    second: Noctowl_57
+  - first:
+      213: -5824220247056046367
+    second: Noctowl_58
+  - first:
+      213: -2816765748469151883
+    second: Noctowl_59
+  - first:
+      213: 3558723238248420019
+    second: Noctowl_60
+  - first:
+      213: -3871406350832828443
+    second: Noctowl_61
+  - first:
+      213: 2534254474617114347
+    second: Noctowl_62
+  - first:
+      213: 5748915074224161542
+    second: Noctowl_63
+  - first:
+      213: 4515269469295526720
+    second: Noctowl_64
+  - first:
+      213: 8441865956295762918
+    second: Noctowl_65
+  - first:
+      213: 6469854669867462085
+    second: Noctowl_66
+  - first:
+      213: -3617280155991785545
+    second: Noctowl_67
+  - first:
+      213: -3775717827566921731
+    second: Noctowl_68
+  - first:
+      213: -8027677196222115397
+    second: Noctowl_69
+  - first:
+      213: 5029311487504463233
+    second: Noctowl_70
+  - first:
+      213: -8326603857799491835
+    second: Noctowl_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Noctowl_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893631b8b98243d0800000000000000
+      internalID: -3223862956903745140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 491
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd70c1c201e0ac0800000000000000
+      internalID: -3887151646739275793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 491
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ed86f4cd026430800000000000000
+      internalID: 3774594577291142096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 491
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0701e600ef60e0800000000000000
+      internalID: -2274352966649050191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 491
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d195c24909a764580800000000000000
+      internalID: -8843246056915576547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 491
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e05d94be72b3c0800000000000000
+      internalID: -4345271376260568707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 491
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c95d4c372940b30800000000000000
+      internalID: 4252684974065818648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 491
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab117559690097f0800000000000000
+      internalID: -607975601685324886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 491
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094e7ad6d8c7ca440800000000000000
+      internalID: 4948467037445285008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 491
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71c6a6c6d9d20c0800000000000000
+      internalID: -4598846555507910707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0245e9b9fc1ed80800000000000000
+      internalID: -8223063177318620975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 421
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16319280ba847160800000000000000
+      internalID: 7022390209686877726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 421
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a306e50f3bede90800000000000000
+      internalID: -6998958925930284434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 421
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb26b0ba0fac8870800000000000000
+      internalID: 8686510241740106741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 421
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2acae38b004a46d0800000000000000
+      internalID: -3005519383114364373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 421
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bdbadceee7dec30800000000000000
+      internalID: 4390304775874009892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 421
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad1217b33429fb0800000000000000
+      internalID: -4642574343285384492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 421
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49359d265a6589f50800000000000000
+      internalID: 6888350898391176084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 421
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b578a1136f7cc0800000000000000
+      internalID: -3711138640438119803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 421
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8168750e3c13610800000000000000
+      internalID: 1599274711001733371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f889f681425ff20800000000000000
+      internalID: 3455707976446807858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 351
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c609a30f512b880800000000000000
+      internalID: -8596784617177977729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532728fb6dc1e230800000000000000
+      internalID: 3666437435264803666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 351
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc50cb4c3e813370800000000000000
+      internalID: 8300571977840614593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 351
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78c03a5c7ab17410800000000000000
+      internalID: 1473163596378720383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 351
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b0c2da47221410800000000000000
+      internalID: 1446261632656259218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 351
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3276ed123fe8c420800000000000000
+      internalID: 2650631379236581946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 351
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e7fb3c7b46e3280800000000000000
+      internalID: -9061694659796959625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 351
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae920d68a40fe4840800000000000000
+      internalID: 5210366021794277866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 351
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b6d7c2e6459bf0800000000000000
+      internalID: -318270258830462617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 281
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a22ef6f2318e80800000000000000
+      internalID: -8178199411921083819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 281
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69e89425aff9cb50800000000000000
+      internalID: 6614098612518971758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 281
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee853f364faf610d0800000000000000
+      internalID: -3452296136777049874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 281
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e27a1c9615fda0800000000000000
+      internalID: -5911794076139461181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 281
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8abe0221facd130800000000000000
+      internalID: 3592939095131400421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 281
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeda1daf426edda90800000000000000
+      internalID: -7287415575514337814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 281
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50105edb85b67560800000000000000
+      internalID: 7311230657417449567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 281
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc6dbe1405c8710800000000000000
+      internalID: 1696819403671654218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 281
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659fccb8c0b552920800000000000000
+      internalID: 2964876039136541014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 281
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cdeaafe4cd1a140800000000000000
+      internalID: 4729303315487054861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a7ea2276679190800000000000000
+      internalID: -7955777576194562333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df992951df6c32e40800000000000000
+      internalID: 5630562749434206717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 211
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea34f9b6a11dd1f0800000000000000
+      internalID: -1018638532933829913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 211
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd47318f2db041390800000000000000
+      internalID: -7848635249866869539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 211
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216d18bc0658aaf40800000000000000
+      internalID: 5740547325814756882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 211
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954b53d02c424c80800000000000000
+      internalID: -8340019856068098660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 211
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab0748cd7a0e600800000000000000
+      internalID: 495580524567378479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 211
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b630cfe0fcbed70800000000000000
+      internalID: 9073573537532570394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 211
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177adee583a7188f0800000000000000
+      internalID: -540016097778358415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 211
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9020b14b16d82f610800000000000000
+      internalID: 1653539463971406345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b853c0f08e3f130800000000000000
+      internalID: 3599475678526147347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f4a81c87d1bdfc0800000000000000
+      internalID: -3469146683478487210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 141
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75100fb81c0ebb4e0800000000000000
+      internalID: -1964729690536017577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 141
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe0ec767f3e52ca0800000000000000
+      internalID: -6042172673309667585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 141
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df488c4391365510800000000000000
+      internalID: 1537470831507558353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 141
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120dffbbb6c38ab10800000000000000
+      internalID: 1992909268524716065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 141
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fbd94c01cedca00800000000000000
+      internalID: 778537867367268125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 141
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a446758bbb38c80800000000000000
+      internalID: -8321601286035977601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 141
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e626981b863c2fa0800000000000000
+      internalID: -5824220247056046367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 141
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774203c976d8e8d0800000000000000
+      internalID: -2816765748469151883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b299b52eef136130800000000000000
+      internalID: 3558723238248420019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 71
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5effa6d7f60064ac0800000000000000
+      internalID: -3871406350832828443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee4ff1840b7b2320800000000000000
+      internalID: 2534254474617114347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 71
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603050b0dcf38cf40800000000000000
+      internalID: 5748915074224161542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c68ec8a579ae30800000000000000
+      internalID: 4515269469295526720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3e87e3c58872570800000000000000
+      internalID: 8441865956295762918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2ad12b8a89c950800000000000000
+      internalID: 6469854669867462085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 71
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf3a010dd6dccdc0800000000000000
+      internalID: -3617280155991785545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 71
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df793c3f3a4f99bc0800000000000000
+      internalID: -3775717827566921731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb15dab5f16f79090800000000000000
+      internalID: -8027677196222115397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185be75c624bbc540800000000000000
+      internalID: 5029311487504463233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noctowl_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc67658e5f17c80800000000000000
+      internalID: -8326603857799491835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

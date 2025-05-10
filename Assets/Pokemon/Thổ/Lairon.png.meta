@@ -1,0 +1,2992 @@
+fileFormatVersion: 2
+guid: 241501d889d4ce5489cf853a95d2e5ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6274266347137144864
+    second: Lairon_0
+  - first:
+      213: 7607754541189038041
+    second: Lairon_1
+  - first:
+      213: 1196020358522386544
+    second: Lairon_2
+  - first:
+      213: -8812588730993035003
+    second: Lairon_3
+  - first:
+      213: 3099745641668520699
+    second: Lairon_4
+  - first:
+      213: 882884182405785760
+    second: Lairon_5
+  - first:
+      213: -2584078737658013547
+    second: Lairon_6
+  - first:
+      213: -3745521196715667
+    second: Lairon_7
+  - first:
+      213: 4091978043470907120
+    second: Lairon_8
+  - first:
+      213: -676561484111602968
+    second: Lairon_9
+  - first:
+      213: -4195322353271850212
+    second: Lairon_10
+  - first:
+      213: -1623153536454028268
+    second: Lairon_11
+  - first:
+      213: 1190214516057229297
+    second: Lairon_12
+  - first:
+      213: -5402266270903921946
+    second: Lairon_13
+  - first:
+      213: -6981318916381176089
+    second: Lairon_14
+  - first:
+      213: 2286740188320901072
+    second: Lairon_15
+  - first:
+      213: -8981596179093172303
+    second: Lairon_16
+  - first:
+      213: -1567348287906753413
+    second: Lairon_17
+  - first:
+      213: 8470149390570693728
+    second: Lairon_18
+  - first:
+      213: 6059656681269244319
+    second: Lairon_19
+  - first:
+      213: -195973885069596758
+    second: Lairon_20
+  - first:
+      213: 5434622116546353772
+    second: Lairon_21
+  - first:
+      213: -109735202074739915
+    second: Lairon_22
+  - first:
+      213: 9083228506110335470
+    second: Lairon_23
+  - first:
+      213: 9029243488518273389
+    second: Lairon_24
+  - first:
+      213: -295441469077723278
+    second: Lairon_25
+  - first:
+      213: -6113869969970625456
+    second: Lairon_26
+  - first:
+      213: 1001824556354619840
+    second: Lairon_27
+  - first:
+      213: -1565285525476957520
+    second: Lairon_28
+  - first:
+      213: -7459910616036546099
+    second: Lairon_29
+  - first:
+      213: 2226278212658552705
+    second: Lairon_30
+  - first:
+      213: 5558997688763284423
+    second: Lairon_31
+  - first:
+      213: -586149217304995073
+    second: Lairon_32
+  - first:
+      213: -4933866928444002674
+    second: Lairon_33
+  - first:
+      213: 3048414630697086719
+    second: Lairon_34
+  - first:
+      213: -5588555032306883905
+    second: Lairon_35
+  - first:
+      213: -6367577199993413513
+    second: Lairon_36
+  - first:
+      213: -3640612667603734176
+    second: Lairon_37
+  - first:
+      213: -1785873306492004695
+    second: Lairon_38
+  - first:
+      213: 8320447101949479338
+    second: Lairon_39
+  - first:
+      213: -594449899089139216
+    second: Lairon_40
+  - first:
+      213: -6487455345633774091
+    second: Lairon_41
+  - first:
+      213: 3707237451343124479
+    second: Lairon_42
+  - first:
+      213: -6064728109461321482
+    second: Lairon_43
+  - first:
+      213: -9149133059343517228
+    second: Lairon_44
+  - first:
+      213: -2787507565917328777
+    second: Lairon_45
+  - first:
+      213: 2587722015736781282
+    second: Lairon_46
+  - first:
+      213: 7723849802506252131
+    second: Lairon_47
+  - first:
+      213: 8511238960075841251
+    second: Lairon_48
+  - first:
+      213: -5279186451779425179
+    second: Lairon_49
+  - first:
+      213: -4015410209690013223
+    second: Lairon_50
+  - first:
+      213: -7469392781365443677
+    second: Lairon_51
+  - first:
+      213: -9027755915084547403
+    second: Lairon_52
+  - first:
+      213: -14347183480918661
+    second: Lairon_53
+  - first:
+      213: 6597473995513353179
+    second: Lairon_54
+  - first:
+      213: -6865640625989659456
+    second: Lairon_55
+  - first:
+      213: 7224096729037761455
+    second: Lairon_56
+  - first:
+      213: -6627534545414830952
+    second: Lairon_57
+  - first:
+      213: -804730997377834026
+    second: Lairon_58
+  - first:
+      213: 1124937894872058840
+    second: Lairon_59
+  - first:
+      213: 2417480826768408455
+    second: Lairon_60
+  - first:
+      213: -3627394904890144781
+    second: Lairon_61
+  - first:
+      213: -1474199635412776726
+    second: Lairon_62
+  - first:
+      213: -7811265012453756863
+    second: Lairon_63
+  - first:
+      213: -1379359811259612039
+    second: Lairon_64
+  - first:
+      213: -5489290239638318202
+    second: Lairon_65
+  - first:
+      213: 4880850988518828059
+    second: Lairon_66
+  - first:
+      213: -7231296127622783336
+    second: Lairon_67
+  - first:
+      213: 2064084353237277531
+    second: Lairon_68
+  - first:
+      213: -8788001001868634925
+    second: Lairon_69
+  - first:
+      213: 6577100020304272982
+    second: Lairon_70
+  - first:
+      213: 8214793653929406308
+    second: Lairon_71
+  - first:
+      213: 1787511657542804876
+    second: Lairon_72
+  - first:
+      213: -7796080206524880965
+    second: Lairon_73
+  - first:
+      213: 5457226067613773089
+    second: Lairon_74
+  - first:
+      213: 3061449801823763489
+    second: Lairon_75
+  - first:
+      213: 6386960175738826653
+    second: Lairon_76
+  - first:
+      213: 7740201358505260199
+    second: Lairon_77
+  - first:
+      213: 2432540617895486566
+    second: Lairon_78
+  - first:
+      213: 3197764895543519540
+    second: Lairon_79
+  - first:
+      213: -7170058471594755439
+    second: Lairon_80
+  - first:
+      213: 4478289413016154144
+    second: Lairon_81
+  - first:
+      213: 2648306037435643402
+    second: Lairon_82
+  - first:
+      213: -6222150712416141310
+    second: Lairon_83
+  - first:
+      213: -8643012851086013840
+    second: Lairon_84
+  - first:
+      213: 7408477894860086698
+    second: Lairon_85
+  - first:
+      213: 7919607748808541508
+    second: Lairon_86
+  - first:
+      213: 5606527253854325252
+    second: Lairon_87
+  - first:
+      213: 1396003747134103125
+    second: Lairon_88
+  - first:
+      213: -795138913769634308
+    second: Lairon_89
+  - first:
+      213: -3709348420137442457
+    second: Lairon_90
+  - first:
+      213: 2498723114889887409
+    second: Lairon_91
+  - first:
+      213: 2892877073234468814
+    second: Lairon_92
+  - first:
+      213: 4203940294664922929
+    second: Lairon_93
+  - first:
+      213: -1624385292368139632
+    second: Lairon_94
+  - first:
+      213: 6581548701160171132
+    second: Lairon_95
+  - first:
+      213: 9081416854317994757
+    second: Lairon_96
+  - first:
+      213: 5642917479543043858
+    second: Lairon_97
+  - first:
+      213: -1068311683820050856
+    second: Lairon_98
+  - first:
+      213: -292866448444242749
+    second: Lairon_99
+  - first:
+      213: -6706641069000593546
+    second: Lairon_100
+  - first:
+      213: 4437773341754654805
+    second: Lairon_101
+  - first:
+      213: -2307174603520096413
+    second: Lairon_102
+  - first:
+      213: 2338915698417519477
+    second: Lairon_103
+  - first:
+      213: -601953216317500833
+    second: Lairon_104
+  - first:
+      213: 1792671087492860986
+    second: Lairon_105
+  - first:
+      213: 2828809405210468745
+    second: Lairon_106
+  - first:
+      213: -5903608210434150749
+    second: Lairon_107
+  - first:
+      213: 1451398634826852685
+    second: Lairon_108
+  - first:
+      213: -3607149673506010376
+    second: Lairon_109
+  - first:
+      213: 4123375220893089267
+    second: Lairon_110
+  - first:
+      213: -5044209996740964936
+    second: Lairon_111
+  - first:
+      213: -4120659149634587434
+    second: Lairon_112
+  - first:
+      213: -7912636144894519699
+    second: Lairon_113
+  - first:
+      213: -7308108238313458982
+    second: Lairon_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lairon_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 699
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281c4f000ca21750800000000000000
+      internalID: 6274266347137144864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 699
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfffe5927c249960800000000000000
+      internalID: 7607754541189038041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 699
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078bcd5ed2e199010800000000000000
+      internalID: 1196020358522386544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 699
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509bc818d3563b580800000000000000
+      internalID: -8812588730993035003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 699
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaa7b9ec32840b20800000000000000
+      internalID: 3099745641668520699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 699
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ab167c72a04c00800000000000000
+      internalID: 882884182405785760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 699
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59811424412832cd0800000000000000
+      internalID: -2584078737658013547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 699
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d613293e771b2fff0800000000000000
+      internalID: -3745521196715667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 699
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f608cda950a9c830800000000000000
+      internalID: 4091978043470907120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 699
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea11de2aee5c96f0800000000000000
+      internalID: -676561484111602968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 636
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bb9f62c8837c5c0800000000000000
+      internalID: -4195322353271850212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 636
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4141dbb55766979e0800000000000000
+      internalID: -1623153536454028268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 636
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7ca1cdbcd748010800000000000000
+      internalID: 1190214516057229297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 636
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e292b4f27b4705b0800000000000000
+      internalID: -5402266270903921946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 636
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee82652f6f5d1f90800000000000000
+      internalID: -6981318916381176089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 636
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d72a7ae5122cbf10800000000000000
+      internalID: 2286740188320901072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 636
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf45259cd5fa5380800000000000000
+      internalID: -8981596179093172303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 636
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74500c4909af3ae0800000000000000
+      internalID: -1567348287906753413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 636
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06425737ef30c8570800000000000000
+      internalID: 8470149390570693728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 636
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9130eb65a9381450800000000000000
+      internalID: 6059656681269244319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 573
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa76c233ac2c74df0800000000000000
+      internalID: -195973885069596758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 573
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a1a396508ab6b40800000000000000
+      internalID: 5434622116546353772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 573
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbaf44a642a7ef0800000000000000
+      internalID: -109735202074739915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 573
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee99868833c1e0e70800000000000000
+      internalID: 9083228506110335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 573
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69f3a32d115e4d70800000000000000
+      internalID: 9029243488518273389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 573
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e3b79c8166ebf0800000000000000
+      internalID: -295441469077723278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 573
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05409fca7ab272ba0800000000000000
+      internalID: -6113869969970625456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 573
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9c7c8402237ed00800000000000000
+      internalID: 1001824556354619840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_28
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 573
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a2e99b1df64ae0800000000000000
+      internalID: -1565285525476957520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 573
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e9faa1d2197890800000000000000
+      internalID: -7459910616036546099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 510
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f54b43d3455ee10800000000000000
+      internalID: 2226278212658552705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 510
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbf3f1f1f6852d40800000000000000
+      internalID: 5558997688763284423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 510
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa992574649dd7f0800000000000000
+      internalID: -586149217304995073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 510
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e2c095b22678bb0800000000000000
+      internalID: -4933866928444002674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 510
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeadc694f42e4a20800000000000000
+      internalID: 3048414630697086719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 510
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb260abbec67172b0800000000000000
+      internalID: -5588555032306883905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 510
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77024820642d1a7a0800000000000000
+      internalID: -6367577199993413513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 510
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06131be4112f97dc0800000000000000
+      internalID: -3640612667603734176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 510
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a611b090bd4737e0800000000000000
+      internalID: -1785873306492004695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 510
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9802c3e8a287370800000000000000
+      internalID: 8320447101949479338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 447
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9660067f610c7f0800000000000000
+      internalID: -594449899089139216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 447
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f53a433cbde7f5a0800000000000000
+      internalID: -6487455345633774091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 447
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d459f1d0c27330800000000000000
+      internalID: 3707237451343124479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_43
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 447
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f84b30bae1c5dba0800000000000000
+      internalID: -6064728109461321482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 447
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9fb0be4ffb70180800000000000000
+      internalID: -9149133059343517228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 447
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aa8cc33a8c059d0800000000000000
+      internalID: -2787507565917328777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_46
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 447
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d275867f69e320800000000000000
+      internalID: 2587722015736781282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_47
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 447
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2bd00970a03b60800000000000000
+      internalID: 7723849802506252131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 447
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee19cd5dbefd1670800000000000000
+      internalID: 8511238960075841251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_49
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 447
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ce1a674ef8cb6b0800000000000000
+      internalID: -5279186451779425179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d133f750b56648c0800000000000000
+      internalID: -4015410209690013223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 384
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a388d207d2675890800000000000000
+      internalID: -7469392781365443677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 384
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba347a83d7f6b280800000000000000
+      internalID: -9027755915084547403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 384
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da71900570dcff0800000000000000
+      internalID: -14347183480918661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 384
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3537dd4afee8b50800000000000000
+      internalID: 6597473995513353179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_55
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 384
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c45564f93858b0a0800000000000000
+      internalID: -6865640625989659456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 384
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6b5d33b5214460800000000000000
+      internalID: 7224096729037761455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_57
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 384
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8944be3f1744604a0800000000000000
+      internalID: -6627534545414830952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_58
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 384
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d36c89eb6505d4f0800000000000000
+      internalID: -804730997377834026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_59
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 384
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db89322e059c9f00800000000000000
+      internalID: 1124937894872058840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 321
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f39dae00e9c8120800000000000000
+      internalID: 2417480826768408455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f706f18d87e8adc0800000000000000
+      internalID: -3627394904890144781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae806330e379a8be0800000000000000
+      internalID: -1474199635412776726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_63
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 321
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b1466bdfc89390800000000000000
+      internalID: -7811265012453756863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_64
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 321
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974cb605f878bdce0800000000000000
+      internalID: -1379359811259612039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_65
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 321
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683d65d4c9f12d3b0800000000000000
+      internalID: -5489290239638318202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_66
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 321
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18674c3d144cb340800000000000000
+      internalID: 4880850988518828059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_67
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 321
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ed2672c7645ab90800000000000000
+      internalID: -7231296127622783336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_68
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 321
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b562588c915ac10800000000000000
+      internalID: 2064084353237277531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 321
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d7dd46afba0680800000000000000
+      internalID: -8788001001868634925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 258
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e537a1f9d864b50800000000000000
+      internalID: 6577100020304272982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_71
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 258
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f689ded4fc00270800000000000000
+      internalID: 8214793653929406308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_72
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 258
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8565b3c1648ec810800000000000000
+      internalID: 1787511657542804876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 258
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb761a98b52cec390800000000000000
+      internalID: -7796080206524880965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_74
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 258
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dee13e136fbbb40800000000000000
+      internalID: 5457226067613773089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 258
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c356fdf547c7a20800000000000000
+      internalID: 3061449801823763489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 258
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9faa75b07a03a850800000000000000
+      internalID: 6386960175738826653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_77
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 258
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4b3bf4028ba6b60800000000000000
+      internalID: 7740201358505260199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 258
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ae57cdce12c120800000000000000
+      internalID: 2432540617895486566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 258
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e512ea3eb06c20800000000000000
+      internalID: 3197764895543519540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 195
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a70d50fc5de7c90800000000000000
+      internalID: -7170058471594755439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 195
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02078308e74162e30800000000000000
+      internalID: 4478289413016154144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 195
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06bfd94f4ca0c420800000000000000
+      internalID: 2648306037435643402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 195
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000e77b4ea76a9a0800000000000000
+      internalID: -6222150712416141310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 195
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ac1e5ca99dd0880800000000000000
+      internalID: -8643012851086013840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_85
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 195
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad1871c46330d660800000000000000
+      internalID: 7408477894860086698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_86
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 195
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4450a24a94918ed60800000000000000
+      internalID: 7919607748808541508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_87
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 195
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a888d25d26ecd40800000000000000
+      internalID: 5606527253854325252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_88
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 195
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eda0df20a9f5310800000000000000
+      internalID: 1396003747134103125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_89
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 195
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5cba9ee5917f4f0800000000000000
+      internalID: -795138913769634308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632d8dc34fb58cc0800000000000000
+      internalID: -3709348420137442457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 132
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb1172f6f3da220800000000000000
+      internalID: 2498723114889887409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_92
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1309fe50952820800000000000000
+      internalID: 2892877073234468814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_93
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 132
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1372470bc65675a30800000000000000
+      internalID: 4203940294664922929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_94
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 132
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2706de260579e0800000000000000
+      internalID: -1624385292368139632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_95
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 132
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76e5945cab565b50800000000000000
+      internalID: 6581548701160171132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_96
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 132
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5039eda738ca70e70800000000000000
+      internalID: 9081416854317994757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_97
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 132
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2177109dc8baf4e40800000000000000
+      internalID: 5642917479543043858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_98
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 132
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a1880f289c21f0800000000000000
+      internalID: -1068311683820050856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_99
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 132
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4c9dd44878febf0800000000000000
+      internalID: -292866448444242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f6c262b793de2a0800000000000000
+      internalID: -6706641069000593546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_101
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5500cfc8753269d30800000000000000
+      internalID: 4437773341754654805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c16a0ce44bffd0800000000000000
+      internalID: -2307174603520096413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_103
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 69
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc2c38f6f757020800000000000000
+      internalID: 2338915698417519477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_104
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 69
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52ddf13dbe65a7f0800000000000000
+      internalID: -601953216317500833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 69
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c00292bd8d0e810800000000000000
+      internalID: 1792671087492860986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_106
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 69
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981aad69a23f14720800000000000000
+      internalID: 2828809405210468745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_107
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 69
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae2efb7c9b221ea0800000000000000
+      internalID: -5903608210434150749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_108
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 69
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4967585e57642410800000000000000
+      internalID: 1451398634826852685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_109
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 69
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa0203cb74d0fdc0800000000000000
+      internalID: -3607149673506010376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_110
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdfaf4baeb293930800000000000000
+      internalID: 4123375220893089267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_111
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 6
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdc7cbbbbd5ff9b0800000000000000
+      internalID: -5044209996740964936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_112
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d43199e55a70d6c0800000000000000
+      internalID: -4120659149634587434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6655a2695ba03290800000000000000
+      internalID: -7912636144894519699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lairon_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2783bf642649a90800000000000000
+      internalID: -7308108238313458982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

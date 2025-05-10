@@ -1,0 +1,3392 @@
+fileFormatVersion: 2
+guid: 15f85f4d2fb4db243918c5fba2ebda60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8025673268386756275
+    second: Gliscor_0
+  - first:
+      213: -6728421868598706502
+    second: Gliscor_1
+  - first:
+      213: 167365540938893158
+    second: Gliscor_2
+  - first:
+      213: -1380591276438184746
+    second: Gliscor_3
+  - first:
+      213: -5008885429302010833
+    second: Gliscor_4
+  - first:
+      213: 3684324241715763074
+    second: Gliscor_5
+  - first:
+      213: 8683493275157053196
+    second: Gliscor_6
+  - first:
+      213: -1528746835249407422
+    second: Gliscor_7
+  - first:
+      213: 946349112560341994
+    second: Gliscor_8
+  - first:
+      213: 2794315289030367279
+    second: Gliscor_9
+  - first:
+      213: -2568479697946009123
+    second: Gliscor_10
+  - first:
+      213: 7239658620736381519
+    second: Gliscor_11
+  - first:
+      213: -5526045068417217868
+    second: Gliscor_12
+  - first:
+      213: 1434321260105244985
+    second: Gliscor_13
+  - first:
+      213: -2826755685242284620
+    second: Gliscor_14
+  - first:
+      213: 7246527440271300795
+    second: Gliscor_15
+  - first:
+      213: -8342330292917134145
+    second: Gliscor_16
+  - first:
+      213: 5148327939849444503
+    second: Gliscor_17
+  - first:
+      213: -1178457457258312113
+    second: Gliscor_18
+  - first:
+      213: -6493431736257731072
+    second: Gliscor_19
+  - first:
+      213: -1515164795767064083
+    second: Gliscor_20
+  - first:
+      213: -7660837172035832404
+    second: Gliscor_21
+  - first:
+      213: -2091669655983359564
+    second: Gliscor_22
+  - first:
+      213: 263131607544817603
+    second: Gliscor_23
+  - first:
+      213: -8436668384552065371
+    second: Gliscor_24
+  - first:
+      213: 8885975687027178559
+    second: Gliscor_25
+  - first:
+      213: -8952476992030131319
+    second: Gliscor_26
+  - first:
+      213: 4588379591880267577
+    second: Gliscor_27
+  - first:
+      213: 1558669697401621445
+    second: Gliscor_28
+  - first:
+      213: -2639916906710791379
+    second: Gliscor_29
+  - first:
+      213: -2431708778541427241
+    second: Gliscor_30
+  - first:
+      213: 8732881708727629872
+    second: Gliscor_31
+  - first:
+      213: -8961206406808280964
+    second: Gliscor_32
+  - first:
+      213: -3262036339783336253
+    second: Gliscor_33
+  - first:
+      213: -7651147245548058575
+    second: Gliscor_34
+  - first:
+      213: 4940670746617982295
+    second: Gliscor_35
+  - first:
+      213: 1101855860525781978
+    second: Gliscor_36
+  - first:
+      213: -1510526462880588996
+    second: Gliscor_37
+  - first:
+      213: 2581255033238138020
+    second: Gliscor_38
+  - first:
+      213: -8724495728536164540
+    second: Gliscor_39
+  - first:
+      213: 8349535973779078062
+    second: Gliscor_40
+  - first:
+      213: 7692304841394804320
+    second: Gliscor_41
+  - first:
+      213: 6938990290110384603
+    second: Gliscor_42
+  - first:
+      213: -7467323213060357726
+    second: Gliscor_43
+  - first:
+      213: 3878574714307016277
+    second: Gliscor_44
+  - first:
+      213: -2585880252100698330
+    second: Gliscor_45
+  - first:
+      213: -4672625709819944248
+    second: Gliscor_46
+  - first:
+      213: 35768878507896851
+    second: Gliscor_47
+  - first:
+      213: -6312785520459608853
+    second: Gliscor_48
+  - first:
+      213: -8410710472975564464
+    second: Gliscor_49
+  - first:
+      213: 5209828555595426031
+    second: Gliscor_50
+  - first:
+      213: -5077396473653364026
+    second: Gliscor_51
+  - first:
+      213: -3258441695083467931
+    second: Gliscor_52
+  - first:
+      213: 7459804599725970424
+    second: Gliscor_53
+  - first:
+      213: 2218826902461690983
+    second: Gliscor_54
+  - first:
+      213: -5255947291453483016
+    second: Gliscor_55
+  - first:
+      213: -2858124501324899791
+    second: Gliscor_56
+  - first:
+      213: 4779965089092693403
+    second: Gliscor_57
+  - first:
+      213: -2676309017309777389
+    second: Gliscor_58
+  - first:
+      213: -956352242418280361
+    second: Gliscor_59
+  - first:
+      213: -2759628460525793616
+    second: Gliscor_60
+  - first:
+      213: -7132578905303095874
+    second: Gliscor_61
+  - first:
+      213: -3465001048048602278
+    second: Gliscor_62
+  - first:
+      213: -1063140705420113355
+    second: Gliscor_63
+  - first:
+      213: -6497544970359073323
+    second: Gliscor_64
+  - first:
+      213: -8111150372407001380
+    second: Gliscor_65
+  - first:
+      213: 2764513290021201043
+    second: Gliscor_66
+  - first:
+      213: -1222248610183578377
+    second: Gliscor_67
+  - first:
+      213: -451402546833537499
+    second: Gliscor_68
+  - first:
+      213: 385087941224199233
+    second: Gliscor_69
+  - first:
+      213: 2086376110606102716
+    second: Gliscor_70
+  - first:
+      213: -1630098096949928398
+    second: Gliscor_71
+  - first:
+      213: -3086851483316359855
+    second: Gliscor_72
+  - first:
+      213: -6276028999033101480
+    second: Gliscor_73
+  - first:
+      213: 713377676447986075
+    second: Gliscor_74
+  - first:
+      213: -70723120637670057
+    second: Gliscor_75
+  - first:
+      213: 6015166422708826857
+    second: Gliscor_76
+  - first:
+      213: -208909588509196793
+    second: Gliscor_77
+  - first:
+      213: -3334633997096267322
+    second: Gliscor_78
+  - first:
+      213: 9127638673351157448
+    second: Gliscor_79
+  - first:
+      213: -3430573167945920933
+    second: Gliscor_80
+  - first:
+      213: -3807931031900594337
+    second: Gliscor_81
+  - first:
+      213: 5252257268478918711
+    second: Gliscor_82
+  - first:
+      213: -2488053065865204734
+    second: Gliscor_83
+  - first:
+      213: 8381748079751960202
+    second: Gliscor_84
+  - first:
+      213: 7837925094001234902
+    second: Gliscor_85
+  - first:
+      213: 4645848478611959986
+    second: Gliscor_86
+  - first:
+      213: -3121812207892937058
+    second: Gliscor_87
+  - first:
+      213: 6769867844899535827
+    second: Gliscor_88
+  - first:
+      213: -2388564435383088979
+    second: Gliscor_89
+  - first:
+      213: -4552878538691986093
+    second: Gliscor_90
+  - first:
+      213: 3345468753144513460
+    second: Gliscor_91
+  - first:
+      213: -1725397938334347708
+    second: Gliscor_92
+  - first:
+      213: -6022346489862684043
+    second: Gliscor_93
+  - first:
+      213: 9107413589925807686
+    second: Gliscor_94
+  - first:
+      213: 6366395871229663572
+    second: Gliscor_95
+  - first:
+      213: -5333839416208170746
+    second: Gliscor_96
+  - first:
+      213: 6021291665215681323
+    second: Gliscor_97
+  - first:
+      213: 2138573739041868756
+    second: Gliscor_98
+  - first:
+      213: 8032529211906292818
+    second: Gliscor_99
+  - first:
+      213: -7148556700274984186
+    second: Gliscor_100
+  - first:
+      213: 5211465930728834853
+    second: Gliscor_101
+  - first:
+      213: -6095261135000423853
+    second: Gliscor_102
+  - first:
+      213: 5761407900858058230
+    second: Gliscor_103
+  - first:
+      213: 1435004298955130429
+    second: Gliscor_104
+  - first:
+      213: 2548643406846511690
+    second: Gliscor_105
+  - first:
+      213: -5185084252877002777
+    second: Gliscor_106
+  - first:
+      213: 8372717742366128335
+    second: Gliscor_107
+  - first:
+      213: -6138269931011875093
+    second: Gliscor_108
+  - first:
+      213: 1221877443152054243
+    second: Gliscor_109
+  - first:
+      213: -8238089733199026908
+    second: Gliscor_110
+  - first:
+      213: -4039197744211604762
+    second: Gliscor_111
+  - first:
+      213: 8649860681991649709
+    second: Gliscor_112
+  - first:
+      213: -5094474194929726870
+    second: Gliscor_113
+  - first:
+      213: -3157509420627315803
+    second: Gliscor_114
+  - first:
+      213: -1992699482895528227
+    second: Gliscor_115
+  - first:
+      213: 7892597355783071987
+    second: Gliscor_116
+  - first:
+      213: -5765932874863525039
+    second: Gliscor_117
+  - first:
+      213: -6722190846754572655
+    second: Gliscor_118
+  - first:
+      213: 3354087479672768259
+    second: Gliscor_119
+  - first:
+      213: 8459799338107319022
+    second: Gliscor_120
+  - first:
+      213: -7414573883392445092
+    second: Gliscor_121
+  - first:
+      213: -1478854234206859391
+    second: Gliscor_122
+  - first:
+      213: -1461350373821553073
+    second: Gliscor_123
+  - first:
+      213: 5445565188367081661
+    second: Gliscor_124
+  - first:
+      213: -3231953267171254353
+    second: Gliscor_125
+  - first:
+      213: -6139537651325245686
+    second: Gliscor_126
+  - first:
+      213: 4450426056826440857
+    second: Gliscor_127
+  - first:
+      213: 6716245473039631590
+    second: Gliscor_128
+  - first:
+      213: -6850006578203717505
+    second: Gliscor_129
+  - first:
+      213: -261114004396566827
+    second: Gliscor_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gliscor_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1215
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b67a85d05be06f60800000000000000
+      internalID: 8025673268386756275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1215
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe343f85f7df92a0800000000000000
+      internalID: -6728421868598706502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1215
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667cd4f921a925200800000000000000
+      internalID: 167365540938893158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1215
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc16eb7c8727dce0800000000000000
+      internalID: -1380591276438184746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1215
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd2d18d3ddc7ab0800000000000000
+      internalID: -5008885429302010833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1215
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28714d0a069512330800000000000000
+      internalID: 3684324241715763074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1212
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fba3b6027f18870800000000000000
+      internalID: 8683493275157053196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1212
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad47d5adcc8cae0800000000000000
+      internalID: -1528746835249407422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1210
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35aaff08b122d00800000000000000
+      internalID: 946349112560341994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1210
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28191153f667c620800000000000000
+      internalID: 2794315289030367279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1116
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd12027b25dea5cd0800000000000000
+      internalID: -2568479697946009123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1116
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f422610882f687460800000000000000
+      internalID: 7239658620736381519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1121
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba413cd94b8f43b0800000000000000
+      internalID: -5526045068417217868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1121
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9312d52369bb7e310800000000000000
+      internalID: 1434321260105244985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1123
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5515a5ea855c8d0800000000000000
+      internalID: -2826755685242284620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1123
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8dd7c2056d09460800000000000000
+      internalID: 7246527440271300795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1121
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc91b35cc61a3c80800000000000000
+      internalID: -8342330292917134145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1121
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cd1f9fbf8827740800000000000000
+      internalID: 5148327939849444503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_18
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1120
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e4535bf2745afe0800000000000000
+      internalID: -1178457457258312113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1120
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062c135d32b2e5a0800000000000000
+      internalID: -6493431736257731072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1027
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9702c55ad09fae0800000000000000
+      internalID: -1515164795767064083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1027
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca532be4e2d3fa590800000000000000
+      internalID: -7660837172035832404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1025
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f5afa785e8f2e0800000000000000
+      internalID: -2091669655983359564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1025
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e2ec8dc4d6a300800000000000000
+      internalID: 263131607544817603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1023
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6610bbdceeaea80800000000000000
+      internalID: -8436668384552065371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1023
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c3304bec3515b70800000000000000
+      internalID: 8885975687027178559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1021
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bbf26ab9962c380800000000000000
+      internalID: -8952476992030131319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1021
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937dca4bde23daf30800000000000000
+      internalID: 4588379591880267577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1021
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0ac3e4d181a510800000000000000
+      internalID: 1558669697401621445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_29
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1021
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b84fa6f812d5bd0800000000000000
+      internalID: -2639916906710791379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 927
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d6d9efb5d04ed0800000000000000
+      internalID: -2431708778541427241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 927
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038773235ad613970800000000000000
+      internalID: 8732881708727629872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 926
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ec33604663a380800000000000000
+      internalID: -8961206406808280964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 926
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7cc26b3beab2d0800000000000000
+      internalID: -3262036339783336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 924
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13846e02e1aa1d590800000000000000
+      internalID: -7651147245548058575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_35
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 924
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d24540ed9c09440800000000000000
+      internalID: 4940670746617982295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 926
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3525831149a4f00800000000000000
+      internalID: 1101855860525781978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 926
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bdc246f28890be0800000000000000
+      internalID: -1510526462880588996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 931
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac29d2d6c572d320800000000000000
+      internalID: 2581255033238138020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_39
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 931
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4476038fb5d5ce680800000000000000
+      internalID: -8724495728536164540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 842
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab727cfab28fd370800000000000000
+      internalID: 8349535973779078062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 842
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066da576f7e80ca60800000000000000
+      internalID: 7692304841394804320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 845
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd90aed87ee3c4060800000000000000
+      internalID: 6938990290110384603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 845
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1428ee91dbe5890800000000000000
+      internalID: -7467323213060357726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 847
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f411372773d530800000000000000
+      internalID: 3878574714307016277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 847
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f17dd7c9b1d1cd0800000000000000
+      internalID: -2585880252100698330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_46
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 847
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c223dd6caf772fb0800000000000000
+      internalID: -4672625709819944248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_47
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 847
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103a710b931f7000800000000000000
+      internalID: 35768878507896851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_48
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 847
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec86c5040b7468a0800000000000000
+      internalID: -6312785520459608853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_49
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 847
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05142adf267274b80800000000000000
+      internalID: -8410710472975564464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 752
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8a3fce7770d4840800000000000000
+      internalID: 5209828555595426031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 752
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caf114fec67989b0800000000000000
+      internalID: -5077396473653364026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 750
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6a33da80b7c2d0800000000000000
+      internalID: -3258441695083467931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 750
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3dd7c72cc868760800000000000000
+      internalID: 7459804599725970424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 748
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7643f4bdf4bdace10800000000000000
+      internalID: 2218826902461690983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 748
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71dbe19cf1f07b0800000000000000
+      internalID: -5255947291453483016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_56
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 753
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a50b6b8e6e558d0800000000000000
+      internalID: -2858124501324899791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 753
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d63265ce8d55240800000000000000
+      internalID: 4779965089092693403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 755
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127312e027dbdad0800000000000000
+      internalID: -2676309017309777389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_59
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 755
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7589286d3ba5ab2f0800000000000000
+      internalID: -956352242418280361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 661
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4d4a4984d3b9d0800000000000000
+      internalID: -2759628460525793616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 661
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e6f0964df30d90800000000000000
+      internalID: -7132578905303095874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 660
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53f4b8b7e7d9efc0800000000000000
+      internalID: -3465001048048602278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 660
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a0d234927fe31f0800000000000000
+      internalID: -1063140705420113355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 659
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51f91664514d5a0800000000000000
+      internalID: -6497544970359073323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 659
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde37e406b76f6f80800000000000000
+      internalID: -8111150372407001380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_66
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 657
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3946f84b0368d5620800000000000000
+      internalID: 2764513290021201043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 657
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcfac26d53b90fe0800000000000000
+      internalID: -1222248610183578377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_68
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 655
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526c74976cb4cb9f0800000000000000
+      internalID: -451402546833537499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 655
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14474f7317b185500800000000000000
+      internalID: 385087941224199233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 561
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0b98cb40c44fc10800000000000000
+      internalID: 2086376110606102716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 561
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e524eda6ab069e0800000000000000
+      internalID: -1630098096949928398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 561
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d6a864eec4925d0800000000000000
+      internalID: -3086851483316359855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_73
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 561
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e49090e017e8a0800000000000000
+      internalID: -6276028999033101480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 559
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b913063973d66e900800000000000000
+      internalID: 713377676447986075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_75
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 559
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0cfc42bdb40ff0800000000000000
+      internalID: -70723120637670057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_76
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 558
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ba62edf92a7350800000000000000
+      internalID: 6015166422708826857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_77
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 558
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7cba06ddc91df0800000000000000
+      internalID: -208909588509196793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_78
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 556
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d22b1c0009b1d0800000000000000
+      internalID: -3334633997096267322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_79
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 556
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a63b5303ebae70800000000000000
+      internalID: 9127638673351157448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec89431e72460d0800000000000000
+      internalID: -3430573167945920933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 466
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd06ad6e2872bc0800000000000000
+      internalID: -3807931031900594337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 471
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73046a47824c3e840800000000000000
+      internalID: 5252257268478918711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_83
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 471
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c68ca3be8a87dd0800000000000000
+      internalID: -2488053065865204734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 474
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a869d6a5873f15470800000000000000
+      internalID: 8381748079751960202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_85
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 474
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3501c8857e5cc60800000000000000
+      internalID: 7837925094001234902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_86
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 477
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b074f7939e597040800000000000000
+      internalID: 4645848478611959986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_87
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 477
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96401546581da4d0800000000000000
+      internalID: -3121812207892937058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_88
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 479
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db7397cfe663fd50800000000000000
+      internalID: 6769867844899535827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_89
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 479
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da80cd91d4d1aded0800000000000000
+      internalID: -2388564435383088979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 387
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35db3cb571de0d0c0800000000000000
+      internalID: -4552878538691986093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 387
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3095e1b1e7d6e20800000000000000
+      internalID: 3345468753144513460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_92
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 387
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec36577b72e08e0800000000000000
+      internalID: -1725397938334347708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_93
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 387
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5720a6576c35c6ca0800000000000000
+      internalID: -6022346489862684043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 384
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646c71a2868046e70800000000000000
+      internalID: 9107413589925807686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_95
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 384
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595824705bf95850800000000000000
+      internalID: 6366395871229663572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_96
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 382
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6016fe39f456af5b0800000000000000
+      internalID: -5333839416208170746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_97
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 382
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23733a0edcef8350800000000000000
+      internalID: 6021291665215681323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_98
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 380
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbc1992c7dbdad10800000000000000
+      internalID: 2138573739041868756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_99
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 380
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c7f9392c6497f60800000000000000
+      internalID: 8032529211906292818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bfe574e893bcc90800000000000000
+      internalID: -7148556700274984186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 293
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527842807a8d25840800000000000000
+      internalID: 5211465930728834853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_102
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 295
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3523e03ba48496ba0800000000000000
+      internalID: -6095261135000423853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_103
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 295
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f506c8e5f1a4ff40800000000000000
+      internalID: 5761407900858058230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_104
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 293
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3601629ec82ae310800000000000000
+      internalID: 1435004298955130429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_105
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 293
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a4a3cdca99e5320800000000000000
+      internalID: 2548643406846511690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_106
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 292
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76bc00851ea08b0800000000000000
+      internalID: -5185084252877002777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_107
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 292
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f7561d6ed13470800000000000000
+      internalID: 8372717742366128335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_108
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 291
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee539a050c70daa0800000000000000
+      internalID: -6138269931011875093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_109
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 291
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7042e8f0bf4f010800000000000000
+      internalID: 1221877443152054243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42521e0f80d6cad80800000000000000
+      internalID: -8238089733199026908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_111
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea45be5d03e1f7c0800000000000000
+      internalID: -4039197744211604762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_112
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9faba167a7a0870800000000000000
+      internalID: 8649860681991649709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_113
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 195
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac1dd16bacc49b0800000000000000
+      internalID: -5094474194929726870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_114
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a33f8049e54e24d0800000000000000
+      internalID: -3157509420627315803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 193
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde48e9c0628854e0800000000000000
+      internalID: -1992699482895528227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_116
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 193
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f823a27a73288d60800000000000000
+      internalID: 7892597355783071987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_117
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 193
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153430b799a4bffa0800000000000000
+      internalID: -5765932874863525039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_118
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 191
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196bfc26a0bf5b2a0800000000000000
+      internalID: -6722190846754572655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_119
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 191
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3070b73cacc1c8e20800000000000000
+      internalID: 3354087479672768259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_120
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2b8f21dae376570800000000000000
+      internalID: 8459799338107319022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_121
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55318f46542a1990800000000000000
+      internalID: -7414573883392445092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 96
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f8487c8ed0a7be0800000000000000
+      internalID: -1478854234206859391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466bfbd39d38bbe0800000000000000
+      internalID: -1461350373821553073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_124
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 98
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db06adddfa8829b40800000000000000
+      internalID: 5445565188367081661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_125
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 98
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf189b80abc523d0800000000000000
+      internalID: -3231953267171254353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_126
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 103
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076f97e80bfbcaa0800000000000000
+      internalID: -6139537651325245686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_127
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 103
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c48485be613cd30800000000000000
+      internalID: 4450426056826440857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_128
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 106
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44adc6ca5e43d50800000000000000
+      internalID: 6716245473039631590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 106
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70141d5f43efe0a0800000000000000
+      internalID: -6850006578203717505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gliscor_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6101a4236506cf0800000000000000
+      internalID: -261114004396566827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

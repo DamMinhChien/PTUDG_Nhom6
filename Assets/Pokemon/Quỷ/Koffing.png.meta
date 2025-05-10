@@ -1,0 +1,5892 @@
+fileFormatVersion: 2
+guid: 897772b285421474a98ae44ac4de1f68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7865557422376379423
+    second: Koffing_0
+  - first:
+      213: 2834425671060511344
+    second: Koffing_1
+  - first:
+      213: -2229661813018320254
+    second: Koffing_2
+  - first:
+      213: -8280820037969952710
+    second: Koffing_3
+  - first:
+      213: -6972782866433008686
+    second: Koffing_4
+  - first:
+      213: -2594314815129460853
+    second: Koffing_5
+  - first:
+      213: -8450950160891777424
+    second: Koffing_6
+  - first:
+      213: 1645225537615585247
+    second: Koffing_7
+  - first:
+      213: 52373494649680298
+    second: Koffing_8
+  - first:
+      213: -5206749959685018999
+    second: Koffing_9
+  - first:
+      213: 6844279642635469068
+    second: Koffing_10
+  - first:
+      213: 374795711895828941
+    second: Koffing_11
+  - first:
+      213: -5318762366021887468
+    second: Koffing_12
+  - first:
+      213: -7138642249553684872
+    second: Koffing_13
+  - first:
+      213: 1035612538454264675
+    second: Koffing_14
+  - first:
+      213: 1345156227050487211
+    second: Koffing_15
+  - first:
+      213: 4943856633736061507
+    second: Koffing_16
+  - first:
+      213: -9001586495680718439
+    second: Koffing_17
+  - first:
+      213: 8307988125437238565
+    second: Koffing_18
+  - first:
+      213: 256357603329860842
+    second: Koffing_19
+  - first:
+      213: -3770466003702159190
+    second: Koffing_20
+  - first:
+      213: 4457611058396674950
+    second: Koffing_21
+  - first:
+      213: 4568912404577828813
+    second: Koffing_22
+  - first:
+      213: 6067692040331647360
+    second: Koffing_23
+  - first:
+      213: 7817290189053425906
+    second: Koffing_24
+  - first:
+      213: -770406198827302397
+    second: Koffing_25
+  - first:
+      213: 3301946869066243564
+    second: Koffing_26
+  - first:
+      213: -7278461092235609711
+    second: Koffing_27
+  - first:
+      213: 1226901408198573783
+    second: Koffing_28
+  - first:
+      213: 7240013346612037790
+    second: Koffing_29
+  - first:
+      213: -6458442335803663982
+    second: Koffing_30
+  - first:
+      213: 6294073367197468029
+    second: Koffing_31
+  - first:
+      213: -3806359630413805040
+    second: Koffing_32
+  - first:
+      213: 5776398219324098277
+    second: Koffing_33
+  - first:
+      213: 6732198595187174497
+    second: Koffing_34
+  - first:
+      213: 6469021450517268808
+    second: Koffing_35
+  - first:
+      213: 4649210948525863902
+    second: Koffing_36
+  - first:
+      213: -193588103341555014
+    second: Koffing_37
+  - first:
+      213: 7630666973823140913
+    second: Koffing_38
+  - first:
+      213: -4804303376073557614
+    second: Koffing_39
+  - first:
+      213: -5160283840857061084
+    second: Koffing_40
+  - first:
+      213: -5275894932487603459
+    second: Koffing_41
+  - first:
+      213: 2609191895455141157
+    second: Koffing_42
+  - first:
+      213: 9093998905623122079
+    second: Koffing_43
+  - first:
+      213: -1919080000295970669
+    second: Koffing_44
+  - first:
+      213: -7655121983889876326
+    second: Koffing_45
+  - first:
+      213: -5127499548203329149
+    second: Koffing_46
+  - first:
+      213: 283420166526572759
+    second: Koffing_47
+  - first:
+      213: -4962443737913241294
+    second: Koffing_48
+  - first:
+      213: 2644293871660816987
+    second: Koffing_49
+  - first:
+      213: 5328464631952717091
+    second: Koffing_50
+  - first:
+      213: 8403065722940844938
+    second: Koffing_51
+  - first:
+      213: -8754407477969097481
+    second: Koffing_52
+  - first:
+      213: 7839547991414109303
+    second: Koffing_53
+  - first:
+      213: -4071298294548635072
+    second: Koffing_54
+  - first:
+      213: 1186359683308614386
+    second: Koffing_55
+  - first:
+      213: -850439260508597601
+    second: Koffing_56
+  - first:
+      213: -3714721313409750542
+    second: Koffing_57
+  - first:
+      213: -8022839249527715936
+    second: Koffing_58
+  - first:
+      213: 1549326485014997082
+    second: Koffing_59
+  - first:
+      213: 2939745559752756070
+    second: Koffing_60
+  - first:
+      213: 2803225579589143389
+    second: Koffing_61
+  - first:
+      213: 7760909586692516392
+    second: Koffing_62
+  - first:
+      213: -200375957630997753
+    second: Koffing_63
+  - first:
+      213: -472026893648746740
+    second: Koffing_64
+  - first:
+      213: 8327084120256497162
+    second: Koffing_65
+  - first:
+      213: -8588417617034641601
+    second: Koffing_66
+  - first:
+      213: 1750187488199548482
+    second: Koffing_67
+  - first:
+      213: -1956066462178905280
+    second: Koffing_68
+  - first:
+      213: -1992417182572239344
+    second: Koffing_69
+  - first:
+      213: 7136599128797028571
+    second: Koffing_70
+  - first:
+      213: 7770428232055249094
+    second: Koffing_71
+  - first:
+      213: 2143184811546239003
+    second: Koffing_72
+  - first:
+      213: -5425296275684302663
+    second: Koffing_73
+  - first:
+      213: -4233958048172199513
+    second: Koffing_74
+  - first:
+      213: 8850236487178584994
+    second: Koffing_75
+  - first:
+      213: -1421196588028556886
+    second: Koffing_76
+  - first:
+      213: -491224104549809465
+    second: Koffing_77
+  - first:
+      213: 2279211685761483770
+    second: Koffing_78
+  - first:
+      213: 2468067897409316153
+    second: Koffing_79
+  - first:
+      213: 7388199160581654641
+    second: Koffing_80
+  - first:
+      213: 125176323089116002
+    second: Koffing_81
+  - first:
+      213: -8270005164195983024
+    second: Koffing_82
+  - first:
+      213: -4407960070052830308
+    second: Koffing_83
+  - first:
+      213: -8945548865584435307
+    second: Koffing_84
+  - first:
+      213: 2045099525933999890
+    second: Koffing_85
+  - first:
+      213: 273798405204541040
+    second: Koffing_86
+  - first:
+      213: -1681321447969053171
+    second: Koffing_87
+  - first:
+      213: -3928866156188942323
+    second: Koffing_88
+  - first:
+      213: 2104219019212862321
+    second: Koffing_89
+  - first:
+      213: 6636960316144224223
+    second: Koffing_90
+  - first:
+      213: 4028540225425361046
+    second: Koffing_91
+  - first:
+      213: 4769299527278370168
+    second: Koffing_92
+  - first:
+      213: -1376202741578788629
+    second: Koffing_93
+  - first:
+      213: 2991267874127941475
+    second: Koffing_94
+  - first:
+      213: 949441068150788260
+    second: Koffing_95
+  - first:
+      213: 7336427955350010028
+    second: Koffing_96
+  - first:
+      213: 9182034691418326440
+    second: Koffing_97
+  - first:
+      213: 1030729317586419605
+    second: Koffing_98
+  - first:
+      213: 8527093336560294387
+    second: Koffing_99
+  - first:
+      213: -5130723320943848793
+    second: Koffing_100
+  - first:
+      213: 162865337175195912
+    second: Koffing_101
+  - first:
+      213: -4523007099153949581
+    second: Koffing_102
+  - first:
+      213: 6344435899880827237
+    second: Koffing_103
+  - first:
+      213: -1424993693016210581
+    second: Koffing_104
+  - first:
+      213: -3549180408381427767
+    second: Koffing_105
+  - first:
+      213: 5207616071260623064
+    second: Koffing_106
+  - first:
+      213: 6296361387850778644
+    second: Koffing_107
+  - first:
+      213: -4104446785660807757
+    second: Koffing_108
+  - first:
+      213: -341763195626866359
+    second: Koffing_109
+  - first:
+      213: 2539138032323503509
+    second: Koffing_110
+  - first:
+      213: 6701842198941880407
+    second: Koffing_111
+  - first:
+      213: 6713220021087460688
+    second: Koffing_112
+  - first:
+      213: -2440870043634484220
+    second: Koffing_113
+  - first:
+      213: -5082688930738577834
+    second: Koffing_114
+  - first:
+      213: 5588858242128363314
+    second: Koffing_115
+  - first:
+      213: 4387981419742001552
+    second: Koffing_116
+  - first:
+      213: -457126902368978002
+    second: Koffing_117
+  - first:
+      213: 8996263743052802445
+    second: Koffing_118
+  - first:
+      213: -4202295408559554688
+    second: Koffing_119
+  - first:
+      213: -5983506518733215884
+    second: Koffing_120
+  - first:
+      213: 2621635109353471551
+    second: Koffing_121
+  - first:
+      213: -8280285783248186692
+    second: Koffing_122
+  - first:
+      213: -7893995151515519701
+    second: Koffing_123
+  - first:
+      213: 2615705203024874618
+    second: Koffing_124
+  - first:
+      213: 480925613028723706
+    second: Koffing_125
+  - first:
+      213: -4269091165729623334
+    second: Koffing_126
+  - first:
+      213: -341565006194067314
+    second: Koffing_127
+  - first:
+      213: -7663188896997322819
+    second: Koffing_128
+  - first:
+      213: 1167676000365545364
+    second: Koffing_129
+  - first:
+      213: 3022768143301031426
+    second: Koffing_130
+  - first:
+      213: 5119073888606342047
+    second: Koffing_131
+  - first:
+      213: 4766373315900027369
+    second: Koffing_132
+  - first:
+      213: 1939937857395532968
+    second: Koffing_133
+  - first:
+      213: -5429497517388979879
+    second: Koffing_134
+  - first:
+      213: 375934773709360182
+    second: Koffing_135
+  - first:
+      213: 8296241985030512130
+    second: Koffing_136
+  - first:
+      213: -5035297456573788835
+    second: Koffing_137
+  - first:
+      213: 5265209155360232742
+    second: Koffing_138
+  - first:
+      213: -3009961646645253048
+    second: Koffing_139
+  - first:
+      213: 2677194597699523610
+    second: Koffing_140
+  - first:
+      213: 5465310478115862684
+    second: Koffing_141
+  - first:
+      213: 7976004564632772156
+    second: Koffing_142
+  - first:
+      213: 4586823939606249682
+    second: Koffing_143
+  - first:
+      213: -8904077839759253600
+    second: Koffing_144
+  - first:
+      213: -4307947250745987260
+    second: Koffing_145
+  - first:
+      213: -3040613382349835029
+    second: Koffing_146
+  - first:
+      213: 777221061980562889
+    second: Koffing_147
+  - first:
+      213: -9171247584212149576
+    second: Koffing_148
+  - first:
+      213: 2716616185804822627
+    second: Koffing_149
+  - first:
+      213: -8077827866486588085
+    second: Koffing_150
+  - first:
+      213: 7010787392261280125
+    second: Koffing_151
+  - first:
+      213: 5370735585393507369
+    second: Koffing_152
+  - first:
+      213: 1632415836469162515
+    second: Koffing_153
+  - first:
+      213: 5158442537971535465
+    second: Koffing_154
+  - first:
+      213: 8518783933167799694
+    second: Koffing_155
+  - first:
+      213: 2528095362976798854
+    second: Koffing_156
+  - first:
+      213: -59347498375141446
+    second: Koffing_157
+  - first:
+      213: 6410546372889495381
+    second: Koffing_158
+  - first:
+      213: -7481922921801478054
+    second: Koffing_159
+  - first:
+      213: -2754145715375296239
+    second: Koffing_160
+  - first:
+      213: 6416859059635883314
+    second: Koffing_161
+  - first:
+      213: -7746055726001071197
+    second: Koffing_162
+  - first:
+      213: 8927975944957970997
+    second: Koffing_163
+  - first:
+      213: 3522133183479402560
+    second: Koffing_164
+  - first:
+      213: 4576620870942365016
+    second: Koffing_165
+  - first:
+      213: -8315827610919713668
+    second: Koffing_166
+  - first:
+      213: -6569266045386004139
+    second: Koffing_167
+  - first:
+      213: 845964832060829904
+    second: Koffing_168
+  - first:
+      213: 7767121621152120776
+    second: Koffing_169
+  - first:
+      213: 8813978876720855663
+    second: Koffing_170
+  - first:
+      213: -8858837786092400254
+    second: Koffing_171
+  - first:
+      213: -7478660583569524253
+    second: Koffing_172
+  - first:
+      213: 9149446939978383896
+    second: Koffing_173
+  - first:
+      213: 4365351980175493266
+    second: Koffing_174
+  - first:
+      213: -1750975876926236842
+    second: Koffing_175
+  - first:
+      213: 2686360429395692944
+    second: Koffing_176
+  - first:
+      213: 6259898998905122196
+    second: Koffing_177
+  - first:
+      213: 3938658107243362718
+    second: Koffing_178
+  - first:
+      213: -2794425133141090270
+    second: Koffing_179
+  - first:
+      213: -374950936720202474
+    second: Koffing_180
+  - first:
+      213: 147583630628998373
+    second: Koffing_181
+  - first:
+      213: -2585965076141065745
+    second: Koffing_182
+  - first:
+      213: 3088899390516422076
+    second: Koffing_183
+  - first:
+      213: 9166995227001179141
+    second: Koffing_184
+  - first:
+      213: -8639268779306872077
+    second: Koffing_185
+  - first:
+      213: 3506798326428221990
+    second: Koffing_186
+  - first:
+      213: -3778667161220034689
+    second: Koffing_187
+  - first:
+      213: 1056365704593859187
+    second: Koffing_188
+  - first:
+      213: 7164044711224626240
+    second: Koffing_189
+  - first:
+      213: 9206559943674893668
+    second: Koffing_190
+  - first:
+      213: 6685150394059637918
+    second: Koffing_191
+  - first:
+      213: -5047374807276124779
+    second: Koffing_192
+  - first:
+      213: -6276260588016734245
+    second: Koffing_193
+  - first:
+      213: -8944055617156172361
+    second: Koffing_194
+  - first:
+      213: -8024407409304639990
+    second: Koffing_195
+  - first:
+      213: 1270228681523708778
+    second: Koffing_196
+  - first:
+      213: -3605759763676954699
+    second: Koffing_197
+  - first:
+      213: 7003024118141024114
+    second: Koffing_198
+  - first:
+      213: 4076970197328344681
+    second: Koffing_199
+  - first:
+      213: 6097808654788185328
+    second: Koffing_200
+  - first:
+      213: -7303097414807212845
+    second: Koffing_201
+  - first:
+      213: 8278838035698346078
+    second: Koffing_202
+  - first:
+      213: -7572324604698426264
+    second: Koffing_203
+  - first:
+      213: 7679869998396289911
+    second: Koffing_204
+  - first:
+      213: 5749829923933965594
+    second: Koffing_205
+  - first:
+      213: 8872590039914144566
+    second: Koffing_206
+  - first:
+      213: 2970157863709295933
+    second: Koffing_207
+  - first:
+      213: -7836237081364602717
+    second: Koffing_208
+  - first:
+      213: 2230722029598961073
+    second: Koffing_209
+  - first:
+      213: -6166310735898358260
+    second: Koffing_210
+  - first:
+      213: -1962911243358925032
+    second: Koffing_211
+  - first:
+      213: 4844293377215880458
+    second: Koffing_212
+  - first:
+      213: 690266391774388730
+    second: Koffing_213
+  - first:
+      213: 18613424464791242
+    second: Koffing_214
+  - first:
+      213: -8420558980456034352
+    second: Koffing_215
+  - first:
+      213: 3132815937612643990
+    second: Koffing_216
+  - first:
+      213: -743363422921727745
+    second: Koffing_217
+  - first:
+      213: 2467840891018808868
+    second: Koffing_218
+  - first:
+      213: 5430086743871586367
+    second: Koffing_219
+  - first:
+      213: -8519616336455239358
+    second: Koffing_220
+  - first:
+      213: -566126166253641099
+    second: Koffing_221
+  - first:
+      213: 7236511162838165834
+    second: Koffing_222
+  - first:
+      213: 91056669702430271
+    second: Koffing_223
+  - first:
+      213: -6788505677377813550
+    second: Koffing_224
+  - first:
+      213: 6653688426979465661
+    second: Koffing_225
+  - first:
+      213: 7457404612585271563
+    second: Koffing_226
+  - first:
+      213: 4733688803642083422
+    second: Koffing_227
+  - first:
+      213: 3811254538967538500
+    second: Koffing_228
+  - first:
+      213: -4680585651558156279
+    second: Koffing_229
+  - first:
+      213: -622197825998943075
+    second: Koffing_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Koffing_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 576
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f146e295dc2182d60800000000000000
+      internalID: 7865557422376379423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 576
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a5fc16127e55720800000000000000
+      internalID: 2834425671060511344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 575
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2822ac1f466ae01e0800000000000000
+      internalID: -2229661813018320254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 575
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a304dd39c0e941d80800000000000000
+      internalID: -8280820037969952710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 573
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db94562de2bb3f90800000000000000
+      internalID: -6972782866433008686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 573
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fdca0cb642ffbd0800000000000000
+      internalID: -2594314815129460853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 579
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee38d8a9138ba80800000000000000
+      internalID: -8450950160891777424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 570
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf5af0e8e305d610800000000000000
+      internalID: 1645225537615585247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 579
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa17d387a611ab000800000000000000
+      internalID: 52373494649680298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_9
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 579
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ae1ba8f78edb7b0800000000000000
+      internalID: -5206749959685018999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 570
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0189ba8214cbfe50800000000000000
+      internalID: 6844279642635469068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 579
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9f3e6d6ba833500800000000000000
+      internalID: 374795711895828941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 580
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a9c80eec5ff26b0800000000000000
+      internalID: -5318762366021887468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 570
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876d1c832b27eec90800000000000000
+      internalID: -7138642249553684872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_14
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 580
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc187ed1c3f5e00800000000000000
+      internalID: 1035612538454264675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_15
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 580
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badbfb82674faa210800000000000000
+      internalID: 1345156227050487211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_16
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 570
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342eb4a2a6b1c9440800000000000000
+      internalID: 4943856633736061507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_17
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 580
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9995ffd46c0f31380800000000000000
+      internalID: -9001586495680718439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 570
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d99d6be27eb4370800000000000000
+      internalID: 8307988125437238565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 570
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae462f9c1e3ce8300800000000000000
+      internalID: 256357603329860842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 564
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa865ab752d9cabc0800000000000000
+      internalID: -3770466003702159190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 558
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b3692e3ad9cdd30800000000000000
+      internalID: 4457611058396674950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 564
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfbcb4ff99086f30800000000000000
+      internalID: 4568912404577828813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 558
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089de6e33c5c43450800000000000000
+      internalID: 6067692040331647360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_24
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 563
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8fca852089c7c60800000000000000
+      internalID: 7817290189053425906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_25
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 558
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c32ad4a7fe45f0800000000000000
+      internalID: -770406198827302397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_26
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 563
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced18e5de2fd2dd20800000000000000
+      internalID: 3301946869066243564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_27
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 558
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1997bc51336bdfa90800000000000000
+      internalID: -7278461092235609711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 511
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3a129454d60110800000000000000
+      internalID: 1226901408198573783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 501
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98c5ed87c1b97460800000000000000
+      internalID: 7240013346612037790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 511
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991414f9e00f56a0800000000000000
+      internalID: -6458442335803663982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 511
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754d0a416a095750800000000000000
+      internalID: 6294073367197468029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 501
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a4cc545181d2bc0800000000000000
+      internalID: -3806359630413805040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 511
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e603086393e92050800000000000000
+      internalID: 5776398219324098277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 515
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ce38f14f29d6d50800000000000000
+      internalID: 6732198595187174497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 504
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849c6722cb496c950800000000000000
+      internalID: 6469021450517268808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 522
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3bdb0a9b0558040800000000000000
+      internalID: 4649210948525863902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 515
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2c59b45ac305df0800000000000000
+      internalID: -193588103341555014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 504
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13488060f2395e960800000000000000
+      internalID: 7630666973823140913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 522
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299fce3a88fa35db0800000000000000
+      internalID: -4804303376073557614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_40
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 503
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429c685ef2df268b0800000000000000
+      internalID: -5160283840857061084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 503
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafac4038148c6b0800000000000000
+      internalID: -5275894932487603459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 502
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d8e6f6436b53420800000000000000
+      internalID: 2609191895455141157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_43
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 502
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90157592df543e70800000000000000
+      internalID: 9093998905623122079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_44
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 505
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3985dce48ee0e55e0800000000000000
+      internalID: -1919080000295970669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_45
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 505
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad5fd3d1b83c590800000000000000
+      internalID: -7655121983889876326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 513
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3895d5bd35677d8b0800000000000000
+      internalID: -5127499548203329149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 513
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d89ffbc329eee300800000000000000
+      internalID: 283420166526572759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 491
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d1d766bbd12bb0800000000000000
+      internalID: -4962443737913241294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 487
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ad516244b62b420800000000000000
+      internalID: 2644293871660816987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 491
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32536c1f95282f940800000000000000
+      internalID: 5328464631952717091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 487
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b6620f0cfad9470800000000000000
+      internalID: 8403065722940844938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 493
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce0a818c8128680800000000000000
+      internalID: -8754407477969097481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_53
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747ddbcc5babcc60800000000000000
+      internalID: 7839547991414109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 493
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04266c295c7df77c0800000000000000
+      internalID: -4071298294548635072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_55
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2747ba8dbc67010800000000000000
+      internalID: 1186359683308614386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 439
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d6569ff1a234f0800000000000000
+      internalID: -850439260508597601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 439
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a3aa95a8a27cc0800000000000000
+      internalID: -3714721313409750542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_58
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 438
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c6d9953629a090800000000000000
+      internalID: -8022839249527715936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_59
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a586c6cba30508510800000000000000
+      internalID: 1549326485014997082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_60
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 437
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b481bd2031cc820800000000000000
+      internalID: 2939745559752756070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_61
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 437
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b03b000de07e620800000000000000
+      internalID: 2803225579589143389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_62
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 435
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a2bb8662a44bb60800000000000000
+      internalID: 7760909586692516392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_63
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 435
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b20efc02f183df0800000000000000
+      internalID: -200375957630997753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_64
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 441
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07a2a78a060379f0800000000000000
+      internalID: -472026893648746740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_65
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 432
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064faa73eebf8370800000000000000
+      internalID: 8327084120256497162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_66
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 441
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f71f14eafcfc880800000000000000
+      internalID: -8588417617034641601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_67
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 441
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e97746f3ae94810800000000000000
+      internalID: 1750187488199548482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_68
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 432
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04375c49ae7aad4e0800000000000000
+      internalID: -1956066462178905280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_69
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 441
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016a564f0238954e0800000000000000
+      internalID: -1992417182572239344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_70
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 432
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02f48a81b4a0360800000000000000
+      internalID: 7136599128797028571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_71
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 432
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d15cbe4b16db60800000000000000
+      internalID: 7770428232055249094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_72
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 426
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10e9342b3f1ebd10800000000000000
+      internalID: 2143184811546239003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_73
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 420
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0669e18c975b4b0800000000000000
+      internalID: -5425296275684302663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_74
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 426
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a13ac07695fd35c0800000000000000
+      internalID: -4233958048172199513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_75
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 420
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30b7cc13b52da70800000000000000
+      internalID: 8850236487178584994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 373
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa98f86ab35e64ce0800000000000000
+      internalID: -1421196588028556886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 363
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2033f8742de29f0800000000000000
+      internalID: -491224104549809465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 373
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38bb1d3f261af10800000000000000
+      internalID: 2279211685761483770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 373
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a0a22da6504220800000000000000
+      internalID: 2468067897409316153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_80
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 363
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780f400ef7288660800000000000000
+      internalID: 7388199160581654641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 373
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b2400e337bcb100800000000000000
+      internalID: 125176323089116002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 373
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051d3799e1a0b3d80800000000000000
+      internalID: -8270005164195983024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_83
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 363
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c932560bba7c3d2c0800000000000000
+      internalID: -4407960070052830308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 373
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe0f9c3b60bd380800000000000000
+      internalID: -8945548865584435307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_85
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 373
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217ad95fe27a16c10800000000000000
+      internalID: 2045099525933999890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_86
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 363
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef84ae23abcc300800000000000000
+      internalID: 273798405204541040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_87
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 373
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062f841d0fbaa8e0800000000000000
+      internalID: -1681321447969053171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 377
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00cd460c0dd979c0800000000000000
+      internalID: -3928866156188942323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 366
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173bdc1ac00b33d10800000000000000
+      internalID: 2104219019212862321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_90
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 384
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd704205e383b1c50800000000000000
+      internalID: 6636960316144224223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 377
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698c9dbadff38e730800000000000000
+      internalID: 4028540225425361046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_92
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 366
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d9dd6b6a4ff2240800000000000000
+      internalID: 4769299527278370168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_93
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 384
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be01741e5eeb6ece0800000000000000
+      internalID: -1376202741578788629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_94
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 365
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f0f69784e138920800000000000000
+      internalID: 2991267874127941475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_95
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 365
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a09b420f971d2d00800000000000000
+      internalID: 949441068150788260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_96
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 364
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f1e6fa5a30d560800000000000000
+      internalID: 7336427955350010028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_97
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 364
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a58d4147e32d6f70800000000000000
+      internalID: 9182034691418326440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_98
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 375
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb1527ad2ed4e00800000000000000
+      internalID: 1030729317586419605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_99
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 375
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9d64c0632565670800000000000000
+      internalID: 8527093336560294387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 356
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a25456c2520cc8b0800000000000000
+      internalID: -5130723320943848793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014d88492d924200800000000000000
+      internalID: 162865337175195912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 356
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cdb5ad10d0b31c0800000000000000
+      internalID: -4523007099153949581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_103
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 351
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569e1a036d6fb0850800000000000000
+      internalID: 6344435899880827237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_104
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 353
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c89049c7693ce0800000000000000
+      internalID: -1424993693016210581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 349
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf26a21937cebec0800000000000000
+      internalID: -3549180408381427767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_106
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 353
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0da16c93b254840800000000000000
+      internalID: 5207616071260623064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_107
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 349
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c45c925b216750800000000000000
+      internalID: 6296361387850778644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_108
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5913d05631a07c0800000000000000
+      internalID: -4104446785660807757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 353
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949bb5f2f20d14bf0800000000000000
+      internalID: -341763195626866359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_110
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a3546694dc3320800000000000000
+      internalID: 2539138032323503509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_111
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 353
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75057a8d8f9b10d50800000000000000
+      internalID: 6701842198941880407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_112
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 298
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d55ff7a062a2d50800000000000000
+      internalID: 6713220021087460688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 298
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c364aa0a9402ed0800000000000000
+      internalID: -2440870043634484220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_114
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5483c859a679b0800000000000000
+      internalID: -5082688930738577834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_115
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f331ec5fc9f8d40800000000000000
+      internalID: 5588858242128363314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_116
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 300
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0997cbc4add35ec30800000000000000
+      internalID: 4387981419742001552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_117
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 300
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabb5071185f7a9f0800000000000000
+      internalID: -457126902368978002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_118
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 299
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d896366c53629dc70800000000000000
+      internalID: 8996263743052802445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_119
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 299
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7d8337927ea5c0800000000000000
+      internalID: -4202295408559554688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_120
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 297
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4772cafe58056fca0800000000000000
+      internalID: -5983506518733215884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_121
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb4bfed3be16420800000000000000
+      internalID: 2621635109353471551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_122
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 297
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb256c273f3861d80800000000000000
+      internalID: -8280285783248186692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_123
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25f24fdb35e27290800000000000000
+      internalID: -7893995151515519701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_124
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c4077060adc4420800000000000000
+      internalID: 2615705203024874618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc6f70c479ca600800000000000000
+      internalID: 480925613028723706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_126
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad27de0143421c4c0800000000000000
+      internalID: -4269091165729623334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 234
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e883912cf64824bf0800000000000000
+      internalID: -341565006194067314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfc1cbac42e6a590800000000000000
+      internalID: -7663188896997322819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_129
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497898eb22b643010800000000000000
+      internalID: 1167676000365545364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_130
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 235
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20633db6c9703f920800000000000000
+      internalID: 3022768143301031426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bcb55649a9a0740800000000000000
+      internalID: 5119073888606342047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_132
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 235
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e13f19074f852240800000000000000
+      internalID: 4766373315900027369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_133
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 235
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a46cf33b0cea10800000000000000
+      internalID: 1939937857395532968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_134
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 225
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9512a2f46cc86a4b0800000000000000
+      internalID: -5429497517388979879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_135
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 235
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cc9a55fa6973500800000000000000
+      internalID: 375934773709360182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_136
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 235
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20edc68412c222370800000000000000
+      internalID: 8296241985030512130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_137
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 225
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dcd7234a70f1ab0800000000000000
+      internalID: -5035297456573788835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_138
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 235
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625916d94d7c11940800000000000000
+      internalID: 5265209155360232742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_139
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 235
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce82074d77a36d0800000000000000
+      internalID: -3009961646645253048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_140
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 225
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14997e5d4e472520800000000000000
+      internalID: 2677194597699523610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_141
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 235
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f0536ceea8db40800000000000000
+      internalID: 5465310478115862684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_142
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 239
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e94d194e570be60800000000000000
+      internalID: 7976004564632772156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_143
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 228
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d00d7f221ca7af30800000000000000
+      internalID: 4586823939606249682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_144
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd8bc616c5e6480800000000000000
+      internalID: -8904077839759253600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_145
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 239
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2a28ccc81734c0800000000000000
+      internalID: -4307947250745987260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_146
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 228
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43db51d329dc5d0800000000000000
+      internalID: -3040613382349835029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_147
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5ad4f107e39ca00800000000000000
+      internalID: 777221061980562889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_148
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 227
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba10ebd9ee29b080800000000000000
+      internalID: -9171247584212149576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_149
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 227
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36819f9170c53b520800000000000000
+      internalID: 2716616185804822627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_150
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 237
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4db0558a5ac5ef80800000000000000
+      internalID: -8077827866486588085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_151
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 237
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71558f0df15b4160800000000000000
+      internalID: 7010787392261280125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_152
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 219
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cfded3f8fa88a40800000000000000
+      internalID: 5370735585393507369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_153
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 213
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312777aed8187a610800000000000000
+      internalID: 1632415836469162515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 219
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ece0e5828769740800000000000000
+      internalID: 5158442537971535465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_155
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 213
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d85ce4adcc83670800000000000000
+      internalID: 8518783933167799694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_156
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 218
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6885b849659951320800000000000000
+      internalID: 2528095362976798854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_157
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 213
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7aa01c3c72d2ff0800000000000000
+      internalID: -59347498375141446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_158
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 218
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5574f3c26f5d6f850800000000000000
+      internalID: 6410546372889495381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_159
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 213
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509b295ebeda2890800000000000000
+      internalID: -7481922921801478054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_160
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 215
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111346f501f47c9d0800000000000000
+      internalID: -2754145715375296239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_161
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 211
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d085711534d0950800000000000000
+      internalID: 6416859059635883314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_162
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 215
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab53598b5b708490800000000000000
+      internalID: -7746055726001071197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 211
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac37ac1da86eb70800000000000000
+      internalID: 8927975944957970997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_164
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040d7e4287121e030800000000000000
+      internalID: 3522133183479402560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_165
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 215
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85598242f6c638f30800000000000000
+      internalID: 4576620870942365016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_166
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ceb5d8de389c80800000000000000
+      internalID: -8315827610919713668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_167
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 215
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596bb1565745d4a0800000000000000
+      internalID: -6569266045386004139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_168
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0757b58887dbb00800000000000000
+      internalID: 845964832060829904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_169
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 157
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf370466fb5acb60800000000000000
+      internalID: 7767121621152120776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_170
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 160
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a3eb4071b815a70800000000000000
+      internalID: 8813978876720855663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_171
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 160
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281972d38f51f0580800000000000000
+      internalID: -8858837786092400254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_172
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 163
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e97f98a2d5763890800000000000000
+      internalID: -7478660583569524253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_173
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 163
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81242bc148d59fe70800000000000000
+      internalID: 9149446939978383896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_174
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 162
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29888e15f78d49c30800000000000000
+      internalID: 4365351980175493266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_175
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 162
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657988d87b843b7e0800000000000000
+      internalID: -1750975876926236842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_176
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 161
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dcbccd39ed74520800000000000000
+      internalID: 2686360429395692944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_177
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 161
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d209f19f0afd650800000000000000
+      internalID: 6259898998905122196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_178
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f3fd3eace8a630800000000000000
+      internalID: 3938658107243362718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_179
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 90
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220a3bb95253839d0800000000000000
+      internalID: -2794425133141090270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_180
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 96
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a7901c18ebcaf0800000000000000
+      internalID: -374950936720202474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_181
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 87
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eccd46b7825c0200800000000000000
+      internalID: 147583630628998373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_182
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 96
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9bb0bd67ecc1cd0800000000000000
+      internalID: -2585965076141065745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_183
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e6a641a9fdda20800000000000000
+      internalID: 3088899390516422076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_184
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 87
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c4b131795b73f70800000000000000
+      internalID: 9166995227001179141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_185
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 96
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29a4a61d62b1880800000000000000
+      internalID: -8639268779306872077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_186
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 97
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62240b18f76aaa030800000000000000
+      internalID: 3506798326428221990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_187
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 87
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fcb03bc3a7f8bc0800000000000000
+      internalID: -3778667161220034689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_188
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 97
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372e83fe207f8ae00800000000000000
+      internalID: 1056365704593859187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_189
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 97
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c4f8745bccb6360800000000000000
+      internalID: 7164044711224626240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_190
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 87
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46515168d7544cf70800000000000000
+      internalID: 9206559943674893668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_191
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 97
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ccfb2ddc66cc50800000000000000
+      internalID: 6685150394059637918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_192
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 97
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5950d0cda5f14f9b0800000000000000
+      internalID: -5047374807276124779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_193
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 87
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6a7d8f3e36e8a0800000000000000
+      internalID: -6276260588016734245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_194
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 97
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5b118cdc450e380800000000000000
+      internalID: -8944055617156172361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_195
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 97
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a066263f9f393a090800000000000000
+      internalID: -8024407409304639990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_196
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 87
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63cbb18142c0a110800000000000000
+      internalID: 1270228681523708778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_197
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 97
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf73ac5994c5fdc0800000000000000
+      internalID: -3605759763676954699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_198
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 101
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277f943f45dbf2160800000000000000
+      internalID: 7003024118141024114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_199
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 90
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663c933bce449830800000000000000
+      internalID: 4076970197328344681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_200
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcc3f8f9a4cf9450800000000000000
+      internalID: 6097808654788185328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_201
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 101
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dca75e389f26aa90800000000000000
+      internalID: -7303097414807212845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_202
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 90
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58eace845754e270800000000000000
+      internalID: 8278838035698346078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_203
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864000554e2b9e690800000000000000
+      internalID: -7572324604698426264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_204
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7733797e211649a60800000000000000
+      internalID: 7679869998396289911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_205
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dcef61adf7bcf40800000000000000
+      internalID: 5749829923933965594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_206
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63360ced1a5c12b70800000000000000
+      internalID: 8872590039914144566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_207
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c93927de183920800000000000000
+      internalID: 2970157863709295933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_208
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 81
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e48584e7104390800000000000000
+      internalID: -7836237081364602717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_209
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd62e6fddd15fe10800000000000000
+      internalID: 2230722029598961073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_210
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 81
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec9146e0ddc6aa0800000000000000
+      internalID: -6166310735898358260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_211
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 75
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f88f5cf9652c4e0800000000000000
+      internalID: -1962911243358925032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_212
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 80
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ddab019236a3340800000000000000
+      internalID: 4844293377215880458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_213
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 75
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af16a1a40a1549900800000000000000
+      internalID: 690266391774388730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_214
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 80
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac607499fc0224000800000000000000
+      internalID: 18613424464791242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_215
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 75
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df41b7a83a242b80800000000000000
+      internalID: -8420558980456034352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_216
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 77
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e75143f7ff97b20800000000000000
+      internalID: 3132815937612643990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_217
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 73
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff06bb5c7ea0fa5f0800000000000000
+      internalID: -743363422921727745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_218
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 77
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e0c5717388f3220800000000000000
+      internalID: 2467840891018808868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_219
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 73
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30060caf1b8b5b40800000000000000
+      internalID: 5430086743871586367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_220
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24978f2b41e34c980800000000000000
+      internalID: -8519616336455239358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_221
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572e5625047b428f0800000000000000
+      internalID: -566126166253641099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_222
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a492e1adf804d6460800000000000000
+      internalID: 7236511162838165834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_223
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e1b040f8f734100800000000000000
+      internalID: 91056669702430271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_224
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 20
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d34c20bd026ac1a0800000000000000
+      internalID: -6788505677377813550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db91d302f56a65c50800000000000000
+      internalID: 6653688426979465661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_226
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 19
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01318febf50e7760800000000000000
+      internalID: 7457404612585271563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_227
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 19
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58845203e071b140800000000000000
+      internalID: 4733688803642083422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_228
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 22
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b51cf6fcb44e430800000000000000
+      internalID: 3811254538967538500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_229
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 22
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908f51216283b0fb0800000000000000
+      internalID: -4680585651558156279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koffing_230
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 25
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0051bf528d57f0800000000000000
+      internalID: -622197825998943075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: 6cfbe88cceba02a4f94dc4887458b328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8141085532117087419
+    second: Quilava_0
+  - first:
+      213: -7998951419580711312
+    second: Quilava_1
+  - first:
+      213: 4780144012268740111
+    second: Quilava_2
+  - first:
+      213: -2504537077203230615
+    second: Quilava_3
+  - first:
+      213: 2273387399020061181
+    second: Quilava_4
+  - first:
+      213: -5231594844095314678
+    second: Quilava_5
+  - first:
+      213: 7426295589323528477
+    second: Quilava_6
+  - first:
+      213: -8117009877462795376
+    second: Quilava_7
+  - first:
+      213: 6675167641854619265
+    second: Quilava_8
+  - first:
+      213: -1794470062196660360
+    second: Quilava_9
+  - first:
+      213: -7508760862995820274
+    second: Quilava_10
+  - first:
+      213: -6650722150319328076
+    second: Quilava_11
+  - first:
+      213: 6127216217498909512
+    second: Quilava_12
+  - first:
+      213: 5503432449297220973
+    second: Quilava_13
+  - first:
+      213: 2556364082823109361
+    second: Quilava_14
+  - first:
+      213: -3773024552171060111
+    second: Quilava_15
+  - first:
+      213: 8701496487935574974
+    second: Quilava_16
+  - first:
+      213: -2631714672279767217
+    second: Quilava_17
+  - first:
+      213: -2229169691565887650
+    second: Quilava_18
+  - first:
+      213: 5060180531086504207
+    second: Quilava_19
+  - first:
+      213: -1086711071396447274
+    second: Quilava_20
+  - first:
+      213: -6181403966169696270
+    second: Quilava_21
+  - first:
+      213: -4677041897936234959
+    second: Quilava_22
+  - first:
+      213: -1818564432745743805
+    second: Quilava_23
+  - first:
+      213: 8365572355100000309
+    second: Quilava_24
+  - first:
+      213: 6844922182830877566
+    second: Quilava_25
+  - first:
+      213: -79258818719266512
+    second: Quilava_26
+  - first:
+      213: 5172395782073069840
+    second: Quilava_27
+  - first:
+      213: 1945716268687293045
+    second: Quilava_28
+  - first:
+      213: 4935126557759060983
+    second: Quilava_29
+  - first:
+      213: 73185558101240351
+    second: Quilava_30
+  - first:
+      213: -4713749551360161019
+    second: Quilava_31
+  - first:
+      213: -3508821301504435003
+    second: Quilava_32
+  - first:
+      213: -7550430763235311646
+    second: Quilava_33
+  - first:
+      213: -5131528486960080559
+    second: Quilava_34
+  - first:
+      213: 2608377354803690128
+    second: Quilava_35
+  - first:
+      213: -1122033914844261041
+    second: Quilava_36
+  - first:
+      213: -230073325053858520
+    second: Quilava_37
+  - first:
+      213: 4614957755205030639
+    second: Quilava_38
+  - first:
+      213: 6306697306721709136
+    second: Quilava_39
+  - first:
+      213: -1941985346825311258
+    second: Quilava_40
+  - first:
+      213: -3383906039343235416
+    second: Quilava_41
+  - first:
+      213: -4824518924531217547
+    second: Quilava_42
+  - first:
+      213: 2463877218262299697
+    second: Quilava_43
+  - first:
+      213: 4910582524319625067
+    second: Quilava_44
+  - first:
+      213: -6957702569076208051
+    second: Quilava_45
+  - first:
+      213: 1148406350547095097
+    second: Quilava_46
+  - first:
+      213: -7626058130478562894
+    second: Quilava_47
+  - first:
+      213: 7370755469729065182
+    second: Quilava_48
+  - first:
+      213: -5710945391458763847
+    second: Quilava_49
+  - first:
+      213: -4260215065235984122
+    second: Quilava_50
+  - first:
+      213: 7415921266249876956
+    second: Quilava_51
+  - first:
+      213: 8004656193158486629
+    second: Quilava_52
+  - first:
+      213: 6351234008690935276
+    second: Quilava_53
+  - first:
+      213: -7954779746227026943
+    second: Quilava_54
+  - first:
+      213: 2296676138491258943
+    second: Quilava_55
+  - first:
+      213: 8967981796592782398
+    second: Quilava_56
+  - first:
+      213: -4555859477829564755
+    second: Quilava_57
+  - first:
+      213: 6032844176034574137
+    second: Quilava_58
+  - first:
+      213: -8585900037001797205
+    second: Quilava_59
+  - first:
+      213: 3545645407239542874
+    second: Quilava_60
+  - first:
+      213: -3585093434291095890
+    second: Quilava_61
+  - first:
+      213: -7043337316527316451
+    second: Quilava_62
+  - first:
+      213: -5127456645731814235
+    second: Quilava_63
+  - first:
+      213: -1368230914320511023
+    second: Quilava_64
+  - first:
+      213: 8417283313577167419
+    second: Quilava_65
+  - first:
+      213: -4459208119093585964
+    second: Quilava_66
+  - first:
+      213: 5349742668409346375
+    second: Quilava_67
+  - first:
+      213: -1577688801777582493
+    second: Quilava_68
+  - first:
+      213: 8909182204565128255
+    second: Quilava_69
+  - first:
+      213: 5350944248159250119
+    second: Quilava_70
+  - first:
+      213: 606859669704999055
+    second: Quilava_71
+  - first:
+      213: -3265835249040960816
+    second: Quilava_72
+  - first:
+      213: -5075633525391068211
+    second: Quilava_73
+  - first:
+      213: 649116573367569661
+    second: Quilava_74
+  - first:
+      213: -3817065320440586127
+    second: Quilava_75
+  - first:
+      213: 3372711138324150934
+    second: Quilava_76
+  - first:
+      213: -2794195651373221565
+    second: Quilava_77
+  - first:
+      213: -5237998168953331350
+    second: Quilava_78
+  - first:
+      213: 4113730775875141523
+    second: Quilava_79
+  - first:
+      213: -4925161564417612084
+    second: Quilava_80
+  - first:
+      213: 5378709022611901741
+    second: Quilava_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quilava_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 508
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc61487dd050f80800000000000000
+      internalID: -8141085532117087419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 508
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef84c60140ef090800000000000000
+      internalID: -7998951419580711312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 508
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e1d7227ab765240800000000000000
+      internalID: 4780144012268740111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 508
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a1824cc81e3dd0800000000000000
+      internalID: -2504537077203230615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 508
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a0736bc1bc8f10800000000000000
+      internalID: 2273387399020061181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 508
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050fec1534a567b0800000000000000
+      internalID: -5231594844095314678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 508
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19dda60e708f0760800000000000000
+      internalID: 7426295589323528477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 508
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b3e7fa5869a5f80800000000000000
+      internalID: -8117009877462795376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 508
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e2dec8a95f2ac50800000000000000
+      internalID: 6675167641854619265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 508
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e1b66cf2c817e0800000000000000
+      internalID: -1794470062196660360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 445
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0157c937c58bc790800000000000000
+      internalID: -7508760862995820274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 445
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f46af073e3b3a0800000000000000
+      internalID: -6650722150319328076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 445
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf80abfae380550800000000000000
+      internalID: 6127216217498909512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 445
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6508b977ae106c40800000000000000
+      internalID: 5503432449297220973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 445
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa1d31d6970a7320800000000000000
+      internalID: 2556364082823109361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 445
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174440ff82683abc0800000000000000
+      internalID: -3773024552171060111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_16
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 445
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb385b904fce1c870800000000000000
+      internalID: 8701496487935574974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 445
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b490f2754a7bd0800000000000000
+      internalID: -2631714672279767217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 445
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fe526e9f56011e0800000000000000
+      internalID: -2229169691565887650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 445
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0132ce026f593640800000000000000
+      internalID: 5060180531086504207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 382
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db3ee7c90a3be0f0800000000000000
+      internalID: -1086711071396447274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 382
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b34fd7dd373aa0800000000000000
+      internalID: -6181403966169696270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 382
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13654e18c2fc71fb0800000000000000
+      internalID: -4677041897936234959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 382
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab709984923c6e0800000000000000
+      internalID: -1818564432745743805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 382
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5304098fbbb781470800000000000000
+      internalID: 8365572355100000309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 382
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b63d6957c0efe50800000000000000
+      internalID: 6844922182830877566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 382
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039cbe8368a66eef0800000000000000
+      internalID: -79258818719266512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 382
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b13c2f8a08c740800000000000000
+      internalID: 5172395782073069840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 382
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57afdc433a2900b10800000000000000
+      internalID: 1945716268687293045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_29
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 382
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb33d4f4771d7440800000000000000
+      internalID: 4935126557759060983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 319
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a205990e1040100800000000000000
+      internalID: 73185558101240351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b450fe1c5659eb0800000000000000
+      internalID: -4713749551360161019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc1187ed992e4fc0800000000000000
+      internalID: -3508821301504435003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef7d28893b773790800000000000000
+      internalID: -7550430763235311646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 319
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15952f3770629c8b0800000000000000
+      internalID: -5131528486960080559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 319
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a3f396261d23420800000000000000
+      internalID: 2608377354803690128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 319
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4554c7691cbd60f0800000000000000
+      internalID: -1122033914844261041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_37
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 319
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d2fd3a78d9eccf0800000000000000
+      internalID: -230073325053858520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 319
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21e6490af9b0040800000000000000
+      internalID: 4614957755205030639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_39
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 319
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c6f0149c3e58750800000000000000
+      internalID: 6306697306721709136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba67bbd9eac05e0800000000000000
+      internalID: -1941985346825311258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeb5abc263f901d0800000000000000
+      internalID: -3383906039343235416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 256
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bca2b799ddb0db0800000000000000
+      internalID: -4824518924531217547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134b3bc9643713220800000000000000
+      internalID: 2463877218262299697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 256
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fef4ad9c4e52440800000000000000
+      internalID: 4910582524319625067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_45
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 256
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ec36d7066417f90800000000000000
+      internalID: -6957702569076208051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 256
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8926cd75ffef00800000000000000
+      internalID: 1148406350547095097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_47
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18850f88cca2690800000000000000
+      internalID: -7626058130478562894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8e77b3c0f2a4660800000000000000
+      internalID: 7370755469729065182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_49
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 256
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb3272ac65aeb0b0800000000000000
+      internalID: -5710945391458763847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 193
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60177d148fca0e4c0800000000000000
+      internalID: -4260215065235984122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c615b915aae660800000000000000
+      internalID: 7415921266249876956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 193
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a975ea560461f60800000000000000
+      internalID: 8004656193158486629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5476d3ead142850800000000000000
+      internalID: 6351234008690935276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1048aaf87f1fa9190800000000000000
+      internalID: -7954779746227026943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_55
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 193
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3823e697ce6fdf10800000000000000
+      internalID: 2296676138491258943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_56
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 193
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c051afdeba47c70800000000000000
+      internalID: 8967981796592782398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_57
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 193
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da64f5161f556c0c0800000000000000
+      internalID: -4555859477829564755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_58
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 193
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f23d190d7f8b350800000000000000
+      internalID: 6032844176034574137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 193
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ae790861c8d880800000000000000
+      internalID: -8585900037001797205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58120656b9a43130800000000000000
+      internalID: 3545645407239542874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea67e7224803f3ec0800000000000000
+      internalID: -3585093434291095890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e22f170a014e90800000000000000
+      internalID: -7043337316527316451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a470fdd85d97d8b0800000000000000
+      internalID: -5127456645731814235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_64
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 130
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc73d8b31130de0800000000000000
+      internalID: -1368230914320511023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_65
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0797b39230d470800000000000000
+      internalID: 8417283313577167419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_66
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 130
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d793e177d5bd12c0800000000000000
+      internalID: -4459208119093585964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 130
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7491a4edc9a1e3a40800000000000000
+      internalID: 5349742668409346375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_68
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 130
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e7febc46cea1ae0800000000000000
+      internalID: -1577688801777582493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_69
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 130
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34065e1306c3ab70800000000000000
+      internalID: 8909182204565128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6a374717f524a40800000000000000
+      internalID: 5350944248159250119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80074187affb6800800000000000000
+      internalID: 606859669704999055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d6f5e42c6da2d0800000000000000
+      internalID: -3265835249040960816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 67
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37005533abf89b0800000000000000
+      internalID: -5075633525391068211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_74
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 67
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc84659510220900800000000000000
+      internalID: 649116573367569661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_75
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 67
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1702da2905f070bc0800000000000000
+      internalID: -3817065320440586127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_76
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 67
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a70d139e64ece20800000000000000
+      internalID: 3372711138324150934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 67
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34935fefbd50939d0800000000000000
+      internalID: -2794195651373221565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_78
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 67
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61e36dda64ee47b0800000000000000
+      internalID: -5237998168953331350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_79
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 67
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f31ad5858e61930800000000000000
+      internalID: 4113730775875141523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62b7bd6af46abb0800000000000000
+      internalID: -4925161564417612084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quilava_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d88f2cb5305aa40800000000000000
+      internalID: 5378709022611901741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

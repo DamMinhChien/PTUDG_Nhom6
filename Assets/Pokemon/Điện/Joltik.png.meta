@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: cdb7133f848b56245b0de822bf0f5951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7392819256783995700
+    second: Joltik_0
+  - first:
+      213: 7871002118432876671
+    second: Joltik_1
+  - first:
+      213: 6867561528683212982
+    second: Joltik_2
+  - first:
+      213: 2092734800336246000
+    second: Joltik_3
+  - first:
+      213: 1644086372463131836
+    second: Joltik_4
+  - first:
+      213: -5021376821713358717
+    second: Joltik_5
+  - first:
+      213: 6493657283852248876
+    second: Joltik_6
+  - first:
+      213: -217683944209425590
+    second: Joltik_7
+  - first:
+      213: -8485330816561536175
+    second: Joltik_8
+  - first:
+      213: 7090563099265827686
+    second: Joltik_9
+  - first:
+      213: -2210327539237598515
+    second: Joltik_10
+  - first:
+      213: -4726193969219882836
+    second: Joltik_11
+  - first:
+      213: -3719120940678483372
+    second: Joltik_12
+  - first:
+      213: 2099678556438269331
+    second: Joltik_13
+  - first:
+      213: 9141327484388459155
+    second: Joltik_14
+  - first:
+      213: -7563416943837757808
+    second: Joltik_15
+  - first:
+      213: -3009156701008090498
+    second: Joltik_16
+  - first:
+      213: 3400461170006572301
+    second: Joltik_17
+  - first:
+      213: -217644584362218195
+    second: Joltik_18
+  - first:
+      213: -7379642535261875788
+    second: Joltik_19
+  - first:
+      213: 8215200782978492429
+    second: Joltik_20
+  - first:
+      213: 5454374870706617380
+    second: Joltik_21
+  - first:
+      213: 4270688206614907457
+    second: Joltik_22
+  - first:
+      213: 6745231828473197352
+    second: Joltik_23
+  - first:
+      213: 4647150514696000689
+    second: Joltik_24
+  - first:
+      213: 799898346436276176
+    second: Joltik_25
+  - first:
+      213: -4309008339425722199
+    second: Joltik_26
+  - first:
+      213: -3420636503363294943
+    second: Joltik_27
+  - first:
+      213: -6329908154206111836
+    second: Joltik_28
+  - first:
+      213: -5328784257802279048
+    second: Joltik_29
+  - first:
+      213: -5227341069429027158
+    second: Joltik_30
+  - first:
+      213: 1578346767073130737
+    second: Joltik_31
+  - first:
+      213: 3536743909633638358
+    second: Joltik_32
+  - first:
+      213: 288082575009397377
+    second: Joltik_33
+  - first:
+      213: 1389941558149262702
+    second: Joltik_34
+  - first:
+      213: -4586586930526307952
+    second: Joltik_35
+  - first:
+      213: -5502975819032787566
+    second: Joltik_36
+  - first:
+      213: -6430586512858598707
+    second: Joltik_37
+  - first:
+      213: 2912632142664131391
+    second: Joltik_38
+  - first:
+      213: 1336230555235340130
+    second: Joltik_39
+  - first:
+      213: -3650645819594599280
+    second: Joltik_40
+  - first:
+      213: -7088505087117520634
+    second: Joltik_41
+  - first:
+      213: -6206984749425214702
+    second: Joltik_42
+  - first:
+      213: -713834926268771726
+    second: Joltik_43
+  - first:
+      213: 2610322798711862733
+    second: Joltik_44
+  - first:
+      213: -2713892683980197079
+    second: Joltik_45
+  - first:
+      213: -1677079304685881070
+    second: Joltik_46
+  - first:
+      213: 3037739903379593130
+    second: Joltik_47
+  - first:
+      213: -7391046992168905010
+    second: Joltik_48
+  - first:
+      213: -685251255147109580
+    second: Joltik_49
+  - first:
+      213: 4682412810200858165
+    second: Joltik_50
+  - first:
+      213: -2889263273056099966
+    second: Joltik_51
+  - first:
+      213: -8306126943047774915
+    second: Joltik_52
+  - first:
+      213: -1958693618496758691
+    second: Joltik_53
+  - first:
+      213: 5416432384212908048
+    second: Joltik_54
+  - first:
+      213: -1858395313409818496
+    second: Joltik_55
+  - first:
+      213: -126515224039794682
+    second: Joltik_56
+  - first:
+      213: 7526570812782925458
+    second: Joltik_57
+  - first:
+      213: -3560251441953268634
+    second: Joltik_58
+  - first:
+      213: 4221033197315754626
+    second: Joltik_59
+  - first:
+      213: -1202940237437713257
+    second: Joltik_60
+  - first:
+      213: -4658225550509002401
+    second: Joltik_61
+  - first:
+      213: -5646818333830812054
+    second: Joltik_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joltik_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330749f1f1989660800000000000000
+      internalID: 7392819256783995700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 286
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e98f69ba6b3d60800000000000000
+      internalID: 7871002118432876671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 286
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b03d4e03da7e4f50800000000000000
+      internalID: 6867561528683212982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 287
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4d32f8633ea0d10800000000000000
+      internalID: 2092734800336246000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 287
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb9b258d7f0d610800000000000000
+      internalID: 1644086372463131836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 289
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3803562926c705ab0800000000000000
+      internalID: -5021376821713358717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 291
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27242115ea1e1a50800000000000000
+      internalID: 6493657283852248876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 287
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b57182b91aafcf0800000000000000
+      internalID: -217683944209425590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 289
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ac2d549c0e3a80800000000000000
+      internalID: -8485330816561536175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 291
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6638b35429db66260800000000000000
+      internalID: 7090563099265827686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaca7a50d65351e0800000000000000
+      internalID: -2210327539237598515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 240
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03e0d10af296eb0800000000000000
+      internalID: -4726193969219882836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 240
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452742e8537036cc0800000000000000
+      internalID: -3719120940678483372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 239
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0203c58e832d10800000000000000
+      internalID: 2099678556438269331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 239
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924d7a0ae48cde70800000000000000
+      internalID: 9141327484388459155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 240
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e316ebc58590790800000000000000
+      internalID: -7563416943837757808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 240
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a2de27ce35d36d0800000000000000
+      internalID: -3009156701008090498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 242
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d30ceea6dd03f20800000000000000
+      internalID: 3400461170006572301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 244
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d6dc55765cafcf0800000000000000
+      internalID: -217644584362218195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b15a54963e369990800000000000000
+      internalID: -7379642535261875788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08a1fb0691420270800000000000000
+      internalID: 8215200782978492429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 197
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf840eb05d1bb40800000000000000
+      internalID: 5454374870706617380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a4bbdfb48844b30800000000000000
+      internalID: 4270688206614907457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823bdc73c90eb9d50800000000000000
+      internalID: 6745231828473197352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 193
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49a3e75cefd7040800000000000000
+      internalID: 4647150514696000689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 192
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa1cbde4fc91b00800000000000000
+      internalID: 799898346436276176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_26
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 192
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a08552deb35334c0800000000000000
+      internalID: -4309008339425722199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 193
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129eb4739357780d0800000000000000
+      internalID: -3420636503363294943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 193
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a732bf2216a728a0800000000000000
+      internalID: -6329908154206111836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 195
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877600d53fa5c06b0800000000000000
+      internalID: -5328784257802279048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae4fd43ef0c477b0800000000000000
+      internalID: -5227341069429027158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8b7cfa50a67e510800000000000000
+      internalID: 1578346767073130737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 148
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3d3be8d9051130800000000000000
+      internalID: 3536743909633638358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 150
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3a6d53997ff300800000000000000
+      internalID: 288082575009397377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 146
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d2a00ab701a4310800000000000000
+      internalID: 1389941558149262702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 146
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099b78acc7b2950c0800000000000000
+      internalID: -4586586930526307952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_36
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 146
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958cfa06a081a3b0800000000000000
+      internalID: -5502975819032787566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 146
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc235a323a7f1c6a0800000000000000
+      internalID: -6430586512858598707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 146
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3361e0808fbb6820800000000000000
+      internalID: 2912632142664131391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 146
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f43de3c9e3b8210800000000000000
+      internalID: 1336230555235340130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0949c4218fc465dc0800000000000000
+      internalID: -3650645819594599280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019fc50e2290ad90800000000000000
+      internalID: -7088505087117520634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b3e34a14c5cd9a0800000000000000
+      internalID: -6206984749425214702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2729b77aae2f716f0800000000000000
+      internalID: -713834926268771726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f25e51cab93420800000000000000
+      internalID: 2610322798711862733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92334d49bf0565ad0800000000000000
+      internalID: -2713892683980197079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219f9080241d9b8e0800000000000000
+      internalID: -1677079304685881070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa758f4f858382a20800000000000000
+      internalID: 3037739903379593130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_48
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69d898be9bd6990800000000000000
+      internalID: -7391046992168905010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_49
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 99
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433e0133d9f7d76f0800000000000000
+      internalID: -685251255147109580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb2c374a54bf040800000000000000
+      internalID: 4682412810200858165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281a8e27c5647e7d0800000000000000
+      internalID: -2889263273056099966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_52
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d06549d85babc80800000000000000
+      internalID: -8306126943047774915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c1da5188251d4e0800000000000000
+      internalID: -1958693618496758691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018bee25e880b2b40800000000000000
+      internalID: 5416432384212908048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08005f30f47a536e0800000000000000
+      internalID: -1858395313409818496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608dd64f2178e3ef0800000000000000
+      internalID: -126515224039794682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296dfb8d640c37860800000000000000
+      internalID: 7526570812782925458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_58
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c9d433d22779ec0800000000000000
+      internalID: -3560251441953268634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_59
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a0327345f149a30800000000000000
+      internalID: 4221033197315754626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794408d3a3c4e4fe0800000000000000
+      internalID: -1202940237437713257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51334aca88aa5fb0800000000000000
+      internalID: -4658225550509002401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joltik_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ee9dcb4a872a1b0800000000000000
+      internalID: -5646818333830812054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

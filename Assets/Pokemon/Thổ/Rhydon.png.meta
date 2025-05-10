@@ -1,0 +1,4942 @@
+fileFormatVersion: 2
+guid: d475176ae72f5c140b8a62246c4600ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8539826696882803849
+    second: Rhydon_0
+  - first:
+      213: -5407960748554458355
+    second: Rhydon_1
+  - first:
+      213: 5587223179543253613
+    second: Rhydon_2
+  - first:
+      213: 2762097037294748148
+    second: Rhydon_3
+  - first:
+      213: 5106619256738685310
+    second: Rhydon_4
+  - first:
+      213: 8745414315374834102
+    second: Rhydon_5
+  - first:
+      213: 6331837663587146164
+    second: Rhydon_6
+  - first:
+      213: 4956876472929204451
+    second: Rhydon_7
+  - first:
+      213: 9063504308288627142
+    second: Rhydon_8
+  - first:
+      213: 8561726721850523473
+    second: Rhydon_9
+  - first:
+      213: -1259371053740604694
+    second: Rhydon_10
+  - first:
+      213: -8393385455745427174
+    second: Rhydon_11
+  - first:
+      213: 2138413241137616884
+    second: Rhydon_12
+  - first:
+      213: 6853526276616560074
+    second: Rhydon_13
+  - first:
+      213: 8022016529427625622
+    second: Rhydon_14
+  - first:
+      213: -6239074361266763469
+    second: Rhydon_15
+  - first:
+      213: 8955405058759514253
+    second: Rhydon_16
+  - first:
+      213: -9078046306369947164
+    second: Rhydon_17
+  - first:
+      213: 6852422625814178655
+    second: Rhydon_18
+  - first:
+      213: -3286484545008961333
+    second: Rhydon_19
+  - first:
+      213: 4541196171060726221
+    second: Rhydon_20
+  - first:
+      213: -3793696637090810803
+    second: Rhydon_21
+  - first:
+      213: -484339919416905223
+    second: Rhydon_22
+  - first:
+      213: -4740867457973349853
+    second: Rhydon_23
+  - first:
+      213: -7741525984111821638
+    second: Rhydon_24
+  - first:
+      213: 8474272913962224017
+    second: Rhydon_25
+  - first:
+      213: 4263677669990004165
+    second: Rhydon_26
+  - first:
+      213: 7269736300673567764
+    second: Rhydon_27
+  - first:
+      213: 5705523254765304567
+    second: Rhydon_28
+  - first:
+      213: -5183212764290988670
+    second: Rhydon_29
+  - first:
+      213: -8944109856265886946
+    second: Rhydon_30
+  - first:
+      213: -2574246869483596872
+    second: Rhydon_31
+  - first:
+      213: 3104430378325685623
+    second: Rhydon_32
+  - first:
+      213: 855397406614881447
+    second: Rhydon_33
+  - first:
+      213: 1839949889423628908
+    second: Rhydon_34
+  - first:
+      213: 6038227066625434569
+    second: Rhydon_35
+  - first:
+      213: 8295806541529792539
+    second: Rhydon_36
+  - first:
+      213: -6338673490534060490
+    second: Rhydon_37
+  - first:
+      213: 4587688830716553017
+    second: Rhydon_38
+  - first:
+      213: -2298467557876992839
+    second: Rhydon_39
+  - first:
+      213: -6331382974675988960
+    second: Rhydon_40
+  - first:
+      213: -943539739005976829
+    second: Rhydon_41
+  - first:
+      213: -8008011511766200359
+    second: Rhydon_42
+  - first:
+      213: -7765597882565320348
+    second: Rhydon_43
+  - first:
+      213: 7248494481636522021
+    second: Rhydon_44
+  - first:
+      213: -4933482672900574568
+    second: Rhydon_45
+  - first:
+      213: 5350232918366783803
+    second: Rhydon_46
+  - first:
+      213: -5010129262081878431
+    second: Rhydon_47
+  - first:
+      213: -6024558517742172120
+    second: Rhydon_48
+  - first:
+      213: -8545650451058166441
+    second: Rhydon_49
+  - first:
+      213: 732704700391541226
+    second: Rhydon_50
+  - first:
+      213: 3137766254448417264
+    second: Rhydon_51
+  - first:
+      213: -8672061720063019719
+    second: Rhydon_52
+  - first:
+      213: 915323772975101312
+    second: Rhydon_53
+  - first:
+      213: 5917357443808928464
+    second: Rhydon_54
+  - first:
+      213: -8169383814060984569
+    second: Rhydon_55
+  - first:
+      213: -2734116536018100387
+    second: Rhydon_56
+  - first:
+      213: -2973340319784632174
+    second: Rhydon_57
+  - first:
+      213: 3976326739862064902
+    second: Rhydon_58
+  - first:
+      213: -2550091598372456787
+    second: Rhydon_59
+  - first:
+      213: -3852501674062922752
+    second: Rhydon_60
+  - first:
+      213: 8070695013346923473
+    second: Rhydon_61
+  - first:
+      213: -3696368016729209738
+    second: Rhydon_62
+  - first:
+      213: -8484070716931458678
+    second: Rhydon_63
+  - first:
+      213: -1702661882990481883
+    second: Rhydon_64
+  - first:
+      213: -2580187187503053782
+    second: Rhydon_65
+  - first:
+      213: -8401044829024300086
+    second: Rhydon_66
+  - first:
+      213: 278218019294032063
+    second: Rhydon_67
+  - first:
+      213: 5213112195420084713
+    second: Rhydon_68
+  - first:
+      213: 2224906711601391382
+    second: Rhydon_69
+  - first:
+      213: 703836249079766561
+    second: Rhydon_70
+  - first:
+      213: -8946782687436876604
+    second: Rhydon_71
+  - first:
+      213: 3659905908798261752
+    second: Rhydon_72
+  - first:
+      213: 4612226288287461441
+    second: Rhydon_73
+  - first:
+      213: 3538937547860250228
+    second: Rhydon_74
+  - first:
+      213: -7945373015493120781
+    second: Rhydon_75
+  - first:
+      213: -1927852996789048966
+    second: Rhydon_76
+  - first:
+      213: -1278387355269405701
+    second: Rhydon_77
+  - first:
+      213: -7006610746557303619
+    second: Rhydon_78
+  - first:
+      213: 466380782262791137
+    second: Rhydon_79
+  - first:
+      213: 1136604525867287319
+    second: Rhydon_80
+  - first:
+      213: -7753232115460178153
+    second: Rhydon_81
+  - first:
+      213: -8706406983387154933
+    second: Rhydon_82
+  - first:
+      213: -8068553462071405548
+    second: Rhydon_83
+  - first:
+      213: -5121578725554298060
+    second: Rhydon_84
+  - first:
+      213: 7639769802221719434
+    second: Rhydon_85
+  - first:
+      213: -1947978746867336807
+    second: Rhydon_86
+  - first:
+      213: -4768721239611792888
+    second: Rhydon_87
+  - first:
+      213: -8035235576049409851
+    second: Rhydon_88
+  - first:
+      213: 8566434539934634979
+    second: Rhydon_89
+  - first:
+      213: -2957961333486438057
+    second: Rhydon_90
+  - first:
+      213: 7961777826502206097
+    second: Rhydon_91
+  - first:
+      213: -2252888778620555506
+    second: Rhydon_92
+  - first:
+      213: -2763088537797015166
+    second: Rhydon_93
+  - first:
+      213: -2010868102048312765
+    second: Rhydon_94
+  - first:
+      213: -7971988114996614798
+    second: Rhydon_95
+  - first:
+      213: -6305937696792979285
+    second: Rhydon_96
+  - first:
+      213: 546871682267613499
+    second: Rhydon_97
+  - first:
+      213: -6443482333371980883
+    second: Rhydon_98
+  - first:
+      213: -1693833599304597859
+    second: Rhydon_99
+  - first:
+      213: 6621611143328131507
+    second: Rhydon_100
+  - first:
+      213: 6454639174924790716
+    second: Rhydon_101
+  - first:
+      213: -7555028703676349767
+    second: Rhydon_102
+  - first:
+      213: -7733899296438925398
+    second: Rhydon_103
+  - first:
+      213: 1732721389425905188
+    second: Rhydon_104
+  - first:
+      213: -4660419988736148344
+    second: Rhydon_105
+  - first:
+      213: -2259302166412782379
+    second: Rhydon_106
+  - first:
+      213: 3275095098970018353
+    second: Rhydon_107
+  - first:
+      213: -4629318957145825179
+    second: Rhydon_108
+  - first:
+      213: -8618262797439498324
+    second: Rhydon_109
+  - first:
+      213: 2396262012535071638
+    second: Rhydon_110
+  - first:
+      213: 5971422495992456670
+    second: Rhydon_111
+  - first:
+      213: -6139673915445826938
+    second: Rhydon_112
+  - first:
+      213: -209750417860402854
+    second: Rhydon_113
+  - first:
+      213: -5324083246455820166
+    second: Rhydon_114
+  - first:
+      213: 4871333635360300712
+    second: Rhydon_115
+  - first:
+      213: -1603784546629565674
+    second: Rhydon_116
+  - first:
+      213: -2751965243242332895
+    second: Rhydon_117
+  - first:
+      213: -4772791421945981128
+    second: Rhydon_118
+  - first:
+      213: -4324736608732277717
+    second: Rhydon_119
+  - first:
+      213: -7097280066242940077
+    second: Rhydon_120
+  - first:
+      213: 6476894074643160651
+    second: Rhydon_121
+  - first:
+      213: 8185900870434761451
+    second: Rhydon_122
+  - first:
+      213: 5424430955806264295
+    second: Rhydon_123
+  - first:
+      213: -4009921708977992031
+    second: Rhydon_124
+  - first:
+      213: 1686166937346542708
+    second: Rhydon_125
+  - first:
+      213: -2874848670184344770
+    second: Rhydon_126
+  - first:
+      213: 2399611916615504311
+    second: Rhydon_127
+  - first:
+      213: -777909873519201296
+    second: Rhydon_128
+  - first:
+      213: 3637464150669337459
+    second: Rhydon_129
+  - first:
+      213: -8693259251721617056
+    second: Rhydon_130
+  - first:
+      213: 442419093628132033
+    second: Rhydon_131
+  - first:
+      213: -6540632927789674861
+    second: Rhydon_132
+  - first:
+      213: 8613965799290502903
+    second: Rhydon_133
+  - first:
+      213: 1685242750921534351
+    second: Rhydon_134
+  - first:
+      213: -3129684546031185393
+    second: Rhydon_135
+  - first:
+      213: -2481190458121452556
+    second: Rhydon_136
+  - first:
+      213: -6478649363663819984
+    second: Rhydon_137
+  - first:
+      213: 3629354858602580400
+    second: Rhydon_138
+  - first:
+      213: -5182769612267983993
+    second: Rhydon_139
+  - first:
+      213: 8486304077850194820
+    second: Rhydon_140
+  - first:
+      213: 4146449242440913253
+    second: Rhydon_141
+  - first:
+      213: -2572469269148032279
+    second: Rhydon_142
+  - first:
+      213: 5672935035538056019
+    second: Rhydon_143
+  - first:
+      213: 2668872082890670987
+    second: Rhydon_144
+  - first:
+      213: 5232279094775277513
+    second: Rhydon_145
+  - first:
+      213: -7975566991717620549
+    second: Rhydon_146
+  - first:
+      213: -4825591715093516183
+    second: Rhydon_147
+  - first:
+      213: 2937055642610125795
+    second: Rhydon_148
+  - first:
+      213: 4183888405023614879
+    second: Rhydon_149
+  - first:
+      213: 24315706971714843
+    second: Rhydon_150
+  - first:
+      213: -1051074724696764097
+    second: Rhydon_151
+  - first:
+      213: 3836342664836981563
+    second: Rhydon_152
+  - first:
+      213: 251951190420898900
+    second: Rhydon_153
+  - first:
+      213: -3311614744957045857
+    second: Rhydon_154
+  - first:
+      213: -2242499856552336547
+    second: Rhydon_155
+  - first:
+      213: 6661028847110260545
+    second: Rhydon_156
+  - first:
+      213: -7567836274037568809
+    second: Rhydon_157
+  - first:
+      213: 1322905807896017958
+    second: Rhydon_158
+  - first:
+      213: -6503466752186562688
+    second: Rhydon_159
+  - first:
+      213: 7890839655990699311
+    second: Rhydon_160
+  - first:
+      213: -7107687652274649995
+    second: Rhydon_161
+  - first:
+      213: -5136338314713785995
+    second: Rhydon_162
+  - first:
+      213: -6055992088570763065
+    second: Rhydon_163
+  - first:
+      213: -5340267932427635462
+    second: Rhydon_164
+  - first:
+      213: -5192350973794696830
+    second: Rhydon_165
+  - first:
+      213: 7059525979274542407
+    second: Rhydon_166
+  - first:
+      213: 8378728558922741808
+    second: Rhydon_167
+  - first:
+      213: -6443462355100250071
+    second: Rhydon_168
+  - first:
+      213: 6005557313626202656
+    second: Rhydon_169
+  - first:
+      213: 2272544884375301172
+    second: Rhydon_170
+  - first:
+      213: 8630633248870896342
+    second: Rhydon_171
+  - first:
+      213: -837367288907097872
+    second: Rhydon_172
+  - first:
+      213: -5277911909780513716
+    second: Rhydon_173
+  - first:
+      213: 2526213061890473750
+    second: Rhydon_174
+  - first:
+      213: -7122509437485338597
+    second: Rhydon_175
+  - first:
+      213: 1355739747939282020
+    second: Rhydon_176
+  - first:
+      213: 8973569401712227130
+    second: Rhydon_177
+  - first:
+      213: 1236992436579205294
+    second: Rhydon_178
+  - first:
+      213: 8886708365317291141
+    second: Rhydon_179
+  - first:
+      213: -7029297812830737481
+    second: Rhydon_180
+  - first:
+      213: -7347853939279651306
+    second: Rhydon_181
+  - first:
+      213: -1883233837431640548
+    second: Rhydon_182
+  - first:
+      213: -4988994195242756336
+    second: Rhydon_183
+  - first:
+      213: -5369866764476690933
+    second: Rhydon_184
+  - first:
+      213: -2376477757450444093
+    second: Rhydon_185
+  - first:
+      213: 7937637581002374764
+    second: Rhydon_186
+  - first:
+      213: 6814695515472108634
+    second: Rhydon_187
+  - first:
+      213: 102614226112296448
+    second: Rhydon_188
+  - first:
+      213: -7257061943472526952
+    second: Rhydon_189
+  - first:
+      213: 2432175203380733486
+    second: Rhydon_190
+  - first:
+      213: 1109760928409375685
+    second: Rhydon_191
+  - first:
+      213: 1599641686522641034
+    second: Rhydon_192
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rhydon_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1467
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d817822f838670800000000000000
+      internalID: 8539826696882803849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1467
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0be72f0a5013f4b0800000000000000
+      internalID: -5407960748554458355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1467
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62118121edc98d40800000000000000
+      internalID: 5587223179543253613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1467
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1cc170f90f45620800000000000000
+      internalID: 2762097037294748148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1467
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e712411782b5ed640800000000000000
+      internalID: 5106619256738685310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1467
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b178811cf3fd5970800000000000000
+      internalID: 8745414315374834102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1467
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b91d89bec43fd750800000000000000
+      internalID: 6331837663587146164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_7
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1467
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8bf64b3ec5ac440800000000000000
+      internalID: 4956876472929204451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1467
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c124cbd52908cd70800000000000000
+      internalID: 9063504308288627142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_9
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1467
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fbedf671d51d670800000000000000
+      internalID: 8561726721850523473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1390
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c165f2b0d58ee0800000000000000
+      internalID: -1259371053740604694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1390
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191d57e564b48b80800000000000000
+      internalID: -8393385455745427174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1390
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7dff4538b2dad10800000000000000
+      internalID: 2138413241137616884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1390
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd198846dd9c1f50800000000000000
+      internalID: 6853526276616560074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1390
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69678d2f78de35f60800000000000000
+      internalID: 8022016529427625622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1390
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3398279acea5a69a0800000000000000
+      internalID: -6239074361266763469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1390
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88d813047df74c70800000000000000
+      internalID: 8955405058759514253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_17
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1390
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b54e5bfc440280800000000000000
+      internalID: -9078046306369947164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1390
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5be08e8212b81f50800000000000000
+      internalID: 6852422625814178655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1390
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8fde608bf0462d0800000000000000
+      internalID: -3286484545008961333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1313
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc940777bd1950f30800000000000000
+      internalID: 4541196171060726221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1313
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44bb9822051a5bc0800000000000000
+      internalID: -3793696637090810803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1313
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13d90d8674749f0800000000000000
+      internalID: -484339919416905223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1313
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3221a484a2e053eb0800000000000000
+      internalID: -4740867457973349853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1313
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcfe814223909490800000000000000
+      internalID: -7741525984111821638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1313
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ce6e015aaa9570800000000000000
+      internalID: 8474272913962224017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1313
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f48c3040ab2b30800000000000000
+      internalID: 4263677669990004165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_27
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1313
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c096416aa43e460800000000000000
+      internalID: 7269736300673567764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1313
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa340acb271e2f40800000000000000
+      internalID: 5705523254765304567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_29
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1313
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2854a25e3778118b0800000000000000
+      internalID: -5183212764290988670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1236
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a331497320e380800000000000000
+      internalID: -8944109856265886946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1236
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d4447c10764cd0800000000000000
+      internalID: -2574246869483596872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1236
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b80a2bf6251b20800000000000000
+      internalID: 3104430378325685623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1236
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40213c86bfedb00800000000000000
+      internalID: 855397406614881447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_34
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1236
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5d9b0da0d88910800000000000000
+      internalID: 1839949889423628908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1236
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3ab5376871cc350800000000000000
+      internalID: 6038227066625434569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_36
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1236
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ce31b810a02370800000000000000
+      internalID: 8295806541529792539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1236
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e28894b028808a0800000000000000
+      internalID: -6338673490534060490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_38
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1236
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93723e65faebaaf30800000000000000
+      internalID: 4587688830716553017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_39
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1236
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47bf41fe33a10e0800000000000000
+      internalID: -2298467557876992839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1159
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e4b79cab86228a0800000000000000
+      internalID: -6331382974675988960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1159
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f75114b9fd7e2f0800000000000000
+      internalID: -943539739005976829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1159
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfcfe355f3ddd090800000000000000
+      internalID: -8008011511766200359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1159
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4612b25aedd0b3490800000000000000
+      internalID: -7765597882565320348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1159
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f25ea353d79460800000000000000
+      internalID: 7248494481636522021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1159
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8927730d5afb88bb0800000000000000
+      internalID: -4933482672900574568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1159
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398ad41e78df3a40800000000000000
+      internalID: 5350232918366783803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1159
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166d1de1bf1787ab0800000000000000
+      internalID: -5010129262081878431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1159
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288c6592f7746ca0800000000000000
+      internalID: -6024558517742172120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_49
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1159
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755750a0130c76980800000000000000
+      internalID: -8545650451058166441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1082
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c8100b071b2a00800000000000000
+      internalID: 732704700391541226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1082
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f91b98a8c59b8b20800000000000000
+      internalID: 3137766254448417264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_52
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1082
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357169efc5a6a780800000000000000
+      internalID: -8672061720063019719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1082
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085b6a63f12e3bc00800000000000000
+      internalID: 915323772975101312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1082
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ae3f5e3dae1250800000000000000
+      internalID: 5917357443808928464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1082
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b11154b480ae80800000000000000
+      internalID: -8169383814060984569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_56
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1082
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f9e181f777e0ad0800000000000000
+      internalID: -2734116536018100387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1082
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29004ea8bb29cb6d0800000000000000
+      internalID: -2973340319784632174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_58
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1082
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8d583a10ce2730800000000000000
+      internalID: 3976326739862064902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_59
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1082
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63d46c3314c9cd0800000000000000
+      internalID: -2550091598372456787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1005
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cb1ec832a298ac0800000000000000
+      internalID: -3852501674062922752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1005
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35f01ba5ed00070800000000000000
+      internalID: 8070695013346923473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_62
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1005
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748dbb7fdcd3bcc0800000000000000
+      internalID: -3696368016729209738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1005
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b10c22a6824a80800000000000000
+      internalID: -8484070716931458678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1005
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e21cbd90eee58e0800000000000000
+      internalID: -1702661882990481883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1005
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24cdd26c65513cd0800000000000000
+      internalID: -2580187187503053782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1005
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3dfd71d3e796b80800000000000000
+      internalID: -8401044829024300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_67
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1005
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0322280dd6cd300800000000000000
+      internalID: 278218019294032063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_68
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1005
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e95546ebe1b85840800000000000000
+      internalID: 5213112195420084713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_69
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1005
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617226bbdd470ee10800000000000000
+      internalID: 2224906711601391382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 928
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5176e65784c900800000000000000
+      internalID: 703836249079766561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 928
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d5b04c84a6d380800000000000000
+      internalID: -8946782687436876604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 928
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9064578099ac230800000000000000
+      internalID: 3659905908798261752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 928
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b7116f5be10040800000000000000
+      internalID: 4612226288287461441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_74
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 928
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e808e13f4dc1130800000000000000
+      internalID: 3538937547860250228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 928
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcee8bb65d5cb190800000000000000
+      internalID: -7945373015493120781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_76
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 928
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a796733e9e3ee35e0800000000000000
+      internalID: -1927852996789048966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_77
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 928
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e0db3971424ee0800000000000000
+      internalID: -1278387355269405701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_78
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 928
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4740c06a483ce90800000000000000
+      internalID: -7006610746557303619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_79
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 928
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba7d8b9dae87600800000000000000
+      internalID: 466380782262791137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 851
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713cb665bc706cf00800000000000000
+      internalID: 1136604525867287319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 851
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f78d8287cf66490800000000000000
+      internalID: -7753232115460178153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_82
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 851
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067a352af0ac2780800000000000000
+      internalID: -8706406983387154933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_83
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 851
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145cf1106db60090800000000000000
+      internalID: -8068553462071405548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 851
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433632ec84f7ce8b0800000000000000
+      internalID: -5121578725554298060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 851
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f8e2b682ae50a60800000000000000
+      internalID: 7639769802221719434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_86
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 851
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99936fa86a367f4e0800000000000000
+      internalID: -1947978746867336807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_87
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 851
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80224106c4912ddb0800000000000000
+      internalID: -4768721239611792888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_88
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 851
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c06efae0db1d7090800000000000000
+      internalID: -8035235576049409851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_89
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 851
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d070c3d612e670800000000000000
+      internalID: 8566434539934634979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 774
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7593332d6d533f6d0800000000000000
+      internalID: -2957961333486438057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 774
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ee39ffbaed7e60800000000000000
+      internalID: 7961777826502206097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_92
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 774
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fabd797912cb0e0800000000000000
+      internalID: -2252888778620555506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_93
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 774
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c7a54d9987a9d0800000000000000
+      internalID: -2763088537797015166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_94
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 774
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3421f3f7d16f714e0800000000000000
+      internalID: -2010868102048312765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_95
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 774
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279adfbfb0fcd5190800000000000000
+      internalID: -7971988114996614798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_96
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 774
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8d8e6331fcc78a0800000000000000
+      internalID: -6305937696792979285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_97
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 774
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390847c5e0e69700800000000000000
+      internalID: 546871682267613499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_98
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 774
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3abd2f4f62496a0800000000000000
+      internalID: -6443482333371980883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_99
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 774
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ef3d4d05b4e78e0800000000000000
+      internalID: -1693833599304597859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 697
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b967d68040b4eb50800000000000000
+      internalID: 6621611143328131507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_101
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 697
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb66b6a12c739950800000000000000
+      internalID: 6454639174924790716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_102
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 697
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2cd791c65272790800000000000000
+      internalID: -7555028703676349767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_103
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 697
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa74d1bd09baba490800000000000000
+      internalID: -7733899296438925398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_104
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 697
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec37f5cecdb0810800000000000000
+      internalID: 1732721389425905188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_105
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 697
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c704356bcd25fb0800000000000000
+      internalID: -4660419988736148344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_106
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 697
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d412b266a855a0e0800000000000000
+      internalID: -2259302166412782379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_107
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 697
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321bbbe3a9737d20800000000000000
+      internalID: 3275095098970018353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_108
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 697
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56067578fea51cfb0800000000000000
+      internalID: -4629318957145825179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_109
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 697
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca787a1b5a7c56880800000000000000
+      internalID: -8618262797439498324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 620
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936aedba9b314120800000000000000
+      internalID: 2396262012535071638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_111
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 620
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed528654f11ced250800000000000000
+      internalID: 5971422495992456670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_112
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 620
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aae117a1f7bcaa0800000000000000
+      internalID: -6139673915445826938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_113
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 620
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e0f33b11d61df0800000000000000
+      internalID: -209750417860402854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_114
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 620
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70746cde7e0d16b0800000000000000
+      internalID: -5324083246455820166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_115
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 620
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1016c1247a9340800000000000000
+      internalID: 4871333635360300712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_116
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 620
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61342e9b3763eb9e0800000000000000
+      internalID: -1603784546629565674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_117
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 620
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12db15a113e0fc9d0800000000000000
+      internalID: -2751965243242332895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_118
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 620
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d0e33d73a3cdb0800000000000000
+      internalID: -4772791421945981128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_119
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 620
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249261c7f27bf3c0800000000000000
+      internalID: -4324736608732277717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 543
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353f02cf165618d90800000000000000
+      internalID: -7097280066242940077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_121
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 543
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e10f648dc82e950800000000000000
+      internalID: 6476894074643160651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea23dc88792a9170800000000000000
+      internalID: 8185900870434761451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_123
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 543
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0775e633774b40800000000000000
+      internalID: 5424430955806264295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_124
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 543
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4d3f7375e958c0800000000000000
+      internalID: -4009921708977992031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_125
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 543
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8c8455e7766710800000000000000
+      internalID: 1686166937346542708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 543
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3378a6bd5c7a18d0800000000000000
+      internalID: -2874848670184344770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_127
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 543
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b159a013522d4120800000000000000
+      internalID: 2399611916615504311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_128
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 543
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f37e91771f4435f0800000000000000
+      internalID: -777909873519201296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_129
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 543
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3732dd77f5eda7230800000000000000
+      internalID: 3637464150669337459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 466
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06141c8f4c65b5780800000000000000
+      internalID: -8693259251721617056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_131
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 466
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca1e8552d9c32600800000000000000
+      internalID: 442419093628132033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_132
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 466
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e8fd481010b35a0800000000000000
+      internalID: -6540632927789674861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_133
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 466
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fef2167144fa8770800000000000000
+      internalID: 8613965799290502903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_134
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 466
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8beaf86a5f236710800000000000000
+      internalID: 1685242750921534351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_135
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 466
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0218c6bc702194d0800000000000000
+      internalID: -3129684546031185393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_136
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 466
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3059b9c6a019dd0800000000000000
+      internalID: -2481190458121452556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_137
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 466
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be186aab63716a0800000000000000
+      internalID: -6478649363663819984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_138
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 466
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b948d6c30f0e5230800000000000000
+      internalID: 3629354858602580400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_139
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 466
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be3144f7a1318b0800000000000000
+      internalID: -5182769612267983993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b530b89865c570800000000000000
+      internalID: 8486304077850194820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_141
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 389
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d0eefd952b8930800000000000000
+      internalID: 4146449242440913253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_142
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 389
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a2d844d0cc4cd0800000000000000
+      internalID: -2572469269148032279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 389
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3532d1bbb505abe40800000000000000
+      internalID: 5672935035538056019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_144
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 389
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83c7a3e40db90520800000000000000
+      internalID: 2668872082890670987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_145
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 389
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c768c96d1acc9840800000000000000
+      internalID: 5232279094775277513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_146
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 389
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb42750d318115190800000000000000
+      internalID: -7975566991717620549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_147
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 389
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96078c6f6ed080db0800000000000000
+      internalID: -4825591715093516183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_148
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 389
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb4557bb8482c820800000000000000
+      internalID: 2937055642610125795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_149
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 389
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97ee415658201a30800000000000000
+      internalID: 4183888405023614879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_150
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 312
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15f284b103665000800000000000000
+      internalID: 24315706971714843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_151
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 312
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31de025b15d961f0800000000000000
+      internalID: -1051074724696764097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_152
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 312
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a84ee35d6d3530800000000000000
+      internalID: 3836342664836981563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_153
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 312
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45446c5d54c1f7300800000000000000
+      internalID: 251951190420898900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_154
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 312
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b3e56fe7ca02d0800000000000000
+      internalID: -3311614744957045857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_155
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 312
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536551034a01e0e0800000000000000
+      internalID: -2242499856552336547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_156
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 312
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14703aed17ab07c50800000000000000
+      internalID: 6661028847110260545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_157
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 312
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daccaf3105a9f690800000000000000
+      internalID: -7567836274037568809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_158
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 312
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c71feb2d7eb5210800000000000000
+      internalID: 1322905807896017958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_159
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 312
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874b5b127b0fb5a0800000000000000
+      internalID: -6503466752186562688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_160
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 235
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2524e21cd4e18d60800000000000000
+      internalID: 7890839655990699311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_161
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 235
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744db70dbb6c5d90800000000000000
+      internalID: -7107687652274649995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_162
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 235
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5799149248f08b8b0800000000000000
+      internalID: -5136338314713785995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 235
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e92e084bc4fba0800000000000000
+      internalID: -6055992088570763065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_164
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 235
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4bd320c9e83e5b0800000000000000
+      internalID: -5340267932427635462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_165
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 235
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28140d1bc4011f7b0800000000000000
+      internalID: -5192350973794696830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_166
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 235
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dfc45a97978f160800000000000000
+      internalID: 7059525979274542407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_167
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 235
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b2006b39374470800000000000000
+      internalID: 8378728558922741808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_168
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 235
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d5a080293496a0800000000000000
+      internalID: -6443462355100250071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_169
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 235
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02260f4de86085350800000000000000
+      internalID: 6005557313626202656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_170
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c22592883b98f10800000000000000
+      internalID: 2272544884375301172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_171
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 158
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d210a9763b26c770800000000000000
+      internalID: 8630633248870896342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_172
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 158
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8192623e21164f0800000000000000
+      internalID: -837367288907097872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_173
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 158
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9ab5e41711c6b0800000000000000
+      internalID: -5277911909780513716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_174
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 158
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ffee43569ee0320800000000000000
+      internalID: 2526213061890473750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_175
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 158
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10b15d3763c72d90800000000000000
+      internalID: -7122509437485338597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_176
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 158
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6cc32e1e80d210800000000000000
+      internalID: 1355739747939282020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_177
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 158
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333f5ca3d5888c70800000000000000
+      internalID: 8973569401712227130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_178
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 158
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea00624311eaa2110800000000000000
+      internalID: 1236992436579205294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_179
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 158
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cba39ac2ee35b70800000000000000
+      internalID: 8886708365317291141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2bcdc1eae27e90800000000000000
+      internalID: -7029297812830737481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_181
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 81
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e18c7d5cd270a90800000000000000
+      internalID: -7347853939279651306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_182
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 81
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e24ea7dc86dd5e0800000000000000
+      internalID: -1883233837431640548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_183
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 81
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d116563883cab0800000000000000
+      internalID: -4988994195242756336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_184
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 81
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec034e0a66a75b0800000000000000
+      internalID: -5369866764476690933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_185
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 81
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2ac8a121e050fd0800000000000000
+      internalID: -2376477757450444093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_186
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 81
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eff631357282e60800000000000000
+      internalID: 7937637581002374764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_187
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 81
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c992c2779a29e50800000000000000
+      internalID: 6814695515472108634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_188
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 81
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0063350581f8c6100800000000000000
+      internalID: 102614226112296448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_189
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 81
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899605aac9cb94b90800000000000000
+      internalID: -7257061943472526952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_190
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a5051672d0c120800000000000000
+      internalID: 2432175203380733486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_191
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d2734fa9a66f00800000000000000
+      internalID: 1109760928409375685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rhydon_192
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab61d73a1133610800000000000000
+      internalID: 1599641686522641034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

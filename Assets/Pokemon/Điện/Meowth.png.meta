@@ -1,0 +1,3592 @@
+fileFormatVersion: 2
+guid: 2deeb6f4e3ac1654aa2d9b26bdfad5af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3825107789975053664
+    second: Meowth_0
+  - first:
+      213: 3099309470124831626
+    second: Meowth_1
+  - first:
+      213: 6101369568299356095
+    second: Meowth_2
+  - first:
+      213: 7982487428344336289
+    second: Meowth_3
+  - first:
+      213: -1486330362275227302
+    second: Meowth_4
+  - first:
+      213: 7548094225918775741
+    second: Meowth_5
+  - first:
+      213: -7259686558123657848
+    second: Meowth_6
+  - first:
+      213: -7619524084200207689
+    second: Meowth_7
+  - first:
+      213: -2646077187569906000
+    second: Meowth_8
+  - first:
+      213: 8833070058723330533
+    second: Meowth_9
+  - first:
+      213: 4712930858673471079
+    second: Meowth_10
+  - first:
+      213: 3927299401305424522
+    second: Meowth_11
+  - first:
+      213: -4060402603905254319
+    second: Meowth_12
+  - first:
+      213: 1122494830815728939
+    second: Meowth_13
+  - first:
+      213: -2504070001167404659
+    second: Meowth_14
+  - first:
+      213: 7123136437519324101
+    second: Meowth_15
+  - first:
+      213: 1552816592287875410
+    second: Meowth_16
+  - first:
+      213: 2898720502040156880
+    second: Meowth_17
+  - first:
+      213: -5433479917218311734
+    second: Meowth_18
+  - first:
+      213: -7731354293778942676
+    second: Meowth_19
+  - first:
+      213: 818427005971786122
+    second: Meowth_20
+  - first:
+      213: -9160269220667749252
+    second: Meowth_21
+  - first:
+      213: -4077979590598887473
+    second: Meowth_22
+  - first:
+      213: 4877786006978894435
+    second: Meowth_23
+  - first:
+      213: 5831474934027270882
+    second: Meowth_24
+  - first:
+      213: -6267107786458110869
+    second: Meowth_25
+  - first:
+      213: -2141089592545411748
+    second: Meowth_26
+  - first:
+      213: 8848650056724351368
+    second: Meowth_27
+  - first:
+      213: -6955504425937681605
+    second: Meowth_28
+  - first:
+      213: 3562127308878229963
+    second: Meowth_29
+  - first:
+      213: 2791280462186491884
+    second: Meowth_30
+  - first:
+      213: -7865451509507936330
+    second: Meowth_31
+  - first:
+      213: -8235289767917341454
+    second: Meowth_32
+  - first:
+      213: -1118082749312878606
+    second: Meowth_33
+  - first:
+      213: 5364846058513888942
+    second: Meowth_34
+  - first:
+      213: -7974921229903128711
+    second: Meowth_35
+  - first:
+      213: -4607592991739071125
+    second: Meowth_36
+  - first:
+      213: 4908672024612804400
+    second: Meowth_37
+  - first:
+      213: -3675492672972316003
+    second: Meowth_38
+  - first:
+      213: -2788927047546569865
+    second: Meowth_39
+  - first:
+      213: -1147507895568811263
+    second: Meowth_40
+  - first:
+      213: -6553125437220194735
+    second: Meowth_41
+  - first:
+      213: 6535451728582459954
+    second: Meowth_42
+  - first:
+      213: 9066994231848979244
+    second: Meowth_43
+  - first:
+      213: 7925610167036015504
+    second: Meowth_44
+  - first:
+      213: 8949838790136422801
+    second: Meowth_45
+  - first:
+      213: -4378991752768935238
+    second: Meowth_46
+  - first:
+      213: 5378440079161783604
+    second: Meowth_47
+  - first:
+      213: -2744157724525322293
+    second: Meowth_48
+  - first:
+      213: -7793333701084767800
+    second: Meowth_49
+  - first:
+      213: 5612730710877861139
+    second: Meowth_50
+  - first:
+      213: 1984876318536688364
+    second: Meowth_51
+  - first:
+      213: -4158247687618522093
+    second: Meowth_52
+  - first:
+      213: -7615873963788892912
+    second: Meowth_53
+  - first:
+      213: -4095601610620384804
+    second: Meowth_54
+  - first:
+      213: 1551910539981972872
+    second: Meowth_55
+  - first:
+      213: 1450464069535730307
+    second: Meowth_56
+  - first:
+      213: -897575930179867031
+    second: Meowth_57
+  - first:
+      213: -940358324274491406
+    second: Meowth_58
+  - first:
+      213: -2291346672679454245
+    second: Meowth_59
+  - first:
+      213: 1510593826860374853
+    second: Meowth_60
+  - first:
+      213: -9109593437045246961
+    second: Meowth_61
+  - first:
+      213: 8019429660801474939
+    second: Meowth_62
+  - first:
+      213: 1025802374726891426
+    second: Meowth_63
+  - first:
+      213: -5354501812234576711
+    second: Meowth_64
+  - first:
+      213: -7004910101861230242
+    second: Meowth_65
+  - first:
+      213: 594758908440982541
+    second: Meowth_66
+  - first:
+      213: 6012899004139784910
+    second: Meowth_67
+  - first:
+      213: 6104402335844860251
+    second: Meowth_68
+  - first:
+      213: -6145909051674599483
+    second: Meowth_69
+  - first:
+      213: -8464233913532232448
+    second: Meowth_70
+  - first:
+      213: 1389566751889063050
+    second: Meowth_71
+  - first:
+      213: 3074977705971526353
+    second: Meowth_72
+  - first:
+      213: -8790198822678422569
+    second: Meowth_73
+  - first:
+      213: 3518454127307911131
+    second: Meowth_74
+  - first:
+      213: -373620455570437604
+    second: Meowth_75
+  - first:
+      213: 4560741686268710992
+    second: Meowth_76
+  - first:
+      213: 2895522279105560518
+    second: Meowth_77
+  - first:
+      213: 8168189077863971916
+    second: Meowth_78
+  - first:
+      213: 8489704171937272251
+    second: Meowth_79
+  - first:
+      213: -749926393363098960
+    second: Meowth_80
+  - first:
+      213: -8680061515967318740
+    second: Meowth_81
+  - first:
+      213: -8543413876913486110
+    second: Meowth_82
+  - first:
+      213: 6430001904107267149
+    second: Meowth_83
+  - first:
+      213: -5409060430188400250
+    second: Meowth_84
+  - first:
+      213: -2437342724034047928
+    second: Meowth_85
+  - first:
+      213: 1680312120321159949
+    second: Meowth_86
+  - first:
+      213: -1701604988511682927
+    second: Meowth_87
+  - first:
+      213: -8457573693025633120
+    second: Meowth_88
+  - first:
+      213: -25322617304948754
+    second: Meowth_89
+  - first:
+      213: -2175350208772195476
+    second: Meowth_90
+  - first:
+      213: 6844799082946097799
+    second: Meowth_91
+  - first:
+      213: -5682039273768021761
+    second: Meowth_92
+  - first:
+      213: -8257420449367126210
+    second: Meowth_93
+  - first:
+      213: -5735002934633794384
+    second: Meowth_94
+  - first:
+      213: -4174276939992463913
+    second: Meowth_95
+  - first:
+      213: -1687228958838211487
+    second: Meowth_96
+  - first:
+      213: -8923762659770027807
+    second: Meowth_97
+  - first:
+      213: -6638052586216304119
+    second: Meowth_98
+  - first:
+      213: 7343098712394289175
+    second: Meowth_99
+  - first:
+      213: -2730544135913365639
+    second: Meowth_100
+  - first:
+      213: 2260194739471071793
+    second: Meowth_101
+  - first:
+      213: -77487004540095128
+    second: Meowth_102
+  - first:
+      213: 1849087030672269451
+    second: Meowth_103
+  - first:
+      213: 2553968312469588255
+    second: Meowth_104
+  - first:
+      213: 3528367964410252704
+    second: Meowth_105
+  - first:
+      213: 732395251480758401
+    second: Meowth_106
+  - first:
+      213: 7501634707739195196
+    second: Meowth_107
+  - first:
+      213: 4957672374061400821
+    second: Meowth_108
+  - first:
+      213: -7930636120654837199
+    second: Meowth_109
+  - first:
+      213: -6035552100497118820
+    second: Meowth_110
+  - first:
+      213: 545429926951180184
+    second: Meowth_111
+  - first:
+      213: 1967970232805694828
+    second: Meowth_112
+  - first:
+      213: -6991959385282061211
+    second: Meowth_113
+  - first:
+      213: 1916010506328388407
+    second: Meowth_114
+  - first:
+      213: -3719290251600648304
+    second: Meowth_115
+  - first:
+      213: -5819626024442373335
+    second: Meowth_116
+  - first:
+      213: 7996760096090150294
+    second: Meowth_117
+  - first:
+      213: -3724064075249087696
+    second: Meowth_118
+  - first:
+      213: -4940791974371849903
+    second: Meowth_119
+  - first:
+      213: 4519798605286864057
+    second: Meowth_120
+  - first:
+      213: 8395565843819382055
+    second: Meowth_121
+  - first:
+      213: -8142364919536532731
+    second: Meowth_122
+  - first:
+      213: -3073137069374782923
+    second: Meowth_123
+  - first:
+      213: 3768637220813214202
+    second: Meowth_124
+  - first:
+      213: -6155454389157097638
+    second: Meowth_125
+  - first:
+      213: 2198213952385049356
+    second: Meowth_126
+  - first:
+      213: 9185325343541135718
+    second: Meowth_127
+  - first:
+      213: 2765366236134019692
+    second: Meowth_128
+  - first:
+      213: 2167117068480090202
+    second: Meowth_129
+  - first:
+      213: 7231432319057354114
+    second: Meowth_130
+  - first:
+      213: 2431647142676888924
+    second: Meowth_131
+  - first:
+      213: 4646216287694643658
+    second: Meowth_132
+  - first:
+      213: -2950978310510501701
+    second: Meowth_133
+  - first:
+      213: -228465488028337815
+    second: Meowth_134
+  - first:
+      213: -441879157907402177
+    second: Meowth_135
+  - first:
+      213: -2649303213874213057
+    second: Meowth_136
+  - first:
+      213: 2017330778449547436
+    second: Meowth_137
+  - first:
+      213: 6099762194790534431
+    second: Meowth_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meowth_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 980
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ea09c443851530800000000000000
+      internalID: 3825107789975053664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 980
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a837bcfca85f20b20800000000000000
+      internalID: 3099309470124831626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 979
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf8cd1cb4b6ca450800000000000000
+      internalID: 6101369568299356095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 979
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4c76e50e77ce60800000000000000
+      internalID: 7982487428344336289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 979
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5915b1196e7f5be0800000000000000
+      internalID: -1486330362275227302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 979
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1d01bf4b730c860800000000000000
+      internalID: 7548094225918775741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 979
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857c52f989604b90800000000000000
+      internalID: -7259686558123657848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 979
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba86b32733024690800000000000000
+      internalID: -7619524084200207689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 979
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be81a241de374bd0800000000000000
+      internalID: -2646077187569906000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 979
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9c7563b6e559a70800000000000000
+      internalID: 8833070058723330533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 904
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e753255a1b76140800000000000000
+      internalID: 4712930858673471079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 904
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820a6d6ff1908630800000000000000
+      internalID: 3927299401305424522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 904
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cf72d385d86a7c0800000000000000
+      internalID: -4060402603905254319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 904
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25dbf4f917e39f00800000000000000
+      internalID: 1122494830815728939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 904
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8174bfd991cf3dd0800000000000000
+      internalID: -2504070001167404659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 904
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c31bf499d67ad260800000000000000
+      internalID: 7123136437519324101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 905
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c6a8a676bc8510800000000000000
+      internalID: 1552816592287875410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 905
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dade3340f25a3820800000000000000
+      internalID: 2898720502040156880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 905
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1dbf79dc66894b0800000000000000
+      internalID: -5433479917218311734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 905
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257d967b36b4b490800000000000000
+      internalID: -7731354293778942676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 829
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e8859603ab5b00800000000000000
+      internalID: 818427005971786122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 829
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c872f4daf20e080800000000000000
+      internalID: -9160269220667749252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 829
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77f0d1b2b1867c0800000000000000
+      internalID: -4077979590598887473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 829
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a195c978061b340800000000000000
+      internalID: 4877786006978894435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 829
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3a475e8f8de050800000000000000
+      internalID: 5831474934027270882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 829
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64641b3ca2c609a0800000000000000
+      internalID: -6267107786458110869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 829
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7b0c0c525942e0800000000000000
+      internalID: -2141089592545411748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 829
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8898bcc2858bcca70800000000000000
+      internalID: 8848650056724351368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 829
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c3529395197f90800000000000000
+      internalID: -6955504425937681605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 829
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b76a1ae73f6130800000000000000
+      internalID: 3562127308878229963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 754
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef2d11aace9cb620800000000000000
+      internalID: 2791280462186491884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 754
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf28b9668d48d290800000000000000
+      internalID: -7865451509507936330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 754
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4b0e8a69f56bd80800000000000000
+      internalID: -8235289767917341454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 754
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b6b1d9a5cb70f0800000000000000
+      internalID: -1118082749312878606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 755
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ff58e013c37a40800000000000000
+      internalID: 5364846058513888942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 755
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97717e3f463635190800000000000000
+      internalID: -7974921229903128711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 755
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6530d9069a8e00c0800000000000000
+      internalID: -4607592991739071125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 755
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03791f9f23b1f1440800000000000000
+      internalID: 4908672024612804400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 754
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922fe433e60efcc0800000000000000
+      internalID: -3675492672972316003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 754
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf18a60adbb49d0800000000000000
+      internalID: -2788927047546569865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 679
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3aa316ab3310f0800000000000000
+      internalID: -1147507895568811263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 679
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156f9e1822f9e05a0800000000000000
+      internalID: -6553125437220194735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 679
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ced888b692ba50800000000000000
+      internalID: 6535451728582459954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 679
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bcfd1073f64dd70800000000000000
+      internalID: 9066994231848979244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 679
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093f76a847c6dfd60800000000000000
+      internalID: 7925610167036015504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 679
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191e71b16f6343c70800000000000000
+      internalID: 8949838790136422801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 679
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa7d5a332ba33c0800000000000000
+      internalID: -4378991752768935238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 679
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435792c71ce04aa40800000000000000
+      internalID: 5378440079161783604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_48
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 679
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf1606b61bcae9d0800000000000000
+      internalID: -2744157724525322293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 679
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c913ca2a4488d390800000000000000
+      internalID: -7793333701084767800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 604
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315fcc118dc64ed40800000000000000
+      internalID: 5612730710877861139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 604
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e671de72bb8b10800000000000000
+      internalID: 1984876318536688364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 605
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314986b62cfea46c0800000000000000
+      internalID: -4158247687618522093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 605
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01587360bfafe4690800000000000000
+      internalID: -7615873963788892912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 605
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd94479d8008927c0800000000000000
+      internalID: -4095601610620384804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 605
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8856fcae96e798510800000000000000
+      internalID: 1551910539981972872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 604
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a0528e265112410800000000000000
+      internalID: 1450464069535730307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_57
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 604
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e20b2727b2b83f0800000000000000
+      internalID: -897575930179867031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_58
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 604
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff8908161d23f2f0800000000000000
+      internalID: -940358324274491406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_59
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 604
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9faad57508330e0800000000000000
+      internalID: -2291346672679454245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 529
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b19e10515b6f410800000000000000
+      internalID: 1510593826860374853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 529
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0430b0a809349180800000000000000
+      internalID: -9109593437045246961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 529
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ad49a9ccba4f60800000000000000
+      internalID: 8019429660801474939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 529
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7395b23d16c3e00800000000000000
+      internalID: 1025802374726891426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 529
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc929c98fcf0b5b0800000000000000
+      internalID: -5354501812234576711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 529
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59140f306f89ce90800000000000000
+      internalID: -7004910101861230242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 529
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04bf987312014800800000000000000
+      internalID: 594758908440982541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 529
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4d0c59cb127350800000000000000
+      internalID: 6012899004139784910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 529
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51091af49137b450800000000000000
+      internalID: 6104402335844860251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_69
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 529
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd319a74855baa0800000000000000
+      internalID: -6145909051674599483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 455
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dc810e910098a80800000000000000
+      internalID: -8464233913532232448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 455
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7a0e399bb84310800000000000000
+      internalID: 1389566751889063050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 455
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daada08ee38caa20800000000000000
+      internalID: 3074977705971526353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_73
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 455
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db12354eb0f20680800000000000000
+      internalID: -8790198822678422569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 454
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe1b0236f04d030800000000000000
+      internalID: 3518454127307911131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 454
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a87e8dc22a0daf0800000000000000
+      internalID: -373620455570437604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 454
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050dc5a56620b4f30800000000000000
+      internalID: 4560741686268710992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 454
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cff055fb26fe2820800000000000000
+      internalID: 2895522279105560518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 454
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbe4c70bc3b5170800000000000000
+      internalID: 8168189077863971916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_79
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 454
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb11978c6fc71d570800000000000000
+      internalID: 8489704171937272251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 379
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b217e32be9b795f0800000000000000
+      internalID: -749926393363098960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_81
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 379
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25ba384a0a3a8780800000000000000
+      internalID: -8680061515967318740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 379
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6cd690852bf6980800000000000000
+      internalID: -8543413876913486110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_83
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 379
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4426670aa4fb3950800000000000000
+      internalID: 6430001904107267149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_84
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 379
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681bff972382fe4b0800000000000000
+      internalID: -5409060430188400250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 379
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405112c4b1dc2ed0800000000000000
+      internalID: -2437342724034047928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 379
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03b68388faa15710800000000000000
+      internalID: 1680312120321159949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_87
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 379
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e7ab7474fa268e0800000000000000
+      internalID: -1701604988511682927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 380
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb48d4989a0aa80800000000000000
+      internalID: -8457573693025633120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_89
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 380
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef51c6b63906aff0800000000000000
+      internalID: -25322617304948754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 305
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bbf08b28a9fc1e0800000000000000
+      internalID: -2175350208772195476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 305
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782fbe9208c9dfe50800000000000000
+      internalID: 6844799082946097799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 304
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01d3f92675521b0800000000000000
+      internalID: -5682039273768021761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_93
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 304
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0d6ad9dfb76d80800000000000000
+      internalID: -8257420449367126210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 304
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4745f573d2960b0800000000000000
+      internalID: -5735002934633794384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_95
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 304
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d505a54d3df116c0800000000000000
+      internalID: -4174276939992463913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c32b58332c598e0800000000000000
+      internalID: -1687228958838211487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_97
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 304
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0338c142d682480800000000000000
+      internalID: -8923762659770027807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_98
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 304
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902d63eb756e0e3a0800000000000000
+      internalID: -6638052586216304119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_99
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 304
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710d3ee9f5de7e560800000000000000
+      internalID: 7343098712394289175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f9b5f43982b1ad0800000000000000
+      internalID: -2730544135913365639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_101
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 229
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a3169f323dd5f10800000000000000
+      internalID: 2260194739471071793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 229
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865bdabdaf5bceef0800000000000000
+      internalID: -77487004540095128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_103
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 229
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a0068bd649a910800000000000000
+      internalID: 1849087030672269451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_104
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 229
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198a5016a4817320800000000000000
+      internalID: 2553968312469588255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_105
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 229
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8a8338f747f030800000000000000
+      internalID: 3528367964410252704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 230
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18881bfc99df92a00800000000000000
+      internalID: 732395251480758401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_107
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 230
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37398575092b1860800000000000000
+      internalID: 7501634707739195196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_108
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 230
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f282b0e1c03dc440800000000000000
+      internalID: 4957672374061400821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_109
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 230
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8c717778b0f190800000000000000
+      internalID: -7930636120654837199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 155
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99a182a7596d3ca0800000000000000
+      internalID: -6035552100497118820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 155
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897dac5f0a1c19700800000000000000
+      internalID: 545429926951180184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 155
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d1deeff72af4b10800000000000000
+      internalID: 1967970232805694828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_113
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 155
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cdd4cebf197fe90800000000000000
+      internalID: -6991959385282061211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_114
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 155
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733be9f6769079a10800000000000000
+      internalID: 1916010506328388407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_115
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 155
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09725c8c83d626cc0800000000000000
+      internalID: -3719290251600648304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 163
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b5e77e6f88c3fa0800000000000000
+      internalID: -5819626024442373335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_117
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 163
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d87150f23afe60800000000000000
+      internalID: 7996760096090150294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_118
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 164
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b0cf95477715cc0800000000000000
+      internalID: -3724064075249087696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_119
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 164
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159077270e7ce6bb0800000000000000
+      internalID: -4940791974371849903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4fd6472ec89be30800000000000000
+      internalID: 4519798605286864057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_121
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 90
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725c14147aa038470800000000000000
+      internalID: 8395565843819382055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_122
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 91
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5034c6bee32800f80800000000000000
+      internalID: -8142364919536532731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_123
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532c4d91e160a55d0800000000000000
+      internalID: -3073137069374782923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_124
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 89
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af113e1d593ec4430800000000000000
+      internalID: 3768637220813214202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 89
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f0c2798de639aa0800000000000000
+      internalID: -6155454389157097638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_126
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 88
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e73c61ff918e10800000000000000
+      internalID: 2198213952385049356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_127
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 88
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698928ebb4d87f70800000000000000
+      internalID: 9185325343541135718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 87
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6290a2b0fd806620800000000000000
+      internalID: 2765366236134019692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_129
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 87
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50117ded75231e10800000000000000
+      internalID: 2167117068480090202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d51b261653b5460800000000000000
+      internalID: 7231432319057354114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_131
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d795e5132feb120800000000000000
+      internalID: 2431647142676888924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_132
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 11
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac16ca1d81daa7040800000000000000
+      internalID: 4646216287694643658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_133
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 11
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0a32e8cd40c07d0800000000000000
+      internalID: -2950978310510501701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_134
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 5
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96972ae59d354dcf0800000000000000
+      internalID: -228465488028337815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_135
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32d74f3f312ed9f0800000000000000
+      internalID: -441879157907402177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0aba73c8cb3bd0800000000000000
+      internalID: -2649303213874213057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_137
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca092fb97affefb10800000000000000
+      internalID: 2017330778449547436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meowth_138
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 5
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dc8d2f565b6a450800000000000000
+      internalID: 6099762194790534431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

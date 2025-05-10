@@ -1,0 +1,2892 @@
+fileFormatVersion: 2
+guid: a9305de0d84d08a45b6b48fc81bb965c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 204807425939868187
+    second: Sandslash_0
+  - first:
+      213: -6778704856200182985
+    second: Sandslash_1
+  - first:
+      213: -6822790915876541768
+    second: Sandslash_2
+  - first:
+      213: -8862590917196342599
+    second: Sandslash_3
+  - first:
+      213: -3839286155099915397
+    second: Sandslash_4
+  - first:
+      213: -8545743254106801031
+    second: Sandslash_5
+  - first:
+      213: 4777782508658542864
+    second: Sandslash_6
+  - first:
+      213: -1456149347048351821
+    second: Sandslash_7
+  - first:
+      213: 250105511931273227
+    second: Sandslash_8
+  - first:
+      213: -2052743211867435744
+    second: Sandslash_9
+  - first:
+      213: 2489702359150992635
+    second: Sandslash_10
+  - first:
+      213: 5697213765948463803
+    second: Sandslash_11
+  - first:
+      213: 1288150978828079198
+    second: Sandslash_12
+  - first:
+      213: 4032333796861680596
+    second: Sandslash_13
+  - first:
+      213: -4029193613019481525
+    second: Sandslash_14
+  - first:
+      213: -6150663142671322394
+    second: Sandslash_15
+  - first:
+      213: -7213223585667911782
+    second: Sandslash_16
+  - first:
+      213: 3218461855871792515
+    second: Sandslash_17
+  - first:
+      213: 7402412434958779619
+    second: Sandslash_18
+  - first:
+      213: 7537950322877961810
+    second: Sandslash_19
+  - first:
+      213: -8972375168885742551
+    second: Sandslash_20
+  - first:
+      213: -7567270216178492942
+    second: Sandslash_21
+  - first:
+      213: -854169082898607664
+    second: Sandslash_22
+  - first:
+      213: 5444743101086186208
+    second: Sandslash_23
+  - first:
+      213: 1463563773464825357
+    second: Sandslash_24
+  - first:
+      213: -7908054017430084958
+    second: Sandslash_25
+  - first:
+      213: 672098505492867836
+    second: Sandslash_26
+  - first:
+      213: -4988580127836869277
+    second: Sandslash_27
+  - first:
+      213: -9125237076347271639
+    second: Sandslash_28
+  - first:
+      213: -8495178507663479669
+    second: Sandslash_29
+  - first:
+      213: 8269646942186525640
+    second: Sandslash_30
+  - first:
+      213: 6773538076126655631
+    second: Sandslash_31
+  - first:
+      213: 1141828724146974501
+    second: Sandslash_32
+  - first:
+      213: -6762635366980994320
+    second: Sandslash_33
+  - first:
+      213: 2737699759091363729
+    second: Sandslash_34
+  - first:
+      213: -1166698333978698069
+    second: Sandslash_35
+  - first:
+      213: 4976531837293469326
+    second: Sandslash_36
+  - first:
+      213: -1476665293973942776
+    second: Sandslash_37
+  - first:
+      213: -8599620283066097860
+    second: Sandslash_38
+  - first:
+      213: 7948653449711998729
+    second: Sandslash_39
+  - first:
+      213: 8800044188198199814
+    second: Sandslash_40
+  - first:
+      213: 2736687097229377466
+    second: Sandslash_41
+  - first:
+      213: 575006299055249706
+    second: Sandslash_42
+  - first:
+      213: 5734207801700291517
+    second: Sandslash_43
+  - first:
+      213: 5613156131005700382
+    second: Sandslash_44
+  - first:
+      213: -7303146849029975964
+    second: Sandslash_45
+  - first:
+      213: 124931241424261595
+    second: Sandslash_46
+  - first:
+      213: -6278983450748576008
+    second: Sandslash_47
+  - first:
+      213: 2690701365638873549
+    second: Sandslash_48
+  - first:
+      213: 7441573042971650447
+    second: Sandslash_49
+  - first:
+      213: -5710337533735630743
+    second: Sandslash_50
+  - first:
+      213: 6286815150457450833
+    second: Sandslash_51
+  - first:
+      213: -8504594731535795390
+    second: Sandslash_52
+  - first:
+      213: -2172630634059859447
+    second: Sandslash_53
+  - first:
+      213: -442329342255927472
+    second: Sandslash_54
+  - first:
+      213: -7816473476530841331
+    second: Sandslash_55
+  - first:
+      213: 1678728025493951020
+    second: Sandslash_56
+  - first:
+      213: 4722590984732163537
+    second: Sandslash_57
+  - first:
+      213: -8615806536771221610
+    second: Sandslash_58
+  - first:
+      213: 5290535561540444477
+    second: Sandslash_59
+  - first:
+      213: 4753015032400910509
+    second: Sandslash_60
+  - first:
+      213: 3677333351258228250
+    second: Sandslash_61
+  - first:
+      213: 6241751768128074448
+    second: Sandslash_62
+  - first:
+      213: 6059057045473535732
+    second: Sandslash_63
+  - first:
+      213: 7464638929477916033
+    second: Sandslash_64
+  - first:
+      213: 5180291876325784182
+    second: Sandslash_65
+  - first:
+      213: 6029376887358737955
+    second: Sandslash_66
+  - first:
+      213: 8032623480659428425
+    second: Sandslash_67
+  - first:
+      213: -4404847916666643321
+    second: Sandslash_68
+  - first:
+      213: -878592584837676766
+    second: Sandslash_69
+  - first:
+      213: 2848733168294770750
+    second: Sandslash_70
+  - first:
+      213: -4954124827106029143
+    second: Sandslash_71
+  - first:
+      213: -8165967608032709927
+    second: Sandslash_72
+  - first:
+      213: -8244365491099075667
+    second: Sandslash_73
+  - first:
+      213: -1171855354978925327
+    second: Sandslash_74
+  - first:
+      213: -4066602240402282278
+    second: Sandslash_75
+  - first:
+      213: 2903277355751890810
+    second: Sandslash_76
+  - first:
+      213: -3756477767411189622
+    second: Sandslash_77
+  - first:
+      213: 3058670390454342652
+    second: Sandslash_78
+  - first:
+      213: -6355038977483618956
+    second: Sandslash_79
+  - first:
+      213: 4722386525283479899
+    second: Sandslash_80
+  - first:
+      213: -7973984524232316688
+    second: Sandslash_81
+  - first:
+      213: 7497997994967716
+    second: Sandslash_82
+  - first:
+      213: -6183102643065897405
+    second: Sandslash_83
+  - first:
+      213: -8453402650567552710
+    second: Sandslash_84
+  - first:
+      213: -4261207117224573347
+    second: Sandslash_85
+  - first:
+      213: -7734358338419722928
+    second: Sandslash_86
+  - first:
+      213: -6129524678192683771
+    second: Sandslash_87
+  - first:
+      213: -5490240719037151282
+    second: Sandslash_88
+  - first:
+      213: 2789397263588354839
+    second: Sandslash_89
+  - first:
+      213: 6033371344190005504
+    second: Sandslash_90
+  - first:
+      213: 1822021773568537027
+    second: Sandslash_91
+  - first:
+      213: 303790999494373597
+    second: Sandslash_92
+  - first:
+      213: 5487155480439413807
+    second: Sandslash_93
+  - first:
+      213: 7131308387425248388
+    second: Sandslash_94
+  - first:
+      213: 1811096387681446239
+    second: Sandslash_95
+  - first:
+      213: 8213547111675247560
+    second: Sandslash_96
+  - first:
+      213: -2666481621744084851
+    second: Sandslash_97
+  - first:
+      213: 105092341697485451
+    second: Sandslash_98
+  - first:
+      213: -896423634464576872
+    second: Sandslash_99
+  - first:
+      213: -4145325935295121509
+    second: Sandslash_100
+  - first:
+      213: 154782926454117323
+    second: Sandslash_101
+  - first:
+      213: 2736933193493222550
+    second: Sandslash_102
+  - first:
+      213: 7106051395086860390
+    second: Sandslash_103
+  - first:
+      213: 7177052153847317858
+    second: Sandslash_104
+  - first:
+      213: 1475350182069245959
+    second: Sandslash_105
+  - first:
+      213: -6846754003838771915
+    second: Sandslash_106
+  - first:
+      213: -9204302483537396854
+    second: Sandslash_107
+  - first:
+      213: -258134985223710215
+    second: Sandslash_108
+  - first:
+      213: 147447466696558301
+    second: Sandslash_109
+  - first:
+      213: 25683882101307735
+    second: Sandslash_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sandslash_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 697
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a028ec44f97d200800000000000000
+      internalID: 204807425939868187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 697
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73309f039d33de1a0800000000000000
+      internalID: -6778704856200182985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 697
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baaa6a8fc39051a0800000000000000
+      internalID: -6822790915876541768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 697
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba98ee4480c10580800000000000000
+      internalID: -8862590917196342599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 697
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bb136559d18bac0800000000000000
+      internalID: -3839286155099915397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 697
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf545a9cb676980800000000000000
+      internalID: -8545743254106801031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 697
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019caaab0e71e4240800000000000000
+      internalID: 4777782508658542864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 697
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7144542e7bacbe0800000000000000
+      internalID: -1456149347048351821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 697
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e70353ad887300800000000000000
+      internalID: 250105511931273227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 697
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d0c89bce03383e0800000000000000
+      internalID: -2052743211867435744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 634
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc95a9ca133d8220800000000000000
+      internalID: 2489702359150992635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 634
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad2d82cb1901f40800000000000000
+      internalID: 5697213765948463803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 634
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509e168d7e60e110800000000000000
+      internalID: 1288150978828079198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 634
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1eb9593ab5f730800000000000000
+      internalID: 4032333796861680596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 634
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a73bca1cd6518c0800000000000000
+      internalID: -4029193613019481525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 634
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2fcf7957474aaa0800000000000000
+      internalID: -6150663142671322394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 634
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6bcabd5b75eb90800000000000000
+      internalID: -7213223585667911782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 634
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385f16a71064aac20800000000000000
+      internalID: 3218461855871792515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 634
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e407a2d3e6aab660800000000000000
+      internalID: 7402412434958779619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 634
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569ea181ed2c9860800000000000000
+      internalID: 7537950322877961810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 571
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a7035258bb7380800000000000000
+      internalID: -8972375168885742551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 571
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9994dd4d7abf690800000000000000
+      internalID: -7567270216178492942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 571
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d115b3aeb16524f0800000000000000
+      internalID: -854169082898607664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 571
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3081c00d9f8b40800000000000000
+      internalID: 5444743101086186208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 571
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e40876f7f9f4410800000000000000
+      internalID: 1463563773464825357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 571
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2aa7215c2f04290800000000000000
+      internalID: -7908054017430084958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 571
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa29f1a706c35900800000000000000
+      internalID: 672098505492867836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 571
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36de5baedc005cab0800000000000000
+      internalID: -4988580127836869277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 571
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c8150a35ac5180800000000000000
+      internalID: -9125237076347271639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 571
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c6f2b18201b1a80800000000000000
+      internalID: -8495178507663479669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 508
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c35ce65410b3c270800000000000000
+      internalID: 8269646942186525640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 508
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84bc141ef0700e50800000000000000
+      internalID: 6773538076126655631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 508
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2e19cc2798df00800000000000000
+      internalID: 1141828724146974501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 508
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faba95b6fa4622a0800000000000000
+      internalID: -6762635366980994320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_34
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 508
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f205a0d634ef520800000000000000
+      internalID: 2737699759091363729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 508
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed823fb0e0fcfe0800000000000000
+      internalID: -1166698333978698069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_36
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 508
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e9c47d651301540800000000000000
+      internalID: 4976531837293469326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_37
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 508
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e09842db4d18be0800000000000000
+      internalID: -1476665293973942776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_38
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 508
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd9905ae208a880800000000000000
+      internalID: -8599620283066097860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 508
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90754c0e23a4f4e60800000000000000
+      internalID: 7948653449711998729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 445
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6026b458099002a70800000000000000
+      internalID: 8800044188198199814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 445
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf70c35a6aaaf520800000000000000
+      internalID: 2736687097229377466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 445
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29dcc6be25daf700800000000000000
+      internalID: 575006299055249706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 445
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db39e905d9ff39f40800000000000000
+      internalID: 5734207801700291517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_44
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 445
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e199669e2cfe5ed40800000000000000
+      internalID: 5613156131005700382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_45
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 445
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4601e0172a206aa90800000000000000
+      internalID: -7303146849029975964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 445
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1117a5d48dbb100800000000000000
+      internalID: 124931241424261595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 445
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe139ba1d19cd8a0800000000000000
+      internalID: -6278983450748576008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_48
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 445
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc14097d2aa475520800000000000000
+      internalID: 2690701365638873549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 445
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a2746147c54760800000000000000
+      internalID: 7441573042971650447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 382
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688b1a844ec0c0b0800000000000000
+      internalID: -5710337533735630743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 382
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517f8302114f3750800000000000000
+      internalID: 6286815150457450833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 382
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7624a62c99f980800000000000000
+      internalID: -8504594731535795390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 382
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90afabc03f349d1e0800000000000000
+      internalID: -2172630634059859447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 382
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6a198ec78cd9f0800000000000000
+      internalID: -442329342255927472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 382
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09dd1b59ce468390800000000000000
+      internalID: -7816473476530841331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 382
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c225f02be3a0c4710800000000000000
+      internalID: 1678728025493951020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 382
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd3c60ba730a8140800000000000000
+      internalID: 4722590984732163537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_58
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 382
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69743427a918e6880800000000000000
+      internalID: -8615806536771221610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_59
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 382
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31a0311012cb6940800000000000000
+      internalID: 5290535561540444477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 319
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8195a4df916f140800000000000000
+      internalID: 4753015032400910509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16817a1333880330800000000000000
+      internalID: 3677333351258228250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 319
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2b073b9282f9650800000000000000
+      internalID: 6241751768128074448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 319
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62745d748161450800000000000000
+      internalID: 6059057045473535732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 319
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18555189e89b79760800000000000000
+      internalID: 7464638929477916033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_65
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 319
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a7d31e30814e740800000000000000
+      internalID: 5180291876325784182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_66
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 319
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec7f38556aca350800000000000000
+      internalID: 6029376887358737955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 319
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944ca2b3f7c997f60800000000000000
+      internalID: 8032623480659428425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_68
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 319
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c177d5826ded2c0800000000000000
+      internalID: -4404847916666643321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_69
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 319
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2214576f2bc9ec3f0800000000000000
+      internalID: -878592584837676766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38351c29bbb88720800000000000000
+      internalID: 2848733168294770750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 256
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d663c7b96f3bb0800000000000000
+      internalID: -4954124827106029143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d23dd3c9b7acae80800000000000000
+      internalID: -8165967608032709927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 256
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabfc803441269d80800000000000000
+      internalID: -8244365491099075667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 256
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4875e63cbbcbfe0800000000000000
+      internalID: -1171855354978925327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8a302eec68097c0800000000000000
+      internalID: -4066602240402282278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_76
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 256
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd6027f538a4820800000000000000
+      internalID: 2903277355751890810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_77
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 256
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88bdca8f5f4edbc0800000000000000
+      internalID: -3756477767411189622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_78
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 256
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3590cb384927a20800000000000000
+      internalID: 3058670390454342652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 256
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c35d68bd5ec7a0800000000000000
+      internalID: -6355038977483618956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 193
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51fc934689498140800000000000000
+      internalID: 4722386525283479899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 193
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8abacb257b65190800000000000000
+      internalID: -7973984524232316688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a24403b363aa1000800000000000000
+      internalID: 7497997994967716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 193
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3746d7e4313aa0800000000000000
+      internalID: -6183102643065897405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_84
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 193
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31539dc31b7faa80800000000000000
+      internalID: -8453402650567552710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_85
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 193
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56867724b62dd4c0800000000000000
+      internalID: -4261207117224573347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_86
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 193
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05579e0d11a0aa490800000000000000
+      internalID: -7734358338419722928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_87
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 193
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505a552e7cd8feaa0800000000000000
+      internalID: -6129524678192683771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_88
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 193
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c762972fbec3b0800000000000000
+      internalID: -5490240719037151282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_89
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 193
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b61a9480ee5b620800000000000000
+      internalID: 2789397263588354839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00167787547dab350800000000000000
+      internalID: 6033371344190005504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1749a462f194910800000000000000
+      internalID: 1822021773568537027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b2d2fd48473400800000000000000
+      internalID: 303790999494373597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 130
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cdde656da462c40800000000000000
+      internalID: 5487155480439413807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_94
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 130
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ee30f13f77f260800000000000000
+      internalID: 7131308387425248388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_95
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 130
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59eeb9a19e422910800000000000000
+      internalID: 1811096387681446239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_96
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 130
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb651b4916cf170800000000000000
+      internalID: 8213547111675247560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_97
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 130
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8816d7b711cefad0800000000000000
+      internalID: -2666481621744084851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_98
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 130
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a1e7f8dec557100800000000000000
+      internalID: 105092341697485451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_99
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 130
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a697334734f83f0800000000000000
+      internalID: -896423634464576872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9735845608d876c0800000000000000
+      internalID: -4145325935295121509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 67
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d7946046e52200800000000000000
+      internalID: 154782926454117323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_102
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 67
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69493241d3a8bf520800000000000000
+      internalID: 2736933193493222550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_103
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66042d72814cd9260800000000000000
+      internalID: 7106051395086860390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_104
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 67
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265858488e20a9360800000000000000
+      internalID: 7177052153847317858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_105
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 67
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089b818c2f797410800000000000000
+      internalID: 1475350182069245959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_106
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 67
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dd4b852817bf0a0800000000000000
+      internalID: -6846754003838771915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_107
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 67
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bf18f58afb34080800000000000000
+      internalID: -9204302483537396854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_108
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 67
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9d3ad399bea6cf0800000000000000
+      internalID: -258134985223710215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_109
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 67
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6ca7390b6db0200800000000000000
+      internalID: 147447466696558301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandslash_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f91dca5f3b5000800000000000000
+      internalID: 25683882101307735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

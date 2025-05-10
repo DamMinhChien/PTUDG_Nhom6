@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: 128eb63729c722043ac057d7fbf97a93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -39144605244008493
+    second: Crobat_0
+  - first:
+      213: -4845538948992766224
+    second: Crobat_1
+  - first:
+      213: -2516408588441700030
+    second: Crobat_2
+  - first:
+      213: -1631156649859494340
+    second: Crobat_3
+  - first:
+      213: -432276532791492510
+    second: Crobat_4
+  - first:
+      213: -7977044977364179799
+    second: Crobat_5
+  - first:
+      213: 8107813493835478137
+    second: Crobat_6
+  - first:
+      213: 2912358271495330362
+    second: Crobat_7
+  - first:
+      213: -2686957954216135962
+    second: Crobat_8
+  - first:
+      213: 4099962721141742687
+    second: Crobat_9
+  - first:
+      213: 1664534061654193328
+    second: Crobat_10
+  - first:
+      213: 8261868912181197663
+    second: Crobat_11
+  - first:
+      213: -2311526276155507605
+    second: Crobat_12
+  - first:
+      213: 7117064678835429238
+    second: Crobat_13
+  - first:
+      213: 34863441593484884
+    second: Crobat_14
+  - first:
+      213: 5779999804299751777
+    second: Crobat_15
+  - first:
+      213: -5202695934884363397
+    second: Crobat_16
+  - first:
+      213: -8589722957303276316
+    second: Crobat_17
+  - first:
+      213: 8927091223255655348
+    second: Crobat_18
+  - first:
+      213: -1228266750007709621
+    second: Crobat_19
+  - first:
+      213: -6619228440286389691
+    second: Crobat_20
+  - first:
+      213: -901577336722422641
+    second: Crobat_21
+  - first:
+      213: 593901639768488684
+    second: Crobat_22
+  - first:
+      213: 2910396849092544743
+    second: Crobat_23
+  - first:
+      213: 1211864435263542239
+    second: Crobat_24
+  - first:
+      213: -7231282139337383266
+    second: Crobat_25
+  - first:
+      213: -8983651799044519715
+    second: Crobat_26
+  - first:
+      213: 6514507657103615004
+    second: Crobat_27
+  - first:
+      213: -9115768421538519743
+    second: Crobat_28
+  - first:
+      213: 2313032530713085899
+    second: Crobat_29
+  - first:
+      213: -765767468242946338
+    second: Crobat_30
+  - first:
+      213: 4614241338994835086
+    second: Crobat_31
+  - first:
+      213: -7819839271760302213
+    second: Crobat_32
+  - first:
+      213: 8916707666179027573
+    second: Crobat_33
+  - first:
+      213: -7438013998792741441
+    second: Crobat_34
+  - first:
+      213: -6323409662897357915
+    second: Crobat_35
+  - first:
+      213: 437687994275317319
+    second: Crobat_36
+  - first:
+      213: 8838344578690773217
+    second: Crobat_37
+  - first:
+      213: -3902563493243024137
+    second: Crobat_38
+  - first:
+      213: -7168700604011035386
+    second: Crobat_39
+  - first:
+      213: 819307388487165941
+    second: Crobat_40
+  - first:
+      213: -396297569447576753
+    second: Crobat_41
+  - first:
+      213: -3033774877194233130
+    second: Crobat_42
+  - first:
+      213: 7179944035522985968
+    second: Crobat_43
+  - first:
+      213: -5474510843131239889
+    second: Crobat_44
+  - first:
+      213: 6798838788507179620
+    second: Crobat_45
+  - first:
+      213: 8527619031216235929
+    second: Crobat_46
+  - first:
+      213: -820024179197975707
+    second: Crobat_47
+  - first:
+      213: -4566078856930069851
+    second: Crobat_48
+  - first:
+      213: 3097411666816602062
+    second: Crobat_49
+  - first:
+      213: 575320562538409622
+    second: Crobat_50
+  - first:
+      213: -2772024741477433615
+    second: Crobat_51
+  - first:
+      213: -93367730994082347
+    second: Crobat_52
+  - first:
+      213: -36806311469894405
+    second: Crobat_53
+  - first:
+      213: 7873025620151608340
+    second: Crobat_54
+  - first:
+      213: -5732954811793738332
+    second: Crobat_55
+  - first:
+      213: -4088073557798095655
+    second: Crobat_56
+  - first:
+      213: -7283250926913103283
+    second: Crobat_57
+  - first:
+      213: 7092977972157294750
+    second: Crobat_58
+  - first:
+      213: -3809207345045795110
+    second: Crobat_59
+  - first:
+      213: -7212687723944781188
+    second: Crobat_60
+  - first:
+      213: 8263080432925634070
+    second: Crobat_61
+  - first:
+      213: -8113750594295477771
+    second: Crobat_62
+  - first:
+      213: -7472510735573946330
+    second: Crobat_63
+  - first:
+      213: 5743703219548887088
+    second: Crobat_64
+  - first:
+      213: -4470043327314532251
+    second: Crobat_65
+  - first:
+      213: 7723862880095781850
+    second: Crobat_66
+  - first:
+      213: -8705504767310006167
+    second: Crobat_67
+  - first:
+      213: 7696120411479977191
+    second: Crobat_68
+  - first:
+      213: 719005348539827227
+    second: Crobat_69
+  - first:
+      213: -8015831120193582898
+    second: Crobat_70
+  - first:
+      213: 7026318578244012323
+    second: Crobat_71
+  - first:
+      213: -1237711079317144919
+    second: Crobat_72
+  - first:
+      213: -6592581389311280728
+    second: Crobat_73
+  - first:
+      213: 9135505351374946262
+    second: Crobat_74
+  - first:
+      213: 6919035762511145694
+    second: Crobat_75
+  - first:
+      213: 3148763519510632990
+    second: Crobat_76
+  - first:
+      213: -8326312050245839794
+    second: Crobat_77
+  - first:
+      213: -7205944623349114040
+    second: Crobat_78
+  - first:
+      213: 7700157148684582342
+    second: Crobat_79
+  - first:
+      213: 412865277194105772
+    second: Crobat_80
+  - first:
+      213: -7535670056888410687
+    second: Crobat_81
+  - first:
+      213: 212904945811018946
+    second: Crobat_82
+  - first:
+      213: -4325703053789390433
+    second: Crobat_83
+  - first:
+      213: -696745356292073127
+    second: Crobat_84
+  - first:
+      213: 7414838297493743678
+    second: Crobat_85
+  - first:
+      213: 2297166968160304677
+    second: Crobat_86
+  - first:
+      213: 3664625145957026857
+    second: Crobat_87
+  - first:
+      213: -4886822633477470840
+    second: Crobat_88
+  - first:
+      213: 3657955482556275085
+    second: Crobat_89
+  - first:
+      213: -5244430832951137404
+    second: Crobat_90
+  - first:
+      213: 6182241929802758941
+    second: Crobat_91
+  - first:
+      213: -7844075621309141860
+    second: Crobat_92
+  - first:
+      213: -2801813673521960692
+    second: Crobat_93
+  - first:
+      213: -2735097229397253560
+    second: Crobat_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crobat_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 761
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7de8d503ee47ff0800000000000000
+      internalID: -39144605244008493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 757
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe67f7afff21ccb0800000000000000
+      internalID: -4845538948992766224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 755
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b038a8bbe31dd0800000000000000
+      internalID: -2516408588441700030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 755
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ecb105ba7fc59e0800000000000000
+      internalID: -1631156649859494340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 754
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260c932a8ce300af0800000000000000
+      internalID: -432276532791492510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 754
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e4e67bd7db4190800000000000000
+      internalID: -7977044977364179799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 752
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974be256a6db48070800000000000000
+      internalID: 8107813493835478137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 752
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a5627ea66ca6820800000000000000
+      internalID: 2912358271495330362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 748
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2798c0af106bad0800000000000000
+      internalID: -2686957954216135962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_9
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 748
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5ff15f5ef5e830800000000000000
+      internalID: 4099962721141742687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 665
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4bf65f8ec991710800000000000000
+      internalID: 1664534061654193328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 665
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b376b900e08a270800000000000000
+      internalID: 8261868912181197663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 669
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cf4cc491fcbefd0800000000000000
+      internalID: -2311526276155507605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 669
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f17791e94e4c260800000000000000
+      internalID: 7117064678835429238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 679
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456c3db8d1cdb7000800000000000000
+      internalID: 34863441593484884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 679
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1613d11c23fa63050800000000000000
+      internalID: 5779999804299751777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 679
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7349debc9f4cc7b0800000000000000
+      internalID: -5202695934884363397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 675
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9bea0b7c2bc880800000000000000
+      internalID: -8589722957303276316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_18
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 672
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b329a77b2663eb70800000000000000
+      internalID: 8927091223255655348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_19
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 672
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40fd5406e154fee0800000000000000
+      internalID: -1228266750007709621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 589
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1191cdc6c324a0800000000000000
+      internalID: -6619228440286389691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 589
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f840e136034fc73f0800000000000000
+      internalID: -901577336722422641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 589
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea3ced0566fd3800800000000000000
+      internalID: 593901639768488684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 589
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c399a38ec36820800000000000000
+      internalID: 2910396849092544743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 580
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd310db784861d010800000000000000
+      internalID: 1211864435263542239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_25
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 580
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922b2e053355ab90800000000000000
+      internalID: -7231282139337383266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 578
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd807244948a35380800000000000000
+      internalID: -8983651799044519715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 578
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c142934e23e286a50800000000000000
+      internalID: 6514507657103615004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_28
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 584
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14529730be84e7180800000000000000
+      internalID: -9115768421538519743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_29
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 584
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7831be4da891020800000000000000
+      internalID: 2313032530713085899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 514
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed634da7b827f55f0800000000000000
+      internalID: -765767468242946338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 514
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb5beec04190040800000000000000
+      internalID: 4614241338994835086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 515
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe3161d995a7390800000000000000
+      internalID: -7819839271760302213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_33
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 511
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727a9031628ebb70800000000000000
+      internalID: 8916707666179027573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 509
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd63972dadd6c890800000000000000
+      internalID: -7438013998792741441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_35
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 509
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abfab91a6cbe38a0800000000000000
+      internalID: -6323409662897357915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_36
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 508
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746cb3d69eaf21600800000000000000
+      internalID: 437687994275317319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_37
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 508
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0fc57119b18aa70800000000000000
+      internalID: 8838344578690773217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_38
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 506
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc87d7fd2f47d9c0800000000000000
+      internalID: -3902563493243024137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_39
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 506
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6054bc438c8a38c90800000000000000
+      internalID: -7168700604011035386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 420
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f761ac9ab3ce5b00800000000000000
+      internalID: 819307388487165941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf9b3d571108af0800000000000000
+      internalID: -396297569447576753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 419
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5554a2ddd5e5d0800000000000000
+      internalID: -3033774877194233130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 419
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff38803f0944a360800000000000000
+      internalID: 7179944035522985968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 423
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f226324b461a604b0800000000000000
+      internalID: -5474510843131239889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_45
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 423
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1e1a3bd35a5e50800000000000000
+      internalID: 6798838788507179620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 433
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995218fd350385670800000000000000
+      internalID: 8527619031216235929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 433
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636cab8a50be94f0800000000000000
+      internalID: -820024179197975707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_48
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 433
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f244c87702a0c0800000000000000
+      internalID: -4566078856930069851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_49
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 429
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf01cb00873cfa20800000000000000
+      internalID: 3097411666816602062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 344
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e6412e003fbf700800000000000000
+      internalID: 575320562538409622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 344
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb4a73f2ac789d0800000000000000
+      internalID: -2772024741477433615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 343
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd0d981b8a44bef0800000000000000
+      internalID: -93367730994082347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 343
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4385fcadc3d7ff0800000000000000
+      internalID: -36806311469894405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_54
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 343
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414afa4a61b924d60800000000000000
+      internalID: 7873025620151608340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_55
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 343
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5faa129f37070b0800000000000000
+      internalID: -5732954811793738332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 334
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f6cb32ce3447c0800000000000000
+      internalID: -4088073557798095655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_57
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 334
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a5f4bced1bcea90800000000000000
+      internalID: -7283250926913103283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_58
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 332
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e982b1ea2e15f6260800000000000000
+      internalID: 7092977972157294750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_59
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 332
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade8cba0a1af22bc0800000000000000
+      internalID: -3809207345045795110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 256
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a5372cab267eb90800000000000000
+      internalID: -7212687723944781188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e6303cfdb5ca270800000000000000
+      internalID: 8263080432925634070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 268
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f947eea2da266f80800000000000000
+      internalID: -8113750594295477771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 268
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62072d9b31f4c4890800000000000000
+      internalID: -7472510735573946330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 269
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0389a7095abb5bf40800000000000000
+      internalID: 5743703219548887088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_65
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 265
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568efc0f64737f1c0800000000000000
+      internalID: -4470043327314532251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_66
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 263
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad34feddd5ca03b60800000000000000
+      internalID: 7723862880095781850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_67
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 263
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9687402b985df2780800000000000000
+      internalID: -8705504767310006167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_68
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 262
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca5ea0dbc1eca60800000000000000
+      internalID: 7696120411479977191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_69
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 262
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1482571e8b6af900800000000000000
+      internalID: 719005348539827227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 178
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8075dd01c02c090800000000000000
+      internalID: -8015831120193582898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 178
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32946f6158f728160800000000000000
+      internalID: 7026318578244012323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7cbeb454c2dee0800000000000000
+      internalID: -1237711079317144919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_73
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 174
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9ff39c7227284a0800000000000000
+      internalID: -6592581389311280728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_74
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 173
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df326017b5d7ce70800000000000000
+      internalID: 9135505351374946262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_75
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 173
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda63bc0e5a550060800000000000000
+      internalID: 6919035762511145694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_76
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 177
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ad326fcb7a2bb20800000000000000
+      internalID: 3148763519510632990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 177
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44da041e4ff27c80800000000000000
+      internalID: -8326312050245839794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_78
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 187
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd3263b875ffb90800000000000000
+      internalID: -7205944623349114040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_79
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 187
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd770a21247cda60800000000000000
+      internalID: 7700157148684582342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca37f3b38cacab500800000000000000
+      internalID: 412865277194105772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_81
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 101
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd5e9a420ceb6790800000000000000
+      internalID: -7535670056888410687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 98
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c45df19be364f200800000000000000
+      internalID: 212904945811018946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_83
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 98
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f999f0bbdf308f3c0800000000000000
+      internalID: -4325703053789390433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959de4b3ac9a456f0800000000000000
+      internalID: -696745356292073127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_85
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 97
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38a315652cc6e660800000000000000
+      internalID: 7414838297493743678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_86
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 97
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb4f6cf2d21ef10800000000000000
+      internalID: 2297166968160304677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_87
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 97
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c8bbb772d5bd230800000000000000
+      internalID: 3664625145957026857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_88
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 88
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858c33d4b48e2cb0800000000000000
+      internalID: -4886822633477470840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_89
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 88
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8995f5712ba3c230800000000000000
+      internalID: 3657955482556275085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b67d091f90837b0800000000000000
+      internalID: -5244430832951137404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b3b6db74cbbc550800000000000000
+      internalID: 6182241929802758941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 10
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c219838ce342390800000000000000
+      internalID: -7844075621309141860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_93
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 10
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0924eefe45fd19d0800000000000000
+      internalID: -2801813673521960692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crobat_94
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 22
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8422f9f9f8bfa0ad0800000000000000
+      internalID: -2735097229397253560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

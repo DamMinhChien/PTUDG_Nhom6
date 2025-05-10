@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 8d461f504657c8b40b00e3c05ca8dec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2115825060809436412
+    second: Yanma_0
+  - first:
+      213: 5013670460744528289
+    second: Yanma_1
+  - first:
+      213: -6799864680789695802
+    second: Yanma_2
+  - first:
+      213: 2540215317524881766
+    second: Yanma_3
+  - first:
+      213: -8307823783025472020
+    second: Yanma_4
+  - first:
+      213: 1530345098516057582
+    second: Yanma_5
+  - first:
+      213: -8993543473897745784
+    second: Yanma_6
+  - first:
+      213: -3894256450245028138
+    second: Yanma_7
+  - first:
+      213: -1580797589180533480
+    second: Yanma_8
+  - first:
+      213: 8880770661663881841
+    second: Yanma_9
+  - first:
+      213: -7475572654195076642
+    second: Yanma_10
+  - first:
+      213: 8466200708036902123
+    second: Yanma_11
+  - first:
+      213: -1072622146938449185
+    second: Yanma_12
+  - first:
+      213: -2871384243281694092
+    second: Yanma_13
+  - first:
+      213: -4368086139045740188
+    second: Yanma_14
+  - first:
+      213: 1393507181194644097
+    second: Yanma_15
+  - first:
+      213: -8709757536044723706
+    second: Yanma_16
+  - first:
+      213: -7081753083823109327
+    second: Yanma_17
+  - first:
+      213: 1631147844748841856
+    second: Yanma_18
+  - first:
+      213: 5349454055773795314
+    second: Yanma_19
+  - first:
+      213: -3643411387492977207
+    second: Yanma_20
+  - first:
+      213: 61306196471869770
+    second: Yanma_21
+  - first:
+      213: -6304531134275941917
+    second: Yanma_22
+  - first:
+      213: -2024544120116083539
+    second: Yanma_23
+  - first:
+      213: 7179470589761006288
+    second: Yanma_24
+  - first:
+      213: -1069759484349607332
+    second: Yanma_25
+  - first:
+      213: -1405705369359451952
+    second: Yanma_26
+  - first:
+      213: 7565633941838259741
+    second: Yanma_27
+  - first:
+      213: -1165944869583535406
+    second: Yanma_28
+  - first:
+      213: -4868936342844718213
+    second: Yanma_29
+  - first:
+      213: -8720322710616501238
+    second: Yanma_30
+  - first:
+      213: -3095601001545565038
+    second: Yanma_31
+  - first:
+      213: 7688086907950678364
+    second: Yanma_32
+  - first:
+      213: 136554109458227166
+    second: Yanma_33
+  - first:
+      213: -1447813033421178225
+    second: Yanma_34
+  - first:
+      213: -2639292805158384162
+    second: Yanma_35
+  - first:
+      213: -8593435980843154306
+    second: Yanma_36
+  - first:
+      213: -1775392289722539573
+    second: Yanma_37
+  - first:
+      213: -3165515790512903109
+    second: Yanma_38
+  - first:
+      213: 3330581546343596588
+    second: Yanma_39
+  - first:
+      213: -988958949053540367
+    second: Yanma_40
+  - first:
+      213: -1205590487878446051
+    second: Yanma_41
+  - first:
+      213: -1000365940719239648
+    second: Yanma_42
+  - first:
+      213: -1827955024285077177
+    second: Yanma_43
+  - first:
+      213: -2357292096018791350
+    second: Yanma_44
+  - first:
+      213: 5586079143971118283
+    second: Yanma_45
+  - first:
+      213: 8404613541749008872
+    second: Yanma_46
+  - first:
+      213: 7559314868088385254
+    second: Yanma_47
+  - first:
+      213: -5926515624964639624
+    second: Yanma_48
+  - first:
+      213: -2185086131548595343
+    second: Yanma_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yanma_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 292
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc6a64ceabec5d10800000000000000
+      internalID: 2115825060809436412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fb8178b2249540800000000000000
+      internalID: 5013670460744528289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 292
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22ecc991702a1a0800000000000000
+      internalID: -6799864680789695802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 292
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a3166f58a04320800000000000000
+      internalID: 2540215317524881766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 292
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced893c394ea4bc80800000000000000
+      internalID: -8307823783025472020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 292
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4fcc42c0ec3510800000000000000
+      internalID: 1530345098516057582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 291
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882da4e3cd3803380800000000000000
+      internalID: -8993543473897745784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_7
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 291
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61fd22462d4f9c0800000000000000
+      internalID: -3894256450245028138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 311
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815b913d7f0ef0ae0800000000000000
+      internalID: -1580797589180533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 304
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17abf2c4dd5de3b70800000000000000
+      internalID: 8880770661663881841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 292
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1141e374e614890800000000000000
+      internalID: -7475572654195076642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_11
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 292
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec33b720bcfd7570800000000000000
+      internalID: 8466200708036902123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 220
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2548127d74d11f0800000000000000
+      internalID: -1072622146938449185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 220
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727a857e3bc628d0800000000000000
+      internalID: -2871384243281694092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 216
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4610fd5bcc07163c0800000000000000
+      internalID: -4368086139045740188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 216
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a001fe56bb65310800000000000000
+      internalID: 1393507181194644097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 212
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d540daa9b02780800000000000000
+      internalID: -8709757536044723706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 212
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b42bb471f88bd90800000000000000
+      internalID: -7081753083823109327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_18
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 225
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0831666925003a610800000000000000
+      internalID: 1631147844748841856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 208
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f37ba00f141d3a40800000000000000
+      internalID: 5349454055773795314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 208
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c53edd85a0007dc0800000000000000
+      internalID: -3643411387492977207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 209
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417c3f29adc9d000800000000000000
+      internalID: 61306196471869770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_22
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 209
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98712165ec188a0800000000000000
+      internalID: -6304531134275941917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 141
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4006869df57e3e0800000000000000
+      internalID: -2024544120116083539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 141
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa112867a92a360800000000000000
+      internalID: 7179470589761006288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 140
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529c34ba637721f0800000000000000
+      internalID: -1069759484349607332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d878701a6eed7ce0800000000000000
+      internalID: -1405705369359451952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 152
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1668e35cf78ef860800000000000000
+      internalID: 7565633941838259741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 141
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c8cc815bb1dfe0800000000000000
+      internalID: -1165944869583535406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 141
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7340c261301e6cb0800000000000000
+      internalID: -4868936342844718213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_30
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 143
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a049eea62b03bf680800000000000000
+      internalID: -8720322710616501238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 142
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c78805a473a05d0800000000000000
+      internalID: -3095601001545565038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_32
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 144
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c514bbe3f4291ba60800000000000000
+      internalID: 7688086907950678364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_33
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 144
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf90e23d3325e100800000000000000
+      internalID: 136554109458227166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 78
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8affb987b558ebe0800000000000000
+      internalID: -1447813033421178225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 78
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4a426d295f5bd0800000000000000
+      internalID: -2639292805158384162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 80
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7488c1618bfdb880800000000000000
+      internalID: -8593435980843154306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 80
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ee127e1a8c57e0800000000000000
+      internalID: -1775392289722539573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca69ff824d114d0800000000000000
+      internalID: -3165515790512903109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_39
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 79
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22084d254a983e20800000000000000
+      internalID: 3330581546343596588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_40
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 82
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7583853138642f0800000000000000
+      internalID: -988958949053540367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_41
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 82
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d145a69b6d1e44fe0800000000000000
+      internalID: -1205590487878446051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 85
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eb7022a7cfd12f0800000000000000
+      internalID: -1000365940719239648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_43
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 86
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f810279cc1a6e0800000000000000
+      internalID: -1827955024285077177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 105
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44c6f00457394fd0800000000000000
+      internalID: -2357292096018791350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_45
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 98
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccdd97926db58d40800000000000000
+      internalID: 5586079143971118283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e923669c7f23a470800000000000000
+      internalID: 8404613541749008872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 91
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeacb152d418e860800000000000000
+      internalID: 7559314868088385254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8743e2a6079c0cda0800000000000000
+      internalID: -5926515624964639624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yanma_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 20
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd96d8db30da1e0800000000000000
+      internalID: -2185086131548595343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

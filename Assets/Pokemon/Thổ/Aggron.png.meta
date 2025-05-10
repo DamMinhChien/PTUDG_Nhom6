@@ -1,0 +1,2842 @@
+fileFormatVersion: 2
+guid: b4489941c33b6ec4398da327d090a78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6741907559273447065
+    second: Aggron_0
+  - first:
+      213: 3119244556219000872
+    second: Aggron_1
+  - first:
+      213: 5893674837274474123
+    second: Aggron_2
+  - first:
+      213: 7426706833390650717
+    second: Aggron_3
+  - first:
+      213: -1508846658779191520
+    second: Aggron_4
+  - first:
+      213: -8906747656844512427
+    second: Aggron_5
+  - first:
+      213: 1095235150637809
+    second: Aggron_6
+  - first:
+      213: 1691156431498671987
+    second: Aggron_7
+  - first:
+      213: -2170680901404204379
+    second: Aggron_8
+  - first:
+      213: -8081679329633589224
+    second: Aggron_9
+  - first:
+      213: 4083136576639403773
+    second: Aggron_10
+  - first:
+      213: 8996243363769662750
+    second: Aggron_11
+  - first:
+      213: -2514773685300513234
+    second: Aggron_12
+  - first:
+      213: 4766581704607560072
+    second: Aggron_13
+  - first:
+      213: 7426128416571751258
+    second: Aggron_14
+  - first:
+      213: -7002603811737502287
+    second: Aggron_15
+  - first:
+      213: 2921260393974516631
+    second: Aggron_16
+  - first:
+      213: 5691190122280741936
+    second: Aggron_17
+  - first:
+      213: 9049703303459367694
+    second: Aggron_18
+  - first:
+      213: -1474101209838562062
+    second: Aggron_19
+  - first:
+      213: 2761913943797829634
+    second: Aggron_20
+  - first:
+      213: -9163285315307621476
+    second: Aggron_21
+  - first:
+      213: 7796463451387276725
+    second: Aggron_22
+  - first:
+      213: 5651388449088819043
+    second: Aggron_23
+  - first:
+      213: -7594322244077286405
+    second: Aggron_24
+  - first:
+      213: -3251524751250745568
+    second: Aggron_25
+  - first:
+      213: 5372705396010736697
+    second: Aggron_26
+  - first:
+      213: 7171261937214673212
+    second: Aggron_27
+  - first:
+      213: 8458449327466572102
+    second: Aggron_28
+  - first:
+      213: -152903407282189145
+    second: Aggron_29
+  - first:
+      213: 4832785963183322013
+    second: Aggron_30
+  - first:
+      213: 8376916156218818638
+    second: Aggron_31
+  - first:
+      213: -6853442714557968901
+    second: Aggron_32
+  - first:
+      213: 2634569821412332088
+    second: Aggron_33
+  - first:
+      213: 2106396015102779416
+    second: Aggron_34
+  - first:
+      213: -188767175860411512
+    second: Aggron_35
+  - first:
+      213: -3210143066260436554
+    second: Aggron_36
+  - first:
+      213: 2776054853156123943
+    second: Aggron_37
+  - first:
+      213: -6291409745960482788
+    second: Aggron_38
+  - first:
+      213: -3850914039175704822
+    second: Aggron_39
+  - first:
+      213: 2708739149711650323
+    second: Aggron_40
+  - first:
+      213: 5913043012614745806
+    second: Aggron_41
+  - first:
+      213: 3449119709511035568
+    second: Aggron_42
+  - first:
+      213: 4405841232612644724
+    second: Aggron_43
+  - first:
+      213: -630607537898402746
+    second: Aggron_44
+  - first:
+      213: -5685055371704658831
+    second: Aggron_45
+  - first:
+      213: 2749733774270590808
+    second: Aggron_46
+  - first:
+      213: 952759239197635774
+    second: Aggron_47
+  - first:
+      213: -3892706443874363513
+    second: Aggron_48
+  - first:
+      213: -8989779307042276236
+    second: Aggron_49
+  - first:
+      213: 769458733457482260
+    second: Aggron_50
+  - first:
+      213: 3921297558354915794
+    second: Aggron_51
+  - first:
+      213: 9218337647560280485
+    second: Aggron_52
+  - first:
+      213: -593603481137075776
+    second: Aggron_53
+  - first:
+      213: 2592561814192107063
+    second: Aggron_54
+  - first:
+      213: 8501374772585627596
+    second: Aggron_55
+  - first:
+      213: 712321119161526031
+    second: Aggron_56
+  - first:
+      213: 5416267899172545548
+    second: Aggron_57
+  - first:
+      213: -9054106590290091793
+    second: Aggron_58
+  - first:
+      213: 3136940323481225685
+    second: Aggron_59
+  - first:
+      213: -6648339798997566525
+    second: Aggron_60
+  - first:
+      213: -4269071290113234937
+    second: Aggron_61
+  - first:
+      213: 782073476375686684
+    second: Aggron_62
+  - first:
+      213: -604595479718776777
+    second: Aggron_63
+  - first:
+      213: 1393724648283347457
+    second: Aggron_64
+  - first:
+      213: -7659729200762193332
+    second: Aggron_65
+  - first:
+      213: 202799457397477590
+    second: Aggron_66
+  - first:
+      213: 7172343255526759203
+    second: Aggron_67
+  - first:
+      213: 3380636614637339273
+    second: Aggron_68
+  - first:
+      213: -6224581285920629451
+    second: Aggron_69
+  - first:
+      213: 7721658391049236232
+    second: Aggron_70
+  - first:
+      213: 5119043387670344884
+    second: Aggron_71
+  - first:
+      213: 133770803165406281
+    second: Aggron_72
+  - first:
+      213: -8629981749006731215
+    second: Aggron_73
+  - first:
+      213: -715103589165853916
+    second: Aggron_74
+  - first:
+      213: -8895322387813516508
+    second: Aggron_75
+  - first:
+      213: 5333393668956851401
+    second: Aggron_76
+  - first:
+      213: 1358959985234235776
+    second: Aggron_77
+  - first:
+      213: -200182476866592381
+    second: Aggron_78
+  - first:
+      213: -8758190789803341396
+    second: Aggron_79
+  - first:
+      213: -708537235443207193
+    second: Aggron_80
+  - first:
+      213: -5270935211336068368
+    second: Aggron_81
+  - first:
+      213: 2290371465486166013
+    second: Aggron_82
+  - first:
+      213: 4572189290789996056
+    second: Aggron_83
+  - first:
+      213: -7218154367082785958
+    second: Aggron_84
+  - first:
+      213: -6388488692017254612
+    second: Aggron_85
+  - first:
+      213: 1046862002421957300
+    second: Aggron_86
+  - first:
+      213: -1667518692825770285
+    second: Aggron_87
+  - first:
+      213: -3328786294917782609
+    second: Aggron_88
+  - first:
+      213: 7490906716795616990
+    second: Aggron_89
+  - first:
+      213: -8505072278872581640
+    second: Aggron_90
+  - first:
+      213: 2997170849489622629
+    second: Aggron_91
+  - first:
+      213: 2537235113901509230
+    second: Aggron_92
+  - first:
+      213: 3537638452650588805
+    second: Aggron_93
+  - first:
+      213: -5238479932582763373
+    second: Aggron_94
+  - first:
+      213: -6575928702269873216
+    second: Aggron_95
+  - first:
+      213: 1936191690979178380
+    second: Aggron_96
+  - first:
+      213: 3435138776040930487
+    second: Aggron_97
+  - first:
+      213: 2816412289466573272
+    second: Aggron_98
+  - first:
+      213: 4256535630969127116
+    second: Aggron_99
+  - first:
+      213: 5061891696475104857
+    second: Aggron_100
+  - first:
+      213: 690706683645201897
+    second: Aggron_101
+  - first:
+      213: 3128338604448648999
+    second: Aggron_102
+  - first:
+      213: 7084653352111720481
+    second: Aggron_103
+  - first:
+      213: 3830591714598127046
+    second: Aggron_104
+  - first:
+      213: 3257728584724245636
+    second: Aggron_105
+  - first:
+      213: -706592580538301507
+    second: Aggron_106
+  - first:
+      213: 4687216229088376857
+    second: Aggron_107
+  - first:
+      213: -4780676659934318459
+    second: Aggron_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aggron_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 969
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7614cf48bceef62a0800000000000000
+      internalID: -6741907559273447065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 969
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828210db568c94b20800000000000000
+      internalID: 3119244556219000872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 969
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b863769d90a8ac150800000000000000
+      internalID: 5893674837274474123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 969
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55473f3486f01760800000000000000
+      internalID: 7426706833390650717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 969
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276ee245ff7f0be0800000000000000
+      internalID: -1508846658779191520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 969
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537db13230e46480800000000000000
+      internalID: -8906747656844512427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 969
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa691e4c14e30000800000000000000
+      internalID: 1095235150637809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 969
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377781770d1387710800000000000000
+      internalID: 1691156431498671987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 969
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e31f883130e1e0800000000000000
+      internalID: -2170680901404204379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_9
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 969
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a290e77b18df80800000000000000
+      internalID: -8081679329633589224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 873
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df60ff345173aa830800000000000000
+      internalID: 4083136576639403773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 873
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1db47adca319dc70800000000000000
+      internalID: 8996243363769662750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 873
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26b92538aab91dd0800000000000000
+      internalID: -2514773685300513234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 873
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88172005ecc462240800000000000000
+      internalID: 4766581704607560072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 873
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b71361378ee0760800000000000000
+      internalID: 7426128416571751258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_15
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 873
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf6924fe0c1de90800000000000000
+      internalID: -7002603811737502287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 873
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc44fc9d66a8820800000000000000
+      internalID: 2921260393974516631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_17
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 873
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c61c3534b2bfe40800000000000000
+      internalID: 5691190122280741936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 873
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bef550531079d70800000000000000
+      internalID: 9049703303459367694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_19
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 873
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4599082c0fa8be0800000000000000
+      internalID: -1474101209838562062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 777
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2009440491a445620800000000000000
+      internalID: 2761913943797829634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 777
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93398d0e8875d080800000000000000
+      internalID: -9163285315307621476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 777
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd214c933a923c60800000000000000
+      internalID: 7796463451387276725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 777
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f4fa32ad3cd6e40800000000000000
+      internalID: 5651388449088819043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 777
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb0debc72c8b9690800000000000000
+      internalID: -7594322244077286405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 777
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271f4f477340e2d0800000000000000
+      internalID: -3251524751250745568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_26
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 777
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5b04871faf8a40800000000000000
+      internalID: 5372705396010736697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_27
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 777
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d5f6acb0758360800000000000000
+      internalID: 7171261937214673212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_28
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 777
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649694a39d2726570800000000000000
+      internalID: 8458449327466572102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_29
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 777
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac8ff34927c0edf0800000000000000
+      internalID: -152903407282189145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 681
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9339037a31811340800000000000000
+      internalID: 4832785963183322013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 681
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4047ac7cd8c04470800000000000000
+      internalID: 8376916156218818638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 681
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd8846892ea3e0a0800000000000000
+      internalID: -6853442714557968901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 681
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8321f354b4fdf8420800000000000000
+      internalID: 2634569821412332088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 681
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ef7cf30c6b3d10800000000000000
+      internalID: 2106396015102779416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 681
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8832691f04d516df0800000000000000
+      internalID: -188767175860411512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 681
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b90d59a3e74373d0800000000000000
+      internalID: -3210143066260436554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_37
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 681
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725be574e27868620800000000000000
+      internalID: 2776054853156123943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 681
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18489b5b2c60b8a0800000000000000
+      internalID: -6291409745960482788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_39
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 681
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0e5a951ece8ac0800000000000000
+      internalID: -3850914039175704822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 585
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea1c7b7ef579520800000000000000
+      internalID: 2708739149711650323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 585
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee1849a495f0250800000000000000
+      internalID: 5913043012614745806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 585
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba24310a1cbddf20800000000000000
+      internalID: 3449119709511035568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 585
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47755a60241b42d30800000000000000
+      internalID: 4405841232612644724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 585
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cc1ee09c1af37f0800000000000000
+      internalID: -630607537898402746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_45
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 585
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1741e199240aa11b0800000000000000
+      internalID: -5685055371704658831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 585
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fea4a8c44092620800000000000000
+      internalID: 2749733774270590808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_47
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 585
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b8d8ea71e83d00800000000000000
+      internalID: 952759239197635774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_48
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 585
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7879efd1d145af9c0800000000000000
+      internalID: -3892706443874363513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_49
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 585
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c7692a953ed3380800000000000000
+      internalID: -8989779307042276236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4122e0d24aaadaa00800000000000000
+      internalID: 769458733457482260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 489
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f9587a5f3b6630800000000000000
+      internalID: 3921297558354915794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 489
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c076ef3d1eef70800000000000000
+      internalID: 9218337647560280485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_53
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 489
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a36967c813c7f0800000000000000
+      internalID: -593603481137075776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 489
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea929eb31aaf320800000000000000
+      internalID: 2592561814192107063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_55
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 489
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccffe6e3053faf570800000000000000
+      internalID: 8501374772585627596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_56
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 489
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a1a9a84ca2e900800000000000000
+      internalID: 712321119161526031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_57
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 489
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04e78a25f27a2b40800000000000000
+      internalID: 5416267899172545548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_58
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 489
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe06c3fd60a595280800000000000000
+      internalID: -9054106590290091793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_59
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 489
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d982be9a96a88b20800000000000000
+      internalID: 3136940323481225685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 393
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb78ae5d2a5cb3a0800000000000000
+      internalID: -6648339798997566525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7086bf7b74631c4c0800000000000000
+      internalID: -4269071290113234937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_62
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ea0a3eeab7ada00800000000000000
+      internalID: 782073476375686684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7303e8e4d9b0c97f0800000000000000
+      internalID: -604595479718776777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a92afee21875310800000000000000
+      internalID: 1393724648283347457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af1e8ffdc23b590800000000000000
+      internalID: -7659729200762193332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_66
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d091d2380d70d200800000000000000
+      internalID: 202799457397477590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_67
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 393
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b57d0b038498360800000000000000
+      internalID: 7172343255526759203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_68
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 393
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9824322f61f6aee20800000000000000
+      internalID: 3380636614637339273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_69
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 393
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d1829bc48dd99a0800000000000000
+      internalID: -6224581285920629451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f67634567d82b60800000000000000
+      internalID: 7721658391049236232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 297
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b437e7d6de7a0740800000000000000
+      internalID: 5119043387670344884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 297
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442ef336df3bd100800000000000000
+      internalID: 133770803165406281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_73
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 297
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1387958a2552c3880800000000000000
+      internalID: -8629981749006731215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423992e03117316f0800000000000000
+      internalID: -715103589165853916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_75
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 297
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bbbcfea677d8480800000000000000
+      internalID: -8895322387813516508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_76
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 297
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc8d7dc845040a40800000000000000
+      internalID: 5333393668956851401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_77
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 297
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815bdf08eefbd210800000000000000
+      internalID: 1358959985234235776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_78
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 297
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381eb10191fc83df0800000000000000
+      internalID: -200182476866592381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_79
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 297
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca98caa21e7a47680800000000000000
+      internalID: -8758190789803341396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 201
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3354b6325ca26f0800000000000000
+      internalID: -708537235443207193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 201
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f217361a50e9d6b0800000000000000
+      internalID: -5270935211336068368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 201
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76ef386b809cf10800000000000000
+      internalID: 2290371465486166013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_83
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 201
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816026b7feda37f30800000000000000
+      internalID: 4572189290789996056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 201
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a539818b8d6f3db90800000000000000
+      internalID: -7218154367082785958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 201
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f26bcd1678757a0800000000000000
+      internalID: -6388488692017254612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_86
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 201
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b20737d173378e00800000000000000
+      internalID: 1046862002421957300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_87
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 201
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6dbc17598cbd8e0800000000000000
+      internalID: -1667518692825770285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_88
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 201
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ac3e5086cdc1d0800000000000000
+      internalID: -3328786294917782609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_89
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 201
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb03c68fb05f760800000000000000
+      internalID: 7490906716795616990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 105
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f917ccf2d9e7f980800000000000000
+      internalID: -8505072278872581640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_91
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661cf60207189920800000000000000
+      internalID: 2997170849489622629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4fbba4e1163320800000000000000
+      internalID: 2537235113901509230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 105
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a3002fd67381130800000000000000
+      internalID: 3537638452650588805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_94
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 105
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3946467814e2d47b0800000000000000
+      internalID: -5238479932582763373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 105
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3a8e0afab9db4a0800000000000000
+      internalID: -6575928702269873216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_96
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 105
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8770e5a51cbeda10800000000000000
+      internalID: 1936191690979178380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_97
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 105
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcf61444801caf20800000000000000
+      internalID: 3435138776040930487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_98
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 105
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d123b62e08e51720800000000000000
+      internalID: 2816412289466573272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_99
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 105
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc045b1ba90421b30800000000000000
+      internalID: 4256535630969127116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e5ebcda37f3640800000000000000
+      internalID: 5061891696475104857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 9
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed09aab112e59900800000000000000
+      internalID: 690706683645201897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_102
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f8d47d2671a6b20800000000000000
+      internalID: 3128338604448648999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_103
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 9
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128466900beb15260800000000000000
+      internalID: 7084653352111720481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_104
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 9
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c50d2c7edef82530800000000000000
+      internalID: 3830591714598127046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 9
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cef1b33e6c53d20800000000000000
+      internalID: 3257728584724245636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_106
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 9
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3861caacda136f0800000000000000
+      internalID: -706592580538301507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_107
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 9
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918324093565c0140800000000000000
+      internalID: 4687216229088376857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggron_108
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 9
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5803d9a28ef97adb0800000000000000
+      internalID: -4780676659934318459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

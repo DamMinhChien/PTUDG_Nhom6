@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: 138bb05fe7af27147b31e22bcb68cc2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3822742708897840788
+    second: Bellsprout_0
+  - first:
+      213: -3646482736079422792
+    second: Bellsprout_1
+  - first:
+      213: 8484928384842083375
+    second: Bellsprout_2
+  - first:
+      213: -632894562797618535
+    second: Bellsprout_3
+  - first:
+      213: 269452706810688313
+    second: Bellsprout_4
+  - first:
+      213: 6836526610649315484
+    second: Bellsprout_5
+  - first:
+      213: 1447432076692266543
+    second: Bellsprout_6
+  - first:
+      213: 6035416626612748325
+    second: Bellsprout_7
+  - first:
+      213: 2840490156441530305
+    second: Bellsprout_8
+  - first:
+      213: -8210092572381869627
+    second: Bellsprout_9
+  - first:
+      213: 2821123650072957015
+    second: Bellsprout_10
+  - first:
+      213: 1518255667118180649
+    second: Bellsprout_11
+  - first:
+      213: 6307587539730931320
+    second: Bellsprout_12
+  - first:
+      213: 4761206876904664667
+    second: Bellsprout_13
+  - first:
+      213: 4985398260105420904
+    second: Bellsprout_14
+  - first:
+      213: -7720822186339460215
+    second: Bellsprout_15
+  - first:
+      213: -2502172640252222948
+    second: Bellsprout_16
+  - first:
+      213: -7268417404371213530
+    second: Bellsprout_17
+  - first:
+      213: 2737218107451148517
+    second: Bellsprout_18
+  - first:
+      213: 5935175714334486358
+    second: Bellsprout_19
+  - first:
+      213: 5791080601778613238
+    second: Bellsprout_20
+  - first:
+      213: 4366922832850761465
+    second: Bellsprout_21
+  - first:
+      213: 1612752203040354652
+    second: Bellsprout_22
+  - first:
+      213: -8384805603339050313
+    second: Bellsprout_23
+  - first:
+      213: -112163650023172443
+    second: Bellsprout_24
+  - first:
+      213: 2285043006749425491
+    second: Bellsprout_25
+  - first:
+      213: -8954226355276791483
+    second: Bellsprout_26
+  - first:
+      213: -13588479756249335
+    second: Bellsprout_27
+  - first:
+      213: 756138701087148602
+    second: Bellsprout_28
+  - first:
+      213: 736664096591140454
+    second: Bellsprout_29
+  - first:
+      213: 6271688726716455857
+    second: Bellsprout_30
+  - first:
+      213: -4629164921795647602
+    second: Bellsprout_31
+  - first:
+      213: -4724971766568562665
+    second: Bellsprout_32
+  - first:
+      213: -4510682987135531609
+    second: Bellsprout_33
+  - first:
+      213: 2982997430360234965
+    second: Bellsprout_34
+  - first:
+      213: -974317908668487806
+    second: Bellsprout_35
+  - first:
+      213: -1967738692253584753
+    second: Bellsprout_36
+  - first:
+      213: -7108637505483826164
+    second: Bellsprout_37
+  - first:
+      213: 4238149059267555748
+    second: Bellsprout_38
+  - first:
+      213: -1564299790790727605
+    second: Bellsprout_39
+  - first:
+      213: 1180125183550111924
+    second: Bellsprout_40
+  - first:
+      213: 730254289349347513
+    second: Bellsprout_41
+  - first:
+      213: -6665767687710974130
+    second: Bellsprout_42
+  - first:
+      213: 8116539733491123996
+    second: Bellsprout_43
+  - first:
+      213: -3389141779813461042
+    second: Bellsprout_44
+  - first:
+      213: 3328942926602615182
+    second: Bellsprout_45
+  - first:
+      213: -1214216282189024318
+    second: Bellsprout_46
+  - first:
+      213: 7976585176228971107
+    second: Bellsprout_47
+  - first:
+      213: 525021772038340024
+    second: Bellsprout_48
+  - first:
+      213: 4399729934486275939
+    second: Bellsprout_49
+  - first:
+      213: 6047079311217926396
+    second: Bellsprout_50
+  - first:
+      213: -6027811628199239322
+    second: Bellsprout_51
+  - first:
+      213: -3945291745502475360
+    second: Bellsprout_52
+  - first:
+      213: -682442475279952015
+    second: Bellsprout_53
+  - first:
+      213: 2743178806590973661
+    second: Bellsprout_54
+  - first:
+      213: 4115041869240249167
+    second: Bellsprout_55
+  - first:
+      213: 8160028838573519075
+    second: Bellsprout_56
+  - first:
+      213: 1483889504901470324
+    second: Bellsprout_57
+  - first:
+      213: 133443228757425855
+    second: Bellsprout_58
+  - first:
+      213: 3771055373683714695
+    second: Bellsprout_59
+  - first:
+      213: -2410053560029199943
+    second: Bellsprout_60
+  - first:
+      213: -3293719370024078133
+    second: Bellsprout_61
+  - first:
+      213: 2935861129587980240
+    second: Bellsprout_62
+  - first:
+      213: 4379183161615736031
+    second: Bellsprout_63
+  - first:
+      213: -2340482887476520728
+    second: Bellsprout_64
+  - first:
+      213: 7831629898603424690
+    second: Bellsprout_65
+  - first:
+      213: -8900431438059435657
+    second: Bellsprout_66
+  - first:
+      213: -7243296940573561786
+    second: Bellsprout_67
+  - first:
+      213: -8017898441742159265
+    second: Bellsprout_68
+  - first:
+      213: -7042925290440245626
+    second: Bellsprout_69
+  - first:
+      213: 2618636473479201019
+    second: Bellsprout_70
+  - first:
+      213: -6132721620967117570
+    second: Bellsprout_71
+  - first:
+      213: 2219944085399588662
+    second: Bellsprout_72
+  - first:
+      213: -9029933361616196614
+    second: Bellsprout_73
+  - first:
+      213: -1227312014233263457
+    second: Bellsprout_74
+  - first:
+      213: -9113946644761159030
+    second: Bellsprout_75
+  - first:
+      213: 5936479909399633569
+    second: Bellsprout_76
+  - first:
+      213: 495046344747799109
+    second: Bellsprout_77
+  - first:
+      213: -7267327973074439854
+    second: Bellsprout_78
+  - first:
+      213: 4787985858121710799
+    second: Bellsprout_79
+  - first:
+      213: -2816967028541055701
+    second: Bellsprout_80
+  - first:
+      213: 4249584546768555547
+    second: Bellsprout_81
+  - first:
+      213: 5672401722520299609
+    second: Bellsprout_82
+  - first:
+      213: 2053580548331195950
+    second: Bellsprout_83
+  - first:
+      213: 7270073496378518417
+    second: Bellsprout_84
+  - first:
+      213: 3665447930984634518
+    second: Bellsprout_85
+  - first:
+      213: -7977018389322701685
+    second: Bellsprout_86
+  - first:
+      213: 5520826060515745956
+    second: Bellsprout_87
+  - first:
+      213: 7333140899719970931
+    second: Bellsprout_88
+  - first:
+      213: 7629234237373759009
+    second: Bellsprout_89
+  - first:
+      213: 4984841464585184505
+    second: Bellsprout_90
+  - first:
+      213: 1687518531086401383
+    second: Bellsprout_91
+  - first:
+      213: 4697050703212873630
+    second: Bellsprout_92
+  - first:
+      213: 421113921810064540
+    second: Bellsprout_93
+  - first:
+      213: 9202061566515841860
+    second: Bellsprout_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bellsprout_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 490
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c610e6092c3e2fac0800000000000000
+      internalID: -3822742708897840788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 490
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba346c7547156dc0800000000000000
+      internalID: -3646482736079422792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 490
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c2423396580c570800000000000000
+      internalID: 8484928384842083375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 490
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afb249fb18737f0800000000000000
+      internalID: -632894562797618535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 490
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f7392fc94db300800000000000000
+      internalID: 269452706810688313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 490
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f14d1bb830ee50800000000000000
+      internalID: 6836526610649315484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 490
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e9fbf0ecf461410800000000000000
+      internalID: 1447432076692266543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 490
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5204db4e17b12c350800000000000000
+      internalID: 6035416626612748325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 490
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfe0ba6fb27b6720800000000000000
+      internalID: 2840490156441530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 490
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90b1aed44ef0e80800000000000000
+      internalID: -8210092572381869627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7505d064305a62720800000000000000
+      internalID: 2821123650072957015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 436
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9298dc43c7de11510800000000000000
+      internalID: 1518255667118180649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 436
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e9757c27d098750800000000000000
+      internalID: 6307587539730931320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 436
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eac08bd64331240800000000000000
+      internalID: 4761206876904664667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 436
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8602f65cd41bf2540800000000000000
+      internalID: 4985398260105420904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 436
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1841d0212ad490800000000000000
+      internalID: -7720822186339460215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 436
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a013ad3f764dd0800000000000000
+      internalID: -2502172640252222948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 436
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623ef2561e4612b90800000000000000
+      internalID: -7268417404371213530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 436
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e88467cd5d8cf520800000000000000
+      internalID: 2737218107451148517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 436
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fae64cddafd5250800000000000000
+      internalID: 5935175714334486358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb6ba6ff1d0e5050800000000000000
+      internalID: 5791080601778613238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 382
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6bc95fd2d6a9c30800000000000000
+      internalID: 4366922832850761465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 382
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51f2fc7595a16610800000000000000
+      internalID: 1612752203040354652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 382
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b265467abf23ab80800000000000000
+      internalID: -8384805603339050313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 382
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a658ab21c3817ef0800000000000000
+      internalID: -112163650023172443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 382
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f3ac9028a16bf10800000000000000
+      internalID: 2285043006749425491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 382
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541494742923cb380800000000000000
+      internalID: -8954226355276791483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 382
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90757138959bfcff0800000000000000
+      internalID: -13588479756249335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 382
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a893774285e7a00800000000000000
+      internalID: 756138701087148602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 382
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665914c718293a00800000000000000
+      internalID: 736664096591140454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb91c90ba3890750800000000000000
+      internalID: 6271688726716455857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 328
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ebada707e1cfb0800000000000000
+      internalID: -4629164921795647602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 328
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105ee756378d6eb0800000000000000
+      internalID: -4724971766568562665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 328
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a58369c8b5d661c0800000000000000
+      internalID: -4510682987135531609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 328
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db568abb5cb56920800000000000000
+      internalID: 2982997430360234965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 328
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287638336078a72f0800000000000000
+      internalID: -974317908668487806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 328
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82fe6db51031b4e0800000000000000
+      internalID: -1967738692253584753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 328
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1e981adb095d90800000000000000
+      internalID: -7108637505483826164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 328
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17cce5d1ee0da30800000000000000
+      internalID: 4238149059267555748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 328
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4863b7d0ad7a4ae0800000000000000
+      internalID: -1564299790790727605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 274
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04ff31a95a06010800000000000000
+      internalID: 1180125183550111924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 274
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88f583862622a00800000000000000
+      internalID: 730254289349347513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 274
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd5b2da9f6e73a0800000000000000
+      internalID: -6665767687710974130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 274
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17051462edb3a070800000000000000
+      internalID: 8116539733491123996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 274
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec398c8f18957f0d0800000000000000
+      internalID: -3389141779813461042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 274
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b2b944f7c23e20800000000000000
+      internalID: 3328942926602615182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 274
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b0ab79bc362fe0800000000000000
+      internalID: -1214216282189024318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 274
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36246cdb4f582be60800000000000000
+      internalID: 7976585176228971107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 274
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf0bd1580494700800000000000000
+      internalID: 525021772038340024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 274
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36705bc801bfe0d30800000000000000
+      internalID: 4399729934486275939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf022c1489a8be350800000000000000
+      internalID: 6047079311217926396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612738c249e85ca0800000000000000
+      internalID: -6027811628199239322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 220
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab4b0e7f028f39c0800000000000000
+      internalID: -3945291745502475360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 220
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177dc493f2a7786f0800000000000000
+      internalID: -682442475279952015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 220
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62c32379ab11620800000000000000
+      internalID: 2743178806590973661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 220
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bace317c09b1930800000000000000
+      internalID: 4115041869240249167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_56
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 220
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03e18befe3e3170800000000000000
+      internalID: 8160028838573519075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_57
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 220
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478159984a5d79410800000000000000
+      internalID: 1483889504901470324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 220
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe74c7d8e51ad100800000000000000
+      internalID: 133443228757425855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 220
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aeeb8e1ea755430800000000000000
+      internalID: 3771055373683714695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14bc06e05cd8ed0800000000000000
+      internalID: -2410053560029199943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 166
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc434ef0fab5a42d0800000000000000
+      internalID: -3293719370024078133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 166
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f7fa74264eb820800000000000000
+      internalID: 2935861129587980240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 166
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc5a7232ebf5cc30800000000000000
+      internalID: 4379183161615736031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8d419d63fe48fd0800000000000000
+      internalID: -2340482887476520728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 166
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbe59626e98fac60800000000000000
+      internalID: 7831629898603424690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_66
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 166
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7798fba73c05b7480800000000000000
+      internalID: -8900431438059435657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 166
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c60762fc3aa7b90800000000000000
+      internalID: -7243296940573561786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_68
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 166
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52fcce09d3bab090800000000000000
+      internalID: -8017898441742159265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_69
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 166
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb1bb63c0824e90800000000000000
+      internalID: -7042925290440245626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00c9d9ff3475420800000000000000
+      internalID: 2618636473479201019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca5e3ad2234eaa0800000000000000
+      internalID: -6132721620967117570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fc8774263dece10800000000000000
+      internalID: 2219944085399588662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 112
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbea63437b3fa280800000000000000
+      internalID: -9029933361616196614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92ae03c936b7fee0800000000000000
+      internalID: -1227312014233263457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 112
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ad52970d1c48180800000000000000
+      internalID: -9113946644761159030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_76
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 112
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae1208560d926250800000000000000
+      internalID: 5936479909399633569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_77
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 112
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5425c061702ced600800000000000000
+      internalID: 495046344747799109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_78
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 112
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25173a266b3452b90800000000000000
+      internalID: -7267327973074439854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_79
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 112
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc30f625c7527240800000000000000
+      internalID: 4787985858121710799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d92d7996f18e8d0800000000000000
+      internalID: -2816967028541055701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 58
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e012941ae89fa30800000000000000
+      internalID: 4249584546768555547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 58
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958e22e105b68be40800000000000000
+      internalID: 5672401722520299609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_83
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 58
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eceecd0a8cf7c10800000000000000
+      internalID: 2053580548331195950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 58
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19baf92935d74e460800000000000000
+      internalID: 7270073496378518417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 58
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698970d09794ed230800000000000000
+      internalID: 3665447930984634518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 58
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8469a9f900fb4190800000000000000
+      internalID: -7977018389322701685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 58
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a2cb2d0aed9c40800000000000000
+      internalID: 5520826060515745956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 58
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37082bfabcc84c560800000000000000
+      internalID: 7333140899719970931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_89
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 58
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e39e21e1c70e960800000000000000
+      internalID: 7629234237373759009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ec36b6e6bd2540800000000000000
+      internalID: 4984841464585184505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f3b45c9254b6710800000000000000
+      internalID: 1687518531086401383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9780018ab64f2140800000000000000
+      internalID: 4697050703212873630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 4
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94e57771e818d500800000000000000
+      internalID: 421113921810064540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bellsprout_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b83797d3a44bf70800000000000000
+      internalID: 9202061566515841860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

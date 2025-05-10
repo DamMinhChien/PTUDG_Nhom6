@@ -1,0 +1,2742 @@
+fileFormatVersion: 2
+guid: 2d0af1b2b1f644946b58b587406b4034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1345472225597446549
+    second: Magnemite_0
+  - first:
+      213: -5754915677285866867
+    second: Magnemite_1
+  - first:
+      213: 3323260877994855027
+    second: Magnemite_2
+  - first:
+      213: -23919515579354462
+    second: Magnemite_3
+  - first:
+      213: -6023677773707248049
+    second: Magnemite_4
+  - first:
+      213: 4036815185506234546
+    second: Magnemite_5
+  - first:
+      213: -6943257642776636949
+    second: Magnemite_6
+  - first:
+      213: -1846330765659996689
+    second: Magnemite_7
+  - first:
+      213: -6869606535385982295
+    second: Magnemite_8
+  - first:
+      213: -7933736970697789438
+    second: Magnemite_9
+  - first:
+      213: -4180240918348550231
+    second: Magnemite_10
+  - first:
+      213: 627372712249065281
+    second: Magnemite_11
+  - first:
+      213: -8918723419951474853
+    second: Magnemite_12
+  - first:
+      213: 3050611757851394292
+    second: Magnemite_13
+  - first:
+      213: -2137547845145548376
+    second: Magnemite_14
+  - first:
+      213: -334846084094370032
+    second: Magnemite_15
+  - first:
+      213: 4824078943563022775
+    second: Magnemite_16
+  - first:
+      213: 1386250978386048630
+    second: Magnemite_17
+  - first:
+      213: -4938540144383844044
+    second: Magnemite_18
+  - first:
+      213: 7075272119413593092
+    second: Magnemite_19
+  - first:
+      213: 2610434339474091628
+    second: Magnemite_20
+  - first:
+      213: -9002666142615393561
+    second: Magnemite_21
+  - first:
+      213: -3042410226513238036
+    second: Magnemite_22
+  - first:
+      213: -3145308559635244865
+    second: Magnemite_23
+  - first:
+      213: -2617400700670848587
+    second: Magnemite_24
+  - first:
+      213: -8246774268829893048
+    second: Magnemite_25
+  - first:
+      213: 5688226975527860864
+    second: Magnemite_26
+  - first:
+      213: 6159355518844628351
+    second: Magnemite_27
+  - first:
+      213: -5835232114079082726
+    second: Magnemite_28
+  - first:
+      213: -6903986057398725931
+    second: Magnemite_29
+  - first:
+      213: 836313685915175870
+    second: Magnemite_30
+  - first:
+      213: 7469267531485551047
+    second: Magnemite_31
+  - first:
+      213: -8516655320798803997
+    second: Magnemite_32
+  - first:
+      213: -8491869910876906592
+    second: Magnemite_33
+  - first:
+      213: 7141001523902240603
+    second: Magnemite_34
+  - first:
+      213: 1043201631216058693
+    second: Magnemite_35
+  - first:
+      213: -2723745991871932965
+    second: Magnemite_36
+  - first:
+      213: 3642010240610289468
+    second: Magnemite_37
+  - first:
+      213: 6079598107010920071
+    second: Magnemite_38
+  - first:
+      213: -8075819501295063660
+    second: Magnemite_39
+  - first:
+      213: -8213502645757284326
+    second: Magnemite_40
+  - first:
+      213: -9121684090157546063
+    second: Magnemite_41
+  - first:
+      213: -7009419505087454391
+    second: Magnemite_42
+  - first:
+      213: -452964420073767026
+    second: Magnemite_43
+  - first:
+      213: -5841092899935498018
+    second: Magnemite_44
+  - first:
+      213: -8576601087442063528
+    second: Magnemite_45
+  - first:
+      213: 8152457357315303225
+    second: Magnemite_46
+  - first:
+      213: 4771335526844352386
+    second: Magnemite_47
+  - first:
+      213: 2949489100717089856
+    second: Magnemite_48
+  - first:
+      213: -3647857247282057904
+    second: Magnemite_49
+  - first:
+      213: -6767690136791483222
+    second: Magnemite_50
+  - first:
+      213: 4067076502243893573
+    second: Magnemite_51
+  - first:
+      213: -1930216899582721152
+    second: Magnemite_52
+  - first:
+      213: 9180377636916315280
+    second: Magnemite_53
+  - first:
+      213: -1128682178813415563
+    second: Magnemite_54
+  - first:
+      213: 1033953992770919843
+    second: Magnemite_55
+  - first:
+      213: 2496018475268215846
+    second: Magnemite_56
+  - first:
+      213: 7982684691055939791
+    second: Magnemite_57
+  - first:
+      213: -2266616657833135393
+    second: Magnemite_58
+  - first:
+      213: 1503460632101322627
+    second: Magnemite_59
+  - first:
+      213: -4859629553374703468
+    second: Magnemite_60
+  - first:
+      213: 5752962553165690654
+    second: Magnemite_61
+  - first:
+      213: -1813467837311818264
+    second: Magnemite_62
+  - first:
+      213: 2800232580318386134
+    second: Magnemite_63
+  - first:
+      213: -6984334669373571470
+    second: Magnemite_64
+  - first:
+      213: 3240139760144208946
+    second: Magnemite_65
+  - first:
+      213: -3847492011561389151
+    second: Magnemite_66
+  - first:
+      213: 3628829778767828304
+    second: Magnemite_67
+  - first:
+      213: -4093118245643329171
+    second: Magnemite_68
+  - first:
+      213: 9087199658513136354
+    second: Magnemite_69
+  - first:
+      213: -511926003611276399
+    second: Magnemite_70
+  - first:
+      213: -29290238393269053
+    second: Magnemite_71
+  - first:
+      213: 1004706636342495297
+    second: Magnemite_72
+  - first:
+      213: -6510643775262130854
+    second: Magnemite_73
+  - first:
+      213: -6143895555857877739
+    second: Magnemite_74
+  - first:
+      213: -2168749008710324544
+    second: Magnemite_75
+  - first:
+      213: -6786391619650042379
+    second: Magnemite_76
+  - first:
+      213: -9164198970157970273
+    second: Magnemite_77
+  - first:
+      213: -5807648775800348244
+    second: Magnemite_78
+  - first:
+      213: 4697586785715779512
+    second: Magnemite_79
+  - first:
+      213: 5554105556522726166
+    second: Magnemite_80
+  - first:
+      213: 7119386358767279391
+    second: Magnemite_81
+  - first:
+      213: 3696611861141103606
+    second: Magnemite_82
+  - first:
+      213: -6390576644440329396
+    second: Magnemite_83
+  - first:
+      213: 3954457840337033233
+    second: Magnemite_84
+  - first:
+      213: 1151676422793511228
+    second: Magnemite_85
+  - first:
+      213: -446345858128404910
+    second: Magnemite_86
+  - first:
+      213: 1517912483122760253
+    second: Magnemite_87
+  - first:
+      213: -8901315349931492935
+    second: Magnemite_88
+  - first:
+      213: 8121895819755416118
+    second: Magnemite_89
+  - first:
+      213: -6443634328756803938
+    second: Magnemite_90
+  - first:
+      213: 5414052846378294758
+    second: Magnemite_91
+  - first:
+      213: -3115967969200247626
+    second: Magnemite_92
+  - first:
+      213: -9206514280884795522
+    second: Magnemite_93
+  - first:
+      213: 4525960980645252625
+    second: Magnemite_94
+  - first:
+      213: 2909699822681887007
+    second: Magnemite_95
+  - first:
+      213: 5525792033020405990
+    second: Magnemite_96
+  - first:
+      213: 1529832850203918347
+    second: Magnemite_97
+  - first:
+      213: -8532066193771244981
+    second: Magnemite_98
+  - first:
+      213: -7097856051597861782
+    second: Magnemite_99
+  - first:
+      213: -166112438822362251
+    second: Magnemite_100
+  - first:
+      213: -4446446290542552921
+    second: Magnemite_101
+  - first:
+      213: -1743322927767333555
+    second: Magnemite_102
+  - first:
+      213: 8875566654309054039
+    second: Magnemite_103
+  - first:
+      213: -5608499999740726635
+    second: Magnemite_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magnemite_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662c12b32ce35de0800000000000000
+      internalID: -1345472225597446549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 426
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ac0faeae6220b0800000000000000
+      internalID: -5754915677285866867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 428
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a06d049289e1e20800000000000000
+      internalID: 3323260877994855027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 428
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a271bac3550baff0800000000000000
+      internalID: -23919515579354462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 430
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e73c8caf8976ca0800000000000000
+      internalID: -6023677773707248049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 430
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b07004f506a50830800000000000000
+      internalID: 4036815185506234546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 431
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1584af5f794af90800000000000000
+      internalID: -6943257642776636949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 431
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf5fe63f38066e0800000000000000
+      internalID: -1846330765659996689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 432
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aadd97b0414aa0a0800000000000000
+      internalID: -6869606535385982295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 432
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200bc288244b5e190800000000000000
+      internalID: -7933736970697789438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 391
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af284a580dccf5c0800000000000000
+      internalID: -4180240918348550231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 391
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff0676820e4b800800000000000000
+      internalID: 627372712249065281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d5df8d445a3480800000000000000
+      internalID: -8918723419951474853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 392
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0cc5e1b33f55a20800000000000000
+      internalID: 3050611757851394292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 390
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a2bf5f87e552e0800000000000000
+      internalID: -2137547845145548376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 390
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fdf17b2436a5bf0800000000000000
+      internalID: -334846084094370032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 388
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b104877d3292f240800000000000000
+      internalID: 4824078943563022775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 388
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676fc309be3fc3310800000000000000
+      internalID: 1386250978386048630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 387
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431aef877e7c67bb0800000000000000
+      internalID: -4938540144383844044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 387
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4045fd6918a603260800000000000000
+      internalID: 7075272119413593092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 345
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea5d973302a3420800000000000000
+      internalID: 2610434339474091628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 345
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea29f967da101380800000000000000
+      internalID: -9002666142615393561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 345
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a9a3b40037c5d0800000000000000
+      internalID: -3042410226513238036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 345
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb812f1978e9954d0800000000000000
+      internalID: -3145308559635244865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 344
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d7a92eef1dabd0800000000000000
+      internalID: -2617400700670848587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eff8bee729d8d80800000000000000
+      internalID: -8246774268829893048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 345
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08af126fb44a0fe40800000000000000
+      internalID: 5688226975527860864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 345
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d6312f53d6a7550800000000000000
+      internalID: 6159355518844628351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 346
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a175d520f47150fa0800000000000000
+      internalID: -5835232114079082726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 346
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2df7a724d1030a0800000000000000
+      internalID: -6903986057398725931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 305
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb85c9cdde2b9b00800000000000000
+      internalID: 836313685915175870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 305
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c91e8afe3b28a760800000000000000
+      internalID: 7469267531485551047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 305
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c851eb13cec980800000000000000
+      internalID: -8516655320798803997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 305
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9a53de41d62a80800000000000000
+      internalID: -8491869910876906592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 305
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5757b42d0fe91360800000000000000
+      internalID: 7141001523902240603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 305
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541cdb14b523a7e00800000000000000
+      internalID: 1043201631216058693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 306
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55410937f433ad0800000000000000
+      internalID: -2723745991871932965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 306
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3749e384050b8230800000000000000
+      internalID: 3642010240610289468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 306
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee58964421f5450800000000000000
+      internalID: 6079598107010920071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 306
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da22b73fcecef80800000000000000
+      internalID: -8075819501295063660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10f7e55cd6c30e80800000000000000
+      internalID: -8213502645757284326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 264
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c3d416a4496180800000000000000
+      internalID: -9121684090157546063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943619df81a89be90800000000000000
+      internalID: -7009419505087454391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 263
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fbc95824fb6b9f0800000000000000
+      internalID: -452964420073767026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 262
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d94774f440fea0800000000000000
+      internalID: -5841092899935498018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 262
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f69c270cac9f880800000000000000
+      internalID: -8576601087442063528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 261
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9376c4dd5c8532170800000000000000
+      internalID: 8152457357315303225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 261
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28742cdc160373240800000000000000
+      internalID: 4771335526844352386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_48
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 260
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044e025c5b0bee820800000000000000
+      internalID: 2949489100717089856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 260
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d2b682925306dc0800000000000000
+      internalID: -3647857247282057904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf0a66da55412a0800000000000000
+      internalID: -6767690136791483222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 218
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e59ec788217830800000000000000
+      internalID: 4067076502243893573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 218
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838ae0e4fd7635e0800000000000000
+      internalID: -1930216899582721152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_53
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 218
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094465032d0476f70800000000000000
+      internalID: 9180377636916315280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 219
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f2383d98d1650f0800000000000000
+      internalID: -1128682178813415563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 219
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1535ada7595e00800000000000000
+      internalID: 1033953992770919843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_56
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 221
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249c2b2493a3a220800000000000000
+      internalID: 2496018475268215846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 221
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc09654be6138ce60800000000000000
+      internalID: 7982684691055939791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_58
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 223
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27fd3a82c5b80e0800000000000000
+      internalID: -2266616657833135393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 223
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ffe2eaa7d5dd410800000000000000
+      internalID: 1503460632101322627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4905c1b2ba02f8cb0800000000000000
+      internalID: -4859629553374703468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 182
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b09b26f0a6df40800000000000000
+      internalID: 5752962553165690654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5ee613c9445d6e0800000000000000
+      internalID: -1813467837311818264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 181
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d75a5e02bc6cd620800000000000000
+      internalID: 2800232580318386134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 180
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efa8f6f98a21f90800000000000000
+      internalID: -6984334669373571470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 180
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d302e1f947fc20800000000000000
+      internalID: 3240139760144208946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 179
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3fabe7666fa9ac0800000000000000
+      internalID: -3847492011561389151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d0d915713c5230800000000000000
+      internalID: 3628829778767828304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 177
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6162c054a25237c0800000000000000
+      internalID: -4093118245643329171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_69
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 177
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf9b081f73c1e70800000000000000
+      internalID: 9087199658513136354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be673130645e8f0800000000000000
+      internalID: -511926003611276399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_71
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4ce21fea0f79ff0800000000000000
+      internalID: -29290238393269053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 132
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1480ca2dc5f61fd00800000000000000
+      internalID: 1004706636342495297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 132
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d74643bfb85a5a0800000000000000
+      internalID: -6510643775262130854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 134
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5157dff2b8f7cbaa0800000000000000
+      internalID: -6143895555857877739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 134
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce27d0644e07e1e0800000000000000
+      internalID: -2168749008710324544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 136
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5421c17c4e1d1a0800000000000000
+      internalID: -6786391619650042379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 136
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ccbb4379932d080800000000000000
+      internalID: -9164198970157970273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 136
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1203a6536176fa0800000000000000
+      internalID: -5807648775800348244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_79
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 136
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77820fa4e213140800000000000000
+      internalID: 4697586785715779512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 94
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137f85a395241d40800000000000000
+      internalID: 5554105556522726166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 94
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd5155c242dc260800000000000000
+      internalID: 7119386358767279391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_82
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 90
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3afc7f6e00d4330800000000000000
+      internalID: 3696611861141103606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_83
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 90
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f93e866c1057a0800000000000000
+      internalID: -6390576644440329396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 88
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181c84447e01e630800000000000000
+      internalID: 3954457840337033233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 88
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31ccccca939bff00800000000000000
+      internalID: 1151676422793511228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 88
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e1a4f8ec24ec9f0800000000000000
+      internalID: -446345858128404910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_87
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 88
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac9a47c55b01510800000000000000
+      internalID: 1517912483122760253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_88
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 90
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f995b9dc287480800000000000000
+      internalID: -8901315349931492935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_89
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 90
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a60476735c6b070800000000000000
+      internalID: 8121895819755416118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9620f3c7bc9396a0800000000000000
+      internalID: -6443634328756803938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_91
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed129ff064922b40800000000000000
+      internalID: 5414052846378294758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 48
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bce25024abd1c4d0800000000000000
+      internalID: -3115967969200247626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_93
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770d4c2a04eb3080800000000000000
+      internalID: -9206514280884795522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_94
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e83a648817fce30800000000000000
+      internalID: 4525960980645252625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 49
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1198fd8294516820800000000000000
+      internalID: 2909699822681887007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_96
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e86ddeb39e8fac40800000000000000
+      internalID: 5525792033020405990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_97
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 48
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c0223fde0b3510800000000000000
+      internalID: 1529832850203918347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_98
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 49
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4255286003089980800000000000000
+      internalID: -8532066193771244981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_99
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c17a1f6895f7d90800000000000000
+      internalID: -7097856051597861782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732833fd99d1bdf0800000000000000
+      internalID: -166112438822362251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_101
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a89b5338ac0b42c0800000000000000
+      internalID: -4446446290542552921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4552a1a8097ec7e0800000000000000
+      internalID: -1743322927767333555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_103
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 7
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b46ae8d85c2b70800000000000000
+      internalID: 8875566654309054039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnemite_104
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592fca027fa9a22b0800000000000000
+      internalID: -5608499999740726635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2542 @@
+fileFormatVersion: 2
+guid: b23f6f35f68f94e44ac8a3e354f7213f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 329031489019316610
+    second: Weepinbell_0
+  - first:
+      213: -1016604127002162509
+    second: Weepinbell_1
+  - first:
+      213: -8080563375329536950
+    second: Weepinbell_2
+  - first:
+      213: 7078304329638135763
+    second: Weepinbell_3
+  - first:
+      213: 715517610841777274
+    second: Weepinbell_4
+  - first:
+      213: -3198088145809433425
+    second: Weepinbell_5
+  - first:
+      213: 8787258237896068596
+    second: Weepinbell_6
+  - first:
+      213: 1913457756556472738
+    second: Weepinbell_7
+  - first:
+      213: -7197661501315350166
+    second: Weepinbell_8
+  - first:
+      213: 8007426289234671174
+    second: Weepinbell_9
+  - first:
+      213: -1634512314044330341
+    second: Weepinbell_10
+  - first:
+      213: -8865822032254101024
+    second: Weepinbell_11
+  - first:
+      213: 6476671939992307318
+    second: Weepinbell_12
+  - first:
+      213: -5286681123529952383
+    second: Weepinbell_13
+  - first:
+      213: 8461184769526902912
+    second: Weepinbell_14
+  - first:
+      213: 106996427641160376
+    second: Weepinbell_15
+  - first:
+      213: 1786578184596469732
+    second: Weepinbell_16
+  - first:
+      213: 6715800757483052598
+    second: Weepinbell_17
+  - first:
+      213: 4457306007144424711
+    second: Weepinbell_18
+  - first:
+      213: 707205561069312435
+    second: Weepinbell_19
+  - first:
+      213: -6628364821306490246
+    second: Weepinbell_20
+  - first:
+      213: 8651085365871407928
+    second: Weepinbell_21
+  - first:
+      213: 6344708323550431131
+    second: Weepinbell_22
+  - first:
+      213: -1151787555230803708
+    second: Weepinbell_23
+  - first:
+      213: -3407725278296850685
+    second: Weepinbell_24
+  - first:
+      213: 2994091720562282071
+    second: Weepinbell_25
+  - first:
+      213: 2294209536731766938
+    second: Weepinbell_26
+  - first:
+      213: -1989643345683906250
+    second: Weepinbell_27
+  - first:
+      213: 942313028542538974
+    second: Weepinbell_28
+  - first:
+      213: -8932051823243981443
+    second: Weepinbell_29
+  - first:
+      213: 6363276645100582283
+    second: Weepinbell_30
+  - first:
+      213: -7162278543957919986
+    second: Weepinbell_31
+  - first:
+      213: -5228725218755194912
+    second: Weepinbell_32
+  - first:
+      213: 5886765845733670221
+    second: Weepinbell_33
+  - first:
+      213: 2600622135585101860
+    second: Weepinbell_34
+  - first:
+      213: 155530002977950053
+    second: Weepinbell_35
+  - first:
+      213: -1899280745865656913
+    second: Weepinbell_36
+  - first:
+      213: 2186495914644850122
+    second: Weepinbell_37
+  - first:
+      213: 2210763118546411784
+    second: Weepinbell_38
+  - first:
+      213: 296231556378012703
+    second: Weepinbell_39
+  - first:
+      213: 7194738724631115018
+    second: Weepinbell_40
+  - first:
+      213: -640707302320985534
+    second: Weepinbell_41
+  - first:
+      213: -8251761812094723789
+    second: Weepinbell_42
+  - first:
+      213: -5035400441770141054
+    second: Weepinbell_43
+  - first:
+      213: -6718732873975093327
+    second: Weepinbell_44
+  - first:
+      213: -1977774935255104608
+    second: Weepinbell_45
+  - first:
+      213: -1916872494869196124
+    second: Weepinbell_46
+  - first:
+      213: -1673230001171366131
+    second: Weepinbell_47
+  - first:
+      213: -3132383040907575708
+    second: Weepinbell_48
+  - first:
+      213: -4677444614735408824
+    second: Weepinbell_49
+  - first:
+      213: 2791080871484821827
+    second: Weepinbell_50
+  - first:
+      213: 6399115081642820898
+    second: Weepinbell_51
+  - first:
+      213: 9129986418053951182
+    second: Weepinbell_52
+  - first:
+      213: 7690211702156748832
+    second: Weepinbell_53
+  - first:
+      213: -8608958190959620661
+    second: Weepinbell_54
+  - first:
+      213: 8063239468069954008
+    second: Weepinbell_55
+  - first:
+      213: -466937247338504197
+    second: Weepinbell_56
+  - first:
+      213: -7131133646569242583
+    second: Weepinbell_57
+  - first:
+      213: -7049483128828329872
+    second: Weepinbell_58
+  - first:
+      213: 3088624942605938586
+    second: Weepinbell_59
+  - first:
+      213: -5167871038686499655
+    second: Weepinbell_60
+  - first:
+      213: 7974161043998819904
+    second: Weepinbell_61
+  - first:
+      213: 8759395523800976712
+    second: Weepinbell_62
+  - first:
+      213: -6584799326077090878
+    second: Weepinbell_63
+  - first:
+      213: -1722079611652237764
+    second: Weepinbell_64
+  - first:
+      213: 8396584929690184401
+    second: Weepinbell_65
+  - first:
+      213: -3264382373336525707
+    second: Weepinbell_66
+  - first:
+      213: 10676470998323482
+    second: Weepinbell_67
+  - first:
+      213: -5719507903374123854
+    second: Weepinbell_68
+  - first:
+      213: -5397257271474676173
+    second: Weepinbell_69
+  - first:
+      213: 5574342952374888902
+    second: Weepinbell_70
+  - first:
+      213: 152349241286475864
+    second: Weepinbell_71
+  - first:
+      213: -4054667882411679766
+    second: Weepinbell_72
+  - first:
+      213: 8426052779724581635
+    second: Weepinbell_73
+  - first:
+      213: 4404523762375973659
+    second: Weepinbell_74
+  - first:
+      213: 3031838261781266404
+    second: Weepinbell_75
+  - first:
+      213: -7441740003996506594
+    second: Weepinbell_76
+  - first:
+      213: 8803721992088585374
+    second: Weepinbell_77
+  - first:
+      213: -9205198024528655245
+    second: Weepinbell_78
+  - first:
+      213: 5793897141237497819
+    second: Weepinbell_79
+  - first:
+      213: -5411100013968474226
+    second: Weepinbell_80
+  - first:
+      213: -5247260025884649462
+    second: Weepinbell_81
+  - first:
+      213: 2243376190114172032
+    second: Weepinbell_82
+  - first:
+      213: -780266660499949397
+    second: Weepinbell_83
+  - first:
+      213: -2781653869928755698
+    second: Weepinbell_84
+  - first:
+      213: -5117821808633182363
+    second: Weepinbell_85
+  - first:
+      213: 4307093003570333673
+    second: Weepinbell_86
+  - first:
+      213: -3790252026343423347
+    second: Weepinbell_87
+  - first:
+      213: 2882056549247179138
+    second: Weepinbell_88
+  - first:
+      213: 6327849228058789668
+    second: Weepinbell_89
+  - first:
+      213: -3630347603159280183
+    second: Weepinbell_90
+  - first:
+      213: 3506246455601526589
+    second: Weepinbell_91
+  - first:
+      213: -7168695132827307546
+    second: Weepinbell_92
+  - first:
+      213: -8451010717215749750
+    second: Weepinbell_93
+  - first:
+      213: 4987025701893529767
+    second: Weepinbell_94
+  - first:
+      213: -2965934983962000819
+    second: Weepinbell_95
+  - first:
+      213: -5727072866048513125
+    second: Weepinbell_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weepinbell_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 556
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2890aee5564f09400800000000000000
+      internalID: 329031489019316610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 556
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba07d4ceeb44e1f0800000000000000
+      internalID: -1016604127002162509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 555
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44937c3c621cdf80800000000000000
+      internalID: -8080563375329536950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 555
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c03c09403b3260800000000000000
+      internalID: 7078304329638135763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 555
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74a2c0e9770ee900800000000000000
+      internalID: 715517610841777274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 555
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac14ac86cb1e93d0800000000000000
+      internalID: -3198088145809433425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 555
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd8b6b7fcc92f970800000000000000
+      internalID: 8787258237896068596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 555
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1b34011b7fd8a10800000000000000
+      internalID: 1913457756556472738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 555
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a610898dff4cc1c90800000000000000
+      internalID: -7197661501315350166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 555
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646f4fee8c7102f60800000000000000
+      internalID: 8007426289234671174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 494
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec26cd5bb0159e0800000000000000
+      internalID: -1634512314044330341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 494
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e999a5b5d546f480800000000000000
+      internalID: -8865822032254101024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 494
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6764bf580d2c1e950800000000000000
+      internalID: 6476671939992307318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 494
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183fb37378fe1a6b0800000000000000
+      internalID: -5286681123529952383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 494
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080b896f7ba2c6570800000000000000
+      internalID: 8461184769526902912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 494
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b289cd1fa02c7100800000000000000
+      internalID: 106996427641160376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 495
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b558a4633bc810800000000000000
+      internalID: 1786578184596469732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 495
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e93140531533d50800000000000000
+      internalID: 6715800757483052598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_18
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 494
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705ee0b92388bdd30800000000000000
+      internalID: 4457306007144424711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_19
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 494
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b997baf5bf70d900800000000000000
+      internalID: 707205561069312435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 433
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72c45840515304a0800000000000000
+      internalID: -6628364821306490246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 433
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833785a0e44de0870800000000000000
+      internalID: 8651085365871407928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 433
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9700b4ca9eec0850800000000000000
+      internalID: 6344708323550431131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 433
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40990c922570400f0800000000000000
+      internalID: -1151787555230803708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 433
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3ffe0ae355b0d0800000000000000
+      internalID: -3407725278296850685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 433
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8d057e862d8920800000000000000
+      internalID: 2994091720562282071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 433
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e53d1b6ba6df10800000000000000
+      internalID: 2294209536731766938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_27
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 433
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318ace2bed5364e0800000000000000
+      internalID: -1989643345683906250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_28
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 433
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed42085f4b4c31d00800000000000000
+      internalID: 942313028542538974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 433
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d8928d03afa0480800000000000000
+      internalID: -8932051823243981443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 372
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8572c60566ee4850800000000000000
+      internalID: 6363276645100582283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 372
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e077cf49c997a9c90800000000000000
+      internalID: -7162278543957919986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 373
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef48f3dd16df67b0800000000000000
+      internalID: -5228725218755194912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 373
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7bd6e85ef1b150800000000000000
+      internalID: 5886765845733670221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 372
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428519abd04471420800000000000000
+      internalID: 2600622135585101860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 372
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5698a63b6bd882200800000000000000
+      internalID: 155530002977950053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_36
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 372
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa540f5793664a5e0800000000000000
+      internalID: -1899280745865656913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_37
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 372
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5cf37237ef75e10800000000000000
+      internalID: 2186495914644850122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 372
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8016e7bd7553eae10800000000000000
+      internalID: 2210763118546411784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 372
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2c21f70d6c1400800000000000000
+      internalID: 296231556378012703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 311
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05726d20c8d8d360800000000000000
+      internalID: 7194738724631115018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 311
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa8286a10cb17f0800000000000000
+      internalID: -640707302320985534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 311
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d5f20a5adb7d80800000000000000
+      internalID: -8251761812094723789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 311
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a12761af9ae1ab0800000000000000
+      internalID: -5035400441770141054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 311
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7a9f96c0442c2a0800000000000000
+      internalID: -6718732873975093327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 311
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c272dc288d84e0800000000000000
+      internalID: -1977774935255104608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 311
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2da973f96e565e0800000000000000
+      internalID: -1916872494869196124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_47
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 311
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f77a8dd2e77c8e0800000000000000
+      internalID: -1673230001171366131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_48
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 312
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46efe3a683a8784d0800000000000000
+      internalID: -3132383040907575708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_49
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 312
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841d122b7e0661fb0800000000000000
+      internalID: -4677444614735408824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3419d3cc349ebb620800000000000000
+      internalID: 2791080871484821827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 250
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2254a2643493ec850800000000000000
+      internalID: 6399115081642820898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 250
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece2f34464a34be70800000000000000
+      internalID: 9129986418053951182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_53
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 250
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ea927cce19ba60800000000000000
+      internalID: 7690211702156748832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 250
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd89a53326d68880800000000000000
+      internalID: -8608958190959620661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 250
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12839439166ef60800000000000000
+      internalID: 8063239468069954008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_56
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 250
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff5df72c0b1589f0800000000000000
+      internalID: -466937247338504197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_57
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 250
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92087661bbf190d90800000000000000
+      internalID: -7131133646569242583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_58
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 250
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0700410b1743b2e90800000000000000
+      internalID: -7049483128828329872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_59
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 250
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f207465000dda20800000000000000
+      internalID: 3088624942605938586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 189
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcef0ebba80848b0800000000000000
+      internalID: -5167871038686499655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 189
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ce497839e9ae60800000000000000
+      internalID: 7974161043998819904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dcd43d1df9f8970800000000000000
+      internalID: 8759395523800976712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 189
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c381f396e71e94a0800000000000000
+      internalID: -6584799326077090878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 190
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36968897b1f918e0800000000000000
+      internalID: -1722079611652237764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 190
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dae49ca189a68470800000000000000
+      internalID: 8396584929690184401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_66
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 188
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574da32e68592b2d0800000000000000
+      internalID: -3264382373336525707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_67
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 188
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a115f4d913ee52000800000000000000
+      internalID: 10676470998323482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_68
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 188
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc98597dd930a0b0800000000000000
+      internalID: -5719507903374123854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 188
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e9b548b171915b0800000000000000
+      internalID: -5397257271474676173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9e18c816b0c5d40800000000000000
+      internalID: 5574342952374888902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 127
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8504ea8e3d04d1200800000000000000
+      internalID: 152349241286475864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 126
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef9aa22b0deab7c0800000000000000
+      internalID: -4054667882411679766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b2d2a2c5a5fe470800000000000000
+      internalID: 8426052779724581635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 127
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bdf259603002d30800000000000000
+      internalID: 4404523762375973659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_75
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff8e1f5d0431a20800000000000000
+      internalID: 3031838261781266404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_76
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 127
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1669f6f4e0a9b890800000000000000
+      internalID: -7441740003996506594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_77
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 127
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e940cb7f18a1d2a70800000000000000
+      internalID: 8803721992088585374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_78
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 127
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c87dcfa21904080800000000000000
+      internalID: -9205198024528655245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_79
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 127
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfbc98a0ce086050800000000000000
+      internalID: 5793897141237497819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f3c4fd439e7e4b0800000000000000
+      internalID: -5411100013968474226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 68
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08d901ceccfd27b0800000000000000
+      internalID: -5247260025884649462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 67
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c035d42c2122f10800000000000000
+      internalID: 2243376190114172032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_83
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 67
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f1d63b9feb25f0800000000000000
+      internalID: -780266660499949397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 67
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e4eca0b849569d0800000000000000
+      internalID: -2781653869928755698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 67
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670ca03e28d9f8b0800000000000000
+      internalID: -5117821808633182363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_86
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 66
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7416c444ed5cb30800000000000000
+      internalID: 4307093003570333673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_87
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 66
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8288981dd1566bc0800000000000000
+      internalID: -3790252026343423347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_88
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 66
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895778692f1ff720800000000000000
+      internalID: 2882056549247179138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_89
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 66
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4278ca6b85901d750800000000000000
+      internalID: 6327849228058789668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5108ed61a6e9dc0800000000000000
+      internalID: -3630347603159280183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f9111390b8a030800000000000000
+      internalID: 3506246455601526589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b1c012cda38c90800000000000000
+      internalID: -7168695132827307546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89065f278af7ba80800000000000000
+      internalID: -8451010717215749750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 6
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a06b171479753540800000000000000
+      internalID: 4987025701893529767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_95
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d428a06a8d1e6d6d0800000000000000
+      internalID: -2965934983962000819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weepinbell_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b666852995580b0800000000000000
+      internalID: -5727072866048513125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

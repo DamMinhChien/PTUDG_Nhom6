@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: b0b0a8da4e0b7c347ad1ff56bc7795e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2642525626388080663
+    second: Slugma_0
+  - first:
+      213: -8554256428017618365
+    second: Slugma_1
+  - first:
+      213: 132550124694754316
+    second: Slugma_2
+  - first:
+      213: -6148758935094145369
+    second: Slugma_3
+  - first:
+      213: -7765006413609566624
+    second: Slugma_4
+  - first:
+      213: -1130786247234086935
+    second: Slugma_5
+  - first:
+      213: -271651057307946767
+    second: Slugma_6
+  - first:
+      213: 8923367246989505287
+    second: Slugma_7
+  - first:
+      213: 570483824539934349
+    second: Slugma_8
+  - first:
+      213: 1266650689502588483
+    second: Slugma_9
+  - first:
+      213: 7148695221143464666
+    second: Slugma_10
+  - first:
+      213: 5567086552457650181
+    second: Slugma_11
+  - first:
+      213: -5492547416749003211
+    second: Slugma_12
+  - first:
+      213: -2843788902078284782
+    second: Slugma_13
+  - first:
+      213: 2371075777613096600
+    second: Slugma_14
+  - first:
+      213: -571671682359975422
+    second: Slugma_15
+  - first:
+      213: -1664617972945373504
+    second: Slugma_16
+  - first:
+      213: 1966590781687172461
+    second: Slugma_17
+  - first:
+      213: 8351006774810810191
+    second: Slugma_18
+  - first:
+      213: 6644122703254957328
+    second: Slugma_19
+  - first:
+      213: 4851906779304244518
+    second: Slugma_20
+  - first:
+      213: -2143304995934770311
+    second: Slugma_21
+  - first:
+      213: 2971692980725077218
+    second: Slugma_22
+  - first:
+      213: -8250323781906635182
+    second: Slugma_23
+  - first:
+      213: 2719617647992875461
+    second: Slugma_24
+  - first:
+      213: -440203707655697827
+    second: Slugma_25
+  - first:
+      213: 1872630814687674090
+    second: Slugma_26
+  - first:
+      213: 7610733399127847431
+    second: Slugma_27
+  - first:
+      213: 6827540655606088327
+    second: Slugma_28
+  - first:
+      213: 7561811525566865273
+    second: Slugma_29
+  - first:
+      213: -2913106360080947084
+    second: Slugma_30
+  - first:
+      213: 340921130058036572
+    second: Slugma_31
+  - first:
+      213: 1074249380013076512
+    second: Slugma_32
+  - first:
+      213: 5615894454498496440
+    second: Slugma_33
+  - first:
+      213: 9174975308745735182
+    second: Slugma_34
+  - first:
+      213: -4955773327198477940
+    second: Slugma_35
+  - first:
+      213: -233513034626385807
+    second: Slugma_36
+  - first:
+      213: -1243995278810578086
+    second: Slugma_37
+  - first:
+      213: -5069349165324081595
+    second: Slugma_38
+  - first:
+      213: -2428612426703122539
+    second: Slugma_39
+  - first:
+      213: 9113261177780580873
+    second: Slugma_40
+  - first:
+      213: -4216804186424468167
+    second: Slugma_41
+  - first:
+      213: 1687203235463079096
+    second: Slugma_42
+  - first:
+      213: 546362726064775306
+    second: Slugma_43
+  - first:
+      213: -9082593185213953007
+    second: Slugma_44
+  - first:
+      213: 6666107644537088431
+    second: Slugma_45
+  - first:
+      213: 8332241746154843500
+    second: Slugma_46
+  - first:
+      213: -3821540819708595889
+    second: Slugma_47
+  - first:
+      213: 1838274164577089287
+    second: Slugma_48
+  - first:
+      213: 5363942467156252201
+    second: Slugma_49
+  - first:
+      213: 5238571086658003541
+    second: Slugma_50
+  - first:
+      213: -6091014339062372907
+    second: Slugma_51
+  - first:
+      213: 4420424099115247662
+    second: Slugma_52
+  - first:
+      213: 7586430917018104156
+    second: Slugma_53
+  - first:
+      213: 4124972674301762107
+    second: Slugma_54
+  - first:
+      213: -1320328886366065345
+    second: Slugma_55
+  - first:
+      213: 640633005335351117
+    second: Slugma_56
+  - first:
+      213: 8780429572466759666
+    second: Slugma_57
+  - first:
+      213: -4106174506004598705
+    second: Slugma_58
+  - first:
+      213: -1944714284600817580
+    second: Slugma_59
+  - first:
+      213: 6906803211970488554
+    second: Slugma_60
+  - first:
+      213: 1960640617291809195
+    second: Slugma_61
+  - first:
+      213: -194695335145988182
+    second: Slugma_62
+  - first:
+      213: -1340692124222192230
+    second: Slugma_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slugma_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7954981fcd35bd0800000000000000
+      internalID: -2642525626388080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 304
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427862e91d294980800000000000000
+      internalID: -8554256428017618365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 304
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c045d59d2a9e6d100800000000000000
+      internalID: 132550124694754316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 304
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae443873583baaa0800000000000000
+      internalID: -6148758935094145369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 304
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06efb2ebec72d3490800000000000000
+      internalID: -7765006413609566624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 304
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e717b836e3ae40f0800000000000000
+      internalID: -1130786247234086935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 304
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0fc4a7dc6ea3cf0800000000000000
+      internalID: -271651057307946767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 304
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7033a2dab3b26db70800000000000000
+      internalID: 8923367246989505287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 304
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e1fcf0404cae700800000000000000
+      internalID: 570483824539934349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 304
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2e42571c049110800000000000000
+      internalID: 1266650689502588483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 254
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae9cf9d64453360800000000000000
+      internalID: 7148695221143464666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 254
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a71949b3424d40800000000000000
+      internalID: 5567086552457650181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 254
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eafa8a93d86c3b0800000000000000
+      internalID: -5492547416749003211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 254
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cfc638f05d888d0800000000000000
+      internalID: -2843788902078284782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 254
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89669247bd0c7e020800000000000000
+      internalID: 2371075777613096600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 254
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202a8cc32a30118f0800000000000000
+      internalID: -571671682359975422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c63cdbe5c616e8e0800000000000000
+      internalID: -1664617972945373504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d850185ebba4b10800000000000000
+      internalID: 1966590781687172461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 254
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479a798a6cb4e370800000000000000
+      internalID: 8351006774810810191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 254
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dae93856aa43c50800000000000000
+      internalID: 6644122703254957328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 204
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6253dbf528f655340800000000000000
+      internalID: 4851906779304244518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 204
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97becff36737142e0800000000000000
+      internalID: -2143304995934770311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 204
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d3a175039d3920800000000000000
+      internalID: 2971692980725077218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 204
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2566f718b36f08d80800000000000000
+      internalID: -8250323781906635182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9af7977d50eb520800000000000000
+      internalID: 2719617647992875461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 204
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a4f586f0514e9f0800000000000000
+      internalID: -440203707655697827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb8e8edcbecf910800000000000000
+      internalID: 1872630814687674090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 204
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702773ff3b1ce9960800000000000000
+      internalID: 7610733399127847431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78240fa6d0c40ce50800000000000000
+      internalID: 6827540655606088327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 204
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f1edfa483f0f860800000000000000
+      internalID: 7561811525566865273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 154
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a17623319297d0800000000000000
+      internalID: -2913106360080947084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 154
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b88526f13bb400800000000000000
+      internalID: 340921130058036572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020fcd79e1088ee00800000000000000
+      internalID: 1074249380013076512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf0878804aafed40800000000000000
+      internalID: 5615894454498496440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 154
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cf4c4ae6f045f70800000000000000
+      internalID: 9174975308745735182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 154
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81aafc6a6e893bb0800000000000000
+      internalID: -4955773327198477940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 154
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178bba8d12562ccf0800000000000000
+      internalID: -233513034626385807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 154
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538b3882e07cbee0800000000000000
+      internalID: -1243995278810578086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 154
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466f6eeacd06a9b0800000000000000
+      internalID: -5069349165324081595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 154
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fc2418dd5db4ed0800000000000000
+      internalID: -2428612426703122539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90238fec1cec87e70800000000000000
+      internalID: 9113261177780580873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 104
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d1acc1fe6ea75c0800000000000000
+      internalID: -4216804186424468167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 104
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4aaa947662a6710800000000000000
+      internalID: 1687203235463079096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 104
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ea9d2102159700800000000000000
+      internalID: 546362726064775306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c40f3ae9524f180800000000000000
+      internalID: -9082593185213953007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 104
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9262b8595c28c50800000000000000
+      internalID: 6666107644537088431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 104
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d6d36d8b112a370800000000000000
+      internalID: 8332241746154843500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 104
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413d923fd827fac0800000000000000
+      internalID: -3821540819708595889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7073563fc9cd28910800000000000000
+      internalID: 1838274164577089287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_49
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 104
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9261b76214d807a40800000000000000
+      internalID: 5363942467156252201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552e1eee5a423b840800000000000000
+      internalID: 5238571086658003541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 54
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5606eeabe587ba0800000000000000
+      internalID: -6091014339062372907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 54
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2827583c40885d30800000000000000
+      internalID: 4420424099115247662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51b7e179ba684960800000000000000
+      internalID: 7586430917018104156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 54
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a13ffcac8de3930800000000000000
+      internalID: 4124972674301762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 54
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3da67d8fdf3dade0800000000000000
+      internalID: -1320328886366065345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 54
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f876af25cf3e800800000000000000
+      internalID: 640633005335351117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 54
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7573aec2a5ad970800000000000000
+      internalID: 8780429572466759666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 54
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b4dfca00f307c0800000000000000
+      internalID: -4106174506004598705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 54
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588db469acf205e0800000000000000
+      internalID: -1944714284600817580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8270f6de4e9df50800000000000000
+      internalID: 6906803211970488554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba181e5e048953b10800000000000000
+      internalID: 1960640617291809195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf923dcf9d4c4df0800000000000000
+      internalID: -194695335145988182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slugma_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958296cd97e46de0800000000000000
+      internalID: -1340692124222192230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

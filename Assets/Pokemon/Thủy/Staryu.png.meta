@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: c90ab09e48501ae49831bf3d25c17e85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5666937507026309429
+    second: Staryu_0
+  - first:
+      213: 6959193137088650308
+    second: Staryu_1
+  - first:
+      213: -1243978887023312552
+    second: Staryu_2
+  - first:
+      213: -8729975742893916278
+    second: Staryu_3
+  - first:
+      213: 5786235212019752805
+    second: Staryu_4
+  - first:
+      213: -7614717821908304984
+    second: Staryu_5
+  - first:
+      213: 6150064706541768054
+    second: Staryu_6
+  - first:
+      213: 2478810423896948575
+    second: Staryu_7
+  - first:
+      213: 8179928430275065700
+    second: Staryu_8
+  - first:
+      213: 949894372504616583
+    second: Staryu_9
+  - first:
+      213: -4078744059478372786
+    second: Staryu_10
+  - first:
+      213: 9177259809271174869
+    second: Staryu_11
+  - first:
+      213: -7059924322221426187
+    second: Staryu_12
+  - first:
+      213: -3694606054456162285
+    second: Staryu_13
+  - first:
+      213: -7978842011033824584
+    second: Staryu_14
+  - first:
+      213: -7345447276574873372
+    second: Staryu_15
+  - first:
+      213: 8959134778251619829
+    second: Staryu_16
+  - first:
+      213: 2728111700660320821
+    second: Staryu_17
+  - first:
+      213: -4119440156613065073
+    second: Staryu_18
+  - first:
+      213: 9016772745404514964
+    second: Staryu_19
+  - first:
+      213: 275587514281880622
+    second: Staryu_20
+  - first:
+      213: 7368741237875495763
+    second: Staryu_21
+  - first:
+      213: 5460405025156078604
+    second: Staryu_22
+  - first:
+      213: -6710365978561045201
+    second: Staryu_23
+  - first:
+      213: 4803447147912202435
+    second: Staryu_24
+  - first:
+      213: -2520238549312705202
+    second: Staryu_25
+  - first:
+      213: -1105753997824409927
+    second: Staryu_26
+  - first:
+      213: 3100065024163163717
+    second: Staryu_27
+  - first:
+      213: -39427986373742226
+    second: Staryu_28
+  - first:
+      213: 6423803351686246049
+    second: Staryu_29
+  - first:
+      213: 275621803784509989
+    second: Staryu_30
+  - first:
+      213: 2957115892789356700
+    second: Staryu_31
+  - first:
+      213: -2906456128504779778
+    second: Staryu_32
+  - first:
+      213: -7031285613705526380
+    second: Staryu_33
+  - first:
+      213: -6369244270315071884
+    second: Staryu_34
+  - first:
+      213: -4412181902419993533
+    second: Staryu_35
+  - first:
+      213: 4930149347110997515
+    second: Staryu_36
+  - first:
+      213: 1556017980033347883
+    second: Staryu_37
+  - first:
+      213: 5601155989534411378
+    second: Staryu_38
+  - first:
+      213: -8185586677760107843
+    second: Staryu_39
+  - first:
+      213: -4893142797408271380
+    second: Staryu_40
+  - first:
+      213: 7676367431856204733
+    second: Staryu_41
+  - first:
+      213: -8401621625016026989
+    second: Staryu_42
+  - first:
+      213: 1761368328828040283
+    second: Staryu_43
+  - first:
+      213: -6054581239629767226
+    second: Staryu_44
+  - first:
+      213: 3125993868823245949
+    second: Staryu_45
+  - first:
+      213: 2874391572008645376
+    second: Staryu_46
+  - first:
+      213: -3923428726762113384
+    second: Staryu_47
+  - first:
+      213: 8542082104709910630
+    second: Staryu_48
+  - first:
+      213: 3454721031099743750
+    second: Staryu_49
+  - first:
+      213: 887283127000495408
+    second: Staryu_50
+  - first:
+      213: 543634281819145812
+    second: Staryu_51
+  - first:
+      213: -9015002585593078182
+    second: Staryu_52
+  - first:
+      213: 456935073788909183
+    second: Staryu_53
+  - first:
+      213: -4712516326095650466
+    second: Staryu_54
+  - first:
+      213: -4178535967341606304
+    second: Staryu_55
+  - first:
+      213: 5716985272920344318
+    second: Staryu_56
+  - first:
+      213: 7974524378093494030
+    second: Staryu_57
+  - first:
+      213: -3766026019578872232
+    second: Staryu_58
+  - first:
+      213: -7089199100057693209
+    second: Staryu_59
+  - first:
+      213: -3134316171213383700
+    second: Staryu_60
+  - first:
+      213: 3399629925376993770
+    second: Staryu_61
+  - first:
+      213: -2992035943192379226
+    second: Staryu_62
+  - first:
+      213: -729865538434987436
+    second: Staryu_63
+  - first:
+      213: 1495486277728418781
+    second: Staryu_64
+  - first:
+      213: 39381253248151424
+    second: Staryu_65
+  - first:
+      213: -6905677546906544064
+    second: Staryu_66
+  - first:
+      213: -3640202012402589721
+    second: Staryu_67
+  - first:
+      213: -6634318423013395184
+    second: Staryu_68
+  - first:
+      213: 4103906960916697787
+    second: Staryu_69
+  - first:
+      213: 1680205598030616103
+    second: Staryu_70
+  - first:
+      213: -5800499586212955661
+    second: Staryu_71
+  - first:
+      213: -5358342120948317661
+    second: Staryu_72
+  - first:
+      213: -7111960927418808572
+    second: Staryu_73
+  - first:
+      213: -8847510181332991746
+    second: Staryu_74
+  - first:
+      213: -5212243128446969269
+    second: Staryu_75
+  - first:
+      213: -5201525628339162779
+    second: Staryu_76
+  - first:
+      213: 5123437387723281098
+    second: Staryu_77
+  - first:
+      213: 6600952971037048514
+    second: Staryu_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Staryu_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 422
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceeb51bc5efa51b0800000000000000
+      internalID: -5666937507026309429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 422
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c518b6945049060800000000000000
+      internalID: 6959193137088650308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 420
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c3ea0bcf7cbee0800000000000000
+      internalID: -1243978887023312552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 420
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff703b055e8d680800000000000000
+      internalID: -8729975742893916278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 420
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5b4fb446dc4050800000000000000
+      internalID: 5786235212019752805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 420
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abb1584c76135690800000000000000
+      internalID: -7614717821908304984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 419
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dc613244b695550800000000000000
+      internalID: 6150064706541768054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 419
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fb9ed72f0866220800000000000000
+      internalID: 2478810423896948575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 419
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f9a67191f48170800000000000000
+      internalID: 8179928430275065700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 419
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb74726e3be2d00800000000000000
+      internalID: 949894372504616583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 358
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e8e0553e36567c0800000000000000
+      internalID: -4078744059478372786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 358
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d31f5c2d2c5f70800000000000000
+      internalID: 9177259809271174869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 360
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f9d8eb3c160e90800000000000000
+      internalID: -7059924322221426187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 360
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318022b4e5f1abcc0800000000000000
+      internalID: -3694606054456162285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 360
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b29d55f675754190800000000000000
+      internalID: -7978842011033824584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 360
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8e46bae9abf0a90800000000000000
+      internalID: -7345447276574873372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd29800d9d355c70800000000000000
+      internalID: 8959134778251619829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 361
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af17933233cd520800000000000000
+      internalID: 2728111700660320821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 362
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864997d00fc4d6c0800000000000000
+      internalID: -4119440156613065073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 362
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492824ef903022d70800000000000000
+      internalID: 9016772745404514964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 304
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ced45526513d300800000000000000
+      internalID: 275587514281880622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35357555d17034660800000000000000
+      internalID: 7368741237875495763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 303
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c9f2e907147cb40800000000000000
+      internalID: 5460405025156078604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 303
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d900f02bdffd2a0800000000000000
+      internalID: -6710365978561045201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 303
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c88ba43bb549a240800000000000000
+      internalID: 4803447147912202435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 303
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d68f66460560dd0800000000000000
+      internalID: -2520238549312705202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 302
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be35b6f89297a0f0800000000000000
+      internalID: -1105753997824409927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 302
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eabd1f6b4a50b20800000000000000
+      internalID: 3100065024163163717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 302
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61fbfd847ce37ff0800000000000000
+      internalID: -39427986373742226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 302
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aee8341d1fe52950800000000000000
+      internalID: 6423803351686246049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9deaf19433d300800000000000000
+      internalID: 275621803784509989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 242
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982f5dac39c90920800000000000000
+      internalID: 2957115892789356700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 243
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2739dc813aa7d0800000000000000
+      internalID: -2906456128504779778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 243
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49384c8dcfadb6e90800000000000000
+      internalID: -7031285613705526380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 243
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4769d24f416eb97a0800000000000000
+      internalID: -6369244270315071884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 243
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c59ddbfe7c4c2c0800000000000000
+      internalID: -4412181902419993533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_36
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 244
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ecc2cc5b86b6440800000000000000
+      internalID: 4930149347110997515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_37
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 244
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b213204db16189510800000000000000
+      internalID: 1556017980033347883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_38
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 245
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a00cf32bd4bbd40800000000000000
+      internalID: 5601155989534411378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 245
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba50f12944f66e80800000000000000
+      internalID: -8185586677760107843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 186
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3083dfc80181cb0800000000000000
+      internalID: -4893142797408271380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 186
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbaa25128fe78a60800000000000000
+      internalID: 7676367431856204733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 184
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398fdaf45a1776b80800000000000000
+      internalID: -8401621625016026989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 184
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b543b66b923a17810800000000000000
+      internalID: 1761368328828040283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 184
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd9f1ce07ec9fba0800000000000000
+      internalID: -6054581239629767226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_45
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 184
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7432498cd2c16b20800000000000000
+      internalID: 3125993868823245949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 183
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003b3f2d7e3e3e720800000000000000
+      internalID: 2874391572008645376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 183
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f7c73c5e2d89c0800000000000000
+      internalID: -3923428726762113384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_48
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 183
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66094759a629b8670800000000000000
+      internalID: 8542082104709910630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_49
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 183
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e75c05972a1ff20800000000000000
+      internalID: 3454721031099743750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035ff009d43405c00800000000000000
+      internalID: 887283127000495408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 122
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4560e8fbf706b8700800000000000000
+      internalID: 543634281819145812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 124
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e1f7479e644e280800000000000000
+      internalID: -9015002585593078182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 124
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76da96570c575600800000000000000
+      internalID: 456935073788909183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 124
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5107d09e57c99eb0800000000000000
+      internalID: -4712516326095650466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 124
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a09613dabd206c0800000000000000
+      internalID: -4178535967341606304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 125
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef68e8ad0dfc65f40800000000000000
+      internalID: 5716985272920344318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 125
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f94f8cba33bae60800000000000000
+      internalID: 7974524378093494030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 126
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e7f18d9436cbbc0800000000000000
+      internalID: -3766026019578872232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_59
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 126
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3da0b8afa1e9d90800000000000000
+      internalID: -7089199100057693209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce750117c0ca084d0800000000000000
+      internalID: -3134316171213383700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae922e5b769ed2f20800000000000000
+      internalID: 3399629925376993770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 67
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a041d289272a76d0800000000000000
+      internalID: -2992035943192379226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 67
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a88c7e82ffed5f0800000000000000
+      internalID: -729865538434987436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 67
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb397e98d801c410800000000000000
+      internalID: 1495486277728418781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 67
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6aaa8a09eb8000800000000000000
+      internalID: 39381253248151424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 66
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0489e33ebda1a20a0800000000000000
+      internalID: -6905677546906544064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_67
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 66
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd41c6e876b7dc0800000000000000
+      internalID: -3640202012402589721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_68
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 66
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f47d5b8a2ee3a0800000000000000
+      internalID: -6634318423013395184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_69
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 66
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb251b433a104f830800000000000000
+      internalID: 4103906960916697787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726dc3cd61a415710800000000000000
+      internalID: 1680205598030616103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f9f3db5c708fa0800000000000000
+      internalID: -5800499586212955661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 7
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ccdf0b3853a5b0800000000000000
+      internalID: -5358342120948317661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078eb0a73d3d4d90800000000000000
+      internalID: -7111960927418808572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0cefebd54573580800000000000000
+      internalID: -8847510181332991746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a92f58d746aa7b0800000000000000
+      internalID: -5212243128446969269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_76
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 8
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f0c8fff770d7b0800000000000000
+      internalID: -5201525628339162779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_77
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 8
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac29334b82b1a1740800000000000000
+      internalID: 5123437387723281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staryu_78
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 9
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cef8b9f0cb4b9b50800000000000000
+      internalID: 6600952971037048514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

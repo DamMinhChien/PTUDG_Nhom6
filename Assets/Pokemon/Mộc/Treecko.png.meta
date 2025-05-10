@@ -1,0 +1,2817 @@
+fileFormatVersion: 2
+guid: 807de5423e5228f48aa20b4048b42df1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4476152230459939147
+    second: Treecko_0
+  - first:
+      213: -5876541929325352923
+    second: Treecko_1
+  - first:
+      213: 5361023510889557299
+    second: Treecko_2
+  - first:
+      213: 5618499703302339501
+    second: Treecko_3
+  - first:
+      213: -6282423249838566046
+    second: Treecko_4
+  - first:
+      213: 5333962713027378341
+    second: Treecko_5
+  - first:
+      213: -3555465061131808929
+    second: Treecko_6
+  - first:
+      213: 2336868766584988244
+    second: Treecko_7
+  - first:
+      213: -1488938698651655460
+    second: Treecko_8
+  - first:
+      213: -7244599164224417885
+    second: Treecko_9
+  - first:
+      213: -2848776421301828713
+    second: Treecko_10
+  - first:
+      213: -4910099725656869945
+    second: Treecko_11
+  - first:
+      213: 7906412258783759614
+    second: Treecko_12
+  - first:
+      213: 1230155341573167409
+    second: Treecko_13
+  - first:
+      213: 3659266181195689063
+    second: Treecko_14
+  - first:
+      213: -1492985720521505396
+    second: Treecko_15
+  - first:
+      213: -6702534657388483803
+    second: Treecko_16
+  - first:
+      213: 2439867540020525467
+    second: Treecko_17
+  - first:
+      213: 7840851129958295488
+    second: Treecko_18
+  - first:
+      213: 6375897821836700037
+    second: Treecko_19
+  - first:
+      213: -3628227127958343890
+    second: Treecko_20
+  - first:
+      213: 7786390531448053400
+    second: Treecko_21
+  - first:
+      213: -5289226146720696802
+    second: Treecko_22
+  - first:
+      213: 8176504131813185645
+    second: Treecko_23
+  - first:
+      213: 2776645817960397563
+    second: Treecko_24
+  - first:
+      213: 5963632227498998249
+    second: Treecko_25
+  - first:
+      213: 7677533105060219857
+    second: Treecko_26
+  - first:
+      213: -59871240144088413
+    second: Treecko_27
+  - first:
+      213: 8037385068205335078
+    second: Treecko_28
+  - first:
+      213: -3088798567297881710
+    second: Treecko_29
+  - first:
+      213: -1548863127476238473
+    second: Treecko_30
+  - first:
+      213: 6982308557244667774
+    second: Treecko_31
+  - first:
+      213: -5121352902663177623
+    second: Treecko_32
+  - first:
+      213: 5884576211047775330
+    second: Treecko_33
+  - first:
+      213: 7768054381759000380
+    second: Treecko_34
+  - first:
+      213: 881891892322360465
+    second: Treecko_35
+  - first:
+      213: 1884812156092401089
+    second: Treecko_36
+  - first:
+      213: 7840976210622589836
+    second: Treecko_37
+  - first:
+      213: 5424971822056919331
+    second: Treecko_38
+  - first:
+      213: -2180383623711247597
+    second: Treecko_39
+  - first:
+      213: 9164389708347964647
+    second: Treecko_40
+  - first:
+      213: -4475366289860581853
+    second: Treecko_41
+  - first:
+      213: 3440968941919294488
+    second: Treecko_42
+  - first:
+      213: 1846964821061745730
+    second: Treecko_43
+  - first:
+      213: -3053403208233111771
+    second: Treecko_44
+  - first:
+      213: -3610171994750823656
+    second: Treecko_45
+  - first:
+      213: -3965599551737787108
+    second: Treecko_46
+  - first:
+      213: 4506341659539373144
+    second: Treecko_47
+  - first:
+      213: 1740307158282069805
+    second: Treecko_48
+  - first:
+      213: 4815398524184390173
+    second: Treecko_49
+  - first:
+      213: 6470289137372235204
+    second: Treecko_50
+  - first:
+      213: 6495548330605678849
+    second: Treecko_51
+  - first:
+      213: 248012491789935249
+    second: Treecko_52
+  - first:
+      213: 3666951885208886337
+    second: Treecko_53
+  - first:
+      213: 6741572908275201202
+    second: Treecko_54
+  - first:
+      213: -1533573701878019213
+    second: Treecko_55
+  - first:
+      213: -7272622230551020386
+    second: Treecko_56
+  - first:
+      213: 29442827600100660
+    second: Treecko_57
+  - first:
+      213: -2785517915666665411
+    second: Treecko_58
+  - first:
+      213: -744635046651600300
+    second: Treecko_59
+  - first:
+      213: -2601315135632990044
+    second: Treecko_60
+  - first:
+      213: 6899785315096930610
+    second: Treecko_61
+  - first:
+      213: -7258324836955087169
+    second: Treecko_62
+  - first:
+      213: -7455720526922887413
+    second: Treecko_63
+  - first:
+      213: -3075365126688196729
+    second: Treecko_64
+  - first:
+      213: -2354647665617498610
+    second: Treecko_65
+  - first:
+      213: -5008522871521056773
+    second: Treecko_66
+  - first:
+      213: -8650923913569847382
+    second: Treecko_67
+  - first:
+      213: 7682730694178518832
+    second: Treecko_68
+  - first:
+      213: -8842163566808195824
+    second: Treecko_69
+  - first:
+      213: 2917224782794571040
+    second: Treecko_70
+  - first:
+      213: 928648184043959024
+    second: Treecko_71
+  - first:
+      213: 1210264623264658210
+    second: Treecko_72
+  - first:
+      213: -1729817555133421577
+    second: Treecko_73
+  - first:
+      213: -7541306298205271465
+    second: Treecko_74
+  - first:
+      213: 4253288087278159590
+    second: Treecko_75
+  - first:
+      213: 8230959483341488750
+    second: Treecko_76
+  - first:
+      213: 1891883038613412196
+    second: Treecko_77
+  - first:
+      213: -6988494560423646241
+    second: Treecko_78
+  - first:
+      213: -140064712682800829
+    second: Treecko_79
+  - first:
+      213: -247143637365561870
+    second: Treecko_80
+  - first:
+      213: -565218773095407185
+    second: Treecko_81
+  - first:
+      213: 4280671425582011829
+    second: Treecko_82
+  - first:
+      213: 1335602486894669130
+    second: Treecko_83
+  - first:
+      213: -3030369495450396434
+    second: Treecko_84
+  - first:
+      213: -8779658578416275693
+    second: Treecko_85
+  - first:
+      213: 4437262628617801257
+    second: Treecko_86
+  - first:
+      213: -2100461437977859215
+    second: Treecko_87
+  - first:
+      213: -8087455996147597445
+    second: Treecko_88
+  - first:
+      213: 2417748436297856933
+    second: Treecko_89
+  - first:
+      213: -561747304820696662
+    second: Treecko_90
+  - first:
+      213: -3946746216613908907
+    second: Treecko_91
+  - first:
+      213: 6911411584989188731
+    second: Treecko_92
+  - first:
+      213: -1840667420920938804
+    second: Treecko_93
+  - first:
+      213: -9081244740717737643
+    second: Treecko_94
+  - first:
+      213: -7816187837031367402
+    second: Treecko_95
+  - first:
+      213: -3734355961605845069
+    second: Treecko_96
+  - first:
+      213: 9013884700972363791
+    second: Treecko_97
+  - first:
+      213: -1321706458019907758
+    second: Treecko_98
+  - first:
+      213: -6481443792562447838
+    second: Treecko_99
+  - first:
+      213: -3254479507047708852
+    second: Treecko_100
+  - first:
+      213: -1654668951754407537
+    second: Treecko_101
+  - first:
+      213: 8142987019012556786
+    second: Treecko_102
+  - first:
+      213: -3032240374506871126
+    second: Treecko_103
+  - first:
+      213: 8854827217446512002
+    second: Treecko_104
+  - first:
+      213: 8170703764701398456
+    second: Treecko_105
+  - first:
+      213: -284065211155564250
+    second: Treecko_106
+  - first:
+      213: 4821722331999620132
+    second: Treecko_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Treecko_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 740
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491329ecbc7e1e30800000000000000
+      internalID: 4476152230459939147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 740
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528afd22044527ea0800000000000000
+      internalID: -5876541929325352923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 740
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33de61faa7e266a40800000000000000
+      internalID: 5361023510889557299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 740
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab39f946bbe8fd40800000000000000
+      internalID: 5618499703302339501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 740
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26597b8075950d8a0800000000000000
+      internalID: -6282423249838566046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 740
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acfc23b3da060a40800000000000000
+      internalID: 5333962713027378341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 740
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f0de35d5378aec0800000000000000
+      internalID: -3555465061131808929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 740
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e00f03c93e6020800000000000000
+      internalID: 2336868766584988244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 740
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2298e642a365be0800000000000000
+      internalID: -1488938698651655460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 740
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afcf449173067b90800000000000000
+      internalID: -7244599164224417885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 667
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cbc330fc1778d0800000000000000
+      internalID: -2848776421301828713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 667
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ba787052dbdbb0800000000000000
+      internalID: -4910099725656869945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 667
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc89943f0839bd60800000000000000
+      internalID: 7906412258783759614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 667
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1399409f3c3621110800000000000000
+      internalID: 1230155341573167409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 667
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce4c4443358c230800000000000000
+      internalID: 3659266181195689063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 667
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c599b569d74be0800000000000000
+      internalID: -1492985720521505396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 667
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b6d9b9d30dbf2a0800000000000000
+      internalID: -6702534657388483803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 667
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99fde5c9962cd120800000000000000
+      internalID: 2439867540020525467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 667
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c762e16f8c40dc60800000000000000
+      internalID: 7840851129958295488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 667
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58963cab94dbb7850800000000000000
+      internalID: 6375897821836700037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 594
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f6b9976a2f5adc0800000000000000
+      internalID: -3628227127958343890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 594
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e1d6d2fe0de0c60800000000000000
+      internalID: 7786390531448053400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 594
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e163104d7d4e896b0800000000000000
+      internalID: -5289226146720696802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 594
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d681d39df27c87170800000000000000
+      internalID: 8176504131813185645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 594
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7a9ef8a0a88620800000000000000
+      internalID: 2776645817960397563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 594
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9362b0ae313c250800000000000000
+      internalID: 5963632227498998249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 594
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db8a668ea31c8a60800000000000000
+      internalID: 7677533105060219857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 594
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a213fe9c6b4b2ff0800000000000000
+      internalID: -59871240144088413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 594
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6226869b2278a8f60800000000000000
+      internalID: 8037385068205335078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 594
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299697571126225d0800000000000000
+      internalID: -3088798567297881710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 521
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77704191135518ae0800000000000000
+      internalID: -1548863127476238473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 521
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e771db293a426e060800000000000000
+      internalID: 6982308557244667774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a785b4bac4de8b0800000000000000
+      internalID: -5121352902663177623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7739d2e63aa150800000000000000
+      internalID: 5884576211047775330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 521
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f69a4ad4cadcb60800000000000000
+      internalID: 7768054381759000380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 521
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdb2ce00c1d3c00800000000000000
+      internalID: 881891892322360465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 521
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c9387ba2382a10800000000000000
+      internalID: 1884812156092401089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 521
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba27ef15eb0dc60800000000000000
+      internalID: 7840976210622589836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 521
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321d432212f594b40800000000000000
+      internalID: 5424971822056919331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 521
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313bc9a75a8bdb1e0800000000000000
+      internalID: -2180383623711247597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 448
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec735d72e37e2f70800000000000000
+      internalID: 9164389708347964647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 448
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262a15221e44e1c0800000000000000
+      internalID: -4475366289860581853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 448
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814504a8507c0cf20800000000000000
+      internalID: 3440968941919294488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c370818bcb1a910800000000000000
+      internalID: 1846964821061745730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 448
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2a31b5f120a5d0800000000000000
+      internalID: -3053403208233111771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81350d2c2b716edc0800000000000000
+      internalID: -3610171994750823656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 448
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d8835e73c57f8c0800000000000000
+      internalID: -3965599551737787108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 448
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c736d1dddb98e30800000000000000
+      internalID: 4506341659539373144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 448
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e871d320d62810800000000000000
+      internalID: 1740307158282069805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 451
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a63f5d17bb3d240800000000000000
+      internalID: 4815398524184390173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 381
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5042b70b51bc950800000000000000
+      internalID: 6470289137372235204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 380
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1011223bac2d42a50800000000000000
+      internalID: 6495548330605678849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 380
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192aff81c0e117300800000000000000
+      internalID: 248012491789935249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 379
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c135eaf41a3e230800000000000000
+      internalID: 3666951885208886337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_54
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 377
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4f32977d0ee8d50800000000000000
+      internalID: 6741572908275201202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 375
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b0ea6e7d6a7bae0800000000000000
+      internalID: -1533573701878019213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 375
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb5620d94721b90800000000000000
+      internalID: -7272622230551020386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 369
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d7940881a986000800000000000000
+      internalID: 29442827600100660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_58
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 374
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30b339c63ad759d0800000000000000
+      internalID: -2785517915666665411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_59
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 375
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452660dce568aa5f0800000000000000
+      internalID: -744635046651600300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 302
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0afbf9aa546ebd0800000000000000
+      internalID: -2601315135632990044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 302
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392fccff26f0cf50800000000000000
+      internalID: 6899785315096930610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 302
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe95ec5400454b90800000000000000
+      internalID: -7258324836955087169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 302
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f4c20dea5f78890800000000000000
+      internalID: -7455720526922887413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 302
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787302516bb1255d0800000000000000
+      internalID: -3075365126688196729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 302
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8aaf6c6c925fd0800000000000000
+      internalID: -2354647665617498610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 302
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf761911cf62e7ab0800000000000000
+      internalID: -5008522871521056773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 302
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7bcb0098eb1f780800000000000000
+      internalID: -8650923913569847382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_68
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 302
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037308b8cda8e9a60800000000000000
+      internalID: 7682730694178518832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 302
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1f7275135a4580800000000000000
+      internalID: -8842163566808195824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 229
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dbf6cdb701c7820800000000000000
+      internalID: 2917224782794571040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 229
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2704b6a9833ec00800000000000000
+      internalID: 928648184043959024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 229
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22379e93349bbc010800000000000000
+      internalID: 1210264623264658210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 229
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a90c39147ef7e0800000000000000
+      internalID: -1729817555133421577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 229
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a0f0990e5e75790800000000000000
+      internalID: -7541306298205271465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 229
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68d910bf6b60b30800000000000000
+      internalID: 4253288087278159590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 229
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c3356a0e3a3270800000000000000
+      internalID: 8230959483341488750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 229
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46993299991514a10800000000000000
+      internalID: 1891883038613412196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_78
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 229
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe2335931e30f90800000000000000
+      internalID: -6988494560423646241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 229
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34979fac2e36e0ef0800000000000000
+      internalID: -140064712682800829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 156
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e356db28f19cf0800000000000000
+      internalID: -247143637365561870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 156
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa124414580f728f0800000000000000
+      internalID: -565218773095407185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b51bf94bfff76b30800000000000000
+      internalID: 4280671425582011829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 156
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d2c70b263098210800000000000000
+      internalID: 1335602486894669130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8df7ddff6f1f5d0800000000000000
+      internalID: -3030369495450396434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_85
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f69402a03682680800000000000000
+      internalID: -8779658578416275693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e41e1e9d2549d30800000000000000
+      internalID: 4437262628617801257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 156
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6cec6379a9d2e0800000000000000
+      internalID: -2100461437977859215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_88
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 156
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff405ee9593cf80800000000000000
+      internalID: -8087455996147597445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_89
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 156
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73acd94619d8120800000000000000
+      internalID: 2417748436297856933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 83
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa911a27dc54438f0800000000000000
+      internalID: -561747304820696662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 83
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e6c1c0a375a39c0800000000000000
+      internalID: -3946746216613908907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 83
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72dcc3e7344aef50800000000000000
+      internalID: 6911411584989188731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 83
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7f52abb2a476e0800000000000000
+      internalID: -1840667420920938804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 83
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5598227d500f8f180800000000000000
+      internalID: -9081244740717737643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_95
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d340cf292578390800000000000000
+      internalID: -7816187837031367402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_96
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 83
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf0f93d907ec2cc0800000000000000
+      internalID: -3734355961605845069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_97
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 86
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0039cfb060c71d70800000000000000
+      internalID: 9013884700972363791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 89
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2573268aafa58ade0800000000000000
+      internalID: -1321706458019907758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_99
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 88
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a97a8f5394d06a0800000000000000
+      internalID: -6481443792562447838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4702ad9124c5d2d0800000000000000
+      internalID: -3254479507047708852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818fcdea5f6909e0800000000000000
+      internalID: -1654668951754407537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 12
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f74cd6ec83b10170800000000000000
+      internalID: 8142987019012556786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6abe3e1715be5d0800000000000000
+      internalID: -3032240374506871126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_104
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 10
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852c5b707aa2ea70800000000000000
+      internalID: 8854827217446512002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b549f3a8cb246170800000000000000
+      internalID: 8170703764701398456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 9
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b60c023cce0cf0800000000000000
+      internalID: -284065211155564250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Treecko_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 10
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cc7641ae23ae240800000000000000
+      internalID: 4821722331999620132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

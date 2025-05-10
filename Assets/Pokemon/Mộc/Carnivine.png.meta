@@ -1,0 +1,2992 @@
+fileFormatVersion: 2
+guid: 5818b472b55336844868209451e335d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2903740398145171522
+    second: Carnivine_0
+  - first:
+      213: -4228978221260504826
+    second: Carnivine_1
+  - first:
+      213: 6387999862878679614
+    second: Carnivine_2
+  - first:
+      213: -4669786033561123145
+    second: Carnivine_3
+  - first:
+      213: -7797189012977375725
+    second: Carnivine_4
+  - first:
+      213: -3915637406797512111
+    second: Carnivine_5
+  - first:
+      213: -5314739306989577266
+    second: Carnivine_6
+  - first:
+      213: 2351735456220802444
+    second: Carnivine_7
+  - first:
+      213: -1545985101792461367
+    second: Carnivine_8
+  - first:
+      213: -5282319931106231495
+    second: Carnivine_9
+  - first:
+      213: -6754782837323284391
+    second: Carnivine_10
+  - first:
+      213: 3312861239847633189
+    second: Carnivine_11
+  - first:
+      213: 7934120957619258652
+    second: Carnivine_12
+  - first:
+      213: -2572624060703698975
+    second: Carnivine_13
+  - first:
+      213: -6863351745627379560
+    second: Carnivine_14
+  - first:
+      213: -5679377574926887394
+    second: Carnivine_15
+  - first:
+      213: -6529921774873851343
+    second: Carnivine_16
+  - first:
+      213: 6580038749811451017
+    second: Carnivine_17
+  - first:
+      213: 1087793937792102175
+    second: Carnivine_18
+  - first:
+      213: 2060092258520019271
+    second: Carnivine_19
+  - first:
+      213: -7108278758428488447
+    second: Carnivine_20
+  - first:
+      213: 8616736002501496148
+    second: Carnivine_21
+  - first:
+      213: -6479704666823302509
+    second: Carnivine_22
+  - first:
+      213: 2424355682517227851
+    second: Carnivine_23
+  - first:
+      213: -1815063510469156793
+    second: Carnivine_24
+  - first:
+      213: 1137101346911681327
+    second: Carnivine_25
+  - first:
+      213: 8041357465121905171
+    second: Carnivine_26
+  - first:
+      213: 7257353205073491306
+    second: Carnivine_27
+  - first:
+      213: 1199842629681782697
+    second: Carnivine_28
+  - first:
+      213: 441960315450774190
+    second: Carnivine_29
+  - first:
+      213: 1384134634161845228
+    second: Carnivine_30
+  - first:
+      213: -8015536550965525313
+    second: Carnivine_31
+  - first:
+      213: -8803414791720140478
+    second: Carnivine_32
+  - first:
+      213: -5283917047315062753
+    second: Carnivine_33
+  - first:
+      213: 2833134211194411008
+    second: Carnivine_34
+  - first:
+      213: -6149996980163870636
+    second: Carnivine_35
+  - first:
+      213: -6416620675558306224
+    second: Carnivine_36
+  - first:
+      213: 107979353029661883
+    second: Carnivine_37
+  - first:
+      213: 4558724203458130225
+    second: Carnivine_38
+  - first:
+      213: 1094443213642929233
+    second: Carnivine_39
+  - first:
+      213: 8949855095350369556
+    second: Carnivine_40
+  - first:
+      213: -517953216192909888
+    second: Carnivine_41
+  - first:
+      213: -7195374282657604874
+    second: Carnivine_42
+  - first:
+      213: 5638982575551313443
+    second: Carnivine_43
+  - first:
+      213: 4445288509068776741
+    second: Carnivine_44
+  - first:
+      213: 5374094642144059688
+    second: Carnivine_45
+  - first:
+      213: 2618355037310995247
+    second: Carnivine_46
+  - first:
+      213: -4344647178676411187
+    second: Carnivine_47
+  - first:
+      213: 5071895132587838713
+    second: Carnivine_48
+  - first:
+      213: -9149237473149312653
+    second: Carnivine_49
+  - first:
+      213: 8237891986437702230
+    second: Carnivine_50
+  - first:
+      213: 129107324272785996
+    second: Carnivine_51
+  - first:
+      213: 893457341819331782
+    second: Carnivine_52
+  - first:
+      213: -3124036866524829847
+    second: Carnivine_53
+  - first:
+      213: 8888723812786398716
+    second: Carnivine_54
+  - first:
+      213: 416963237186069441
+    second: Carnivine_55
+  - first:
+      213: -2226209787275834310
+    second: Carnivine_56
+  - first:
+      213: 3182394448311492087
+    second: Carnivine_57
+  - first:
+      213: -8708410001695149569
+    second: Carnivine_58
+  - first:
+      213: 2258667203551504680
+    second: Carnivine_59
+  - first:
+      213: -6895895713356685351
+    second: Carnivine_60
+  - first:
+      213: -576721879674923882
+    second: Carnivine_61
+  - first:
+      213: -7508664082752747086
+    second: Carnivine_62
+  - first:
+      213: -6148387487405046358
+    second: Carnivine_63
+  - first:
+      213: 193031584516994316
+    second: Carnivine_64
+  - first:
+      213: 2483690200864844233
+    second: Carnivine_65
+  - first:
+      213: -2454269447093485686
+    second: Carnivine_66
+  - first:
+      213: -5830892130247768899
+    second: Carnivine_67
+  - first:
+      213: 4851365499049193537
+    second: Carnivine_68
+  - first:
+      213: 5640253902377491468
+    second: Carnivine_69
+  - first:
+      213: 2635246611658257455
+    second: Carnivine_70
+  - first:
+      213: 4889994669717108798
+    second: Carnivine_71
+  - first:
+      213: 938209285569350739
+    second: Carnivine_72
+  - first:
+      213: 7743863431556464109
+    second: Carnivine_73
+  - first:
+      213: 6587789498280435970
+    second: Carnivine_74
+  - first:
+      213: -1755843192641731318
+    second: Carnivine_75
+  - first:
+      213: -6305238616312795896
+    second: Carnivine_76
+  - first:
+      213: -1577802874134464558
+    second: Carnivine_77
+  - first:
+      213: -6801598513147600559
+    second: Carnivine_78
+  - first:
+      213: 7493066945123421712
+    second: Carnivine_79
+  - first:
+      213: -7580428383781561986
+    second: Carnivine_80
+  - first:
+      213: -1948408102144890437
+    second: Carnivine_81
+  - first:
+      213: 2259111158800716077
+    second: Carnivine_82
+  - first:
+      213: 6068545041621899721
+    second: Carnivine_83
+  - first:
+      213: -7033803222970970355
+    second: Carnivine_84
+  - first:
+      213: 2740300291245385200
+    second: Carnivine_85
+  - first:
+      213: -7892583227464758090
+    second: Carnivine_86
+  - first:
+      213: -509578606526743775
+    second: Carnivine_87
+  - first:
+      213: 3929671881057986455
+    second: Carnivine_88
+  - first:
+      213: 915451797326266835
+    second: Carnivine_89
+  - first:
+      213: -5190197597977837788
+    second: Carnivine_90
+  - first:
+      213: -6084006662837313509
+    second: Carnivine_91
+  - first:
+      213: 4109911151965380038
+    second: Carnivine_92
+  - first:
+      213: -2038396576661624711
+    second: Carnivine_93
+  - first:
+      213: -7961132645423278128
+    second: Carnivine_94
+  - first:
+      213: -8721025477613445000
+    second: Carnivine_95
+  - first:
+      213: 9060784841904819502
+    second: Carnivine_96
+  - first:
+      213: -4351014886692296467
+    second: Carnivine_97
+  - first:
+      213: -2766160811535888898
+    second: Carnivine_98
+  - first:
+      213: -3146141438268127691
+    second: Carnivine_99
+  - first:
+      213: 7382564402440728245
+    second: Carnivine_100
+  - first:
+      213: 6104932137585048585
+    second: Carnivine_101
+  - first:
+      213: 8894943357083830298
+    second: Carnivine_102
+  - first:
+      213: -8568263113920123052
+    second: Carnivine_103
+  - first:
+      213: -1150646396063020616
+    second: Carnivine_104
+  - first:
+      213: 4258538274865265904
+    second: Carnivine_105
+  - first:
+      213: -8287027543030318745
+    second: Carnivine_106
+  - first:
+      213: 6950818637208450806
+    second: Carnivine_107
+  - first:
+      213: 8607212946297809864
+    second: Carnivine_108
+  - first:
+      213: 7381376977744173635
+    second: Carnivine_109
+  - first:
+      213: 1317496326901601336
+    second: Carnivine_110
+  - first:
+      213: -7185791551192480013
+    second: Carnivine_111
+  - first:
+      213: -8915143373124010147
+    second: Carnivine_112
+  - first:
+      213: 5610369262539603553
+    second: Carnivine_113
+  - first:
+      213: -4707619449535019296
+    second: Carnivine_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carnivine_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 854
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf0b981e77d3b7d0800000000000000
+      internalID: -2903740398145171522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 854
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60187eeb6b6af45c0800000000000000
+      internalID: -4228978221260504826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 854
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b02cb70cb6a850800000000000000
+      internalID: 6387999862878679614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 854
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b642841856913fb0800000000000000
+      internalID: -4669786033561123145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 854
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316a7ea67e1dac390800000000000000
+      internalID: -7797189012977375725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 854
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1524a92468cd8a9c0800000000000000
+      internalID: -3915637406797512111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 851
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb941d42c04e36b0800000000000000
+      internalID: -5314739306989577266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 851
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6bb9ffea03a020800000000000000
+      internalID: 2351735456220802444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 852
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd3d9badbe8b8ae0800000000000000
+      internalID: -1545985101792461367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_9
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 852
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7274720e61b6b0800000000000000
+      internalID: -5282319931106231495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 775
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950c07e3cc03242a0800000000000000
+      internalID: -6754782837323284391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 775
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521474fceb5a9fd20800000000000000
+      internalID: 3312861239847633189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 776
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15c0e369f8ab1e60800000000000000
+      internalID: 7934120957619258652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 776
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef02211c043c4cd0800000000000000
+      internalID: -2572624060703698975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 776
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a25173f970c0a0800000000000000
+      internalID: -6863351745627379560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 776
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16d92daf2cce21b0800000000000000
+      internalID: -5679377574926887394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 776
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a4e852ebe0165a0800000000000000
+      internalID: -6529921774873851343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 776
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98421d2616ef05b50800000000000000
+      internalID: 6580038749811451017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_18
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 776
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1febe2b2de981f00800000000000000
+      internalID: 1087793937792102175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 776
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7413e998efae69c10800000000000000
+      internalID: 2060092258520019271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 700
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d4a6761225a5d90800000000000000
+      internalID: -7108278758428488447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 700
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dcb68adbbc49770800000000000000
+      internalID: 8616736002501496148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 700
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3926e8cbfe67316a0800000000000000
+      internalID: -6479704666823302509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 700
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4993a106aa05a120800000000000000
+      internalID: 2424355682517227851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 700
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74066b59a599fc6e0800000000000000
+      internalID: -1815063510469156793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 700
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf94086abc7cf00800000000000000
+      internalID: 1137101346911681327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_26
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 700
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad6847204a89f60800000000000000
+      internalID: 8041357465121905171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 700
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65b2f5f94c47b460800000000000000
+      internalID: 7257353205073491306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_28
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 697
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af9d80c382b6a010800000000000000
+      internalID: 1199842629681782697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 697
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25347b098222600800000000000000
+      internalID: 441960315450774190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 621
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce33886cd1f653310800000000000000
+      internalID: 1384134634161845228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 621
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb44a8b99f713c090800000000000000
+      internalID: -8015536550965525313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 621
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410a11b3ecf3d580800000000000000
+      internalID: -8803414791720140478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 621
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a72cd071cba6b0800000000000000
+      internalID: -5283917047315062753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 622
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008df33fd80515720800000000000000
+      internalID: 2833134211194411008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 622
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508b93a452d6aaa0800000000000000
+      internalID: -6149996980163870636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_36
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 622
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8be60e7593f6a0800000000000000
+      internalID: -6416620675558306224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_37
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 622
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4d86446ae9f7100800000000000000
+      internalID: 107979353029661883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_38
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 622
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131f8188287d34f30800000000000000
+      internalID: 4558724203458130225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 622
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1541600ed4e303f00800000000000000
+      internalID: 1094443213642929233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 545
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d14957ac5443c70800000000000000
+      internalID: 8949855095350369556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 545
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdec8a4b4cdfc8f0800000000000000
+      internalID: -517953216192909888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 546
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa56307635e42c90800000000000000
+      internalID: -7195374282657604874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 546
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3267a5e96c0b14e40800000000000000
+      internalID: 5638982575551313443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 546
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259b2bc856d0bd30800000000000000
+      internalID: 4445288509068776741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_45
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 546
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a3569a9e949a40800000000000000
+      internalID: 5374094642144059688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_46
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 546
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc6c6a804465420800000000000000
+      internalID: 2618355037310995247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_47
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 546
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e690f866b4b3c0800000000000000
+      internalID: -4344647178676411187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_48
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 546
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc4ee340cdf26640800000000000000
+      internalID: 5071895132587838713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_49
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 546
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712e3f2ef0670180800000000000000
+      internalID: -9149237473149312653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 466
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65208ad8d1fd25270800000000000000
+      internalID: 8237891986437702230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 466
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a3e296d6eaac100800000000000000
+      internalID: 129107324272785996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_52
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 467
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42b19f7b2366c00800000000000000
+      internalID: 893457341819331782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 467
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9672091950135a4d0800000000000000
+      internalID: -3124036866524829847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 467
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf560b796371b5b70800000000000000
+      internalID: 8888723812786398716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_55
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 467
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c36fd4ead959c500800000000000000
+      internalID: 416963237186069441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_56
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 468
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0de15ef9ea11e0800000000000000
+      internalID: -2226209787275834310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_57
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 468
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd18c2c3e22a2c20800000000000000
+      internalID: 3182394448311492087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_58
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 468
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1708a1e33852780800000000000000
+      internalID: -8708410001695149569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_59
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 468
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829238dcad5685f10800000000000000
+      internalID: 2258667203551504680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 391
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5c3d726bdc40a0800000000000000
+      internalID: -6895895713356685351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d7cb81821ff7f0800000000000000
+      internalID: -576721879674923882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 391
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c9c1accddbc790800000000000000
+      internalID: -7508664082752747086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_63
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 391
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa504cfd72a8caaa0800000000000000
+      internalID: -6148387487405046358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 392
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f0911439cda200800000000000000
+      internalID: 193031584516994316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_65
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 392
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9eaaa1417d77220800000000000000
+      internalID: 2483690200864844233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_66
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 392
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff5eee0fea0fdd0800000000000000
+      internalID: -2454269447093485686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_67
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 392
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db406fc3082841fa0800000000000000
+      internalID: -5830892130247768899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_68
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 392
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b96eb733835340800000000000000
+      internalID: 4851365499049193537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_69
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 392
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c98367a05364e40800000000000000
+      internalID: 5640253902377491468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 315
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f243177c4d6429420800000000000000
+      internalID: 2635246611658257455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 315
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38ba0a6e30ccd340800000000000000
+      internalID: 4889994669717108798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 315
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c8557df50350d00800000000000000
+      internalID: 938209285569350739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 315
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded7f0323cab77b60800000000000000
+      internalID: 7743863431556464109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 315
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ed0425a78c6b50800000000000000
+      internalID: 6587789498280435970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_75
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 315
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a054d4d4bedf1a7e0800000000000000
+      internalID: -1755843192641731318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_76
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 315
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80da99292ea4f78a0800000000000000
+      internalID: -6305238616312795896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_77
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 315
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7ff9145a48a1ae0800000000000000
+      internalID: -1577802874134464558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_78
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 314
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151230f403edb91a0800000000000000
+      internalID: -6801598513147600559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_79
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 314
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8d46cfa8bcf760800000000000000
+      internalID: 7493066945123421712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 236
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79596b3c88ecc690800000000000000
+      internalID: -7580428383781561986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 236
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9292a772dd5f4e0800000000000000
+      internalID: -1948408102144890437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 236
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21107031a9f95f10800000000000000
+      internalID: 2259111158800716077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 236
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9d455109dc73450800000000000000
+      internalID: 6068545041621899721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_84
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 236
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f41d24c39e26e90800000000000000
+      internalID: -7033803222970970355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_85
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 236
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a49d9890870620800000000000000
+      internalID: 2740300291245385200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_86
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 237
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcc1ce0f59e77290800000000000000
+      internalID: -7892583227464758090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_87
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 237
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb5dc05fc9de8f0800000000000000
+      internalID: -509578606526743775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_88
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 237
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7976d4a61cff88630800000000000000
+      internalID: 3929671881057986455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_89
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 237
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d100a43f8654bc00800000000000000
+      internalID: 915451797326266835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff17298c6b8f7b0800000000000000
+      internalID: -5190197597977837788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10e872bc24419ba0800000000000000
+      internalID: -6084006662837313509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_92
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 161
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd105fda66590930800000000000000
+      internalID: 4109911151965380038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 161
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97826b80d1926b3e0800000000000000
+      internalID: -2038396576661624711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 161
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d797c3f900648190800000000000000
+      internalID: -7961132645423278128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 161
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87028b9b881b8f680800000000000000
+      internalID: -8721025477613445000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_96
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 161
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d0bffbecf5ebd70800000000000000
+      internalID: 9060784841904819502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_97
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 161
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e44263071e93c0800000000000000
+      internalID: -4351014886692296467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_98
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 161
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0cccc56f9c99d0800000000000000
+      internalID: -2766160811535888898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_99
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 161
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53644e6e709a654d0800000000000000
+      internalID: -3146141438268127691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 84
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be6ce2a533247660800000000000000
+      internalID: 7382564402440728245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 84
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c7f9e0f6319b450800000000000000
+      internalID: 6104932137585048585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_102
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 83
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c3381bdf217b70800000000000000
+      internalID: 8894943357083830298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_103
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 83
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f65b0381a671980800000000000000
+      internalID: -8568263113920123052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_104
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 82
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9849cf2351800f0800000000000000
+      internalID: -1150646396063020616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_105
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 82
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcbfbf8ffd591b30800000000000000
+      internalID: 4258538274865265904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_106
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 82
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769bccd2b509efc80800000000000000
+      internalID: -8287027543030318745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_107
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 82
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f679f839b4467060800000000000000
+      internalID: 6950818637208450806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_108
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 82
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb693a5296f27770800000000000000
+      internalID: 8607212946297809864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_109
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 82
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a10b7c04bef6660800000000000000
+      internalID: 7381376977744173635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_110
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8341addcdefa84210800000000000000
+      internalID: 1317496326901601336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_111
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f64b29f7a0f64c90800000000000000
+      internalID: -7185791551192480013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff34b265c074480800000000000000
+      internalID: -8915143373124010147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_113
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 6
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e71788e190cdd40800000000000000
+      internalID: 5610369262539603553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivine_114
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 7
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6cebc7d0d2baeb0800000000000000
+      internalID: -4707619449535019296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 0c17c118a147c3a4da42cb7a77e7fb00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6426016012845546444
+    second: Sunkern_0
+  - first:
+      213: -3511194648693468485
+    second: Sunkern_1
+  - first:
+      213: -6483451011157234382
+    second: Sunkern_2
+  - first:
+      213: -1582368940693798633
+    second: Sunkern_3
+  - first:
+      213: 5422950012478483514
+    second: Sunkern_4
+  - first:
+      213: 3463266863056755084
+    second: Sunkern_5
+  - first:
+      213: -3540491052745203918
+    second: Sunkern_6
+  - first:
+      213: -6663226710618269194
+    second: Sunkern_7
+  - first:
+      213: 8767346131393992170
+    second: Sunkern_8
+  - first:
+      213: -7269460618844905249
+    second: Sunkern_9
+  - first:
+      213: -4406677783044848737
+    second: Sunkern_10
+  - first:
+      213: -1997725687310687350
+    second: Sunkern_11
+  - first:
+      213: -1985928560886726293
+    second: Sunkern_12
+  - first:
+      213: 4668746580879692799
+    second: Sunkern_13
+  - first:
+      213: 2992564177000885724
+    second: Sunkern_14
+  - first:
+      213: -2071963482726794847
+    second: Sunkern_15
+  - first:
+      213: 2468790565845090836
+    second: Sunkern_16
+  - first:
+      213: -1953887580444900950
+    second: Sunkern_17
+  - first:
+      213: -133956648910463964
+    second: Sunkern_18
+  - first:
+      213: -8796091790557420543
+    second: Sunkern_19
+  - first:
+      213: -1596781076480160042
+    second: Sunkern_20
+  - first:
+      213: -4204436679578730775
+    second: Sunkern_21
+  - first:
+      213: 883115297079348878
+    second: Sunkern_22
+  - first:
+      213: -1898381398238196988
+    second: Sunkern_23
+  - first:
+      213: -7002915057239376196
+    second: Sunkern_24
+  - first:
+      213: 3451503669241318727
+    second: Sunkern_25
+  - first:
+      213: 8056274434717057867
+    second: Sunkern_26
+  - first:
+      213: -1434046007945391575
+    second: Sunkern_27
+  - first:
+      213: -2106750940425553406
+    second: Sunkern_28
+  - first:
+      213: 8485208663795369660
+    second: Sunkern_29
+  - first:
+      213: -7958941386115710893
+    second: Sunkern_30
+  - first:
+      213: 229512953517662391
+    second: Sunkern_31
+  - first:
+      213: -1167457819546968414
+    second: Sunkern_32
+  - first:
+      213: 3390294731631862019
+    second: Sunkern_33
+  - first:
+      213: 6369399845095490307
+    second: Sunkern_34
+  - first:
+      213: 4029744283295582467
+    second: Sunkern_35
+  - first:
+      213: -8383774052822816585
+    second: Sunkern_36
+  - first:
+      213: -5948519911546427273
+    second: Sunkern_37
+  - first:
+      213: -8019090308822397511
+    second: Sunkern_38
+  - first:
+      213: 9138147415555153301
+    second: Sunkern_39
+  - first:
+      213: -3077922496351569715
+    second: Sunkern_40
+  - first:
+      213: -1090791231447635100
+    second: Sunkern_41
+  - first:
+      213: 4379619111067005381
+    second: Sunkern_42
+  - first:
+      213: 535200729103597128
+    second: Sunkern_43
+  - first:
+      213: -7461197168734488789
+    second: Sunkern_44
+  - first:
+      213: 7620759389981330492
+    second: Sunkern_45
+  - first:
+      213: -7100697675186361417
+    second: Sunkern_46
+  - first:
+      213: 4330305637695005001
+    second: Sunkern_47
+  - first:
+      213: 5856994279294444117
+    second: Sunkern_48
+  - first:
+      213: -846123409690821851
+    second: Sunkern_49
+  - first:
+      213: -5725586456835250488
+    second: Sunkern_50
+  - first:
+      213: 7724783778145795758
+    second: Sunkern_51
+  - first:
+      213: -3815062173305074046
+    second: Sunkern_52
+  - first:
+      213: 4140437975135572016
+    second: Sunkern_53
+  - first:
+      213: 7483892383418556501
+    second: Sunkern_54
+  - first:
+      213: 5222729776788357280
+    second: Sunkern_55
+  - first:
+      213: -9214327838805742172
+    second: Sunkern_56
+  - first:
+      213: 6934036877920842433
+    second: Sunkern_57
+  - first:
+      213: 42579233731060643
+    second: Sunkern_58
+  - first:
+      213: -4009524452093000208
+    second: Sunkern_59
+  - first:
+      213: -3452565373694851179
+    second: Sunkern_60
+  - first:
+      213: 3261044441765498697
+    second: Sunkern_61
+  - first:
+      213: 3415221565193104110
+    second: Sunkern_62
+  - first:
+      213: -686297521592739075
+    second: Sunkern_63
+  - first:
+      213: -8419799995105743023
+    second: Sunkern_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sunkern_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb71a6648bcd2950800000000000000
+      internalID: 6426016012845546444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 304
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb29f53f11bb54fc0800000000000000
+      internalID: -3511194648693468485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 305
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d6359f7a72606a0800000000000000
+      internalID: -6483451011157234382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c55a05db4a0ae0800000000000000
+      internalID: -1582368940693798633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 307
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cea78ed40324b40800000000000000
+      internalID: 5422950012478483514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 307
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8911eedcdeff0030800000000000000
+      internalID: 3463266863056755084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 306
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f5ca65526addec0800000000000000
+      internalID: -3540491052745203918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 306
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f914b72c967783a0800000000000000
+      internalID: -6663226710618269194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae552a8eadedba970800000000000000
+      internalID: 8767346131393992170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 304
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0ee091510bd1b90800000000000000
+      internalID: -7269460618844905249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93810667e558d2c0800000000000000
+      internalID: -4406677783044848737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 257
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a836c216217a644e0800000000000000
+      internalID: -1997725687310687350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 260
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b614b0bee709074e0800000000000000
+      internalID: -1985928560886726293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 260
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff357ab7748bac040800000000000000
+      internalID: 4668746580879692799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 256
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd62b18349b78920800000000000000
+      internalID: 2992564177000885724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 256
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9fc70b038ee33e0800000000000000
+      internalID: -2071963482726794847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 254
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412480e70f7e24220800000000000000
+      internalID: 2468790565845090836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 254
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1c884099562e4e0800000000000000
+      internalID: -1953887580444900950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 255
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd3663327142ef0800000000000000
+      internalID: -133956648910463964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1046814ce110ee580800000000000000
+      internalID: -8796091790557420543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de8550321817d9e0800000000000000
+      internalID: -1596781076480160042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 207
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee3611bd17d6a5c0800000000000000
+      internalID: -4204436679578730775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 206
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ec02a0fa4714c00800000000000000
+      internalID: 883115297079348878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 206
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b8dc52d2897a5e0800000000000000
+      internalID: -1898381398238196988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 204
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3305cbd5a0de90800000000000000
+      internalID: -7002915057239376196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 204
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d0612ec4436ef20800000000000000
+      internalID: 3451503669241318727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 207
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b430f561ae2adcf60800000000000000
+      internalID: 8056274434717057867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 207
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92219d0f0ce391ce0800000000000000
+      internalID: -1434046007945391575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af6b58e2153c2e0800000000000000
+      internalID: -2106750940425553406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 210
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6079ab25481c570800000000000000
+      internalID: 8485208663795369660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500b644af82c8190800000000000000
+      internalID: -7958941386115710893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 156
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b065c1b0d46f2300800000000000000
+      internalID: 229512953517662391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae96af6c4b5ccfe0800000000000000
+      internalID: -1167457819546968414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_33
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301abca881fbc0f20800000000000000
+      internalID: 3390294731631862019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303485f9967a46850800000000000000
+      internalID: 6369399845095490307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 155
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098e7d33178ce730800000000000000
+      internalID: 4029744283295582467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 157
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8eb580be9d6ab80800000000000000
+      internalID: -8383774052822816585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 157
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778efe438ac927da0800000000000000
+      internalID: -5948519911546427273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd0dd0e9d776b090800000000000000
+      internalID: -8019090308822397511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 156
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d915198a831de70800000000000000
+      internalID: 9138147415555153301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f7ce0cc50945d0800000000000000
+      internalID: -3077922496351569715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46be37d772bbcd0f0800000000000000
+      internalID: -1090791231447635100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 107
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c139a6906887cc30800000000000000
+      internalID: 4379619111067005381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 107
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84effbd3a3a6d6700800000000000000
+      internalID: 535200729103597128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 110
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b273e66c4b0847890800000000000000
+      internalID: -7461197168734488789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 110
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4f86e94062c960800000000000000
+      internalID: 7620759389981330492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 106
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2315e511457d90800000000000000
+      internalID: -7100697675186361417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 106
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941aea7d806581c30800000000000000
+      internalID: 4330305637695005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 104
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55227dce349384150800000000000000
+      internalID: 5856994279294444117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b7c39ed37f144f0800000000000000
+      internalID: -846123409690821851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c62c85f371aa80b0800000000000000
+      internalID: -5725586456835250488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 55
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae74172be1f33b60800000000000000
+      internalID: 7724783778145795758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 57
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0f1c9a2d2e0bc0800000000000000
+      internalID: -3815062173305074046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305e72c66ac57930800000000000000
+      internalID: 4140437975135572016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5502aeaa8702cd760800000000000000
+      internalID: 7483892383418556501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 56
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0435f8f0dda7840800000000000000
+      internalID: 5222729776788357280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 54
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adadf376a1202080800000000000000
+      internalID: -9214327838805742172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_57
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 54
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c23ee76dc5aa3060800000000000000
+      internalID: 6934036877920842433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 57
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a329556695479000800000000000000
+      internalID: 42579233731060643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_59
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 57
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f501c211ce4b58c0800000000000000
+      internalID: -4009524452093000208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ca19c5160610d0800000000000000
+      internalID: -3452565373694851179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fc13c54ae814d20800000000000000
+      internalID: 3261044441765498697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa69e3bed456f20800000000000000
+      internalID: 3415221565193104110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfadb3f4a08c976f0800000000000000
+      internalID: -686297521592739075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunkern_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fe2e3b38cd62b80800000000000000
+      internalID: -8419799995105743023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

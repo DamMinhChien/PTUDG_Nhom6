@@ -1,0 +1,2942 @@
+fileFormatVersion: 2
+guid: 6fe62b9708bd70d4787e959ada41b514
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5798379305402919180
+    second: Pichu_0
+  - first:
+      213: 3405900009686622042
+    second: Pichu_1
+  - first:
+      213: -5788743618804781180
+    second: Pichu_2
+  - first:
+      213: -2817579695553876897
+    second: Pichu_3
+  - first:
+      213: -1628078223751418110
+    second: Pichu_4
+  - first:
+      213: 7174502798816693093
+    second: Pichu_5
+  - first:
+      213: 3961971503514860844
+    second: Pichu_6
+  - first:
+      213: 7964647162198274957
+    second: Pichu_7
+  - first:
+      213: 4979235481873118572
+    second: Pichu_8
+  - first:
+      213: -777663378868712661
+    second: Pichu_9
+  - first:
+      213: -7592767691587633238
+    second: Pichu_10
+  - first:
+      213: 471328523004811542
+    second: Pichu_11
+  - first:
+      213: -9158274846317147671
+    second: Pichu_12
+  - first:
+      213: -2984926409347535098
+    second: Pichu_13
+  - first:
+      213: 5439912252437655145
+    second: Pichu_14
+  - first:
+      213: 2465596389913673231
+    second: Pichu_15
+  - first:
+      213: 7574866502684648074
+    second: Pichu_16
+  - first:
+      213: -6065848005471733756
+    second: Pichu_17
+  - first:
+      213: 6332047744273689139
+    second: Pichu_18
+  - first:
+      213: 971037516379352344
+    second: Pichu_19
+  - first:
+      213: -5766276715276419183
+    second: Pichu_20
+  - first:
+      213: -3304154519332585977
+    second: Pichu_21
+  - first:
+      213: -6847770716146202136
+    second: Pichu_22
+  - first:
+      213: -247750253140750043
+    second: Pichu_23
+  - first:
+      213: -599904591107797421
+    second: Pichu_24
+  - first:
+      213: 6361648299036632120
+    second: Pichu_25
+  - first:
+      213: -3401717553970133567
+    second: Pichu_26
+  - first:
+      213: -2607986316222748760
+    second: Pichu_27
+  - first:
+      213: -7721439980836177087
+    second: Pichu_28
+  - first:
+      213: 9098993483337640955
+    second: Pichu_29
+  - first:
+      213: -4359492516805455023
+    second: Pichu_30
+  - first:
+      213: -6587564993257854499
+    second: Pichu_31
+  - first:
+      213: 3685609729992794527
+    second: Pichu_32
+  - first:
+      213: -1183655681320880449
+    second: Pichu_33
+  - first:
+      213: 1687501133950879453
+    second: Pichu_34
+  - first:
+      213: -2079855217131821552
+    second: Pichu_35
+  - first:
+      213: -1469819237866599025
+    second: Pichu_36
+  - first:
+      213: -8111113703807623815
+    second: Pichu_37
+  - first:
+      213: -418706455965623883
+    second: Pichu_38
+  - first:
+      213: 8217233558380509710
+    second: Pichu_39
+  - first:
+      213: -1235648877734537490
+    second: Pichu_40
+  - first:
+      213: 5589203866222606750
+    second: Pichu_41
+  - first:
+      213: 2719749130120979909
+    second: Pichu_42
+  - first:
+      213: -8594445874679907017
+    second: Pichu_43
+  - first:
+      213: -5008978310139633820
+    second: Pichu_44
+  - first:
+      213: 470246737696441856
+    second: Pichu_45
+  - first:
+      213: -8665864581194013859
+    second: Pichu_46
+  - first:
+      213: -4738758990781553723
+    second: Pichu_47
+  - first:
+      213: 2096589768039527511
+    second: Pichu_48
+  - first:
+      213: -5386619447900436915
+    second: Pichu_49
+  - first:
+      213: 7222081110131226056
+    second: Pichu_50
+  - first:
+      213: 5339012799667678846
+    second: Pichu_51
+  - first:
+      213: 3405445915675712780
+    second: Pichu_52
+  - first:
+      213: 4520003462931932585
+    second: Pichu_53
+  - first:
+      213: 6783982700116306331
+    second: Pichu_54
+  - first:
+      213: -581580205109999154
+    second: Pichu_55
+  - first:
+      213: 1809653251897184295
+    second: Pichu_56
+  - first:
+      213: -6781194083524061723
+    second: Pichu_57
+  - first:
+      213: 2782481263813076951
+    second: Pichu_58
+  - first:
+      213: -7732113232263315263
+    second: Pichu_59
+  - first:
+      213: 5739067775260492681
+    second: Pichu_60
+  - first:
+      213: 6853605980822758307
+    second: Pichu_61
+  - first:
+      213: -3775875284829276058
+    second: Pichu_62
+  - first:
+      213: 2481336982207171930
+    second: Pichu_63
+  - first:
+      213: 1251310918369835345
+    second: Pichu_64
+  - first:
+      213: -7705776384393586466
+    second: Pichu_65
+  - first:
+      213: 7345554683247096473
+    second: Pichu_66
+  - first:
+      213: 3385053003429987838
+    second: Pichu_67
+  - first:
+      213: -274577507292891659
+    second: Pichu_68
+  - first:
+      213: 4625390089648239481
+    second: Pichu_69
+  - first:
+      213: -126828921762268524
+    second: Pichu_70
+  - first:
+      213: -4073830109052486855
+    second: Pichu_71
+  - first:
+      213: -1460789657028321513
+    second: Pichu_72
+  - first:
+      213: -7713445403994226959
+    second: Pichu_73
+  - first:
+      213: -1744050710318810914
+    second: Pichu_74
+  - first:
+      213: 5022890379947873377
+    second: Pichu_75
+  - first:
+      213: 2257448364010391528
+    second: Pichu_76
+  - first:
+      213: 901304382023349875
+    second: Pichu_77
+  - first:
+      213: -2817202801641253268
+    second: Pichu_78
+  - first:
+      213: 2756661645630985618
+    second: Pichu_79
+  - first:
+      213: -6885859518518689222
+    second: Pichu_80
+  - first:
+      213: -8204173063483656085
+    second: Pichu_81
+  - first:
+      213: -131808936400791239
+    second: Pichu_82
+  - first:
+      213: -6958418128858875391
+    second: Pichu_83
+  - first:
+      213: -8181820985897670178
+    second: Pichu_84
+  - first:
+      213: -8950501279269396812
+    second: Pichu_85
+  - first:
+      213: -8877765576188437332
+    second: Pichu_86
+  - first:
+      213: 8762897570412963957
+    second: Pichu_87
+  - first:
+      213: 7107775506508619239
+    second: Pichu_88
+  - first:
+      213: -3726381279924605774
+    second: Pichu_89
+  - first:
+      213: -3507422366011878887
+    second: Pichu_90
+  - first:
+      213: 660322784702434545
+    second: Pichu_91
+  - first:
+      213: 9010463598778391479
+    second: Pichu_92
+  - first:
+      213: -7167910255698821532
+    second: Pichu_93
+  - first:
+      213: 6868331882243902534
+    second: Pichu_94
+  - first:
+      213: -1478646394269810572
+    second: Pichu_95
+  - first:
+      213: -7520950331726834399
+    second: Pichu_96
+  - first:
+      213: 4742839740223525498
+    second: Pichu_97
+  - first:
+      213: -1928877962566713657
+    second: Pichu_98
+  - first:
+      213: 3885914704762674028
+    second: Pichu_99
+  - first:
+      213: -3935921389760177655
+    second: Pichu_100
+  - first:
+      213: -8850843416035584118
+    second: Pichu_101
+  - first:
+      213: -5791518961624757411
+    second: Pichu_102
+  - first:
+      213: -4427559217264921330
+    second: Pichu_103
+  - first:
+      213: 2726419207197895642
+    second: Pichu_104
+  - first:
+      213: 6537928736098183047
+    second: Pichu_105
+  - first:
+      213: 2022895596484209852
+    second: Pichu_106
+  - first:
+      213: -8213081300165261252
+    second: Pichu_107
+  - first:
+      213: -9185406727125871236
+    second: Pichu_108
+  - first:
+      213: 7996131881068417983
+    second: Pichu_109
+  - first:
+      213: -250571487408782379
+    second: Pichu_110
+  - first:
+      213: 1039810314265631542
+    second: Pichu_111
+  - first:
+      213: 2219525560656851885
+    second: Pichu_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pichu_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 653
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f69b7c2eb4088fa0800000000000000
+      internalID: -5798379305402919180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 653
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fded97300344f20800000000000000
+      internalID: 3405900009686622042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 653
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe45949504aafa0800000000000000
+      internalID: -5788743618804781180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 653
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c6820f132f5e8d0800000000000000
+      internalID: -2817579695553876897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 653
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f6fbe3b77e769e0800000000000000
+      internalID: -1628078223751418110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 653
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc38b8844f09360800000000000000
+      internalID: 7174502798816693093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 653
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d393d4710cbf630800000000000000
+      internalID: 3961971503514860844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 653
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83b620456c188e60800000000000000
+      internalID: 7964647162198274957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 658
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6571162a4cc91540800000000000000
+      internalID: 4979235481873118572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 658
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b43b3f64f2535f0800000000000000
+      internalID: -777663378868712661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 604
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3bd0430211a690800000000000000
+      internalID: -7592767691587633238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 604
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61916326bce7a8600800000000000000
+      internalID: 471328523004811542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 606
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e90fd5cc8547e080800000000000000
+      internalID: -9158274846317147671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 606
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f682ade396396d0800000000000000
+      internalID: -2984926409347535098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 606
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e67d72f537e7b40800000000000000
+      internalID: 5439912252437655145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 606
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3a447ade873220800000000000000
+      internalID: 2465596389913673231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 604
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82268963f45f1960800000000000000
+      internalID: 7574866502684648074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 604
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40878549067c1dba0800000000000000
+      internalID: -6065848005471733756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 599
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2f32ffd3ffd750800000000000000
+      internalID: 6332047744273689139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 599
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d6e53f971d97d00800000000000000
+      internalID: 971037516379352344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 535
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb755e0e11affa0800000000000000
+      internalID: -5766276715276419183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 535
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70efd2888f84522d0800000000000000
+      internalID: -3304154519332585977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 535
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e988c090d4d7f0a0800000000000000
+      internalID: -6847770716146202136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 535
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52158881570df8cf0800000000000000
+      internalID: -247750253140750043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 535
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec4ebe3f5bca7f0800000000000000
+      internalID: -599904591107797421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 535
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834eb0a2c6d194850800000000000000
+      internalID: 6361648299036632120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 535
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5466168ebaac0d0800000000000000
+      internalID: -3401717553970133567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 535
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7a67a53429ecbd0800000000000000
+      internalID: -2607986316222748760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_28
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 540
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb2c35f3fe7d490800000000000000
+      internalID: -7721439980836177087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 540
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb2fe35d5e164e70800000000000000
+      internalID: 9098993483337640955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 486
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15356de47a8ff73c0800000000000000
+      internalID: -4359492516805455023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 486
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd921128a844494a0800000000000000
+      internalID: -6587564993257854499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 488
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a1f0b58ae52330800000000000000
+      internalID: 3685609729992794527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 488
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6fe7add6fc29fe0800000000000000
+      internalID: -1183655681320880449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 488
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6063f27553b6710800000000000000
+      internalID: 1687501133950879453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 488
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0166d9613bed223e0800000000000000
+      internalID: -2079855217131821552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 486
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d0deac0372a9be0800000000000000
+      internalID: -1469819237866599025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 486
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5eb79f098f6f80800000000000000
+      internalID: -8111113703807623815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 481
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9910b52b4703af0800000000000000
+      internalID: -418706455965623883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_39
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 481
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a70b3726a790270800000000000000
+      internalID: 8217233558380509710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 417
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d58774e71adee0800000000000000
+      internalID: -1235648877734537490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 417
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99307fad47d09d40800000000000000
+      internalID: 5589203866222606750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 417
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5e90b8c6d7eb520800000000000000
+      internalID: 2719749130120979909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 417
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df16623056ab880800000000000000
+      internalID: -8594445874679907017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 417
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9d7004c88c7ab0800000000000000
+      internalID: -5008978310139633820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 417
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ce2d9ae6a68600800000000000000
+      internalID: 470246737696441856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 417
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53aa4eb31aacb780800000000000000
+      internalID: -8665864581194013859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_47
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 417
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e64e0ecb8c3eb0800000000000000
+      internalID: -4738758990781553723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_48
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 422
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754f6bb2945981d10800000000000000
+      internalID: 2096589768039527511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 422
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d460fa3d622ee35b0800000000000000
+      internalID: -5386619447900436915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 368
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53e64618cf93460800000000000000
+      internalID: 7222081110131226056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 368
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea47f9adbf71a40800000000000000
+      internalID: 5339012799667678846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 370
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd7a97403924f20800000000000000
+      internalID: 3405445915675712780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 370
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5e79793374abe30800000000000000
+      internalID: 4520003462931932585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 370
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e3da925c852e50800000000000000
+      internalID: 6783982700116306331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_55
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 370
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9050282efcde7f0800000000000000
+      internalID: -581580205109999154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72056fd6b0e2d1910800000000000000
+      internalID: 1809653251897184295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 368
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5519ac8eb54e1a0800000000000000
+      internalID: -6781194083524061723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_58
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 363
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d722cb97fb5d9620800000000000000
+      internalID: 2782481263813076951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 363
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c009d35bf302b490800000000000000
+      internalID: -7732113232263315263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 299
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9830b461cb345af40800000000000000
+      internalID: 5739067775260492681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 299
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ee6dd356ec1f50800000000000000
+      internalID: 6853605980822758307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 299
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668f2931f65699bc0800000000000000
+      internalID: -3775875284829276058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 299
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8f70b6da7f6220800000000000000
+      internalID: 2481336982207171930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 299
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159700986ac8d5110800000000000000
+      internalID: 1251310918369835345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 299
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed850a194359f0590800000000000000
+      internalID: -7705776384393586466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_66
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 299
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9927625e017a0f560800000000000000
+      internalID: 7345554683247096473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 299
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5405795cf1afe20800000000000000
+      internalID: 3385053003429987838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_68
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 304
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5be7e3631803cf0800000000000000
+      internalID: -274577507292891659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_69
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 304
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9737819b7cfa03040800000000000000
+      internalID: 4625390089648239481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3d1384c96d3ef0800000000000000
+      internalID: -126828921762268524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 250
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb2a29919d677c0800000000000000
+      internalID: -4073830109052486855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 252
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f1349eb8b3abbe0800000000000000
+      internalID: -1460789657028321513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_73
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 252
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fefd8cc54654f490800000000000000
+      internalID: -7713445403994226959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_74
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 252
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8fd2d8e13ebc7e0800000000000000
+      internalID: -1744050710318810914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164158a2034e4b540800000000000000
+      internalID: 5022890379947873377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 250
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e740ab9351145f10800000000000000
+      internalID: 2257448364010391528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_77
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 250
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37631056f83128c00800000000000000
+      internalID: 901304382023349875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 245
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6610f36af847e8d0800000000000000
+      internalID: -2817202801641253268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_79
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 245
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29557c94921a14620800000000000000
+      internalID: 2756661645630985618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 181
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32837130438070a0800000000000000
+      internalID: -6885859518518689222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 181
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687a3bf01ce42e80800000000000000
+      internalID: -8204173063483656085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_82
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 181
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939db9f7878bb2ef0800000000000000
+      internalID: -131808936400791239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 181
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7abe349bbe6f90800000000000000
+      internalID: -6958418128858875391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 181
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9abb79925547e80800000000000000
+      internalID: -8181820985897670178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 181
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bed77f128e69c380800000000000000
+      internalID: -8950501279269396812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_86
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 181
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacd810be37dbc480800000000000000
+      internalID: -8877765576188437332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 181
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578299799e01c9970800000000000000
+      internalID: 8762897570412963957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_88
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 181
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed1ba02a24e3a260800000000000000
+      internalID: 7107775506508619239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_89
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 181
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcad6818fb394cc0800000000000000
+      internalID: -3726381279924605774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9121a94f0f1235fc0800000000000000
+      internalID: -3507422366011878887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 122
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc094bf210f92900800000000000000
+      internalID: 660322784702434545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_92
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 122
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb16c257e89b0d70800000000000000
+      internalID: 9010463598778391479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 122
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e31338997768c90800000000000000
+      internalID: -7167910255698821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 122
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c43a8f477315f50800000000000000
+      internalID: 6868331882243902534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_95
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 122
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470c22940faca7be0800000000000000
+      internalID: -1478646394269810572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 122
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d010658730a790800000000000000
+      internalID: -7520950331726834399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_97
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 122
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7211a67d93f1d140800000000000000
+      internalID: 4742839740223525498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_98
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 122
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceb12276bf3b35e0800000000000000
+      internalID: -1928877962566713657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_99
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 122
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b98d4e5da8de530800000000000000
+      internalID: 3885914704762674028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a9b73795cc069c0800000000000000
+      internalID: -3935921389760177655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8718909ecc7b2580800000000000000
+      internalID: -8850843416035584118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_102
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bca6e603460afa0800000000000000
+      internalID: -5791518961624757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_103
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 63
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05fae0a9562e82c0800000000000000
+      internalID: -4427559217264921330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_104
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb25d1e2df26d520800000000000000
+      internalID: 2726419207197895642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78763f9cb836bba50800000000000000
+      internalID: 6537928736098183047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 63
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca426c3d4c21c10800000000000000
+      internalID: 2022895596484209852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_107
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 63
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c380f308216450e80800000000000000
+      internalID: -8213081300165261252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_108
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75dd208f31e68080800000000000000
+      internalID: -9185406727125871236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_109
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3524c9497f7fe60800000000000000
+      internalID: 7996131881068417983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3882e4f8ac58cf0800000000000000
+      internalID: -250571487408782379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b179fb8f52e6e00800000000000000
+      internalID: 1039810314265631542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichu_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f9d4ecb65dce10800000000000000
+      internalID: 2219525560656851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

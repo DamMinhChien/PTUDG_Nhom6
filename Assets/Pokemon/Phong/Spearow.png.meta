@@ -1,0 +1,1642 @@
+fileFormatVersion: 2
+guid: 05fb4aa37aadfcf4785e98d51f8a883e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2075879451720525948
+    second: Spearow_0
+  - first:
+      213: -5058126530374209760
+    second: Spearow_1
+  - first:
+      213: -3651737152608304411
+    second: Spearow_2
+  - first:
+      213: 1095196560686314770
+    second: Spearow_3
+  - first:
+      213: -1744159461138142413
+    second: Spearow_4
+  - first:
+      213: -613734428014236012
+    second: Spearow_5
+  - first:
+      213: 1702674038926968298
+    second: Spearow_6
+  - first:
+      213: -6321535478753461932
+    second: Spearow_7
+  - first:
+      213: -4401213654906443595
+    second: Spearow_8
+  - first:
+      213: 2385865652978864675
+    second: Spearow_9
+  - first:
+      213: 4123020080594233788
+    second: Spearow_10
+  - first:
+      213: 2047939339451886386
+    second: Spearow_11
+  - first:
+      213: -1918270576383496859
+    second: Spearow_12
+  - first:
+      213: -1034943253200323644
+    second: Spearow_13
+  - first:
+      213: -4722913681681949224
+    second: Spearow_14
+  - first:
+      213: -5868066302489671708
+    second: Spearow_15
+  - first:
+      213: -2448617602305928050
+    second: Spearow_16
+  - first:
+      213: -6115950704281669703
+    second: Spearow_17
+  - first:
+      213: -2612072197438249233
+    second: Spearow_18
+  - first:
+      213: -4541217913107446115
+    second: Spearow_19
+  - first:
+      213: -4989589740379799742
+    second: Spearow_20
+  - first:
+      213: -4705752025792770603
+    second: Spearow_21
+  - first:
+      213: 6496050882610830362
+    second: Spearow_22
+  - first:
+      213: 5109287597143882104
+    second: Spearow_23
+  - first:
+      213: -6891470454799021206
+    second: Spearow_24
+  - first:
+      213: -8683321342202455715
+    second: Spearow_25
+  - first:
+      213: 1735187141659243323
+    second: Spearow_26
+  - first:
+      213: 2495702260017640562
+    second: Spearow_27
+  - first:
+      213: 5834114672388313195
+    second: Spearow_28
+  - first:
+      213: -2087435124741025253
+    second: Spearow_29
+  - first:
+      213: -5360286990527512961
+    second: Spearow_30
+  - first:
+      213: -4691034399658142790
+    second: Spearow_31
+  - first:
+      213: -6023801856498246324
+    second: Spearow_32
+  - first:
+      213: -7409916238089383312
+    second: Spearow_33
+  - first:
+      213: -6945943971241662708
+    second: Spearow_34
+  - first:
+      213: 4869717528828158431
+    second: Spearow_35
+  - first:
+      213: -5344993138117070123
+    second: Spearow_36
+  - first:
+      213: 4013397529812467521
+    second: Spearow_37
+  - first:
+      213: 4960880640542396579
+    second: Spearow_38
+  - first:
+      213: -3983651010198591067
+    second: Spearow_39
+  - first:
+      213: -9115433833631550697
+    second: Spearow_40
+  - first:
+      213: 7343008780605169894
+    second: Spearow_41
+  - first:
+      213: -2779154863270638210
+    second: Spearow_42
+  - first:
+      213: 5506162950805141160
+    second: Spearow_43
+  - first:
+      213: 6876080938651390574
+    second: Spearow_44
+  - first:
+      213: -8532249482046177448
+    second: Spearow_45
+  - first:
+      213: 3615315017292213113
+    second: Spearow_46
+  - first:
+      213: -4929679786766581114
+    second: Spearow_47
+  - first:
+      213: 5212317858627523761
+    second: Spearow_48
+  - first:
+      213: 387774755167419715
+    second: Spearow_49
+  - first:
+      213: 5635187514968383100
+    second: Spearow_50
+  - first:
+      213: 4435777240986867704
+    second: Spearow_51
+  - first:
+      213: -5250063829977415613
+    second: Spearow_52
+  - first:
+      213: 5903669579853592250
+    second: Spearow_53
+  - first:
+      213: 2602511701823942278
+    second: Spearow_54
+  - first:
+      213: 4787636326511485074
+    second: Spearow_55
+  - first:
+      213: -3168322362459340065
+    second: Spearow_56
+  - first:
+      213: 3283589545554179367
+    second: Spearow_57
+  - first:
+      213: 3570521082585828915
+    second: Spearow_58
+  - first:
+      213: 3632386416043209238
+    second: Spearow_59
+  - first:
+      213: -798295781413644209
+    second: Spearow_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spearow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4875aab13aef033e0800000000000000
+      internalID: -2075879451720525948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 298
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe01048bcedc9b0800000000000000
+      internalID: -5058126530374209760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 298
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e28fad486c625dc0800000000000000
+      internalID: -3651737152608304411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ffe6287be23f00800000000000000
+      internalID: 1095196560686314770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 298
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b693706308bc7e0800000000000000
+      internalID: -1744159461138142413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 298
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea8c71ac39b77f0800000000000000
+      internalID: -613734428014236012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 298
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5858a640d11a710800000000000000
+      internalID: 1702674038926968298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 298
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459fed999f46548a0800000000000000
+      internalID: -6321535478753461932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 298
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8e3bedf7fbbe2c0800000000000000
+      internalID: -4401213654906443595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 298
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3225c97ab2c4c1120800000000000000
+      internalID: 2385865652978864675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb92f992be8e73930800000000000000
+      internalID: 4123020080594233788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23be3919afdbb6c10800000000000000
+      internalID: 2047939339451886386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 249
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56de39ff21fe065e0800000000000000
+      internalID: -1918270576383496859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 249
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbbe46389423a1f0800000000000000
+      internalID: -1034943253200323644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd3829707d47eb0800000000000000
+      internalID: -4722913681681949224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7c9a9c9c0709ea0800000000000000
+      internalID: -5868066302489671708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 249
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8459c79343c40ed0800000000000000
+      internalID: -2448617602305928050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfad77fc37cf1ba0800000000000000
+      internalID: -6115950704281669703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e4000d2e00cbd0800000000000000
+      internalID: -2612072197438249233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9607915e5a5af0c0800000000000000
+      internalID: -4541217913107446115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f7abd219a61cab0800000000000000
+      internalID: -4989589740379799742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 200
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd0c85f67fc1beb0800000000000000
+      internalID: -4705752025792770603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 200
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c91e43cdb962a50800000000000000
+      internalID: 6496050882610830362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 200
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f11bdff5d7e640800000000000000
+      internalID: 5109287597143882104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 200
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bca9942249c50a0800000000000000
+      internalID: -6891470454799021206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 200
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d595477de35ae7780800000000000000
+      internalID: -8683321342202455715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 200
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33bc6d038f941810800000000000000
+      internalID: 1735187141659243323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 200
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274bd719bf382a220800000000000000
+      internalID: 2495702260017640562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_28
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 200
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6099925260f6f050800000000000000
+      internalID: 5834114672388313195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12532250d0f703e0800000000000000
+      internalID: -2087435124741025253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 151
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eb573d16f6c95b0800000000000000
+      internalID: -5360286990527512961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31d33511916eeb0800000000000000
+      internalID: -4691034399658142790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d55128028276ca0800000000000000
+      internalID: -6023801856498246324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072984dd070ba2990800000000000000
+      internalID: -7409916238089383312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07ef5462cc0b9f90800000000000000
+      internalID: -6945943971241662708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ab46aa46b49340800000000000000
+      internalID: 4869717528828158431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b1a35f05c2d5b0800000000000000
+      internalID: -5344993138117070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff6ea1ac372b730800000000000000
+      internalID: 4013397529812467521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a054a0a8a698d440800000000000000
+      internalID: 4960880640542396579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 151
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9acf3338a37b8c0800000000000000
+      internalID: -3983651010198591067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71370d459397f7180800000000000000
+      internalID: -9115433833631550697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ab8eb49b97e560800000000000000
+      internalID: 7343008780605169894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_42
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 102
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d44fe50657e69d0800000000000000
+      internalID: -2779154863270638210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a63826e702d96c40800000000000000
+      internalID: 5506162950805141160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629623ce2fbc6f50800000000000000
+      internalID: 6876080938651390574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 102
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f70a74d4c579980800000000000000
+      internalID: -8532249482046177448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 102
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b66dc7add2c2230800000000000000
+      internalID: 3615315017292213113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 102
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ca5d3a52469bb0800000000000000
+      internalID: -4929679786766581114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 102
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b41be3f97fd55840800000000000000
+      internalID: 5212317858627523761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 102
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d3e96d517a16500800000000000000
+      internalID: 387774755167419715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e18683035343e40800000000000000
+      internalID: 5635187514968383100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d8cf16eb0f8d30800000000000000
+      internalID: 4435777240986867704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c11e33c60427b0800000000000000
+      internalID: -5250063829977415613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f372343c0ee150800000000000000
+      internalID: 5903669579853592250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e6307aa9afd1420800000000000000
+      internalID: 2602511701823942278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290297b7fd9117240800000000000000
+      internalID: 4787636326511485074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24fab099bd704d0800000000000000
+      internalID: -3168322362459340065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72571f26b47a19d20800000000000000
+      internalID: 3283589545554179367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_58
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e4296d10a0d8130800000000000000
+      internalID: 3570521082585828915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_59
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 53
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b53f3334d86230800000000000000
+      internalID: 3632386416043209238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearow_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4895236732ebe4f0800000000000000
+      internalID: -798295781413644209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

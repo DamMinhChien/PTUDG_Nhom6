@@ -1,0 +1,3392 @@
+fileFormatVersion: 2
+guid: afb7f6b40edc4bb4b95677ac2ac3ae73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5998352196798768264
+    second: Empoleon_0
+  - first:
+      213: -442408415462651802
+    second: Empoleon_1
+  - first:
+      213: -8598628583665023032
+    second: Empoleon_2
+  - first:
+      213: -2257772381508576552
+    second: Empoleon_3
+  - first:
+      213: -8798151497083778935
+    second: Empoleon_4
+  - first:
+      213: -1049660633075530421
+    second: Empoleon_5
+  - first:
+      213: 4186403885623232320
+    second: Empoleon_6
+  - first:
+      213: -4938573729039098519
+    second: Empoleon_7
+  - first:
+      213: -5919857999950475593
+    second: Empoleon_8
+  - first:
+      213: 1196750853124388897
+    second: Empoleon_9
+  - first:
+      213: 2012530453218150794
+    second: Empoleon_10
+  - first:
+      213: -4874358230485473829
+    second: Empoleon_11
+  - first:
+      213: 691346829304455353
+    second: Empoleon_12
+  - first:
+      213: 5689918396451202664
+    second: Empoleon_13
+  - first:
+      213: -1339820279585345503
+    second: Empoleon_14
+  - first:
+      213: -5893849235133780463
+    second: Empoleon_15
+  - first:
+      213: -2141004751081266335
+    second: Empoleon_16
+  - first:
+      213: 5621704178406019967
+    second: Empoleon_17
+  - first:
+      213: -1291200483632661045
+    second: Empoleon_18
+  - first:
+      213: 7740709627351032817
+    second: Empoleon_19
+  - first:
+      213: -7974274863291873039
+    second: Empoleon_20
+  - first:
+      213: -9096010395086141142
+    second: Empoleon_21
+  - first:
+      213: 8369853588100425490
+    second: Empoleon_22
+  - first:
+      213: 2258743066159186260
+    second: Empoleon_23
+  - first:
+      213: -7476319260655554387
+    second: Empoleon_24
+  - first:
+      213: 9179515956754788198
+    second: Empoleon_25
+  - first:
+      213: -7401915513394452029
+    second: Empoleon_26
+  - first:
+      213: -9046976011318789785
+    second: Empoleon_27
+  - first:
+      213: 859376598762735102
+    second: Empoleon_28
+  - first:
+      213: -3683773816449216773
+    second: Empoleon_29
+  - first:
+      213: 4009379929307885515
+    second: Empoleon_30
+  - first:
+      213: -5865308084967230552
+    second: Empoleon_31
+  - first:
+      213: 8821190086156944149
+    second: Empoleon_32
+  - first:
+      213: -2140518242016150378
+    second: Empoleon_33
+  - first:
+      213: -2881096774667796173
+    second: Empoleon_34
+  - first:
+      213: 1081693747475461917
+    second: Empoleon_35
+  - first:
+      213: -5790887080921173637
+    second: Empoleon_36
+  - first:
+      213: 487472024087962428
+    second: Empoleon_37
+  - first:
+      213: -1472038991574346480
+    second: Empoleon_38
+  - first:
+      213: -879494355859229310
+    second: Empoleon_39
+  - first:
+      213: -7229301880550814156
+    second: Empoleon_40
+  - first:
+      213: -5054462229876942490
+    second: Empoleon_41
+  - first:
+      213: 6152539141199812275
+    second: Empoleon_42
+  - first:
+      213: 636327120485698715
+    second: Empoleon_43
+  - first:
+      213: 8426716246024963781
+    second: Empoleon_44
+  - first:
+      213: -3775673468172850224
+    second: Empoleon_45
+  - first:
+      213: -2424766568156910805
+    second: Empoleon_46
+  - first:
+      213: -6334496588602877443
+    second: Empoleon_47
+  - first:
+      213: 8502456799695267260
+    second: Empoleon_48
+  - first:
+      213: -7290205501768883632
+    second: Empoleon_49
+  - first:
+      213: 4511720606458899493
+    second: Empoleon_50
+  - first:
+      213: 2852741355812531369
+    second: Empoleon_51
+  - first:
+      213: -4873482045626904740
+    second: Empoleon_52
+  - first:
+      213: -6094411369901419644
+    second: Empoleon_53
+  - first:
+      213: 8072928595388520826
+    second: Empoleon_54
+  - first:
+      213: -1848565793885236097
+    second: Empoleon_55
+  - first:
+      213: 6448056508765866715
+    second: Empoleon_56
+  - first:
+      213: 1643898257578172072
+    second: Empoleon_57
+  - first:
+      213: -5968811795915035460
+    second: Empoleon_58
+  - first:
+      213: 1014817928869805136
+    second: Empoleon_59
+  - first:
+      213: -2920695109516775537
+    second: Empoleon_60
+  - first:
+      213: -1875041203889538892
+    second: Empoleon_61
+  - first:
+      213: -1802528312500713077
+    second: Empoleon_62
+  - first:
+      213: -8509568892855749443
+    second: Empoleon_63
+  - first:
+      213: -8275899299076286849
+    second: Empoleon_64
+  - first:
+      213: 4852922413990095754
+    second: Empoleon_65
+  - first:
+      213: 8248434218758403266
+    second: Empoleon_66
+  - first:
+      213: -1508288190960057100
+    second: Empoleon_67
+  - first:
+      213: 8085240196480604388
+    second: Empoleon_68
+  - first:
+      213: -4336298585072704892
+    second: Empoleon_69
+  - first:
+      213: -5804923146947366698
+    second: Empoleon_70
+  - first:
+      213: 5589447420036961966
+    second: Empoleon_71
+  - first:
+      213: -2688618957642621420
+    second: Empoleon_72
+  - first:
+      213: -6103874693226682481
+    second: Empoleon_73
+  - first:
+      213: -9034033588235752001
+    second: Empoleon_74
+  - first:
+      213: 4823792044518179537
+    second: Empoleon_75
+  - first:
+      213: 4182948145356987036
+    second: Empoleon_76
+  - first:
+      213: 4297579536193323148
+    second: Empoleon_77
+  - first:
+      213: -1826435168614876953
+    second: Empoleon_78
+  - first:
+      213: -2735499139773892841
+    second: Empoleon_79
+  - first:
+      213: -5976876505678422636
+    second: Empoleon_80
+  - first:
+      213: -8204224883233290756
+    second: Empoleon_81
+  - first:
+      213: -6843342030008435248
+    second: Empoleon_82
+  - first:
+      213: 5359399106549533406
+    second: Empoleon_83
+  - first:
+      213: 2176961662563943146
+    second: Empoleon_84
+  - first:
+      213: 6252043459599264103
+    second: Empoleon_85
+  - first:
+      213: -6831546997033055186
+    second: Empoleon_86
+  - first:
+      213: -7096707634158859367
+    second: Empoleon_87
+  - first:
+      213: -5563425606509146112
+    second: Empoleon_88
+  - first:
+      213: -5706158656637629581
+    second: Empoleon_89
+  - first:
+      213: 191137831623042858
+    second: Empoleon_90
+  - first:
+      213: 8144145970243618102
+    second: Empoleon_91
+  - first:
+      213: 382309332378249371
+    second: Empoleon_92
+  - first:
+      213: -6242323783326156832
+    second: Empoleon_93
+  - first:
+      213: -6190697367933752722
+    second: Empoleon_94
+  - first:
+      213: 4426497259783138507
+    second: Empoleon_95
+  - first:
+      213: 4847993294471729177
+    second: Empoleon_96
+  - first:
+      213: -4768450947894379350
+    second: Empoleon_97
+  - first:
+      213: 526825629407342260
+    second: Empoleon_98
+  - first:
+      213: -2705491109778436141
+    second: Empoleon_99
+  - first:
+      213: -3228845218083748277
+    second: Empoleon_100
+  - first:
+      213: 4441424859159950278
+    second: Empoleon_101
+  - first:
+      213: -8697736611087203483
+    second: Empoleon_102
+  - first:
+      213: 2023341218110975459
+    second: Empoleon_103
+  - first:
+      213: -8702333851786650460
+    second: Empoleon_104
+  - first:
+      213: 4649657701792459038
+    second: Empoleon_105
+  - first:
+      213: 4359224539714523735
+    second: Empoleon_106
+  - first:
+      213: -5477509393070034545
+    second: Empoleon_107
+  - first:
+      213: 477212551574671540
+    second: Empoleon_108
+  - first:
+      213: 6431444632618296742
+    second: Empoleon_109
+  - first:
+      213: 812799630035193363
+    second: Empoleon_110
+  - first:
+      213: -4957294542820753791
+    second: Empoleon_111
+  - first:
+      213: -5637086025397120294
+    second: Empoleon_112
+  - first:
+      213: 4168222492538144207
+    second: Empoleon_113
+  - first:
+      213: 5370348860000236798
+    second: Empoleon_114
+  - first:
+      213: 2630051571954698723
+    second: Empoleon_115
+  - first:
+      213: 2679134056320249121
+    second: Empoleon_116
+  - first:
+      213: -1863312467644157528
+    second: Empoleon_117
+  - first:
+      213: 6673921373073863775
+    second: Empoleon_118
+  - first:
+      213: 7881883255588245088
+    second: Empoleon_119
+  - first:
+      213: -825718250674929135
+    second: Empoleon_120
+  - first:
+      213: 1560823633247534303
+    second: Empoleon_121
+  - first:
+      213: -2491944803446373121
+    second: Empoleon_122
+  - first:
+      213: -3918769444684951475
+    second: Empoleon_123
+  - first:
+      213: -2541553106695146178
+    second: Empoleon_124
+  - first:
+      213: -4191537756189035470
+    second: Empoleon_125
+  - first:
+      213: -3771254123924992235
+    second: Empoleon_126
+  - first:
+      213: -2852605864603909417
+    second: Empoleon_127
+  - first:
+      213: -5721990405657141989
+    second: Empoleon_128
+  - first:
+      213: 7513574160132905124
+    second: Empoleon_129
+  - first:
+      213: 7012549730098253029
+    second: Empoleon_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Empoleon_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1148
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884efd7da8d6e3350800000000000000
+      internalID: 5998352196798768264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1148
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66884bed3ef3cd9f0800000000000000
+      internalID: -442408415462651802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1148
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c740235cd88ba880800000000000000
+      internalID: -8598628583665023032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1148
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da5e703bf7caa0e0800000000000000
+      internalID: -2257772381508576552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1148
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880048f3dfa6e580800000000000000
+      internalID: -8798151497083778935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1148
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4542de273bde61f0800000000000000
+      internalID: -1049660633075530421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1148
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04743e84728191a30800000000000000
+      internalID: 4186403885623232320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1148
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d5c8feb59a67bb0800000000000000
+      internalID: -4938573729039098519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1148
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8238838078dda0800000000000000
+      internalID: -5919857999950475593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1148
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ff1d6f86bb9010800000000000000
+      internalID: 1196750853124388897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1060
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8949bbc8c1fdeb10800000000000000
+      internalID: 2012530453218150794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1060
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd569ebc30dca5cb0800000000000000
+      internalID: -4874358230485473829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1060
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e8414748289900800000000000000
+      internalID: 691346829304455353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1060
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662f6592a6a6fe40800000000000000
+      internalID: 5689918396451202664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1060
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120737ced80086de0800000000000000
+      internalID: -1339820279585345503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_15
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1060
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea42cf857d43ea0800000000000000
+      internalID: -5893849235133780463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1060
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163a06db58f9942e0800000000000000
+      internalID: -2141004751081266335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_17
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1060
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73583a4a2e440e40800000000000000
+      internalID: 5621704178406019967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_18
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1060
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd334f400cb41ee0800000000000000
+      internalID: -1291200483632661045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1060
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f364bfd4668c6b60800000000000000
+      internalID: 7740709627351032817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 972
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84928e24fa55190800000000000000
+      internalID: -7974274863291873039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 972
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2941a70dba74c180800000000000000
+      internalID: -9096010395086141142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 972
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21721c43e71b72470800000000000000
+      internalID: 8369853588100425490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 972
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518b41f9daa85f10800000000000000
+      internalID: 2258743066159186260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 972
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f6316e37ce3890800000000000000
+      internalID: -7476319260655554387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 972
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2664a021346f70800000000000000
+      internalID: 9179515956754788198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 972
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9abaebe0d174990800000000000000
+      internalID: -7401915513394452029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 972
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769fcd9204fa27280800000000000000
+      internalID: -9046976011318789785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_28
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 972
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef54981a67e1deb00800000000000000
+      internalID: 859376598762735102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_29
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 972
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfec8ad3b3b90ecc0800000000000000
+      internalID: -3683773816449216773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 884
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf2af79dcd24a730800000000000000
+      internalID: 4009379929307885515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 884
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a33d495f5d3a9ea0800000000000000
+      internalID: -5865308084967230552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 884
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513059d85a92b6a70800000000000000
+      internalID: 8821190086156944149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 884
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c3265fff95b42e0800000000000000
+      internalID: -2140518242016150378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 884
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33107668fb94408d0800000000000000
+      internalID: -2881096774667796173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 884
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1739067bb2f20f00800000000000000
+      internalID: 1081693747475461917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 884
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b717b4f91e2a2afa0800000000000000
+      internalID: -5790887080921173637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 884
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3324b12939d3c600800000000000000
+      internalID: 487472024087962428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_38
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 884
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015dfab1654429be0800000000000000
+      internalID: -1472038991574346480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_39
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 884
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285bc090b886bc3f0800000000000000
+      internalID: -879494355859229310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 796
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e84bbfd3c5cab90800000000000000
+      internalID: -7229301880550814156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 796
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6695e81b161fad9b0800000000000000
+      internalID: -5054462229876942490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_42
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 796
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6d6e950c5326550800000000000000
+      internalID: 6152539141199812275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 796
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4f790520b4d800800000000000000
+      internalID: 636327120485698715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_44
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 796
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6c45377c5b1f470800000000000000
+      internalID: 8426716246024963781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 796
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba0bd2cfc1a9bc0800000000000000
+      internalID: -3775673468172850224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 796
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba3c937af795ed0800000000000000
+      internalID: -2424766568156910805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_47
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 796
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d66d0ae85718a0800000000000000
+      internalID: -6334496588602877443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_48
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 796
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e0ff496bcef570800000000000000
+      internalID: 8502456799695267260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_49
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 796
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a777a8bcf3da90800000000000000
+      internalID: -7290205501768883632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 708
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ceac9ccf9dc9e30800000000000000
+      internalID: 4511720606458899493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 708
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca54d0629f69720800000000000000
+      internalID: 2852741355812531369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 708
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f0a2b76e9ed5cb0800000000000000
+      internalID: -4873482045626904740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 708
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839ced062d4c6ba0800000000000000
+      internalID: -6094411369901419644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 708
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d93909cdc80070800000000000000
+      internalID: 8072928595388520826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_55
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 708
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74588f54339856e0800000000000000
+      internalID: -1848565793885236097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_56
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 708
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda82a04b391c7950800000000000000
+      internalID: 6448056508765866715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_57
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 708
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae94d961cc40d610800000000000000
+      internalID: 1643898257578172072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_58
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 708
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca255bb458a2da0800000000000000
+      internalID: -5968811795915035460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_59
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 708
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c7bf1978b551e00800000000000000
+      internalID: 1014817928869805136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f280cb54b9777d0800000000000000
+      internalID: -2920695109516775537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 620
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b871fe95f38af5e0800000000000000
+      internalID: -1875041203889538892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_62
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 620
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898fcbcc022cf6e0800000000000000
+      internalID: -1802528312500713077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 620
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47e957d20f7e980800000000000000
+      internalID: -8509568892855749443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 620
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7657a16f69162d80800000000000000
+      internalID: -8275899299076286849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 620
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2960493b095340800000000000000
+      internalID: 4852922413990095754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 620
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4754a4833587270800000000000000
+      internalID: 8248434218758403266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_67
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 620
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c8eea1eb711be0800000000000000
+      internalID: -1508288190960057100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_68
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 620
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89fea0f1b843070800000000000000
+      internalID: 8085240196480604388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_69
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 620
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48266bc596f52d3c0800000000000000
+      internalID: -4336298585072704892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 532
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d072c55725c07fa0800000000000000
+      internalID: -5804923146947366698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 532
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d60a70d4b19d40800000000000000
+      internalID: 5589447420036961966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 532
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e945d8d4b10bad0800000000000000
+      internalID: -2688618957642621420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 532
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872ab46e4eaa4ba0800000000000000
+      internalID: -6103874693226682481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 532
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbda24cd05aa0a280800000000000000
+      internalID: -9034033588235752001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_75
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 532
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d28cd39e4d81f240800000000000000
+      internalID: 4823792044518179537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_76
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 532
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ad1ed0d21dc0a30800000000000000
+      internalID: 4182948145356987036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_77
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 532
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c808ac091d114ab30800000000000000
+      internalID: 4297579536193323148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_78
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 532
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8fd6914e237a6e0800000000000000
+      internalID: -1826435168614876953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_79
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 532
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f362960e890ad0800000000000000
+      internalID: -2735499139773892841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 444
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd8a42c7edd0da0800000000000000
+      internalID: -5976876505678422636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 444
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58571cfecb42e80800000000000000
+      internalID: -8204224883233290756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 444
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddb8d86ea09701a0800000000000000
+      internalID: -6843342030008435248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 444
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda4e639719606a40800000000000000
+      internalID: 5359399106549533406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_84
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 444
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae284ca191f163e10800000000000000
+      internalID: 2176961662563943146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 444
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e7b9d668b3c650800000000000000
+      internalID: 6252043459599264103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_86
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 444
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c457783387131a0800000000000000
+      internalID: -6831546997033055186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_87
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 444
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b8827b10e638d90800000000000000
+      internalID: -7096707634158859367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_88
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 444
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d5bd13edbac2b0800000000000000
+      internalID: -5563425606509146112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_89
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 444
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b081f2fe6afc0b0800000000000000
+      internalID: -5706158656637629581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 356
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27a70d58de07a200800000000000000
+      internalID: 191137831623042858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 356
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635cc434c91d50170800000000000000
+      internalID: 8144145970243618102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_92
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 356
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98e8beef4c3e4500800000000000000
+      internalID: 382309332378249371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 356
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e73fd1a79fce59a0800000000000000
+      internalID: -6242323783326156832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_94
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 356
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aec582b89361aa0800000000000000
+      internalID: -6190697367933752722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_95
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 356
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2d902ec31e6d30800000000000000
+      internalID: 4426497259783138507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 356
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910967e2738874340800000000000000
+      internalID: 4847993294471729177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 356
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac71e1902f03ddb0800000000000000
+      internalID: -4768450947894379350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_98
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 356
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be65636e19af4700800000000000000
+      internalID: 526825629407342260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_99
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 356
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfcda28b2a247ad0800000000000000
+      internalID: -2705491109778436141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 268
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46466d9166d033d0800000000000000
+      internalID: -3228845218083748277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 268
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c371d2b06c13ad30800000000000000
+      internalID: 4441424859159950278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 268
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563cc3282ae6b4780800000000000000
+      internalID: -8697736611087203483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_103
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 268
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed29e42e1a541c10800000000000000
+      internalID: 2023341218110975459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_104
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 268
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac566ff7791b3780800000000000000
+      internalID: -8702333851786650460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_105
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 268
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19af7a7b07e68040800000000000000
+      internalID: 4649657701792459038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_106
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 268
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75299d96f931f7c30800000000000000
+      internalID: 4359224539714523735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_107
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 268
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f1346a3afbf3b0800000000000000
+      internalID: -5477509393070034545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_108
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 268
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b057fa89466f9600800000000000000
+      internalID: 477212551574671540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_109
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 268
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a56ecf61d4114950800000000000000
+      internalID: 6431444632618296742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e01d505f4a74b00800000000000000
+      internalID: 812799630035193363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_111
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 180
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ebf20d0e6243bb0800000000000000
+      internalID: -4957294542820753791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d2ef502c05c1b0800000000000000
+      internalID: -5637086025397120294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_113
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 180
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58784d54088d930800000000000000
+      internalID: 4168222492538144207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 180
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4fc38b5df478a40800000000000000
+      internalID: 5370348860000236798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_115
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 180
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9415758f1df7420800000000000000
+      internalID: 2630051571954698723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_116
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 180
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dae94ca323e2520800000000000000
+      internalID: 2679134056320249121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_117
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 180
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a17384de2f2426e0800000000000000
+      internalID: -1863312467644157528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_118
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 180
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5474fcf0288e9c50800000000000000
+      internalID: 6673921373073863775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_119
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 180
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ecf6a9f03126d60800000000000000
+      internalID: 7881883255588245088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 92
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112c6f730a57a84f0800000000000000
+      internalID: -825718250674929135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 92
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf0c823d829a510800000000000000
+      internalID: 1560823633247534303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 92
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4c2b67765da6dd0800000000000000
+      internalID: -2491944803446373121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_123
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 92
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4016ecd3fbbd99c0800000000000000
+      internalID: -3918769444684951475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_124
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 92
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3535a94ae69abcd0800000000000000
+      internalID: -2541553106695146178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_125
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 92
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f6b35e9aa4d5c0800000000000000
+      internalID: -4191537756189035470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_126
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 92
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f49b1fa50d9abc0800000000000000
+      internalID: -3771254123924992235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_127
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 92
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2861474128968d0800000000000000
+      internalID: -2852605864603909417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_128
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 92
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ddc9eda086790b0800000000000000
+      internalID: -5721990405657141989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_129
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 92
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89648d3e3954860800000000000000
+      internalID: 7513574160132905124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empoleon_130
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec844053d4915160800000000000000
+      internalID: 7012549730098253029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

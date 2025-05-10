@@ -1,0 +1,3842 @@
+fileFormatVersion: 2
+guid: ec94474b84a9e1a40aaa9c6a516e6eed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6682983748232267592
+    second: Piplup_0
+  - first:
+      213: -8407321098684510191
+    second: Piplup_1
+  - first:
+      213: -857502886214641653
+    second: Piplup_2
+  - first:
+      213: -1838268311034208279
+    second: Piplup_3
+  - first:
+      213: 1145126913096584917
+    second: Piplup_4
+  - first:
+      213: 2996549573285265367
+    second: Piplup_5
+  - first:
+      213: 458921250244770310
+    second: Piplup_6
+  - first:
+      213: -200877050719738224
+    second: Piplup_7
+  - first:
+      213: -6798227418734270431
+    second: Piplup_8
+  - first:
+      213: -6961489564604455101
+    second: Piplup_9
+  - first:
+      213: -5539129030822392491
+    second: Piplup_10
+  - first:
+      213: -4890723280353546303
+    second: Piplup_11
+  - first:
+      213: -2754420661592249191
+    second: Piplup_12
+  - first:
+      213: -4121632322615181721
+    second: Piplup_13
+  - first:
+      213: -2303997766882576965
+    second: Piplup_14
+  - first:
+      213: -1632632501269007243
+    second: Piplup_15
+  - first:
+      213: 2293384271713804334
+    second: Piplup_16
+  - first:
+      213: 3507973269333296141
+    second: Piplup_17
+  - first:
+      213: 7953212307945117562
+    second: Piplup_18
+  - first:
+      213: -2850242240660378484
+    second: Piplup_19
+  - first:
+      213: 2125175153342079435
+    second: Piplup_20
+  - first:
+      213: -4198344680890279631
+    second: Piplup_21
+  - first:
+      213: -4300880017397482411
+    second: Piplup_22
+  - first:
+      213: 7852208159727830320
+    second: Piplup_23
+  - first:
+      213: 1909304664825426384
+    second: Piplup_24
+  - first:
+      213: -8369947526992625861
+    second: Piplup_25
+  - first:
+      213: 2275999986294132006
+    second: Piplup_26
+  - first:
+      213: -2812452764527360677
+    second: Piplup_27
+  - first:
+      213: -4925078208020704632
+    second: Piplup_28
+  - first:
+      213: 18513441641801364
+    second: Piplup_29
+  - first:
+      213: 3617017333456769632
+    second: Piplup_30
+  - first:
+      213: 7693656062691471084
+    second: Piplup_31
+  - first:
+      213: 5687316722311204458
+    second: Piplup_32
+  - first:
+      213: -8089137599834298280
+    second: Piplup_33
+  - first:
+      213: -7443311516837925066
+    second: Piplup_34
+  - first:
+      213: 9142144184397867699
+    second: Piplup_35
+  - first:
+      213: -584838514147380557
+    second: Piplup_36
+  - first:
+      213: -1945578608541474184
+    second: Piplup_37
+  - first:
+      213: 5991041401290343807
+    second: Piplup_38
+  - first:
+      213: -197237164772200907
+    second: Piplup_39
+  - first:
+      213: -2161523085363116572
+    second: Piplup_40
+  - first:
+      213: -3106955743025749972
+    second: Piplup_41
+  - first:
+      213: -8255376965266321284
+    second: Piplup_42
+  - first:
+      213: -813579438365071040
+    second: Piplup_43
+  - first:
+      213: 7884941776497541493
+    second: Piplup_44
+  - first:
+      213: 1897635381057195064
+    second: Piplup_45
+  - first:
+      213: -8732563198025181236
+    second: Piplup_46
+  - first:
+      213: 3613323213352545765
+    second: Piplup_47
+  - first:
+      213: 5928842473134490970
+    second: Piplup_48
+  - first:
+      213: -8280880430529719903
+    second: Piplup_49
+  - first:
+      213: -591061007776675815
+    second: Piplup_50
+  - first:
+      213: 7841066519283655043
+    second: Piplup_51
+  - first:
+      213: -1510332771951269094
+    second: Piplup_52
+  - first:
+      213: 2639177801496848768
+    second: Piplup_53
+  - first:
+      213: 7931999539386452506
+    second: Piplup_54
+  - first:
+      213: -5153315122427465562
+    second: Piplup_55
+  - first:
+      213: -6820403581121139304
+    second: Piplup_56
+  - first:
+      213: 6248844417456570934
+    second: Piplup_57
+  - first:
+      213: -946076344558219967
+    second: Piplup_58
+  - first:
+      213: -3211112422000676037
+    second: Piplup_59
+  - first:
+      213: -108676720755698486
+    second: Piplup_60
+  - first:
+      213: -6129357167179371944
+    second: Piplup_61
+  - first:
+      213: 6592139906435938921
+    second: Piplup_62
+  - first:
+      213: -7452185423343128047
+    second: Piplup_63
+  - first:
+      213: -5787052146020858784
+    second: Piplup_64
+  - first:
+      213: 6124243624531461300
+    second: Piplup_65
+  - first:
+      213: -3922113614148458676
+    second: Piplup_66
+  - first:
+      213: 1478842819565960425
+    second: Piplup_67
+  - first:
+      213: 5017358155681256710
+    second: Piplup_68
+  - first:
+      213: -308497213569765492
+    second: Piplup_69
+  - first:
+      213: 5949713065505552693
+    second: Piplup_70
+  - first:
+      213: -2791906949206845953
+    second: Piplup_71
+  - first:
+      213: 1627820758169483174
+    second: Piplup_72
+  - first:
+      213: -8381163370335516531
+    second: Piplup_73
+  - first:
+      213: 2401607965627436370
+    second: Piplup_74
+  - first:
+      213: -118836597266341627
+    second: Piplup_75
+  - first:
+      213: 4029827292820554618
+    second: Piplup_76
+  - first:
+      213: -3503292994917678795
+    second: Piplup_77
+  - first:
+      213: 2389684149300133193
+    second: Piplup_78
+  - first:
+      213: -5084657978962275646
+    second: Piplup_79
+  - first:
+      213: -5578758592050875364
+    second: Piplup_80
+  - first:
+      213: 813168083456229680
+    second: Piplup_81
+  - first:
+      213: -262866958364618794
+    second: Piplup_82
+  - first:
+      213: 6649412437706698650
+    second: Piplup_83
+  - first:
+      213: -6745906656377178693
+    second: Piplup_84
+  - first:
+      213: 7268634337769275072
+    second: Piplup_85
+  - first:
+      213: -948599732494226915
+    second: Piplup_86
+  - first:
+      213: -9002337802533328710
+    second: Piplup_87
+  - first:
+      213: 2802035589539152512
+    second: Piplup_88
+  - first:
+      213: -2013933196055103154
+    second: Piplup_89
+  - first:
+      213: 1383104097255853617
+    second: Piplup_90
+  - first:
+      213: -2891491622283101890
+    second: Piplup_91
+  - first:
+      213: -7993071817909525855
+    second: Piplup_92
+  - first:
+      213: -3753952108512726768
+    second: Piplup_93
+  - first:
+      213: -3162571472198539051
+    second: Piplup_94
+  - first:
+      213: -2828813913824555330
+    second: Piplup_95
+  - first:
+      213: -1982881620007782135
+    second: Piplup_96
+  - first:
+      213: 7370643330251947446
+    second: Piplup_97
+  - first:
+      213: -4231289723011562887
+    second: Piplup_98
+  - first:
+      213: 7735699446510219285
+    second: Piplup_99
+  - first:
+      213: -4009207598130025296
+    second: Piplup_100
+  - first:
+      213: -2801058847381782999
+    second: Piplup_101
+  - first:
+      213: 5284313244249564125
+    second: Piplup_102
+  - first:
+      213: 1141593900645489933
+    second: Piplup_103
+  - first:
+      213: -5969971567874045725
+    second: Piplup_104
+  - first:
+      213: 3639248638587578780
+    second: Piplup_105
+  - first:
+      213: 1208386996464826146
+    second: Piplup_106
+  - first:
+      213: 7623232795177573240
+    second: Piplup_107
+  - first:
+      213: 6073410093698463305
+    second: Piplup_108
+  - first:
+      213: -8045446467261554040
+    second: Piplup_109
+  - first:
+      213: -1297212625751160635
+    second: Piplup_110
+  - first:
+      213: -2785804110204109078
+    second: Piplup_111
+  - first:
+      213: 2557442585299798384
+    second: Piplup_112
+  - first:
+      213: -6775778950315226810
+    second: Piplup_113
+  - first:
+      213: -3347408542143776609
+    second: Piplup_114
+  - first:
+      213: -1926338502164073897
+    second: Piplup_115
+  - first:
+      213: 2837283162952097865
+    second: Piplup_116
+  - first:
+      213: 3440038136090908568
+    second: Piplup_117
+  - first:
+      213: 5849357937150517746
+    second: Piplup_118
+  - first:
+      213: -3650305782670327168
+    second: Piplup_119
+  - first:
+      213: 1647725022204235219
+    second: Piplup_120
+  - first:
+      213: 6410910244970157730
+    second: Piplup_121
+  - first:
+      213: 8843228883805246957
+    second: Piplup_122
+  - first:
+      213: -8921348111577338336
+    second: Piplup_123
+  - first:
+      213: -7531742019801971019
+    second: Piplup_124
+  - first:
+      213: 8164246019433727386
+    second: Piplup_125
+  - first:
+      213: -8945485797667365733
+    second: Piplup_126
+  - first:
+      213: 7455429678071905667
+    second: Piplup_127
+  - first:
+      213: -1939141847771165065
+    second: Piplup_128
+  - first:
+      213: 259686084899700514
+    second: Piplup_129
+  - first:
+      213: 6360120373970068811
+    second: Piplup_130
+  - first:
+      213: -9184418813915957378
+    second: Piplup_131
+  - first:
+      213: 2518321339195068926
+    second: Piplup_132
+  - first:
+      213: 3468077227400323254
+    second: Piplup_133
+  - first:
+      213: -5132056819039584979
+    second: Piplup_134
+  - first:
+      213: 9068056152272762778
+    second: Piplup_135
+  - first:
+      213: 4274346378384063759
+    second: Piplup_136
+  - first:
+      213: -5922675947701992000
+    second: Piplup_137
+  - first:
+      213: -5882144366051635435
+    second: Piplup_138
+  - first:
+      213: -5567513166519849596
+    second: Piplup_139
+  - first:
+      213: 4045159137531753273
+    second: Piplup_140
+  - first:
+      213: 5028531144474796127
+    second: Piplup_141
+  - first:
+      213: 1612550922189887003
+    second: Piplup_142
+  - first:
+      213: -4255150338015425069
+    second: Piplup_143
+  - first:
+      213: 1408882107654086992
+    second: Piplup_144
+  - first:
+      213: 1405624208558310950
+    second: Piplup_145
+  - first:
+      213: 6614052249484275150
+    second: Piplup_146
+  - first:
+      213: 5765512074173028249
+    second: Piplup_147
+  - first:
+      213: 46005610092096816
+    second: Piplup_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piplup_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 719
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c711af4abebc50800000000000000
+      internalID: 6682983748232267592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 719
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11053403102335b80800000000000000
+      internalID: -8407321098684510191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 720
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08dd411ba98914f0800000000000000
+      internalID: -857502886214641653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 720
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd2fee5b82d76e0800000000000000
+      internalID: -1838268311034208279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 720
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8cdd3cde44ef00800000000000000
+      internalID: 1145126913096584917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 720
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3483e5f1e59920800000000000000
+      internalID: 2996549573285265367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 720
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab7b4127a6e5600800000000000000
+      internalID: 458921250244770310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 720
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096625cf267563df0800000000000000
+      internalID: -200877050719738224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 719
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128e5046e28d7a1a0800000000000000
+      internalID: -6798227418734270431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 719
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a922ef12d36f90800000000000000
+      internalID: -6961489564604455101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 668
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d07c87e7f0123b0800000000000000
+      internalID: -5539129030822392491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 668
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf2bc3b619a02cb0800000000000000
+      internalID: -4890723280353546303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 668
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2cc7700556c9d0800000000000000
+      internalID: -2754420661592249191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 668
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef0cb6d350dc6c0800000000000000
+      internalID: -4121632322615181721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 668
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5bba5fc3e8600e0800000000000000
+      internalID: -2303997766882576965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 668
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747a11e369b759e0800000000000000
+      internalID: -1632632501269007243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 668
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2028f028dcb3df10800000000000000
+      internalID: 2293384271713804334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 668
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d044d283a13dea030800000000000000
+      internalID: 3507973269333296141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 669
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775556c47c7f5e60800000000000000
+      internalID: 7953212307945117562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 669
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cef9988c7e178d0800000000000000
+      internalID: -2850242240660378484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 618
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e074da832e7d10800000000000000
+      internalID: 2125175153342079435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 618
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13952eaa1cb7cb5c0800000000000000
+      internalID: -4198344680890279631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 618
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c727549643054c0800000000000000
+      internalID: -4300880017397482411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 618
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035400fe7b5a8fc60800000000000000
+      internalID: 7852208159727830320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 617
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d17aea0a763f7a10800000000000000
+      internalID: 1909304664825426384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 617
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff1f0f119f7db80800000000000000
+      internalID: -8369947526992625861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 617
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0bd3cde9f59f10800000000000000
+      internalID: 2275999986294132006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 617
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5508c69c1928f8d0800000000000000
+      internalID: -2812452764527360677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 617
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88298e7c67b96abb0800000000000000
+      internalID: -4925078208020704632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 617
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49621a880e5c14000800000000000000
+      internalID: 18513441641801364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 566
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0621f1bd91a323230800000000000000
+      internalID: 3617017333456769632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 566
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee61c02d6b55ca60800000000000000
+      internalID: 7693656062691471084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 566
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e8f7e1d686dee40800000000000000
+      internalID: 5687316722311204458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 566
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ee96063c9dbf80800000000000000
+      internalID: -8089137599834298280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 567
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2d4e9c9b04b890800000000000000
+      internalID: -7443311516837925066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 567
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2074d2bb6fde70800000000000000
+      internalID: 9142144184397867699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 567
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b23741587c32e7f0800000000000000
+      internalID: -584838514147380557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 567
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872694b409aeff4e0800000000000000
+      internalID: -1945578608541474184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 567
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75c19e9964742350800000000000000
+      internalID: 5991041401290343807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 567
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e6f39f7d5434df0800000000000000
+      internalID: -197237164772200907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 515
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e50023c43ab002e0800000000000000
+      internalID: -2161523085363116572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 515
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20271c8630e1e4d0800000000000000
+      internalID: -3106955743025749972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 515
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70db5293620f6d80800000000000000
+      internalID: -8255376965266321284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 515
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04920b3bfc595b4f0800000000000000
+      internalID: -813579438365071040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 515
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57106cef4c0fc6d60800000000000000
+      internalID: 7884941776497541493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 515
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c80213351c55a10800000000000000
+      internalID: 1897635381057195064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 515
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75f0bd904bfc680800000000000000
+      internalID: -8732563198025181236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 515
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed2d8e715a152230800000000000000
+      internalID: 3613323213352545765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_48
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 515
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550e6421da774250800000000000000
+      internalID: 5928842473134490970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_49
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 515
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1dac65f17641d80800000000000000
+      internalID: -8280880430529719903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 465
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91803ee15212cc7f0800000000000000
+      internalID: -591061007776675815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_51
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 465
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816c1e947011dc60800000000000000
+      internalID: 7841066519283655043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 465
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba63398583a0be0800000000000000
+      internalID: -1510332771951269094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 465
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e05d3a3e30a420800000000000000
+      internalID: 2639177801496848768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 465
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a01b73e8f141e60800000000000000
+      internalID: 7931999539386452506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_55
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 465
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0ff08133fbb78b0800000000000000
+      internalID: -5153315122427465562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_56
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 464
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de87a341f0951a0800000000000000
+      internalID: -6820403581121139304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 464
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328e2fc3ea58b650800000000000000
+      internalID: 6248844417456570934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 464
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d0530c39cded2f0800000000000000
+      internalID: -946076344558219967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 464
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333ec0f346df63d0800000000000000
+      internalID: -3211112422000676037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 413
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac490082917ed7ef0800000000000000
+      internalID: -108676720755698486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 413
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a67c4912620faa0800000000000000
+      internalID: -6129357167179371944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 413
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a7ac8715cfb7b50800000000000000
+      internalID: 6592139906435938921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 413
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f94147d4849890800000000000000
+      internalID: -7452185423343128047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 413
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064c3cbfbb240bfa0800000000000000
+      internalID: -5787052146020858784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 413
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4062ef02fadf450800000000000000
+      internalID: 6124243624531461300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 413
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4725fbb27ad199c0800000000000000
+      internalID: -3922113614148458676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 413
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecbdda85b7e58410800000000000000
+      internalID: 1478842819565960425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 413
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6055a44d8ac31a540800000000000000
+      internalID: 5017358155681256710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_69
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 413
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe9f23b6ff7bbf0800000000000000
+      internalID: -308497213569765492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53975f89280a19250800000000000000
+      internalID: 5949713065505552693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 362
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d49efb672149d0800000000000000
+      internalID: -2791906949206845953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 361
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f2b0ea5e279610800000000000000
+      internalID: 1627820758169483174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 361
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c2aae15020bb80800000000000000
+      internalID: -8381163370335516531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 363
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc8f078b9345120800000000000000
+      internalID: 2401607965627436370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_75
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 363
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501af919ebec95ef0800000000000000
+      internalID: -118836597266341627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 366
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a734eb66292dce730800000000000000
+      internalID: 4029827292820554618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 366
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53141d5159dc16fc0800000000000000
+      internalID: -3503292994917678795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_78
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 363
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d7a6c921dd92120800000000000000
+      internalID: 2389684149300133193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 363
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2199ff18aaf69b0800000000000000
+      internalID: -5084657978962275646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 312
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1436293e944492b0800000000000000
+      internalID: -5578758592050875364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 312
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03108154014f84b00800000000000000
+      internalID: 813168083456229680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 311
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4d73e4eb1a5cf0800000000000000
+      internalID: -262866958364618794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 311
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f629ac165774c50800000000000000
+      internalID: 6649412437706698650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 312
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5f1ba23a9b162a0800000000000000
+      internalID: -6745906656377178693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_85
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 312
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceb1f85b606fd460800000000000000
+      internalID: 7268634337769275072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_86
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 312
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa6a6b195e5d2f0800000000000000
+      internalID: -948599732494226915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_87
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 312
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab82eeb0775411380800000000000000
+      internalID: -9002337802533328710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 312
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082cb7ad584d2e620800000000000000
+      internalID: 2802035589539152512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_89
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 312
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b4cfad621d04e0800000000000000
+      internalID: -2013933196055103154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 260
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e825439d5c13310800000000000000
+      internalID: 1383104097255853617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 260
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e393cc670bb5fd7d0800000000000000
+      internalID: -2891491622283101890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_92
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 260
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2215dd787e21190800000000000000
+      internalID: -7993071817909525855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 260
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113544527847ebc0800000000000000
+      internalID: -3753952108512726768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 260
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d862d6800a4c14d0800000000000000
+      internalID: -3162571472198539051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 260
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0ecaabb80eb8d0800000000000000
+      internalID: -2828813913824555330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_96
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 260
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f8cf1ca36b74e0800000000000000
+      internalID: -1982881620007782135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_97
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 260
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf4c9be09c94660800000000000000
+      internalID: 7370643330251947446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_98
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 260
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972822e4a607745c0800000000000000
+      internalID: -4231289723011562887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 260
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107d6e39a9ba5b60800000000000000
+      internalID: 7735699446510219285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 210
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca9a26eee6c58c0800000000000000
+      internalID: -4009207598130025296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 210
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef7d6a1d3a029d0800000000000000
+      internalID: -2801058847381782999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_102
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3236de5e6a55940800000000000000
+      internalID: 5284313244249564125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_103
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 210
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1abdaa91c7df00800000000000000
+      internalID: 1141593900645489933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 210
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88fa14d76662da0800000000000000
+      internalID: -5969971567874045725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_105
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c992650fa55318230800000000000000
+      internalID: 3639248638587578780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_106
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 209
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227bc7b229d05c010800000000000000
+      internalID: 1208386996464826146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_107
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 209
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bdaac66d92bc960800000000000000
+      internalID: 7623232795177573240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_108
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 209
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9463b2a4d46194450800000000000000
+      internalID: 6073410093698463305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_109
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 209
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882247b8015d85090800000000000000
+      internalID: -8045446467261554040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c843f36dff5ffde0800000000000000
+      internalID: -1297212625751160635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 158
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeef57debe5d659d0800000000000000
+      internalID: -2785804110204109078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079404e3b7cdd7320800000000000000
+      internalID: 2557442585299798384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_113
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64944edb1f897f1a0800000000000000
+      internalID: -6775778950315226810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_114
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 158
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98796f8aad9b81d0800000000000000
+      internalID: -3347408542143776609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_115
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 158
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7523a55a6554445e0800000000000000
+      internalID: -1926338502164073897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_116
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 158
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940e4fe010e006720800000000000000
+      internalID: 2837283162952097865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_117
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897de7b65787dbf20800000000000000
+      internalID: 3440038136090908568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 158
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1e7f77d081d2150800000000000000
+      internalID: 5849357937150517746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_119
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 158
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08281661b32875dc0800000000000000
+      internalID: -3650305782670327168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd810c7d25edd610800000000000000
+      internalID: 1647725022204235219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6db5eb6e028f850800000000000000
+      internalID: 6410910244970157730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de59faef0d579ba70800000000000000
+      internalID: 8843228883805246957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_123
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 106
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ea4dbe821013480800000000000000
+      internalID: -8921348111577338336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_124
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 108
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b602d1b980e97790800000000000000
+      internalID: -7531742019801971019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_125
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958e37af7a3d4170800000000000000
+      internalID: 8164246019433727386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 111
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1cbeef004bd380800000000000000
+      internalID: -8945485797667365733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_127
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 111
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7169aac1077760800000000000000
+      internalID: 7455429678071905667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_128
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 108
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e418273c8c615e0800000000000000
+      internalID: -1939141847771165065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_129
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 108
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ffe8b4e179a9300800000000000000
+      internalID: 259686084899700514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e53368cfa34850800000000000000
+      internalID: 6360120373970068811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_131
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 57
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ff18ffb36a8080800000000000000
+      internalID: -9184418813915957378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_132
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 56
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef112055aefd2f220800000000000000
+      internalID: 2518321339195068926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_133
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 56
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b061d81dd5112030800000000000000
+      internalID: 3468077227400323254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_134
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 56
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d360e838547c8b0800000000000000
+      internalID: -5132056819039584979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_135
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 56
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97738f960538dd70800000000000000
+      internalID: 9068056152272762778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_136
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 56
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d3f8a7267815b30800000000000000
+      internalID: 4274346378384063759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_137
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 56
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c50971fa9d6ecda0800000000000000
+      internalID: -5922675947701992000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 56
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4def2ddc6e5ea0800000000000000
+      internalID: -5882144366051635435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_139
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 56
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d2643e5483cb2b0800000000000000
+      internalID: -5567513166519849596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933718cadca432830800000000000000
+      internalID: 4045159137531753273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_141
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50a8600f6ee8c540800000000000000
+      internalID: 5028531144474796127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b165b53258ee06610800000000000000
+      internalID: 1612550922189887003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_143
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd05b4ff4ba2f4c0800000000000000
+      internalID: -4255150338015425069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_144
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0512025ffca5d8310800000000000000
+      internalID: 1408882107654086992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_145
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 9
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cec635c7c18310800000000000000
+      internalID: 1405624208558310950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_146
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd22686a75d9cb50800000000000000
+      internalID: 6614052249484275150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_147
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971f493fa6330050800000000000000
+      internalID: 5765512074173028249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piplup_148
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 6
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de63fcbd173a000800000000000000
+      internalID: 46005610092096816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4042 @@
+fileFormatVersion: 2
+guid: 20c6281abc34b2d4c86914b35c1654a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5650383304456458973
+    second: Giratina_God_Quy_0
+  - first:
+      213: -1428458266592664636
+    second: Giratina_God_Quy_1
+  - first:
+      213: 5349060871672885839
+    second: Giratina_God_Quy_2
+  - first:
+      213: 8095636736186734677
+    second: Giratina_God_Quy_3
+  - first:
+      213: 1853501714344762051
+    second: Giratina_God_Quy_4
+  - first:
+      213: 7422067136117932784
+    second: Giratina_God_Quy_5
+  - first:
+      213: 2230461914379895040
+    second: Giratina_God_Quy_6
+  - first:
+      213: 2496877092685963544
+    second: Giratina_God_Quy_7
+  - first:
+      213: 5119824098650246287
+    second: Giratina_God_Quy_8
+  - first:
+      213: -5769862674260222610
+    second: Giratina_God_Quy_9
+  - first:
+      213: 5010104806557973818
+    second: Giratina_God_Quy_10
+  - first:
+      213: -1534577908242710455
+    second: Giratina_God_Quy_11
+  - first:
+      213: 1010427123861960302
+    second: Giratina_God_Quy_12
+  - first:
+      213: 7392197185140649403
+    second: Giratina_God_Quy_13
+  - first:
+      213: 3161775007512881158
+    second: Giratina_God_Quy_14
+  - first:
+      213: -6183295415280609994
+    second: Giratina_God_Quy_15
+  - first:
+      213: 6377598114318647817
+    second: Giratina_God_Quy_16
+  - first:
+      213: 4168112878457440990
+    second: Giratina_God_Quy_17
+  - first:
+      213: 5287847727283138963
+    second: Giratina_God_Quy_18
+  - first:
+      213: 7181861739563280452
+    second: Giratina_God_Quy_19
+  - first:
+      213: -1550845209897089571
+    second: Giratina_God_Quy_20
+  - first:
+      213: -524451452902600205
+    second: Giratina_God_Quy_21
+  - first:
+      213: -2132554938318651802
+    second: Giratina_God_Quy_22
+  - first:
+      213: -4778378314459476657
+    second: Giratina_God_Quy_23
+  - first:
+      213: -8964466076821359334
+    second: Giratina_God_Quy_24
+  - first:
+      213: -3080891551508857296
+    second: Giratina_God_Quy_25
+  - first:
+      213: -6747400133380305209
+    second: Giratina_God_Quy_26
+  - first:
+      213: -391341126312400210
+    second: Giratina_God_Quy_27
+  - first:
+      213: -7604333617194858504
+    second: Giratina_God_Quy_28
+  - first:
+      213: 4028253729680590575
+    second: Giratina_God_Quy_29
+  - first:
+      213: 4698302204186406996
+    second: Giratina_God_Quy_30
+  - first:
+      213: 8926397303761579831
+    second: Giratina_God_Quy_31
+  - first:
+      213: 1616896305330168657
+    second: Giratina_God_Quy_32
+  - first:
+      213: 1014781705958394198
+    second: Giratina_God_Quy_33
+  - first:
+      213: 4493739542985313385
+    second: Giratina_God_Quy_34
+  - first:
+      213: -7423501396120630801
+    second: Giratina_God_Quy_35
+  - first:
+      213: -9116165436021320861
+    second: Giratina_God_Quy_36
+  - first:
+      213: -588014323276349133
+    second: Giratina_God_Quy_37
+  - first:
+      213: -1617731650039825490
+    second: Giratina_God_Quy_38
+  - first:
+      213: 3984168927211528795
+    second: Giratina_God_Quy_39
+  - first:
+      213: -1481896623692938445
+    second: Giratina_God_Quy_40
+  - first:
+      213: -7194870358078966744
+    second: Giratina_God_Quy_41
+  - first:
+      213: -2529686225163517366
+    second: Giratina_God_Quy_42
+  - first:
+      213: -8218652606308494877
+    second: Giratina_God_Quy_43
+  - first:
+      213: -8510067016233394455
+    second: Giratina_God_Quy_44
+  - first:
+      213: -1191059012856097742
+    second: Giratina_God_Quy_45
+  - first:
+      213: -69655425603201328
+    second: Giratina_God_Quy_46
+  - first:
+      213: -6226940349625721581
+    second: Giratina_God_Quy_47
+  - first:
+      213: -1304546707093518299
+    second: Giratina_God_Quy_48
+  - first:
+      213: -4358440401574321418
+    second: Giratina_God_Quy_49
+  - first:
+      213: -5995105057489113066
+    second: Giratina_God_Quy_50
+  - first:
+      213: 5934017725945201217
+    second: Giratina_God_Quy_51
+  - first:
+      213: 4757628193682730896
+    second: Giratina_God_Quy_52
+  - first:
+      213: 5136987484266940055
+    second: Giratina_God_Quy_53
+  - first:
+      213: 4830065170593750406
+    second: Giratina_God_Quy_54
+  - first:
+      213: 262057816377391587
+    second: Giratina_God_Quy_55
+  - first:
+      213: -6388494606147226607
+    second: Giratina_God_Quy_56
+  - first:
+      213: 7709876642138582960
+    second: Giratina_God_Quy_57
+  - first:
+      213: -5932602021813154600
+    second: Giratina_God_Quy_58
+  - first:
+      213: -4413284895042968027
+    second: Giratina_God_Quy_59
+  - first:
+      213: 3820256174612581976
+    second: Giratina_God_Quy_60
+  - first:
+      213: 687360928239427290
+    second: Giratina_God_Quy_61
+  - first:
+      213: -2071423664101179147
+    second: Giratina_God_Quy_62
+  - first:
+      213: -106875756668615650
+    second: Giratina_God_Quy_63
+  - first:
+      213: -6073114164831971026
+    second: Giratina_God_Quy_64
+  - first:
+      213: 3660760858997805368
+    second: Giratina_God_Quy_65
+  - first:
+      213: 6007465772977268535
+    second: Giratina_God_Quy_66
+  - first:
+      213: -5624815118782854467
+    second: Giratina_God_Quy_67
+  - first:
+      213: -5521406261372261225
+    second: Giratina_God_Quy_68
+  - first:
+      213: 7200113439230522387
+    second: Giratina_God_Quy_69
+  - first:
+      213: 5713904922098736555
+    second: Giratina_God_Quy_70
+  - first:
+      213: 556604718762871853
+    second: Giratina_God_Quy_71
+  - first:
+      213: -2230334170605312642
+    second: Giratina_God_Quy_72
+  - first:
+      213: -7144949254333700599
+    second: Giratina_God_Quy_73
+  - first:
+      213: -5334843757918543988
+    second: Giratina_God_Quy_74
+  - first:
+      213: -7414032175010049123
+    second: Giratina_God_Quy_75
+  - first:
+      213: -6536411240779942368
+    second: Giratina_God_Quy_76
+  - first:
+      213: -5660882640488626666
+    second: Giratina_God_Quy_77
+  - first:
+      213: 1995894770833561168
+    second: Giratina_God_Quy_78
+  - first:
+      213: -4382247548594969598
+    second: Giratina_God_Quy_79
+  - first:
+      213: 8212688012986560537
+    second: Giratina_God_Quy_80
+  - first:
+      213: 263948326312054760
+    second: Giratina_God_Quy_81
+  - first:
+      213: -8466393909167434936
+    second: Giratina_God_Quy_82
+  - first:
+      213: 3750540079022892074
+    second: Giratina_God_Quy_83
+  - first:
+      213: 1835797447718419117
+    second: Giratina_God_Quy_84
+  - first:
+      213: -1858985118222378696
+    second: Giratina_God_Quy_85
+  - first:
+      213: -9202275021161576542
+    second: Giratina_God_Quy_86
+  - first:
+      213: -3750419743730735167
+    second: Giratina_God_Quy_87
+  - first:
+      213: -7426070877611956065
+    second: Giratina_God_Quy_88
+  - first:
+      213: -7414962189708891714
+    second: Giratina_God_Quy_89
+  - first:
+      213: 4745134949416253991
+    second: Giratina_God_Quy_90
+  - first:
+      213: 6357520141178871949
+    second: Giratina_God_Quy_91
+  - first:
+      213: 826948515269694212
+    second: Giratina_God_Quy_92
+  - first:
+      213: -1821886333695795931
+    second: Giratina_God_Quy_93
+  - first:
+      213: -3741243719596223162
+    second: Giratina_God_Quy_94
+  - first:
+      213: -867092161477738092
+    second: Giratina_God_Quy_95
+  - first:
+      213: 5669795674639613830
+    second: Giratina_God_Quy_96
+  - first:
+      213: 2501245875342792385
+    second: Giratina_God_Quy_97
+  - first:
+      213: -5496166083035950486
+    second: Giratina_God_Quy_98
+  - first:
+      213: -7649333120471882093
+    second: Giratina_God_Quy_99
+  - first:
+      213: 8608385112367671991
+    second: Giratina_God_Quy_100
+  - first:
+      213: -1617000020749507025
+    second: Giratina_God_Quy_101
+  - first:
+      213: -570772192470985292
+    second: Giratina_God_Quy_102
+  - first:
+      213: -211280729946338883
+    second: Giratina_God_Quy_103
+  - first:
+      213: -133494531352213842
+    second: Giratina_God_Quy_104
+  - first:
+      213: 6533577390401037979
+    second: Giratina_God_Quy_105
+  - first:
+      213: -5914861184000830866
+    second: Giratina_God_Quy_106
+  - first:
+      213: -4129571386158862868
+    second: Giratina_God_Quy_107
+  - first:
+      213: 6672267196422669775
+    second: Giratina_God_Quy_108
+  - first:
+      213: -7789058335456905881
+    second: Giratina_God_Quy_109
+  - first:
+      213: -6361424410325687235
+    second: Giratina_God_Quy_110
+  - first:
+      213: -2355444683616800246
+    second: Giratina_God_Quy_111
+  - first:
+      213: 3543987855885513632
+    second: Giratina_God_Quy_112
+  - first:
+      213: 7067387417317078860
+    second: Giratina_God_Quy_113
+  - first:
+      213: 2248150507999258577
+    second: Giratina_God_Quy_114
+  - first:
+      213: -6421570539717376209
+    second: Giratina_God_Quy_115
+  - first:
+      213: -2088370487596492491
+    second: Giratina_God_Quy_116
+  - first:
+      213: 6438398933936324798
+    second: Giratina_God_Quy_117
+  - first:
+      213: -6714129841187366871
+    second: Giratina_God_Quy_118
+  - first:
+      213: -1794674574189094290
+    second: Giratina_God_Quy_119
+  - first:
+      213: -3209605495976973476
+    second: Giratina_God_Quy_120
+  - first:
+      213: 3828034694379967523
+    second: Giratina_God_Quy_121
+  - first:
+      213: -8486100728683538924
+    second: Giratina_God_Quy_122
+  - first:
+      213: 3340645357648001993
+    second: Giratina_God_Quy_123
+  - first:
+      213: 2394604005308330467
+    second: Giratina_God_Quy_124
+  - first:
+      213: 5447656520865968723
+    second: Giratina_God_Quy_125
+  - first:
+      213: -8463862627423881463
+    second: Giratina_God_Quy_126
+  - first:
+      213: 3730931634889966155
+    second: Giratina_God_Quy_127
+  - first:
+      213: 4477435426555059350
+    second: Giratina_God_Quy_128
+  - first:
+      213: -3409901039768778139
+    second: Giratina_God_Quy_129
+  - first:
+      213: -4025664906463532033
+    second: Giratina_God_Quy_130
+  - first:
+      213: -1642368606170274533
+    second: Giratina_God_Quy_131
+  - first:
+      213: -3614341084139883013
+    second: Giratina_God_Quy_132
+  - first:
+      213: -373866088517693604
+    second: Giratina_God_Quy_133
+  - first:
+      213: 8572913676112939457
+    second: Giratina_God_Quy_134
+  - first:
+      213: -355984716953799004
+    second: Giratina_God_Quy_135
+  - first:
+      213: 5238445401725725193
+    second: Giratina_God_Quy_136
+  - first:
+      213: -8282497198699982176
+    second: Giratina_God_Quy_137
+  - first:
+      213: 3773523566939031961
+    second: Giratina_God_Quy_138
+  - first:
+      213: 9074252389934334414
+    second: Giratina_God_Quy_139
+  - first:
+      213: -5187404116329415625
+    second: Giratina_God_Quy_140
+  - first:
+      213: -6189701135097910519
+    second: Giratina_God_Quy_141
+  - first:
+      213: -5096179133242222897
+    second: Giratina_God_Quy_142
+  - first:
+      213: 8785145509718554435
+    second: Giratina_God_Quy_143
+  - first:
+      213: 7925390782722444187
+    second: Giratina_God_Quy_144
+  - first:
+      213: -3694155813520435727
+    second: Giratina_God_Quy_145
+  - first:
+      213: -2529705418959380056
+    second: Giratina_God_Quy_146
+  - first:
+      213: -4129347081732841969
+    second: Giratina_God_Quy_147
+  - first:
+      213: -6486803307654818521
+    second: Giratina_God_Quy_148
+  - first:
+      213: -8612025991122198733
+    second: Giratina_God_Quy_149
+  - first:
+      213: -5036755109097766985
+    second: Giratina_God_Quy_150
+  - first:
+      213: 7216828530804984858
+    second: Giratina_God_Quy_151
+  - first:
+      213: -1043521713592378878
+    second: Giratina_God_Quy_152
+  - first:
+      213: -8598308478978988160
+    second: Giratina_God_Quy_153
+  - first:
+      213: -375274776523703622
+    second: Giratina_God_Quy_154
+  - first:
+      213: 1802506150762660796
+    second: Giratina_God_Quy_155
+  - first:
+      213: -7700387786053962654
+    second: Giratina_God_Quy_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Giratina_God_Quy_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1396
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2dceaada13a6e40800000000000000
+      internalID: 5650383304456458973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1396
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3264b56c81d2ce0800000000000000
+      internalID: -1428458266592664636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1396
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42f002b58eab3a40800000000000000
+      internalID: 5349060871672885839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1396
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558530318ba795070800000000000000
+      internalID: 8095636736186734677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1396
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cad81a2df5f8b910800000000000000
+      internalID: 1853501714344762051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1396
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2096b8cba700760800000000000000
+      internalID: 7422067136117932784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1396
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c6ab2b4134fe10800000000000000
+      internalID: 2230461914379895040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1396
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116b5d9c70b6a220800000000000000
+      internalID: 2496877092685963544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1396
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c488844e44d0740800000000000000
+      internalID: 5119824098650246287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_9
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1396
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1fe1c7745defa0800000000000000
+      internalID: -5769862674260222610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1303
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7d52e6c7778540800000000000000
+      internalID: 5010104806557973818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1303
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9400803e58514bae0800000000000000
+      internalID: -1534577908242710455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1303
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66363d9d12c50e00800000000000000
+      internalID: 1010427123861960302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1303
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd63f1ac2c569660800000000000000
+      internalID: 7392197185140649403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_14
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1303
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60863861e91e0eb20800000000000000
+      internalID: 3161775007512881158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1303
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d5ee8495803aa0800000000000000
+      internalID: -6183295415280609994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_16
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1303
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9020a2ce1b7c18850800000000000000
+      internalID: 6377598114318647817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1303
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacf20549c18d930800000000000000
+      internalID: 4168112878457440990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1303
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3917113ed75326940800000000000000
+      internalID: 5287847727283138963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_19
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1303
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44863a473391ba360800000000000000
+      internalID: 7181861739563280452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1210
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5c7729f7a4a7ae0800000000000000
+      internalID: -1550845209897089571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1210
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19dc7ae26c8b8f0800000000000000
+      internalID: -524451452902600205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1210
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef2851594a762e0800000000000000
+      internalID: -2132554938318651802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1210
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d863c6d3acfadb0800000000000000
+      internalID: -4778378314459476657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1210
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15f5025991d79380800000000000000
+      internalID: -8964466076821359334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1210
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03effc805797e35d0800000000000000
+      internalID: -3080891551508857296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1210
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8174f35b6c52a0800000000000000
+      internalID: -6747400133380305209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_27
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1210
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae52ca15da19af0800000000000000
+      internalID: -391341126312400210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1210
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f70a895ddaf77690800000000000000
+      internalID: -7604333617194858504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_29
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1210
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe601ceac6b37e730800000000000000
+      internalID: 4028253729680590575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1117
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45037f746f8b33140800000000000000
+      internalID: 4698302204186406996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1117
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa6bebd0fe0eb70800000000000000
+      internalID: 8926397303761579831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1117
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153a8dd7f9e507610800000000000000
+      internalID: 1616896305330168657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1117
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590734c59a351e00800000000000000
+      internalID: 1014781705958394198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1117
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c04c43e48fc5e30800000000000000
+      internalID: 4493739542985313385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1117
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe90d96cfcc6af890800000000000000
+      internalID: -7423501396120630801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_36
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1117
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3635140e5dfdc7180800000000000000
+      internalID: -9116165436021320861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_37
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1117
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3318542a614f6d7f0800000000000000
+      internalID: -588014323276349133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_38
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1117
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab3879a2a9ac89e0800000000000000
+      internalID: -1617731650039825490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_39
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1117
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a79fb78c9a4730800000000000000
+      internalID: 3984168927211528795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1024
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338ee64fde3f6be0800000000000000
+      internalID: -1481896623692938445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1024
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82437b5878fa62c90800000000000000
+      internalID: -7194870358078966744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1024
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420ee3f7cfb4ecd0800000000000000
+      internalID: -2529686225163517366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1024
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1d4a4bffa71fd80800000000000000
+      internalID: -8218652606308494877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1024
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed3a2132b26e980800000000000000
+      internalID: -8510067016233394455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_45
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1024
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345f286322887fe0800000000000000
+      internalID: -1191059012856097742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1024
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61e3c62c8880ff0800000000000000
+      internalID: -69655425603201328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_47
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1024
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d13076eb67599a0800000000000000
+      internalID: -6226940349625721581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_48
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1024
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52809c28ea155ede0800000000000000
+      internalID: -1304546707093518299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_49
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1024
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2a379fb85b383c0800000000000000
+      internalID: -4358440401574321418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 931
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b631b6bb1dcca0800000000000000
+      internalID: -5995105057489113066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 931
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142c5d59eadd95250800000000000000
+      internalID: 5934017725945201217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 931
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa7d992ad760240800000000000000
+      internalID: 4757628193682730896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 931
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796cb5766ee3a4740800000000000000
+      internalID: 5136987484266940055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_54
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 931
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1a3f8ea6d70340800000000000000
+      internalID: 4830065170593750406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_55
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 931
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9f9cf023403a300800000000000000
+      internalID: 262057816377391587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 931
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114781fd0028757a0800000000000000
+      internalID: -6388494606147226607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_57
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 931
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf60c415fbfefa60800000000000000
+      internalID: 7709876642138582960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_58
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 931
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0018b4e92bada0800000000000000
+      internalID: -5932602021813154600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_59
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 931
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526ed5245ccd0c2c0800000000000000
+      internalID: -4413284895042968027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 838
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e86ce00c6440530800000000000000
+      internalID: 3820256174612581976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 838
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade91385f1ff98900800000000000000
+      internalID: 687360928239427290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 838
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f049e10723d043e0800000000000000
+      internalID: -2071423664101179147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 838
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148aa8c01d448ef0800000000000000
+      internalID: -106875756668615650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 838
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e291cc408d6f7bba0800000000000000
+      internalID: -6073114164831971026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_65
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 838
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831d7301b92adc230800000000000000
+      internalID: 3660760858997805368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 838
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a0a6aa4ece5350800000000000000
+      internalID: 6007465772977268535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_67
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 838
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba83b57374a0f1b0800000000000000
+      internalID: -5624815118782854467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_68
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 838
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce94a42460063b0800000000000000
+      internalID: -5521406261372261225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_69
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 838
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314f9df6601fbe360800000000000000
+      internalID: 7200113439230522387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 745
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1d0ac04edb4f40800000000000000
+      internalID: 5713904922098736555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 745
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cca2eea0579b700800000000000000
+      internalID: 556604718762871853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 745
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a7ae73e24c01e0800000000000000
+      internalID: -2230334170605312642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 745
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9066f3d328a08dc90800000000000000
+      internalID: -7144949254333700599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_74
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 745
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f1e0d0ed3d6f5b0800000000000000
+      internalID: -5334843757918543988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 745
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93953f94011c1990800000000000000
+      internalID: -7414032175010049123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_76
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 745
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f07f9b900a45a0800000000000000
+      internalID: -6536411240779942368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_77
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 745
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616008a2b318071b0800000000000000
+      internalID: -5660882640488626666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_78
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 745
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056189828b7d2bb10800000000000000
+      internalID: 1995894770833561168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_79
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 745
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ab2c92112f23c0800000000000000
+      internalID: -4382247548594969598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 652
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9103c213c3459f170800000000000000
+      internalID: 8212688012986560537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_81
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 652
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef83e4ba9bb9a300800000000000000
+      internalID: 263948326312054760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 652
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435b83b893518a80800000000000000
+      internalID: -8466393909167434936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_83
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 652
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246606a4589c0430800000000000000
+      internalID: 3750540079022892074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_84
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 652
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa33de5d001a7910800000000000000
+      internalID: 1835797447718419117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_85
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 652
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8391e9162ee8336e0800000000000000
+      internalID: -1858985118222378696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_86
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 652
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7c63ebf93fa4080800000000000000
+      internalID: -9202275021161576542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_87
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 652
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c761581d15d3fbc0800000000000000
+      internalID: -3750419743730735167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_88
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 652
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e01fb1eb41f890800000000000000
+      internalID: -7426070877611956065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_89
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 652
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9e273bc23c81990800000000000000
+      internalID: -7414962189708891714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 559
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3f3f781b1ad140800000000000000
+      internalID: 4745134949416253991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 559
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ab5382e27a3850800000000000000
+      internalID: 6357520141178871949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 559
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403df241b49e97b00800000000000000
+      internalID: 826948515269694212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 559
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d5ce2480c57b6e0800000000000000
+      internalID: -1821886333695795931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_94
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 559
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6455e43b8ae641cc0800000000000000
+      internalID: -3741243719596223162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_95
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 559
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491089fe54877f3f0800000000000000
+      internalID: -867092161477738092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_96
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 559
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb0ff40292fae40800000000000000
+      internalID: 5669795674639613830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_97
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 559
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d7b71fd536b220800000000000000
+      internalID: 2501245875342792385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_98
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 559
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6297124112b9b3b0800000000000000
+      internalID: -5496166083035950486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_99
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 559
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396a4a90e0c18d590800000000000000
+      internalID: -7649333120471882093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baaf6886a0277770800000000000000
+      internalID: 8608385112367671991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 466
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f262d616c034f89e0800000000000000
+      internalID: -1617000020749507025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_102
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 466
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5981c07b53418f0800000000000000
+      internalID: -570772192470985292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_103
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 466
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c9a7ab41611df0800000000000000
+      internalID: -211280729946338883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 466
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64b475e6bb52ef0800000000000000
+      internalID: -133494531352213842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_105
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 466
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a06b250eebaa50800000000000000
+      internalID: 6533577390401037979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_106
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 466
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6252e767113aeda0800000000000000
+      internalID: -5914861184000830866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_107
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 466
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced226524b0d0b6c0800000000000000
+      internalID: -4129571386158862868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_108
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 466
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c349f9a7a89c50800000000000000
+      internalID: 6672267196422669775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_109
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 466
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765bb4c46b4b7e390800000000000000
+      internalID: -7789058335456905881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 373
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e90df33ea7b7a0800000000000000
+      internalID: -6361424410325687235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 373
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0230f83a87cf4fd0800000000000000
+      internalID: -2355444683616800246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_112
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 373
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3ba569d26ce2130800000000000000
+      internalID: 3543987855885513632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_113
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 373
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ff335967641260800000000000000
+      internalID: 7067387417317078860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_114
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 373
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7e8eec9f8033f10800000000000000
+      internalID: 2248150507999258577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_115
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 373
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274808fd9ff1e6a0800000000000000
+      internalID: -6421570539717376209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_116
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 373
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539d66f2b1e9403e0800000000000000
+      internalID: -2088370487596492491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_117
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 373
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb04783e7b9c95950800000000000000
+      internalID: 6438398933936324798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_118
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 373
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9285d208b7e92d2a0800000000000000
+      internalID: -6714129841187366871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_119
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 373
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a980ebbf80817e0800000000000000
+      internalID: -1794674574189094290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 280
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba62f7ec03573d0800000000000000
+      internalID: -3209605495976973476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_121
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249362d549ef1530800000000000000
+      internalID: 3828034694379967523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 281
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41652aa39505b3a80800000000000000
+      internalID: -8486100728683538924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_123
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 281
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbba27d04b5c5e20800000000000000
+      internalID: 3340645357648001993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_124
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 283
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1712ad7a75b3120800000000000000
+      internalID: 2394604005308330467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_125
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 283
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3527e882eb6f99b40800000000000000
+      internalID: 5447656520865968723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_126
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 284
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f1b8a8c15a8a80800000000000000
+      internalID: -8463862627423881463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_127
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 284
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4242eafd8ee6c330800000000000000
+      internalID: 3730931634889966155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_128
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 285
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c50984ccb032e30800000000000000
+      internalID: 4477435426555059350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_129
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 285
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac85d12199da0d0800000000000000
+      internalID: -3409901039768778139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_130
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 194
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb2c71b817f128c0800000000000000
+      internalID: -4025664906463532033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 194
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a7fe44722539e0800000000000000
+      internalID: -1642368606170274533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_132
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 194
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5fdbefee747ddc0800000000000000
+      internalID: -3614341084139883013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_133
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8658f5c2cfcaf0800000000000000
+      internalID: -373866088517693604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_134
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 194
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ccc2319b19f670800000000000000
+      internalID: 8572913676112939457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_135
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 194
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6308839c94f0bf0800000000000000
+      internalID: -355984716953799004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_136
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ae321a652b2b840800000000000000
+      internalID: 5238445401725725193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_137
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 194
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2d15a2ea8ae0d80800000000000000
+      internalID: -8282497198699982176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_138
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 194
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99947fee0bf3e5430800000000000000
+      internalID: 3773523566939031961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_139
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 194
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec18640a8783eed70800000000000000
+      internalID: 9074252389934334414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c39c3b073a208b0800000000000000
+      internalID: -5187404116329415625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_141
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b28a0bc93c91aa0800000000000000
+      internalID: -6189701135097910519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_142
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d65b341cb649b0800000000000000
+      internalID: -5096179133242222897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_143
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 101
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34774ee9b4b1be970800000000000000
+      internalID: 8785145509718554435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_144
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 101
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b83562de4acfd60800000000000000
+      internalID: 7925390782722444187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_145
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 101
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f59b2e2cd8bbbcc0800000000000000
+      internalID: -3694155813520435727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_146
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 101
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ab8c035ea4ecd0800000000000000
+      internalID: -2529705418959380056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_147
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 101
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e940715bc91b6c0800000000000000
+      internalID: -4129347081732841969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_148
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 99
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d76f92ce3af5a0800000000000000
+      internalID: -6486803307654818521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_149
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 99
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fdab25dffeb7880800000000000000
+      internalID: -8612025991122198733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_150
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff7950ae9d91ab0800000000000000
+      internalID: -5036755109097766985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_151
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c0987ff43572460800000000000000
+      internalID: 7216828530804984858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_152
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5be1c78aa481f0800000000000000
+      internalID: -1043521713592378878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_153
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 4
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876a318efbaca880800000000000000
+      internalID: -8598308478978988160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_154
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaf32c3491cacaf0800000000000000
+      internalID: -375274776523703622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_155
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34aa54bc9c30910800000000000000
+      internalID: 1802506150762660796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giratina_God_Quy_156
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2643f736b1ab22590800000000000000
+      internalID: -7700387786053962654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

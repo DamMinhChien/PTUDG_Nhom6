@@ -1,0 +1,2017 @@
+fileFormatVersion: 2
+guid: 3297d02febd17e446857f42447830104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6329655064448093831
+    second: Golduck_0
+  - first:
+      213: 4643765407412238213
+    second: Golduck_1
+  - first:
+      213: -1532935202631528690
+    second: Golduck_2
+  - first:
+      213: -7326169573763633384
+    second: Golduck_3
+  - first:
+      213: -8334898087243884939
+    second: Golduck_4
+  - first:
+      213: 456557409760876761
+    second: Golduck_5
+  - first:
+      213: 5025707950689562215
+    second: Golduck_6
+  - first:
+      213: -1896111852281211692
+    second: Golduck_7
+  - first:
+      213: 5802106546926402403
+    second: Golduck_8
+  - first:
+      213: -4053846533206431818
+    second: Golduck_9
+  - first:
+      213: -5827748134577042170
+    second: Golduck_10
+  - first:
+      213: -1984096637946168928
+    second: Golduck_11
+  - first:
+      213: -2333312849472732709
+    second: Golduck_12
+  - first:
+      213: -3314632251667598473
+    second: Golduck_13
+  - first:
+      213: -4176896494495884056
+    second: Golduck_14
+  - first:
+      213: -7013813710753567785
+    second: Golduck_15
+  - first:
+      213: -5615082007683204452
+    second: Golduck_16
+  - first:
+      213: -7839196721740551149
+    second: Golduck_17
+  - first:
+      213: 8775402706567474076
+    second: Golduck_18
+  - first:
+      213: -6539173606958925678
+    second: Golduck_19
+  - first:
+      213: -6809079563749359842
+    second: Golduck_20
+  - first:
+      213: 555073613689395184
+    second: Golduck_21
+  - first:
+      213: 3134430489808841771
+    second: Golduck_22
+  - first:
+      213: -2063591262299012503
+    second: Golduck_23
+  - first:
+      213: -4162134512553208803
+    second: Golduck_24
+  - first:
+      213: 1808105532716677265
+    second: Golduck_25
+  - first:
+      213: -7101375201787779499
+    second: Golduck_26
+  - first:
+      213: 6243185606842104110
+    second: Golduck_27
+  - first:
+      213: 1792261930150813996
+    second: Golduck_28
+  - first:
+      213: -369342890505394249
+    second: Golduck_29
+  - first:
+      213: 1191433820884186327
+    second: Golduck_30
+  - first:
+      213: 5572980461419928939
+    second: Golduck_31
+  - first:
+      213: -3333532841062865920
+    second: Golduck_32
+  - first:
+      213: 6068733821854079594
+    second: Golduck_33
+  - first:
+      213: 272648577078383980
+    second: Golduck_34
+  - first:
+      213: -6296688941658937042
+    second: Golduck_35
+  - first:
+      213: -5113268085596115716
+    second: Golduck_36
+  - first:
+      213: 8321081750554711390
+    second: Golduck_37
+  - first:
+      213: 2270977925957860590
+    second: Golduck_38
+  - first:
+      213: 5622149757411900472
+    second: Golduck_39
+  - first:
+      213: -1471130315624558080
+    second: Golduck_40
+  - first:
+      213: -8065810087028958313
+    second: Golduck_41
+  - first:
+      213: -1406690102924027620
+    second: Golduck_42
+  - first:
+      213: 3260062689203319064
+    second: Golduck_43
+  - first:
+      213: 9094577538758853603
+    second: Golduck_44
+  - first:
+      213: 1751334992846194774
+    second: Golduck_45
+  - first:
+      213: -271440505184052496
+    second: Golduck_46
+  - first:
+      213: 1584801981296992299
+    second: Golduck_47
+  - first:
+      213: -2932860390239828198
+    second: Golduck_48
+  - first:
+      213: -7761478295872744607
+    second: Golduck_49
+  - first:
+      213: 387668822130464350
+    second: Golduck_50
+  - first:
+      213: -276031463812622991
+    second: Golduck_51
+  - first:
+      213: -5909870054460665757
+    second: Golduck_52
+  - first:
+      213: -872758619166070956
+    second: Golduck_53
+  - first:
+      213: 1650486445006869710
+    second: Golduck_54
+  - first:
+      213: -8744413876916331184
+    second: Golduck_55
+  - first:
+      213: 4545897914489002722
+    second: Golduck_56
+  - first:
+      213: 947973944826350695
+    second: Golduck_57
+  - first:
+      213: 2071050632841218716
+    second: Golduck_58
+  - first:
+      213: 3128649028005353981
+    second: Golduck_59
+  - first:
+      213: 2518411408695848251
+    second: Golduck_60
+  - first:
+      213: -8240139602187091714
+    second: Golduck_61
+  - first:
+      213: -1683628098791536134
+    second: Golduck_62
+  - first:
+      213: 924212754373033132
+    second: Golduck_63
+  - first:
+      213: -5282302865430315606
+    second: Golduck_64
+  - first:
+      213: -3121090737358472853
+    second: Golduck_65
+  - first:
+      213: -587526774991029135
+    second: Golduck_66
+  - first:
+      213: -2649255203510213905
+    second: Golduck_67
+  - first:
+      213: -8668323627361277898
+    second: Golduck_68
+  - first:
+      213: -6491353522476690272
+    second: Golduck_69
+  - first:
+      213: -5726961633109328377
+    second: Golduck_70
+  - first:
+      213: -8244877868622307375
+    second: Golduck_71
+  - first:
+      213: -6939888667084383188
+    second: Golduck_72
+  - first:
+      213: 6891240192138286488
+    second: Golduck_73
+  - first:
+      213: -4075585394047612266
+    second: Golduck_74
+  - first:
+      213: -220100375175628652
+    second: Golduck_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golduck_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 487
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4e23ceb377d750800000000000000
+      internalID: 6329655064448093831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 487
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587bd09c808f17040800000000000000
+      internalID: 4643765407412238213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 487
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fc4771e8be9bae0800000000000000
+      internalID: -1532935202631528690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 487
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2b8f9697345a90800000000000000
+      internalID: -7326169573763633384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 487
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576debe895e745c80800000000000000
+      internalID: -8334898087243884939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 487
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d89e549b84065600800000000000000
+      internalID: 456557409760876761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 487
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e25b9f0c6eeb540800000000000000
+      internalID: 5025707950689562215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 487
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4de5ef058afa5e0800000000000000
+      internalID: -1896111852281211692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 487
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b348ed929358050800000000000000
+      internalID: 5802106546926402403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 487
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b728466e08ddb7c0800000000000000
+      internalID: -4053846533206431818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 418
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0716c2fdaf1fa0800000000000000
+      internalID: -5827748134577042170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 418
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9fb27be921774e0800000000000000
+      internalID: -1984096637946168928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c25963586e9fd0800000000000000
+      internalID: -2333312849472732709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 418
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773bc4e578f0002d0800000000000000
+      internalID: -3314632251667598473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 418
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec9ff5b4cea806c0800000000000000
+      internalID: -4176896494495884056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 418
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbe4c1479de9ae90800000000000000
+      internalID: -7013813710753567785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9afa5bf9a83312b0800000000000000
+      internalID: -5615082007683204452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6f3c8d14953390800000000000000
+      internalID: -7839196721740551149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 418
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba4fd744e78c970800000000000000
+      internalID: 8775402706567474076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 418
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2987a9020403045a0800000000000000
+      internalID: -6539173606958925678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 349
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff85b763a4181a0800000000000000
+      internalID: -6809079563749359842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 349
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f71620c28404b700800000000000000
+      internalID: 555073613689395184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 349
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca53e6cebbf7b20800000000000000
+      internalID: 3134430489808841771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 349
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96241192ea6ac53e0800000000000000
+      internalID: -2063591262299012503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 349
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d145fd776b02d36c0800000000000000
+      internalID: -4162134512553208803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 349
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198fef9f66ea71910800000000000000
+      internalID: 1808105532716677265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_26
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 349
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556eba0f0e8d27d90800000000000000
+      internalID: -7101375201787779499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 349
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b7aa4b3044a650800000000000000
+      internalID: 6243185606842104110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 349
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21681bcab46fd810800000000000000
+      internalID: 1792261930150813996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 349
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b72c131994dfdaf0800000000000000
+      internalID: -369342890505394249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 280
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d430336fb2d88010800000000000000
+      internalID: 1191433820884186327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 280
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d9027e334375d40800000000000000
+      internalID: 5572980461419928939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 280
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0046959fa89ecb1d0800000000000000
+      internalID: -3333532841062865920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 280
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ad208e149783450800000000000000
+      internalID: 6068733821854079594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 280
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65d541bf64a8c300800000000000000
+      internalID: 272648577078383980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 280
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e943d4caad98a0800000000000000
+      internalID: -6296688941658937042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 280
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca3b474c50a09b0800000000000000
+      internalID: -5113268085596115716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 280
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e559cc0e3cb6a7370800000000000000
+      internalID: 8321081750554711390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_38
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 280
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb8793462248f10800000000000000
+      internalID: 2270977925957860590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_39
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 280
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb59cba63e50e40800000000000000
+      internalID: 5622149757411900472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002d3e6b5ce759be0800000000000000
+      internalID: -1471130315624558080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 211
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b50e8d57c701090800000000000000
+      internalID: -8065810087028958313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 211
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d72aedce6a7ce0800000000000000
+      internalID: -1406690102924027620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 211
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f7774eb11e3d20800000000000000
+      internalID: 3260062689203319064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 211
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c7fb161e663e70800000000000000
+      internalID: 9094577538758853603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_45
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 211
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580f43a5edfd4810800000000000000
+      internalID: 1751334992846194774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 211
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa1ad67c46ab3cf0800000000000000
+      internalID: -271440505184052496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 211
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ea8e51095ef510800000000000000
+      internalID: 1584801981296992299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_48
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 211
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1701f793036c47d0800000000000000
+      internalID: -2932860390239828198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_49
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 211
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d99aac90b94490800000000000000
+      internalID: -7761478295872744607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 142
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5694916db6416500800000000000000
+      internalID: 387668822130464350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 142
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751e9c98d65b2cf0800000000000000
+      internalID: -276031463812622991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 142
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360572f4f7cebfda0800000000000000
+      internalID: -5909870054460665757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 142
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45722f1f8a653e3f0800000000000000
+      internalID: -872758619166070956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 142
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec45b355da4b7e610800000000000000
+      internalID: 1650486445006869710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 142
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd769a8e995a680800000000000000
+      internalID: -8744413876916331184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 142
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5e4a6116461f30800000000000000
+      internalID: 4545897914489002722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_57
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 142
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c43bdb741e72d00800000000000000
+      internalID: 947973944826350695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_58
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 142
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4952e399ddbc10800000000000000
+      internalID: 2071050632841218716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_59
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 142
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df95125f6b13b6b20800000000000000
+      internalID: 3128649028005353981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d6b9545d133f220800000000000000
+      internalID: 2518411408695848251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef08200a0b425ad80800000000000000
+      internalID: -8240139602187091714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af90aa51a2d82a8e0800000000000000
+      internalID: -1683628098791536134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 73
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac3a497a9673dc00800000000000000
+      internalID: 924212754373033132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 73
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7ffdd78d71b6b0800000000000000
+      internalID: -5282302865430315606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_65
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 73
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b697cf7b288afa4d0800000000000000
+      internalID: -3121090737358472853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 73
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf0a0d28fa8d7f0800000000000000
+      internalID: -587526774991029135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 73
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe22b63cd64fb3bd0800000000000000
+      internalID: -2649255203510213905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_68
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 73
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6386101769de3b780800000000000000
+      internalID: -8668323627361277898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_69
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 73
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4db4d2d541ae5a0800000000000000
+      internalID: -6491353522476690272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e3a38ccbeb580b0800000000000000
+      internalID: -5726961633109328377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df9940034f449d80800000000000000
+      internalID: -8244877868622307375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1da1c60090bf90800000000000000
+      internalID: -6939888667084383188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_73
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8951c42817a92af50800000000000000
+      internalID: 6891240192138286488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_74
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a85007dac9077c0800000000000000
+      internalID: -4075585394047612266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golduck_75
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f9baffdb02fcf0800000000000000
+      internalID: -220100375175628652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4292 @@
+fileFormatVersion: 2
+guid: fa3d8bb9de169e740899ae22c823af37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3416020665668692538
+    second: Raichu_0
+  - first:
+      213: -7423926860941530103
+    second: Raichu_1
+  - first:
+      213: 7296516795994042252
+    second: Raichu_2
+  - first:
+      213: -1016035002427990568
+    second: Raichu_3
+  - first:
+      213: 4358952877830668330
+    second: Raichu_4
+  - first:
+      213: 7572422179727503575
+    second: Raichu_5
+  - first:
+      213: 3264546537279971147
+    second: Raichu_6
+  - first:
+      213: 4107346210980833225
+    second: Raichu_7
+  - first:
+      213: 5580864460521280478
+    second: Raichu_8
+  - first:
+      213: 8351934263486774932
+    second: Raichu_9
+  - first:
+      213: 3152327900092261360
+    second: Raichu_10
+  - first:
+      213: 8500062224733201874
+    second: Raichu_11
+  - first:
+      213: -3940833486762070010
+    second: Raichu_12
+  - first:
+      213: 8095397141303718847
+    second: Raichu_13
+  - first:
+      213: -4836976784771428636
+    second: Raichu_14
+  - first:
+      213: -3611997620723128480
+    second: Raichu_15
+  - first:
+      213: -6859313877981630266
+    second: Raichu_16
+  - first:
+      213: -4469825150725441725
+    second: Raichu_17
+  - first:
+      213: 8890191577450628401
+    second: Raichu_18
+  - first:
+      213: 8208659676420487236
+    second: Raichu_19
+  - first:
+      213: -6728892830695316653
+    second: Raichu_20
+  - first:
+      213: -6380674289774458042
+    second: Raichu_21
+  - first:
+      213: -8699526297516333930
+    second: Raichu_22
+  - first:
+      213: 3069136783968110061
+    second: Raichu_23
+  - first:
+      213: -3621140400959317238
+    second: Raichu_24
+  - first:
+      213: -7905001267285795302
+    second: Raichu_25
+  - first:
+      213: -1868729704576666932
+    second: Raichu_26
+  - first:
+      213: 426222201660200022
+    second: Raichu_27
+  - first:
+      213: 5459098999070314603
+    second: Raichu_28
+  - first:
+      213: 1591542199874022142
+    second: Raichu_29
+  - first:
+      213: 6929287722563845873
+    second: Raichu_30
+  - first:
+      213: 3085806270791422273
+    second: Raichu_31
+  - first:
+      213: 8378398244478246876
+    second: Raichu_32
+  - first:
+      213: 6681059977060942545
+    second: Raichu_33
+  - first:
+      213: 2591682650874926826
+    second: Raichu_34
+  - first:
+      213: -3570208503707851078
+    second: Raichu_35
+  - first:
+      213: -1900017973641228742
+    second: Raichu_36
+  - first:
+      213: -1518634110913357439
+    second: Raichu_37
+  - first:
+      213: -3256610274905212483
+    second: Raichu_38
+  - first:
+      213: 3393374289825751426
+    second: Raichu_39
+  - first:
+      213: 6623018128269874072
+    second: Raichu_40
+  - first:
+      213: 1753061192738594334
+    second: Raichu_41
+  - first:
+      213: 6552226336487052960
+    second: Raichu_42
+  - first:
+      213: -7306057667414874372
+    second: Raichu_43
+  - first:
+      213: 2067280967815848494
+    second: Raichu_44
+  - first:
+      213: 7597497378307360482
+    second: Raichu_45
+  - first:
+      213: -8624666083677580698
+    second: Raichu_46
+  - first:
+      213: 5751968392409531213
+    second: Raichu_47
+  - first:
+      213: 6960423850953899922
+    second: Raichu_48
+  - first:
+      213: 7472061186861414072
+    second: Raichu_49
+  - first:
+      213: -6177730283288885945
+    second: Raichu_50
+  - first:
+      213: 1349788542780024669
+    second: Raichu_51
+  - first:
+      213: -3658311251913022279
+    second: Raichu_52
+  - first:
+      213: -7578038999983611294
+    second: Raichu_53
+  - first:
+      213: 6383727942877015929
+    second: Raichu_54
+  - first:
+      213: -1971892116013531991
+    second: Raichu_55
+  - first:
+      213: -6839154138231489966
+    second: Raichu_56
+  - first:
+      213: -7900265732988595477
+    second: Raichu_57
+  - first:
+      213: 7805523507132104764
+    second: Raichu_58
+  - first:
+      213: -3893055376330670103
+    second: Raichu_59
+  - first:
+      213: -3865493897189406163
+    second: Raichu_60
+  - first:
+      213: 2987234704737253756
+    second: Raichu_61
+  - first:
+      213: -32915421181830469
+    second: Raichu_62
+  - first:
+      213: -1702506183616769290
+    second: Raichu_63
+  - first:
+      213: 2036630882693418850
+    second: Raichu_64
+  - first:
+      213: -4540392782361965047
+    second: Raichu_65
+  - first:
+      213: -6324441651910532777
+    second: Raichu_66
+  - first:
+      213: -3935318882708688215
+    second: Raichu_67
+  - first:
+      213: 2301005928086243821
+    second: Raichu_68
+  - first:
+      213: -6932757617198762090
+    second: Raichu_69
+  - first:
+      213: 5569150667518630628
+    second: Raichu_70
+  - first:
+      213: -7006462777105272976
+    second: Raichu_71
+  - first:
+      213: -1869876430935163246
+    second: Raichu_72
+  - first:
+      213: -5801505317055582958
+    second: Raichu_73
+  - first:
+      213: -8888801357715775582
+    second: Raichu_74
+  - first:
+      213: 5014822985592023626
+    second: Raichu_75
+  - first:
+      213: 9065470031143831145
+    second: Raichu_76
+  - first:
+      213: 2319711515329398600
+    second: Raichu_77
+  - first:
+      213: -2329379428862228086
+    second: Raichu_78
+  - first:
+      213: 8091586913401007659
+    second: Raichu_79
+  - first:
+      213: -376991086446387850
+    second: Raichu_80
+  - first:
+      213: -7163138169739154028
+    second: Raichu_81
+  - first:
+      213: 3220978744652473722
+    second: Raichu_82
+  - first:
+      213: 6137788704128932861
+    second: Raichu_83
+  - first:
+      213: -4328880270167444040
+    second: Raichu_84
+  - first:
+      213: -6000909059582437270
+    second: Raichu_85
+  - first:
+      213: 4369750640584484375
+    second: Raichu_86
+  - first:
+      213: -8657714211860347917
+    second: Raichu_87
+  - first:
+      213: -2509349553850111181
+    second: Raichu_88
+  - first:
+      213: 213419490658743141
+    second: Raichu_89
+  - first:
+      213: -7602110648643921366
+    second: Raichu_90
+  - first:
+      213: -3319174705578134831
+    second: Raichu_91
+  - first:
+      213: -5425045649895666580
+    second: Raichu_92
+  - first:
+      213: -7490656533379594443
+    second: Raichu_93
+  - first:
+      213: -8199406421384339497
+    second: Raichu_94
+  - first:
+      213: 3296353148178781753
+    second: Raichu_95
+  - first:
+      213: -7232772679976504485
+    second: Raichu_96
+  - first:
+      213: 4735768273619902408
+    second: Raichu_97
+  - first:
+      213: 5503652586751865122
+    second: Raichu_98
+  - first:
+      213: 2994692149037613962
+    second: Raichu_99
+  - first:
+      213: 3420642343372476813
+    second: Raichu_100
+  - first:
+      213: -9172393585380462174
+    second: Raichu_101
+  - first:
+      213: -7921750107982283022
+    second: Raichu_102
+  - first:
+      213: -7853485977904809204
+    second: Raichu_103
+  - first:
+      213: 1364303453724906806
+    second: Raichu_104
+  - first:
+      213: -8720033822361141807
+    second: Raichu_105
+  - first:
+      213: 6662746813578654330
+    second: Raichu_106
+  - first:
+      213: 4186051980838872607
+    second: Raichu_107
+  - first:
+      213: -3214914485207195393
+    second: Raichu_108
+  - first:
+      213: -822885828128252241
+    second: Raichu_109
+  - first:
+      213: 3957555715198271125
+    second: Raichu_110
+  - first:
+      213: 3364980416501062860
+    second: Raichu_111
+  - first:
+      213: 6013182704847750562
+    second: Raichu_112
+  - first:
+      213: -3179721413997557807
+    second: Raichu_113
+  - first:
+      213: 1348768504507029144
+    second: Raichu_114
+  - first:
+      213: -5064708580104264347
+    second: Raichu_115
+  - first:
+      213: 1399738117191224578
+    second: Raichu_116
+  - first:
+      213: 2308523404529559187
+    second: Raichu_117
+  - first:
+      213: -6867268485473101250
+    second: Raichu_118
+  - first:
+      213: -2915506882506626886
+    second: Raichu_119
+  - first:
+      213: 4758012931296451751
+    second: Raichu_120
+  - first:
+      213: 8441936514918458511
+    second: Raichu_121
+  - first:
+      213: -8286233101643196663
+    second: Raichu_122
+  - first:
+      213: -5240606815674399111
+    second: Raichu_123
+  - first:
+      213: -4666158547814803724
+    second: Raichu_124
+  - first:
+      213: 3727316971667677988
+    second: Raichu_125
+  - first:
+      213: 5869868650648305176
+    second: Raichu_126
+  - first:
+      213: 843274631347541603
+    second: Raichu_127
+  - first:
+      213: -8175267016655411617
+    second: Raichu_128
+  - first:
+      213: 5607510820570396588
+    second: Raichu_129
+  - first:
+      213: -8010478866585048466
+    second: Raichu_130
+  - first:
+      213: 6393571733775574054
+    second: Raichu_131
+  - first:
+      213: 7500575377659282005
+    second: Raichu_132
+  - first:
+      213: 765536019303955153
+    second: Raichu_133
+  - first:
+      213: -4003841677088743257
+    second: Raichu_134
+  - first:
+      213: 4011095911450405774
+    second: Raichu_135
+  - first:
+      213: -4483913009190452608
+    second: Raichu_136
+  - first:
+      213: 730538970670737205
+    second: Raichu_137
+  - first:
+      213: 956164188810680276
+    second: Raichu_138
+  - first:
+      213: -491521916833168485
+    second: Raichu_139
+  - first:
+      213: 5075317162534831934
+    second: Raichu_140
+  - first:
+      213: -4655690704475499158
+    second: Raichu_141
+  - first:
+      213: 805746827529986400
+    second: Raichu_142
+  - first:
+      213: 6362051240597734151
+    second: Raichu_143
+  - first:
+      213: 2089724338928283280
+    second: Raichu_144
+  - first:
+      213: 4666380822101891810
+    second: Raichu_145
+  - first:
+      213: 8158195776460879000
+    second: Raichu_146
+  - first:
+      213: 560222296220380369
+    second: Raichu_147
+  - first:
+      213: -9181882119903645273
+    second: Raichu_148
+  - first:
+      213: 6171530477688966474
+    second: Raichu_149
+  - first:
+      213: -1110387805292688902
+    second: Raichu_150
+  - first:
+      213: -8973471088403151458
+    second: Raichu_151
+  - first:
+      213: 3110137455608148621
+    second: Raichu_152
+  - first:
+      213: -8306108423816126959
+    second: Raichu_153
+  - first:
+      213: -2408932337583956143
+    second: Raichu_154
+  - first:
+      213: 7071823906063235831
+    second: Raichu_155
+  - first:
+      213: -966553878057399452
+    second: Raichu_156
+  - first:
+      213: -3403425170268783977
+    second: Raichu_157
+  - first:
+      213: -415308670637523600
+    second: Raichu_158
+  - first:
+      213: -7657012298467011241
+    second: Raichu_159
+  - first:
+      213: -5735643489571118463
+    second: Raichu_160
+  - first:
+      213: 8180643418133049393
+    second: Raichu_161
+  - first:
+      213: 5277125634905417616
+    second: Raichu_162
+  - first:
+      213: -4408014919824412268
+    second: Raichu_163
+  - first:
+      213: -2785641227980273822
+    second: Raichu_164
+  - first:
+      213: 8741972387992938751
+    second: Raichu_165
+  - first:
+      213: -2621469559723236632
+    second: Raichu_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raichu_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1333
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c59c6dad4bd790d0800000000000000
+      internalID: -3416020665668692538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1333
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c69178ad9e8f890800000000000000
+      internalID: -7423926860941530103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1333
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f65ea0e5f624560800000000000000
+      internalID: 7296516795994042252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1333
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd9ae86c8156e1f0800000000000000
+      internalID: -1016035002427990568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1333
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2083c33c8c1e7c30800000000000000
+      internalID: 4358952877830668330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1333
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d072ff1ad5a61960800000000000000
+      internalID: 7572422179727503575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1333
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fdd4387cffd4d20800000000000000
+      internalID: 3264546537279971147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1333
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72f030e99300930800000000000000
+      internalID: 4107346210980833225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1333
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed319fc78a6337d40800000000000000
+      internalID: 5580864460521280478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1333
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49efa8256f708e370800000000000000
+      internalID: 8351934263486774932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1250
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36d8cf5815fbb20800000000000000
+      internalID: 3152327900092261360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1250
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d560f1ee8946f570800000000000000
+      internalID: 8500062224733201874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1250
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600359eb2d85f49c0800000000000000
+      internalID: -3940833486762070010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1250
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3fe1b0fc0a85070800000000000000
+      internalID: 8095397141303718847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1250
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee43ecdd3b9fdcb0800000000000000
+      internalID: -4836976784771428636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1250
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ed371d4b9fddc0800000000000000
+      internalID: -3611997620723128480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1250
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07ff3ce52dec0a0800000000000000
+      internalID: -6859313877981630266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1250
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34737e225bdf7f1c0800000000000000
+      internalID: -4469825150725441725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1250
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354d1f232e406b70800000000000000
+      internalID: 8890191577450628401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1250
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448bd1ffb740be170800000000000000
+      internalID: 8208659676420487236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1167
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353abb62f9b2e92a0800000000000000
+      internalID: -6728892830695316653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1167
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b868a2a8a4377a0800000000000000
+      internalID: -6380674289774458042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1167
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694ae5aace2154780800000000000000
+      internalID: -8699526297516333930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1167
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5018fd4a3c79a20800000000000000
+      internalID: 3069136783968110061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1167
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b110fadff1fbdc0800000000000000
+      internalID: -3621140400959317238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1167
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eda6ada3bcb4290800000000000000
+      internalID: -7905001267285795302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_26
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1167
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2bc711c30f016e0800000000000000
+      internalID: -1868729704576666932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_27
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1167
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654575d85de3ae500800000000000000
+      internalID: 426222201660200022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1167
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60d649bd9d92cb40800000000000000
+      internalID: 5459098999070314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_29
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1167
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efae88cc23b461610800000000000000
+      internalID: 1591542199874022142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1084
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb4e18876c92060800000000000000
+      internalID: 6929287722563845873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1084
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411238347cf2da20800000000000000
+      internalID: 3085806270791422273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1084
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd1ec00dc064470800000000000000
+      internalID: 8378398244478246876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1084
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d20ccfb6a4e7bc50800000000000000
+      internalID: 6681059977060942545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1084
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae651ffb3a187f320800000000000000
+      internalID: 2591682650874926826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1084
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab62a6a1842147ec0800000000000000
+      internalID: -3570208503707851078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1084
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ec14e38b7c1a5e0800000000000000
+      internalID: -1900017973641228742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1084
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d73b725abceae0800000000000000
+      internalID: -1518634110913357439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1084
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9336095323ec2d0800000000000000
+      internalID: -3256610274905212483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_39
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1084
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e10f00ffa71f20800000000000000
+      internalID: 3393374289825751426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1001
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939f7cb5efa9eb50800000000000000
+      internalID: 6623018128269874072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1001
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed4bedddf145810800000000000000
+      internalID: 1753061192738594334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1001
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6154a432f2eea50800000000000000
+      internalID: 6552226336487052960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1001
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a739b24bab9a90800000000000000
+      internalID: -7306057667414874372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1001
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e699561570bc10800000000000000
+      internalID: 2067280967815848494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1001
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c8ffbc9bbf6960800000000000000
+      internalID: 7597497378307360482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1001
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662d90074e70f4880800000000000000
+      internalID: -8624666083677580698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_47
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1001
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4348d417c813df40800000000000000
+      internalID: 5751968392409531213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_48
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1001
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f73425d94689060800000000000000
+      internalID: 6960423850953899922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_49
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1001
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6bbde8f0812b760800000000000000
+      internalID: 7472061186861414072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 918
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7458462d90b444aa0800000000000000
+      internalID: -6177730283288885945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 918
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57ab4637896bb210800000000000000
+      internalID: 1349788542780024669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 918
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e8e78c411b3dc0800000000000000
+      internalID: -3658311251913022279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 918
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262abeffda565d690800000000000000
+      internalID: -7578038999983611294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 918
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f6be9ddbe879850800000000000000
+      internalID: 6383727942877015929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_55
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 918
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acbe99619e62a4e0800000000000000
+      internalID: -1971892116013531991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 918
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab192fb817611a0800000000000000
+      internalID: -6839154138231489966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_57
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 918
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2160a5c2e9c5290800000000000000
+      internalID: -7900265732988595477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_58
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 918
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c300298364ac25c60800000000000000
+      internalID: 7805523507132104764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_59
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 918
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb2e2f2c619f9c0800000000000000
+      internalID: -3893055376330670103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 835
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac590e7c10b5ac0800000000000000
+      internalID: -3865493897189406163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 835
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79359c032ac47920800000000000000
+      internalID: 2987234704737253756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_62
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 835
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba13dc499f0b8ff0800000000000000
+      internalID: -32915421181830469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 835
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2dd9175ab7f58e0800000000000000
+      internalID: -1702506183616769290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 835
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f088d4ff0934c10800000000000000
+      internalID: 2036630882693418850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 835
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e419a02d84df0c0800000000000000
+      internalID: -4540392782361965047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_66
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 835
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751203f63d11b38a0800000000000000
+      internalID: -6324441651910532777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_67
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 835
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f24e8350f269c0800000000000000
+      internalID: -3935318882708688215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_68
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 835
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de906a943b0deef10800000000000000
+      internalID: 2301005928086243821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_69
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 835
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697fbf0bda5e9cf90800000000000000
+      internalID: -6932757617198762090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 752
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead3168609994d40800000000000000
+      internalID: 5569150667518630628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 752
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fa4aed93b04ce90800000000000000
+      internalID: -7006462777105272976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 752
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29efb380b4ddc06e0800000000000000
+      internalID: -1869876430935163246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 752
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dac5ed6a9ec7fa0800000000000000
+      internalID: -5801505317055582958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_74
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 752
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af57529242a4a480800000000000000
+      internalID: -8888801357715775582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_75
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 752
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a2dab8fea389540800000000000000
+      internalID: 5014822985592023626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_76
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 752
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966074066f40fcd70800000000000000
+      internalID: 9065470031143831145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_77
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 752
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84787943555413020800000000000000
+      internalID: 2319711515329398600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_78
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 752
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89809340c16cafd0800000000000000
+      internalID: -2329379428862228086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_79
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 752
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e677a3d671b4070800000000000000
+      internalID: 8091586913401007659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 669
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ddfd0ba98a4caf0800000000000000
+      internalID: -376991086446387850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 669
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de7ab59cb679c90800000000000000
+      internalID: -7163138169739154028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 669
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7528105a1733bc20800000000000000
+      internalID: 3220978744652473722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_83
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 669
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb92089e4ecd2550800000000000000
+      internalID: 6137788704128932861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_84
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 669
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f875645abce3c0800000000000000
+      internalID: -4328880270167444040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_85
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 669
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a685a26210d78bca0800000000000000
+      internalID: -6000909059582437270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_86
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 669
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716e2114e0974ac30800000000000000
+      internalID: 4369750640584484375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_87
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 669
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3863b7bce99d780800000000000000
+      internalID: -8657714211860347917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 669
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33baa7930effc2dd0800000000000000
+      internalID: -2509349553850111181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_89
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 669
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563fbd065e736f200800000000000000
+      internalID: 213419490658743141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 586
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5d5c84a0ef7690800000000000000
+      internalID: -7602110648643921366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 586
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2bd86e03cefe1d0800000000000000
+      internalID: -3319174705578134831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 586
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc0bb79bd56b4b0800000000000000
+      internalID: -5425045649895666580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_93
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 586
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374371f197db0890800000000000000
+      internalID: -7490656533379594443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_94
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 586
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df54545d4bd53e80800000000000000
+      internalID: -8199406421384339497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_95
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 586
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936df6339bffebd20800000000000000
+      internalID: 3296353148178781753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_96
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 585
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b9d4819700ab90800000000000000
+      internalID: -7232772679976504485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_97
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 585
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfdda75724d8b140800000000000000
+      internalID: 4735768273619902408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_98
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 593
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22131883ed6e06c40800000000000000
+      internalID: 5503652586751865122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_99
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 593
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83c90b94a84f8920800000000000000
+      internalID: 2994692149037613962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8150648610987f20800000000000000
+      internalID: 3420642343372476813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_101
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 512
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1735ba1ac15b080800000000000000
+      internalID: -9172393585380462174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 512
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2febd4e7f3a401290800000000000000
+      internalID: -7921750107982283022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_103
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 512
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bf876dc10d20390800000000000000
+      internalID: -7853485977904809204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_104
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 512
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6359c1543cafee210800000000000000
+      internalID: 1364303453724906806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 512
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddb5c470773cf680800000000000000
+      internalID: -8720033822361141807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_106
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 509
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72b8bb1de4d67c50800000000000000
+      internalID: 6662746813578654330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_107
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 509
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16a8311918d71a30800000000000000
+      internalID: 4186051980838872607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_108
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 509
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0a7fd1f445263d0800000000000000
+      internalID: -3214914485207195393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_109
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 509
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae56bbf2b58494f0800000000000000
+      internalID: -822885828128252241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_110
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 421
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eb53774ff0ce630800000000000000
+      internalID: 3957555715198271125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 421
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc11b14cdfc2be20800000000000000
+      internalID: 3364980416501062860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_112
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 420
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a509f39fcd137350800000000000000
+      internalID: 6013182704847750562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_113
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 420
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d709f9883c5fd3d0800000000000000
+      internalID: -3179721413997557807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_114
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 420
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896506b0fc9c7b210800000000000000
+      internalID: 1348768504507029144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_115
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 420
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5652300616a86b9b0800000000000000
+      internalID: -5064708580104264347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 420
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dc1c5c66edc6310800000000000000
+      internalID: 1399738117191224578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_117
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 420
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e8aa2ec5890020800000000000000
+      internalID: 2308523404529559187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_118
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 420
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a142262bf82b0a0800000000000000
+      internalID: -6867268485473101250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_119
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 420
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab86cf7ffe90a87d0800000000000000
+      internalID: -2915506882506626886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 337
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acd3ae4d8bd70240800000000000000
+      internalID: 4758012931296451751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 337
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f842d147888c72570800000000000000
+      internalID: 8441936514918458511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_122
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 337
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907597a75e2610d80800000000000000
+      internalID: -8286233101643196663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 337
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768c38fddf9547b0800000000000000
+      internalID: -5240606815674399111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_124
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 337
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f698dbe5897e3fb0800000000000000
+      internalID: -4666158547814803724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 337
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423698d99071ab330800000000000000
+      internalID: 3727316971667677988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_126
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 337
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef7181076f57150800000000000000
+      internalID: 5869868650648305176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_127
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 337
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36691913fc9e3bb00800000000000000
+      internalID: 843274631347541603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_128
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 337
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56694876fd9b8e80800000000000000
+      internalID: -8175267016655411617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_129
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 337
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f146a161e1dd40800000000000000
+      internalID: 5607510820570396588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 254
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aac6489ef05d090800000000000000
+      internalID: -8010478866585048466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_131
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 254
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624eba50e978ab850800000000000000
+      internalID: 6393571733775574054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_132
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 254
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5524c64f095671860800000000000000
+      internalID: 7500575377659282005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_133
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 254
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf06d14fabf9a00800000000000000
+      internalID: 765536019303955153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_134
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 254
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a83c353f7f68c0800000000000000
+      internalID: -4003841677088743257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_135
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 254
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8be502da764aa730800000000000000
+      internalID: 4011095911450405774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_136
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 254
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082437bffd0f5c1c0800000000000000
+      internalID: -4483913009190452608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_137
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 254
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a861c255632a00800000000000000
+      internalID: 730538970670737205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_138
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 254
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d79205834af44d00800000000000000
+      internalID: 956164188810680276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_139
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 254
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9307dbbb63cd29f0800000000000000
+      internalID: -491521916833168485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_140
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 171
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e370553b1162f6640800000000000000
+      internalID: 5075317162534831934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_141
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 171
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6556af98f9a36fb0800000000000000
+      internalID: -4655690704475499158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_142
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 171
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a2d978769e2b00800000000000000
+      internalID: 805746827529986400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_143
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 171
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70349ae45eb8a4850800000000000000
+      internalID: 6362051240597734151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_144
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 171
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eee44e631300d10800000000000000
+      internalID: 2089724338928283280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_145
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 171
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea141852a052c040800000000000000
+      internalID: 4666380822101891810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_146
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 171
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894fa00b5dbb73170800000000000000
+      internalID: 8158195776460879000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_147
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 171
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2871d53f46c700800000000000000
+      internalID: 560222296220380369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_148
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 171
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f1a11cd6639080800000000000000
+      internalID: -9181882119903645273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_149
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 171
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dc523754ea5a550800000000000000
+      internalID: 6171530477688966474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_150
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af98a969c2c1790f0800000000000000
+      internalID: -1110387805292688902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_151
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950e7da693d77380800000000000000
+      internalID: -8973471088403151458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_152
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 88
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d823924a98d692b20800000000000000
+      internalID: 3110137455608148621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_153
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 88
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e5f8c6566cabc80800000000000000
+      internalID: -8306108423816126959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_154
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 88
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f5b525dc0c19ed0800000000000000
+      internalID: -2408932337583956143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_155
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 88
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab30bdf5a242260800000000000000
+      internalID: 7071823906063235831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bcc127e5c1692f0800000000000000
+      internalID: -966553878057399452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_157
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 88
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a718af6da94c0d0800000000000000
+      internalID: -3403425170268783977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_158
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 88
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07db286e6f68c3af0800000000000000
+      internalID: -415308670637523600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_159
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 88
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755931512e3dcb590800000000000000
+      internalID: -7657012298467011241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182e4dd82a6e660b0800000000000000
+      internalID: -5735643489571118463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_161
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 5
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13035fb88db778170800000000000000
+      internalID: 8180643418133049393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_162
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09725a73ecd1c3940800000000000000
+      internalID: 5277125634905417616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_163
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4917e3bf8c593d2c0800000000000000
+      internalID: -4408014919824412268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_164
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2678d86ef0a6759d0800000000000000
+      internalID: -2785641227980273822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_165
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 5
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8a796e199b15970800000000000000
+      internalID: 8741972387992938751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu_166
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26237135bae9bd0800000000000000
+      internalID: -2621469559723236632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

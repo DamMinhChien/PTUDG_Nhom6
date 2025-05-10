@@ -1,0 +1,3442 @@
+fileFormatVersion: 2
+guid: 5d853903f864fd141b9a1ca11fa8ce5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2308774455743748242
+    second: Infernape_0
+  - first:
+      213: 4092722706274723629
+    second: Infernape_1
+  - first:
+      213: -3963706161730271752
+    second: Infernape_2
+  - first:
+      213: 6937376799751970033
+    second: Infernape_3
+  - first:
+      213: -3640816214141998654
+    second: Infernape_4
+  - first:
+      213: -6368545865547595493
+    second: Infernape_5
+  - first:
+      213: 231771365077943910
+    second: Infernape_6
+  - first:
+      213: 1358183604490498475
+    second: Infernape_7
+  - first:
+      213: -884553875608459481
+    second: Infernape_8
+  - first:
+      213: 2047125515493151561
+    second: Infernape_9
+  - first:
+      213: -4200333330976450401
+    second: Infernape_10
+  - first:
+      213: 2088191339722620555
+    second: Infernape_11
+  - first:
+      213: 8525636086526748868
+    second: Infernape_12
+  - first:
+      213: -7576530778452474716
+    second: Infernape_13
+  - first:
+      213: -9178649015578931904
+    second: Infernape_14
+  - first:
+      213: 1035387789906305560
+    second: Infernape_15
+  - first:
+      213: 614077169789670031
+    second: Infernape_16
+  - first:
+      213: -834127647250310541
+    second: Infernape_17
+  - first:
+      213: -1063811554076542079
+    second: Infernape_18
+  - first:
+      213: 5810848833613057395
+    second: Infernape_19
+  - first:
+      213: -1884251962613747279
+    second: Infernape_20
+  - first:
+      213: -5868593943162855683
+    second: Infernape_21
+  - first:
+      213: -1455458471840943948
+    second: Infernape_22
+  - first:
+      213: 253441873821021475
+    second: Infernape_23
+  - first:
+      213: -8456127966318257103
+    second: Infernape_24
+  - first:
+      213: 7119437704216290824
+    second: Infernape_25
+  - first:
+      213: -3860561958894358712
+    second: Infernape_26
+  - first:
+      213: 9070030173606858785
+    second: Infernape_27
+  - first:
+      213: -5333121579364107273
+    second: Infernape_28
+  - first:
+      213: -2918774306685844835
+    second: Infernape_29
+  - first:
+      213: 5423726863417001785
+    second: Infernape_30
+  - first:
+      213: -8563042840923051295
+    second: Infernape_31
+  - first:
+      213: -2201719046075951955
+    second: Infernape_32
+  - first:
+      213: -927056837463745606
+    second: Infernape_33
+  - first:
+      213: -6234651708620387443
+    second: Infernape_34
+  - first:
+      213: 1352421816750451913
+    second: Infernape_35
+  - first:
+      213: 6706825698858137685
+    second: Infernape_36
+  - first:
+      213: 1912731826677524457
+    second: Infernape_37
+  - first:
+      213: 6872841893929652826
+    second: Infernape_38
+  - first:
+      213: 8384320890132315517
+    second: Infernape_39
+  - first:
+      213: 5193011725994580323
+    second: Infernape_40
+  - first:
+      213: 6618619858630760387
+    second: Infernape_41
+  - first:
+      213: 9012523783069568929
+    second: Infernape_42
+  - first:
+      213: 5354155382846600666
+    second: Infernape_43
+  - first:
+      213: 6069988411537993766
+    second: Infernape_44
+  - first:
+      213: -8568817229745769264
+    second: Infernape_45
+  - first:
+      213: 5916024413801937063
+    second: Infernape_46
+  - first:
+      213: 1506401632831070558
+    second: Infernape_47
+  - first:
+      213: 8429912291978803295
+    second: Infernape_48
+  - first:
+      213: 2324242587328051660
+    second: Infernape_49
+  - first:
+      213: 5205553442865471983
+    second: Infernape_50
+  - first:
+      213: 1726538177872854741
+    second: Infernape_51
+  - first:
+      213: 3058106410978178612
+    second: Infernape_52
+  - first:
+      213: 2768746543576634984
+    second: Infernape_53
+  - first:
+      213: 3221584182060536977
+    second: Infernape_54
+  - first:
+      213: 9212980536136299053
+    second: Infernape_55
+  - first:
+      213: -59378695156993605
+    second: Infernape_56
+  - first:
+      213: -3644690246909995639
+    second: Infernape_57
+  - first:
+      213: -2895776561974880098
+    second: Infernape_58
+  - first:
+      213: 3773812867839123819
+    second: Infernape_59
+  - first:
+      213: 7073887792368979533
+    second: Infernape_60
+  - first:
+      213: -744637099200447388
+    second: Infernape_61
+  - first:
+      213: -5920310616550960682
+    second: Infernape_62
+  - first:
+      213: -2503371236732987650
+    second: Infernape_63
+  - first:
+      213: -5483192994426387344
+    second: Infernape_64
+  - first:
+      213: 4302578818456114715
+    second: Infernape_65
+  - first:
+      213: -7279093974368918741
+    second: Infernape_66
+  - first:
+      213: 3687346247411162539
+    second: Infernape_67
+  - first:
+      213: -2363191526691654380
+    second: Infernape_68
+  - first:
+      213: 7623490129769647581
+    second: Infernape_69
+  - first:
+      213: 8667750928470862076
+    second: Infernape_70
+  - first:
+      213: 7202885415912926576
+    second: Infernape_71
+  - first:
+      213: 2463236297507133854
+    second: Infernape_72
+  - first:
+      213: -7292777357835874936
+    second: Infernape_73
+  - first:
+      213: -2581434469647431396
+    second: Infernape_74
+  - first:
+      213: -7695715438827749034
+    second: Infernape_75
+  - first:
+      213: -527689589449689544
+    second: Infernape_76
+  - first:
+      213: 4101006109203622477
+    second: Infernape_77
+  - first:
+      213: -5426287348283408446
+    second: Infernape_78
+  - first:
+      213: 7176194839611894372
+    second: Infernape_79
+  - first:
+      213: 3714337109766786385
+    second: Infernape_80
+  - first:
+      213: -7155103973505457791
+    second: Infernape_81
+  - first:
+      213: -4392783485331978943
+    second: Infernape_82
+  - first:
+      213: 8556785282611716843
+    second: Infernape_83
+  - first:
+      213: -7699949332706337094
+    second: Infernape_84
+  - first:
+      213: 5293556426720340717
+    second: Infernape_85
+  - first:
+      213: 203499174531161899
+    second: Infernape_86
+  - first:
+      213: -5119706202573901166
+    second: Infernape_87
+  - first:
+      213: -306999146168491512
+    second: Infernape_88
+  - first:
+      213: 5480494167182167133
+    second: Infernape_89
+  - first:
+      213: -7814570270659073080
+    second: Infernape_90
+  - first:
+      213: 2761714584436501199
+    second: Infernape_91
+  - first:
+      213: -364620250088140212
+    second: Infernape_92
+  - first:
+      213: 2172939397343561947
+    second: Infernape_93
+  - first:
+      213: -7626228433429636502
+    second: Infernape_94
+  - first:
+      213: -4334398811881316920
+    second: Infernape_95
+  - first:
+      213: -4292695325201199977
+    second: Infernape_96
+  - first:
+      213: -7942008520679639778
+    second: Infernape_97
+  - first:
+      213: -537803435256974624
+    second: Infernape_98
+  - first:
+      213: -388007924219679746
+    second: Infernape_99
+  - first:
+      213: 4615699991190279296
+    second: Infernape_100
+  - first:
+      213: -7178846031360095082
+    second: Infernape_101
+  - first:
+      213: -8020991932175217098
+    second: Infernape_102
+  - first:
+      213: -7840272859880717309
+    second: Infernape_103
+  - first:
+      213: -3574854619868284893
+    second: Infernape_104
+  - first:
+      213: -4760065795171733643
+    second: Infernape_105
+  - first:
+      213: 2374599843890593762
+    second: Infernape_106
+  - first:
+      213: -600964336580261764
+    second: Infernape_107
+  - first:
+      213: 1641142562365722266
+    second: Infernape_108
+  - first:
+      213: -3872382515520127053
+    second: Infernape_109
+  - first:
+      213: -3641491591220369770
+    second: Infernape_110
+  - first:
+      213: 6198448356049727588
+    second: Infernape_111
+  - first:
+      213: 7425120461280921906
+    second: Infernape_112
+  - first:
+      213: -4642306871399696089
+    second: Infernape_113
+  - first:
+      213: -3258658800111420595
+    second: Infernape_114
+  - first:
+      213: -4553541615501276164
+    second: Infernape_115
+  - first:
+      213: 2965889620103472929
+    second: Infernape_116
+  - first:
+      213: 8648887729064801937
+    second: Infernape_117
+  - first:
+      213: -3126211690399501771
+    second: Infernape_118
+  - first:
+      213: 8373240433251975521
+    second: Infernape_119
+  - first:
+      213: 5554063181166322664
+    second: Infernape_120
+  - first:
+      213: -3076066995848927097
+    second: Infernape_121
+  - first:
+      213: 1687569848840043120
+    second: Infernape_122
+  - first:
+      213: -2302684778563724880
+    second: Infernape_123
+  - first:
+      213: -8784395032372163931
+    second: Infernape_124
+  - first:
+      213: -1811348243454251121
+    second: Infernape_125
+  - first:
+      213: 4236441240053568090
+    second: Infernape_126
+  - first:
+      213: 6039102700051054459
+    second: Infernape_127
+  - first:
+      213: 8520515397226603546
+    second: Infernape_128
+  - first:
+      213: 3032815255082615491
+    second: Infernape_129
+  - first:
+      213: 7943640391575068626
+    second: Infernape_130
+  - first:
+      213: -253636560094167601
+    second: Infernape_131
+  - first:
+      213: 3561110778391120214
+    second: Infernape_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infernape_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1083
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2981a15922a6a0020800000000000000
+      internalID: 2308774455743748242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1083
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d272eaffd954cc830800000000000000
+      internalID: 4092722706274723629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1083
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f54a0c1f361ef8c0800000000000000
+      internalID: -3963706161730271752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1083
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc904e8173864060800000000000000
+      internalID: 6937376799751970033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1083
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9659f61f8397dc0800000000000000
+      internalID: -3640816214141998654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1083
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11c04cf6416e97a0800000000000000
+      internalID: -6368545865547595493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1083
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666049c14da673300800000000000000
+      internalID: 231771365077943910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1083
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba17a65dacc39d210800000000000000
+      internalID: 1358183604490498475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_8
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1083
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727a9abcfee69b3f0800000000000000
+      internalID: -884553875608459481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1083
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9439b996fc9d86c10800000000000000
+      internalID: 2047125515493151561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1000
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985aecf61b65b5c0800000000000000
+      internalID: -4200333330976450401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1000
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb633b5febafc10800000000000000
+      internalID: 2088191339722620555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1000
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ada599d4215670800000000000000
+      internalID: 8525636086526748868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1000
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c6803661cad690800000000000000
+      internalID: -7576530778452474716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1000
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dcd64d953ee9080800000000000000
+      internalID: -9178649015578931904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1000
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812642e85bf6e5e00800000000000000
+      internalID: 1035387789906305560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1000
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f829df1bee3a58800800000000000000
+      internalID: 614077169789670031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1000
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a105003559c64f0800000000000000
+      internalID: -834127647250310541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_18
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1000
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bbf4327059c31f0800000000000000
+      internalID: -1063811554076542079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1000
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dcffa1a3844a050800000000000000
+      internalID: 5810848833613057395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 917
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1331db2dac9d5e0800000000000000
+      internalID: -1884251962613747279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 917
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed4ced6e09e8ea0800000000000000
+      internalID: -5868593943162855683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 917
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b076903b3c2dcbe0800000000000000
+      internalID: -1455458471840943948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 917
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325bf4c9a08648300800000000000000
+      internalID: 253441873821021475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 917
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c9a58ca6cc5aa80800000000000000
+      internalID: -8456127966318257103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_25
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 917
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a5502fd25dc260800000000000000
+      internalID: 7119437704216290824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_26
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 917
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f27be3a578c6ac0800000000000000
+      internalID: -3860561958894358712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_27
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 917
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12059e743683fdd70800000000000000
+      internalID: 9070030173606858785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 917
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb380efd22fcf5b0800000000000000
+      internalID: -5333121579364107273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_29
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 917
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92047e7b3e6e77d0800000000000000
+      internalID: -2918774306685844835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 834
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937c6bc98d2f44b40800000000000000
+      internalID: 5423726863417001785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 834
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6456b7e5f92980800000000000000
+      internalID: -8563042840923051295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 834
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da45e6b513ce171e0800000000000000
+      internalID: -2201719046075951955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_33
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 834
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb5064d7be6223f0800000000000000
+      internalID: -927056837463745606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 834
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4669bd411a79a0800000000000000
+      internalID: -6234651708620387443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 834
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc26e51a74c4c210800000000000000
+      internalID: 1352421816750451913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 834
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55876e6507e631d50800000000000000
+      internalID: 6706825698858137685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_37
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 834
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a2b756736b8a10800000000000000
+      internalID: 1912731826677524457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_38
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 834
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529915e94d316f50800000000000000
+      internalID: 6872841893929652826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_39
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 834
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d39337d671b5470800000000000000
+      internalID: 8384320890132315517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 751
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369585aa6a8411840800000000000000
+      internalID: 5193011725994580323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 751
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c75809c1bf0adb50800000000000000
+      internalID: 6618619858630760387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 751
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0f9b51aae21d70800000000000000
+      internalID: 9012523783069568929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 751
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad531d204f7cd4a40800000000000000
+      internalID: 5354155382846600666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 751
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b574dc4eec3450800000000000000
+      internalID: 6069988411537993766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_45
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 751
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b1cb0122751980800000000000000
+      internalID: -8568817229745769264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 751
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f3332cd0f91250800000000000000
+      internalID: 5916024413801937063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_47
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 751
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e6f5cd40d7e410800000000000000
+      internalID: 1506401632831070558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 751
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f587813e0901df470800000000000000
+      internalID: 8429912291978803295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_49
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 751
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9f58d915e514020800000000000000
+      internalID: 2324242587328051660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 668
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1ee4da647dd3840800000000000000
+      internalID: 5205553442865471983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 668
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5def24f3355e5f710800000000000000
+      internalID: 1726538177872854741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 668
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436f2b70493907a20800000000000000
+      internalID: 3058106410978178612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 668
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866d9fadf409c6620800000000000000
+      internalID: 2768746543576634984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_54
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 668
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945cb1bebd55bc20800000000000000
+      internalID: 3221584182060536977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_55
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 668
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22fdf23cf41bdf70800000000000000
+      internalID: 9212980536136299053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_56
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 668
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1f0ff246b0d2ff0800000000000000
+      internalID: -59378695156993605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 668
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9855994e7857b6dc0800000000000000
+      internalID: -3644690246909995639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_58
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 668
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d5923f8220d7d0800000000000000
+      internalID: -2895776561974880098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_59
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 668
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61695c0fc64f5430800000000000000
+      internalID: 3773812867839123819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 585
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0025d77f7b2260800000000000000
+      internalID: 7073887792368979533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 585
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c7497e0848aa5f0800000000000000
+      internalID: -744637099200447388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_62
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 585
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d191848cd4d6dda0800000000000000
+      internalID: -5920310616550960682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 585
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69995af1d324dd0800000000000000
+      internalID: -2503371236732987650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 585
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0740e44d509c7e3b0800000000000000
+      internalID: -5483192994426387344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_65
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 585
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16523ca3a4d5bb30800000000000000
+      internalID: 4302578818456114715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 585
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23ed0bb8967bfa90800000000000000
+      internalID: -7279093974368918741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_67
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 585
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baddfc820e51c2330800000000000000
+      internalID: 3687346247411162539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_68
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 585
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415b453c3d1443fd0800000000000000
+      internalID: -2363191526691654380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_69
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 585
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddcd9dc1e31cc960800000000000000
+      internalID: 7623490129769647581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 502
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf86115bb890a4870800000000000000
+      internalID: 8667750928470862076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 502
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de45d8f1ac5f360800000000000000
+      internalID: 7202885415912926576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 502
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99d2ce9c5c2f2220800000000000000
+      internalID: 2463236297507133854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 502
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d4e20c1a9daca90800000000000000
+      internalID: -7292777357835874936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_74
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 502
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1947b1e607ec2cd0800000000000000
+      internalID: -2581434469647431396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_75
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 502
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ce200593533590800000000000000
+      internalID: -7695715438827749034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_76
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 502
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836fd2d3d154da8f0800000000000000
+      internalID: -527689589449689544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_77
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 502
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae9c80453b9e830800000000000000
+      internalID: 4101006109203622477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_78
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 502
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cffe5c0864f1b4b0800000000000000
+      internalID: -5426287348283408446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_79
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 502
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aee0e7f27f69360800000000000000
+      internalID: 7176194839611894372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 419
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d43b30ce9fb8330800000000000000
+      internalID: 3714337109766786385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 419
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181a83078d6f3bc90800000000000000
+      internalID: -7155103973505457791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_82
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 419
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c59da1b2b903c0800000000000000
+      internalID: -4392783485331978943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_83
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 419
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ac55f0eecfb670800000000000000
+      internalID: 8556785282611716843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_84
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 419
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5883c0e8442590800000000000000
+      internalID: -7699949332706337094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_85
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 419
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae62d068d767940800000000000000
+      internalID: 5293556426720340717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_86
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 419
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd30acb69f2d200800000000000000
+      internalID: 203499174531161899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_87
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 419
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f739855623f8b0800000000000000
+      internalID: -5119706202573901166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_88
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 419
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802674237e15dbbf0800000000000000
+      internalID: -306999146168491512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_89
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 419
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c4e7c7860ae0c40800000000000000
+      internalID: 5480494167182167133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 336
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cba9010eb11d8390800000000000000
+      internalID: -7814570270659073080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 336
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca6a5848c4935620800000000000000
+      internalID: 2761714584436501199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_92
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 336
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42159b70db90faf0800000000000000
+      internalID: -364620250088140212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 336
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd84d118ed4d72e10800000000000000
+      internalID: 2172939397343561947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 336
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a517135a13a2690800000000000000
+      internalID: -7626228433429636502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_95
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 336
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd50f6ce3f19d3c0800000000000000
+      internalID: -4334398811881316920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 336
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c076c68584d64c0800000000000000
+      internalID: -4292695325201199977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_97
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 336
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b3c9345158c190800000000000000
+      internalID: -7942008520679639778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_98
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 336
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f58200a65988f0800000000000000
+      internalID: -537803435256974624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_99
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 336
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb69d249d48d9af0800000000000000
+      internalID: -388007924219679746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 253
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0849bacdfa24e0040800000000000000
+      internalID: 4615699991190279296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 253
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c0f83d19d9f5c90800000000000000
+      internalID: -7178846031360095082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_102
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 253
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e0c60b556bfa090800000000000000
+      internalID: -8020991932175217098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 253
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048cac9f51c13390800000000000000
+      internalID: -7840272859880717309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_104
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 253
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283613e9a0936ec0800000000000000
+      internalID: -3574854619868284893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_105
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 253
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f2d431169d0fdb0800000000000000
+      internalID: -4760065795171733643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_106
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 253
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2effbc21af544f020800000000000000
+      internalID: 2374599843890593762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_107
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 253
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788473be12f8a7f0800000000000000
+      internalID: -600964336580261764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_108
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 253
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e459f177286c610800000000000000
+      internalID: 1641142562365722266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_109
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 253
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3dff6e98824ac0800000000000000
+      internalID: -3872382515520127053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ecb4f0b2d67dc0800000000000000
+      internalID: -3641491591220369770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b2f460ff450650800000000000000
+      internalID: 6198448356049727588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_112
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 170
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239422538b35b0760800000000000000
+      internalID: 7425120461280921906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_113
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 170
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729bdd71f76339fb0800000000000000
+      internalID: -4642306871399696089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_114
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 170
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b782f161be6c2d0800000000000000
+      internalID: -3258658800111420595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_115
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 170
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb8612c6029ec0c0800000000000000
+      internalID: -4553541615501276164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_116
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 170
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127294145e4f82920800000000000000
+      internalID: 2965889620103472929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_117
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 170
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1967429d095070870800000000000000
+      internalID: 8648887729064801937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_118
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 170
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532701de7077d94d0800000000000000
+      internalID: -3126211690399501771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_119
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 170
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1610cea8fc9b33470800000000000000
+      internalID: 8373240433251975521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ae7d590ff31d40800000000000000
+      internalID: 5554063181166322664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882f1f6d5d9f45d0800000000000000
+      internalID: -3076066995848927097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_122
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 87
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a35cd16d37b6710800000000000000
+      internalID: 1687569848840043120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_123
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 87
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b99200e4683b00e0800000000000000
+      internalID: -2302684778563724880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_124
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 87
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa40c0824f871680800000000000000
+      internalID: -8784395032372163931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_125
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 87
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fa1689e5cccd6e0800000000000000
+      internalID: -1811348243454251121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_126
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 87
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a525539bcdcdaca30800000000000000
+      internalID: 4236441240053568090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_127
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 87
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f35aeb8e33fc350800000000000000
+      internalID: 6039102700051054459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_128
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 87
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1420f23c93fe3670800000000000000
+      internalID: 8520515397226603546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_129
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 87
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c59ce769b61a20800000000000000
+      internalID: 3032815255082615491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfd64359da7d3e60800000000000000
+      internalID: 7943640391575068626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_131
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf88574e6ea7cf0800000000000000
+      internalID: -253636560094167601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernape_132
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65941d7a26b9b6130800000000000000
+      internalID: 3561110778391120214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

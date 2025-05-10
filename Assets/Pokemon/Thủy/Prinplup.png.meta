@@ -1,0 +1,3242 @@
+fileFormatVersion: 2
+guid: 93ba87798200039478e589720fe4f91c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2661241687623795050
+    second: Prinplup_0
+  - first:
+      213: 6029990953651140323
+    second: Prinplup_1
+  - first:
+      213: 611703844388459851
+    second: Prinplup_2
+  - first:
+      213: -698967427720624707
+    second: Prinplup_3
+  - first:
+      213: -6715719128348890279
+    second: Prinplup_4
+  - first:
+      213: 6575179619873802475
+    second: Prinplup_5
+  - first:
+      213: -367821028463201525
+    second: Prinplup_6
+  - first:
+      213: -646364753620496538
+    second: Prinplup_7
+  - first:
+      213: 159873547962493622
+    second: Prinplup_8
+  - first:
+      213: 6915929260059166875
+    second: Prinplup_9
+  - first:
+      213: 4562011720994029880
+    second: Prinplup_10
+  - first:
+      213: -2298710294693850739
+    second: Prinplup_11
+  - first:
+      213: -7900758804859807677
+    second: Prinplup_12
+  - first:
+      213: -8910718920563519133
+    second: Prinplup_13
+  - first:
+      213: -469282584043844315
+    second: Prinplup_14
+  - first:
+      213: 5800602550899773909
+    second: Prinplup_15
+  - first:
+      213: -2740980755316907590
+    second: Prinplup_16
+  - first:
+      213: 5625902309953037816
+    second: Prinplup_17
+  - first:
+      213: -2070876534058099976
+    second: Prinplup_18
+  - first:
+      213: 1213217033827148702
+    second: Prinplup_19
+  - first:
+      213: 3902762769017476208
+    second: Prinplup_20
+  - first:
+      213: -3749073213799744931
+    second: Prinplup_21
+  - first:
+      213: -4419618353667681241
+    second: Prinplup_22
+  - first:
+      213: 4185747657237141590
+    second: Prinplup_23
+  - first:
+      213: 3718222294662147881
+    second: Prinplup_24
+  - first:
+      213: 3267408993537200197
+    second: Prinplup_25
+  - first:
+      213: 2590958925018470492
+    second: Prinplup_26
+  - first:
+      213: 8783224827177895118
+    second: Prinplup_27
+  - first:
+      213: -8344960603284407761
+    second: Prinplup_28
+  - first:
+      213: -7247610906640465580
+    second: Prinplup_29
+  - first:
+      213: -2714457422373445116
+    second: Prinplup_30
+  - first:
+      213: 6942991075455098049
+    second: Prinplup_31
+  - first:
+      213: -4097977604031231604
+    second: Prinplup_32
+  - first:
+      213: -6068811755817725646
+    second: Prinplup_33
+  - first:
+      213: -2449182763398400339
+    second: Prinplup_34
+  - first:
+      213: 1874697013416227444
+    second: Prinplup_35
+  - first:
+      213: 4582524685154830372
+    second: Prinplup_36
+  - first:
+      213: -5714011698163229788
+    second: Prinplup_37
+  - first:
+      213: 8451723009492238315
+    second: Prinplup_38
+  - first:
+      213: 6990148999173121852
+    second: Prinplup_39
+  - first:
+      213: 5668305090167993624
+    second: Prinplup_40
+  - first:
+      213: -8681302548323733317
+    second: Prinplup_41
+  - first:
+      213: 6850648339181238598
+    second: Prinplup_42
+  - first:
+      213: 423167577069897289
+    second: Prinplup_43
+  - first:
+      213: -2765577962543889412
+    second: Prinplup_44
+  - first:
+      213: 2256185420980369746
+    second: Prinplup_45
+  - first:
+      213: -73194480653665809
+    second: Prinplup_46
+  - first:
+      213: -6523239115336862482
+    second: Prinplup_47
+  - first:
+      213: 5292924729486738245
+    second: Prinplup_48
+  - first:
+      213: -3764324643150962601
+    second: Prinplup_49
+  - first:
+      213: -1237343754647175603
+    second: Prinplup_50
+  - first:
+      213: 3556052162279683369
+    second: Prinplup_51
+  - first:
+      213: 8754405827910956189
+    second: Prinplup_52
+  - first:
+      213: -5746521004751608624
+    second: Prinplup_53
+  - first:
+      213: -1842594744042413009
+    second: Prinplup_54
+  - first:
+      213: -7495581119497526526
+    second: Prinplup_55
+  - first:
+      213: 6464135167390281573
+    second: Prinplup_56
+  - first:
+      213: 3807379242946143697
+    second: Prinplup_57
+  - first:
+      213: -1136602693231796098
+    second: Prinplup_58
+  - first:
+      213: -7522429308157502264
+    second: Prinplup_59
+  - first:
+      213: 1611462224140016903
+    second: Prinplup_60
+  - first:
+      213: 3692467248014471143
+    second: Prinplup_61
+  - first:
+      213: -6117011418782328554
+    second: Prinplup_62
+  - first:
+      213: -1784247167636596182
+    second: Prinplup_63
+  - first:
+      213: 5905574913675587961
+    second: Prinplup_64
+  - first:
+      213: 8492681403237662230
+    second: Prinplup_65
+  - first:
+      213: 8471338324493022181
+    second: Prinplup_66
+  - first:
+      213: -7845238302527358162
+    second: Prinplup_67
+  - first:
+      213: 1419284178441934256
+    second: Prinplup_68
+  - first:
+      213: -515282025247732215
+    second: Prinplup_69
+  - first:
+      213: 7908744537278206037
+    second: Prinplup_70
+  - first:
+      213: -7008353540585845829
+    second: Prinplup_71
+  - first:
+      213: 2597210015755380876
+    second: Prinplup_72
+  - first:
+      213: 3640612146908892375
+    second: Prinplup_73
+  - first:
+      213: -8281362150267690649
+    second: Prinplup_74
+  - first:
+      213: 3411237374479552649
+    second: Prinplup_75
+  - first:
+      213: -8945656381069001296
+    second: Prinplup_76
+  - first:
+      213: -184622006266969463
+    second: Prinplup_77
+  - first:
+      213: 7220883413688380313
+    second: Prinplup_78
+  - first:
+      213: -1145618347028907498
+    second: Prinplup_79
+  - first:
+      213: 6529848613066800102
+    second: Prinplup_80
+  - first:
+      213: 5157502445746087427
+    second: Prinplup_81
+  - first:
+      213: 2448987083594057887
+    second: Prinplup_82
+  - first:
+      213: -6452812859239491197
+    second: Prinplup_83
+  - first:
+      213: -2059366037994948779
+    second: Prinplup_84
+  - first:
+      213: 492352596091328023
+    second: Prinplup_85
+  - first:
+      213: -3511258494409240285
+    second: Prinplup_86
+  - first:
+      213: 5495415600159140308
+    second: Prinplup_87
+  - first:
+      213: 4833172154467013227
+    second: Prinplup_88
+  - first:
+      213: -5622561459360493022
+    second: Prinplup_89
+  - first:
+      213: 4097329345020069973
+    second: Prinplup_90
+  - first:
+      213: 4054233993742023340
+    second: Prinplup_91
+  - first:
+      213: 7084523081838644571
+    second: Prinplup_92
+  - first:
+      213: -3968428639615611810
+    second: Prinplup_93
+  - first:
+      213: 5681716339938153166
+    second: Prinplup_94
+  - first:
+      213: 6682208403970992201
+    second: Prinplup_95
+  - first:
+      213: -3810483359213744020
+    second: Prinplup_96
+  - first:
+      213: -6036999583562792992
+    second: Prinplup_97
+  - first:
+      213: -8126418736002940523
+    second: Prinplup_98
+  - first:
+      213: 7081600078237260960
+    second: Prinplup_99
+  - first:
+      213: -2390142371148233648
+    second: Prinplup_100
+  - first:
+      213: -4480913702979931133
+    second: Prinplup_101
+  - first:
+      213: -1943563025644447179
+    second: Prinplup_102
+  - first:
+      213: 3819918341009149347
+    second: Prinplup_103
+  - first:
+      213: -3249927681050861564
+    second: Prinplup_104
+  - first:
+      213: -4243794539203942692
+    second: Prinplup_105
+  - first:
+      213: -1341525958050853559
+    second: Prinplup_106
+  - first:
+      213: -7049453061739848574
+    second: Prinplup_107
+  - first:
+      213: 3873185376622371366
+    second: Prinplup_108
+  - first:
+      213: -6484131451376201312
+    second: Prinplup_109
+  - first:
+      213: -5030487063042064734
+    second: Prinplup_110
+  - first:
+      213: 6806500903119195717
+    second: Prinplup_111
+  - first:
+      213: -3926811374807281580
+    second: Prinplup_112
+  - first:
+      213: 8216861472720187491
+    second: Prinplup_113
+  - first:
+      213: -2586254571573024864
+    second: Prinplup_114
+  - first:
+      213: 2824552230410089703
+    second: Prinplup_115
+  - first:
+      213: -275075703035211233
+    second: Prinplup_116
+  - first:
+      213: 7023136225361379751
+    second: Prinplup_117
+  - first:
+      213: -8166080875403469439
+    second: Prinplup_118
+  - first:
+      213: 3684996507735091112
+    second: Prinplup_119
+  - first:
+      213: 1775709049235194807
+    second: Prinplup_120
+  - first:
+      213: 565985175348225280
+    second: Prinplup_121
+  - first:
+      213: -8270263087146303396
+    second: Prinplup_122
+  - first:
+      213: -4118604074345096610
+    second: Prinplup_123
+  - first:
+      213: -7086580518811513521
+    second: Prinplup_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prinplup_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 857
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61074c0731aee420800000000000000
+      internalID: 2661241687623795050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 857
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6f137f2d4dea350800000000000000
+      internalID: 6029990953651140323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 856
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d380d7653d7800800000000000000
+      internalID: 611703844388459851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 856
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c429e3d4cc46f0800000000000000
+      internalID: -698967427720624707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 856
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be77fb809fcc2a0800000000000000
+      internalID: -6715719128348890279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 856
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be847f8070bbf3b50800000000000000
+      internalID: 6575179619873802475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 856
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03388139bc35eaf0800000000000000
+      internalID: -367821028463201525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 856
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f0e116ea6a707f0800000000000000
+      internalID: -646364753620496538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 856
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba2943152cf73200800000000000000
+      internalID: 159873547962493622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 856
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988e8515015aff50800000000000000
+      internalID: 6915929260059166875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 786
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831840b5d758f4f30800000000000000
+      internalID: 4562011720994029880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 786
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d815d338a275910e0800000000000000
+      internalID: -2298710294693850739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 786
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3489a4c1abdda5290800000000000000
+      internalID: -7900758804859807677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 786
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361957e4a54c65480800000000000000
+      internalID: -8910718920563519133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 786
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d0ac6e9f5cc79f0800000000000000
+      internalID: -469282584043844315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 786
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d11b918941ef7050800000000000000
+      internalID: 5800602550899773909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 786
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1672f768416f9d0800000000000000
+      internalID: -2740980755316907590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 786
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ecc5f758331e40800000000000000
+      internalID: 5625902309953037816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 786
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa56c5a3c4c243e0800000000000000
+      internalID: -2070876534058099976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 786
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9368b0e67636d010800000000000000
+      internalID: 1213217033827148702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 714
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07418e98f06692630800000000000000
+      internalID: 3902762769017476208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 714
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab88686cd98fbc0800000000000000
+      internalID: -3749073213799744931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 714
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72457d2068c5aa2c0800000000000000
+      internalID: -4419618353667681241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 714
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581b053153c61a30800000000000000
+      internalID: 4185747657237141590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 714
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f664d1a77c99330800000000000000
+      internalID: 3718222294662147881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 714
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54093bb0b2b285d20800000000000000
+      internalID: 3267408993537200197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 714
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c589a513a6fe4f320800000000000000
+      internalID: 2590958925018470492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 714
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4845ed17844e970800000000000000
+      internalID: 8783224827177895118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 715
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a7a987b8eb03c80800000000000000
+      internalID: -8344960603284407761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 715
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c277a7405b6b90800000000000000
+      internalID: -7247610906640465580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 644
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402228d2b5f445ad0800000000000000
+      internalID: -2714457422373445116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 644
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc553bf8957a5060800000000000000
+      internalID: 6942991075455098049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 644
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894636c41f0127c0800000000000000
+      internalID: -4097977604031231604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 644
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23115cdacdf37cba0800000000000000
+      internalID: -6068811755817725646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 644
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f0a5c041c20ed0800000000000000
+      internalID: -2449182763398400339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 644
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f82a4003440a10800000000000000
+      internalID: 1874697013416227444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 644
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428cc110ce5689f30800000000000000
+      internalID: 4582524685154830372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_37
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 644
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abdd8872a0c3b0b0800000000000000
+      internalID: -5714011698163229788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 644
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb7c84c4d8a4570800000000000000
+      internalID: 8451723009492238315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_39
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 644
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3724c6ba7ff10160800000000000000
+      internalID: 6990148999173121852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 573
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8157002927dd9ae40800000000000000
+      internalID: 5668305090167993624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 573
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0787be351d58780800000000000000
+      internalID: -8681302548323733317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 573
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64974024e54621f50800000000000000
+      internalID: 6850648339181238598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 573
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c6b75ba46fd500800000000000000
+      internalID: 423167577069897289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_44
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 573
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34ce7ee71be99d0800000000000000
+      internalID: -2765577962543889412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_45
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 573
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25933f4cfa49f4f10800000000000000
+      internalID: 2256185420980369746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_46
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 573
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe97e15f106fbfef0800000000000000
+      internalID: -73194480653665809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 573
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b961169cc875a0800000000000000
+      internalID: -6523239115336862482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_48
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 573
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54300f39ffe347940800000000000000
+      internalID: 5292924729486738245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 573
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750ecb96eae62cbc0800000000000000
+      internalID: -3764324643150962601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 502
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef43f296214dee0800000000000000
+      internalID: -1237343754647175603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 502
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b07fc992a95130800000000000000
+      internalID: 3556052162279683369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 502
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94fd38b7b5ed7970800000000000000
+      internalID: 8754405827910956189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 502
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a571b7914040b0800000000000000
+      internalID: -5746521004751608624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 502
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a950c7d9cd66e0800000000000000
+      internalID: -1842594744042413009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 502
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a9336fa85af790800000000000000
+      internalID: -7495581119497526526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 502
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6860bfa835b950800000000000000
+      internalID: 6464135167390281573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_57
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 502
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d52005cf3786d430800000000000000
+      internalID: 3807379242946143697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_58
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 502
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70aa2b5fd9f930f0800000000000000
+      internalID: -1136602693231796098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 502
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd8475666fa9790800000000000000
+      internalID: -7522429308157502264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 431
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d93deda501d5610800000000000000
+      internalID: 1611462224140016903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 431
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efaaa606674e3330800000000000000
+      internalID: 3692467248014471143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 431
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619987026820c1ba0800000000000000
+      internalID: -6117011418782328554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 431
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a168587a41d37e0800000000000000
+      internalID: -1784247167636596182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 431
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971771c4811d4f150800000000000000
+      internalID: 5905574913675587961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_65
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 431
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efb867db01cd570800000000000000
+      internalID: 8492681403237662230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_66
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 431
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33f83b25d309570800000000000000
+      internalID: 8471338324493022181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 431
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7197645d102390800000000000000
+      internalID: -7845238302527358162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_68
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 431
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51d5bc07f42b310800000000000000
+      internalID: 1419284178441934256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_69
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 431
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e07f56ab959d8f0800000000000000
+      internalID: -515282025247732215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55057cb114181cd60800000000000000
+      internalID: 7908744537278206037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 360
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb870136935dbe90800000000000000
+      internalID: -7008353540585845829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 360
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88af2cafb42b0420800000000000000
+      internalID: 2597210015755380876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 360
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc0a75757d068230800000000000000
+      internalID: 3640612146908892375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ede83001b21d80800000000000000
+      internalID: -8281362150267690649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_75
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d36e8156275f20800000000000000
+      internalID: 3411237374479552649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_76
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 359
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfca3eae4aad380800000000000000
+      internalID: -8945656381069001296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_77
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 359
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982ccb27347107df0800000000000000
+      internalID: -184622006266969463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_78
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 359
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99be765f43bb53460800000000000000
+      internalID: 7220883413688380313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_79
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 359
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61afb21ee22f910f0800000000000000
+      internalID: -1145618347028907498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb7cea87beae9a50800000000000000
+      internalID: 6529848613066800102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 288
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30667e61621239740800000000000000
+      internalID: 5157502445746087427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98c429f6cc8cf120800000000000000
+      internalID: 2448987083594057887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 289
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38915fa94e00376a0800000000000000
+      internalID: -6452812859239491197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 289
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557becadf79ab63e0800000000000000
+      internalID: -2059366037994948779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_85
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 289
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d34ad31035d600800000000000000
+      internalID: 492352596091328023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_86
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 289
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3211a26b001854fc0800000000000000
+      internalID: -3511258494409240285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 289
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d920a45f53a34c40800000000000000
+      internalID: 5495415600159140308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_88
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 289
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d05d9770e21340800000000000000
+      internalID: 4833172154467013227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_89
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 289
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222140f6426a8f1b0800000000000000
+      internalID: -5622561459360493022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 218
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55884b9a453acd830800000000000000
+      internalID: 4097329345020069973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 218
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa7e494658834830800000000000000
+      internalID: 4054233993742023340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 217
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4c002538415260800000000000000
+      internalID: 7084523081838644571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 217
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c893b8d2f4de8c0800000000000000
+      internalID: -3968428639615611810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_94
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 217
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2db8c78e289de40800000000000000
+      internalID: 5681716339938153166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 217
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94822d9b329fbbc50800000000000000
+      internalID: 6682208403970992201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_96
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 217
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601787d2917e1bc0800000000000000
+      internalID: -3810483359213744020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_97
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 217
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0effe883dd4483ca0800000000000000
+      internalID: -6036999583562792992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_98
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 217
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59147781739293f80800000000000000
+      internalID: -8126418736002940523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_99
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 217
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd5b050c5e64260800000000000000
+      internalID: 7081600078237260960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 147
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054891d4d2284ded0800000000000000
+      internalID: -2390142371148233648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30473b06ab890d1c0800000000000000
+      internalID: -4480913702979931133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a11e1c9b31705e0800000000000000
+      internalID: -1943563025644447179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_103
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 147
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad89da0e73130530800000000000000
+      internalID: 3819918341009149347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 147
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40021413effe5e2d0800000000000000
+      internalID: -3249927681050861564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 147
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a107e9530b15c0800000000000000
+      internalID: -4243794539203942692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_106
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 147
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc965bf31f16de0800000000000000
+      internalID: -1341525958050853559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_107
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 147
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cd43a3acf4b2e90800000000000000
+      internalID: -7049453061739848574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_108
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 147
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62260da349150c530800000000000000
+      internalID: 3873185376622371366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_109
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 147
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a198c3acccb306a0800000000000000
+      internalID: -6484131451376201312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aefd283bae103ab0800000000000000
+      internalID: -5030487063042064734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 76
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e8bcd428c857e50800000000000000
+      internalID: 6806500903119195717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 76
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45016a81cd92189c0800000000000000
+      internalID: -3926811374807281580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 76
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360741289f7280270800000000000000
+      internalID: 8216861472720187491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e8a27b27cb1cd0800000000000000
+      internalID: -2586254571573024864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_115
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 76
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47127d943d23720800000000000000
+      internalID: 2824552230410089703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_116
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 76
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12de320b1cbe2cf0800000000000000
+      internalID: -275075703035211233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_117
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c7d1df21377160800000000000000
+      internalID: 7023136225361379751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_118
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 76
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d1776a5b04cae80800000000000000
+      internalID: -8166080875403469439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_119
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 76
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ea12ccccb32330800000000000000
+      internalID: 3684996507735091112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b34c10e8f594a810800000000000000
+      internalID: 1775709049235194807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_121
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a4cca488cad700800000000000000
+      internalID: 565985175348225280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c508e9b3a8f1a3d80800000000000000
+      internalID: -8270263087146303396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 5
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1f2a6a67c7d6c0800000000000000
+      internalID: -4118604074345096610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prinplup_124
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 5
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d4900809867ad90800000000000000
+      internalID: -7086580518811513521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3117 @@
+fileFormatVersion: 2
+guid: 9fb162b98e13b194aab0958af8190636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5631156226674304961
+    second: Magikarp_0
+  - first:
+      213: 6945549607944817749
+    second: Magikarp_1
+  - first:
+      213: -8471790447106366051
+    second: Magikarp_2
+  - first:
+      213: -8405238421676563010
+    second: Magikarp_3
+  - first:
+      213: -1202331634489017475
+    second: Magikarp_4
+  - first:
+      213: -2422306103963524942
+    second: Magikarp_5
+  - first:
+      213: 6263804785770950073
+    second: Magikarp_6
+  - first:
+      213: -8681139074561915337
+    second: Magikarp_7
+  - first:
+      213: 3521183499932800284
+    second: Magikarp_8
+  - first:
+      213: -8617735742476493403
+    second: Magikarp_9
+  - first:
+      213: 8673425125444578315
+    second: Magikarp_10
+  - first:
+      213: -2397286518786191427
+    second: Magikarp_11
+  - first:
+      213: 3563464781472585308
+    second: Magikarp_12
+  - first:
+      213: 1695626930943410803
+    second: Magikarp_13
+  - first:
+      213: 6202513094760909376
+    second: Magikarp_14
+  - first:
+      213: -4280460978600457085
+    second: Magikarp_15
+  - first:
+      213: 8016588998095405553
+    second: Magikarp_16
+  - first:
+      213: -1534430424116977864
+    second: Magikarp_17
+  - first:
+      213: -3907710226675012906
+    second: Magikarp_18
+  - first:
+      213: 7936876536427653549
+    second: Magikarp_19
+  - first:
+      213: -2616620246432489630
+    second: Magikarp_20
+  - first:
+      213: 3119103148104595174
+    second: Magikarp_21
+  - first:
+      213: -4397278821658503547
+    second: Magikarp_22
+  - first:
+      213: -1303369514429737427
+    second: Magikarp_23
+  - first:
+      213: -5621133033404084702
+    second: Magikarp_24
+  - first:
+      213: 845728738036192946
+    second: Magikarp_25
+  - first:
+      213: 7449579553637648278
+    second: Magikarp_26
+  - first:
+      213: 5504426960190552717
+    second: Magikarp_27
+  - first:
+      213: -3114658559796215651
+    second: Magikarp_28
+  - first:
+      213: 8487598905763582145
+    second: Magikarp_29
+  - first:
+      213: 2008587671149146677
+    second: Magikarp_30
+  - first:
+      213: 4700602005020792752
+    second: Magikarp_31
+  - first:
+      213: -2555486083470846893
+    second: Magikarp_32
+  - first:
+      213: 8784086868715693968
+    second: Magikarp_33
+  - first:
+      213: 3801422553894672807
+    second: Magikarp_34
+  - first:
+      213: -742104183644662246
+    second: Magikarp_35
+  - first:
+      213: 5676996005364448634
+    second: Magikarp_36
+  - first:
+      213: -2463654244718752050
+    second: Magikarp_37
+  - first:
+      213: 7942374964316221727
+    second: Magikarp_38
+  - first:
+      213: 421101034292925369
+    second: Magikarp_39
+  - first:
+      213: -4277237736573989741
+    second: Magikarp_40
+  - first:
+      213: 2497987863430005362
+    second: Magikarp_41
+  - first:
+      213: 9079930676615318296
+    second: Magikarp_42
+  - first:
+      213: 4534910624796088498
+    second: Magikarp_43
+  - first:
+      213: 4469263662161110270
+    second: Magikarp_44
+  - first:
+      213: 5044267898921671403
+    second: Magikarp_45
+  - first:
+      213: 8658841384610713247
+    second: Magikarp_46
+  - first:
+      213: -5159048058363741101
+    second: Magikarp_47
+  - first:
+      213: -8567893921174895928
+    second: Magikarp_48
+  - first:
+      213: 8040791442050017542
+    second: Magikarp_49
+  - first:
+      213: -8170724329031445060
+    second: Magikarp_50
+  - first:
+      213: -5351557497748697990
+    second: Magikarp_51
+  - first:
+      213: 3523030458004908539
+    second: Magikarp_52
+  - first:
+      213: -6111385869601509502
+    second: Magikarp_53
+  - first:
+      213: 8139497191185110239
+    second: Magikarp_54
+  - first:
+      213: 1030652513941445165
+    second: Magikarp_55
+  - first:
+      213: 8925556743276559258
+    second: Magikarp_56
+  - first:
+      213: -1733055859426366627
+    second: Magikarp_57
+  - first:
+      213: -5827636071362570721
+    second: Magikarp_58
+  - first:
+      213: -7699861182284421811
+    second: Magikarp_59
+  - first:
+      213: -7212401790268532495
+    second: Magikarp_60
+  - first:
+      213: -5431216816262915288
+    second: Magikarp_61
+  - first:
+      213: -312632917984794981
+    second: Magikarp_62
+  - first:
+      213: 4007563555256315355
+    second: Magikarp_63
+  - first:
+      213: 4918557192962710064
+    second: Magikarp_64
+  - first:
+      213: 1942712019960874160
+    second: Magikarp_65
+  - first:
+      213: 1899887570755862704
+    second: Magikarp_66
+  - first:
+      213: 3256930035727061827
+    second: Magikarp_67
+  - first:
+      213: -5907194306798571721
+    second: Magikarp_68
+  - first:
+      213: -3775345041841355782
+    second: Magikarp_69
+  - first:
+      213: 1980888666700573074
+    second: Magikarp_70
+  - first:
+      213: 4030874902606637029
+    second: Magikarp_71
+  - first:
+      213: 2972445404482395174
+    second: Magikarp_72
+  - first:
+      213: 2778943915067269631
+    second: Magikarp_73
+  - first:
+      213: 2810335947308078476
+    second: Magikarp_74
+  - first:
+      213: 8889645220471833905
+    second: Magikarp_75
+  - first:
+      213: 2412506798347818933
+    second: Magikarp_76
+  - first:
+      213: -2826492013894841448
+    second: Magikarp_77
+  - first:
+      213: 4778801663024370162
+    second: Magikarp_78
+  - first:
+      213: 5388125046482170982
+    second: Magikarp_79
+  - first:
+      213: 4383030370961374653
+    second: Magikarp_80
+  - first:
+      213: -4591003723256409109
+    second: Magikarp_81
+  - first:
+      213: 8317739333689800368
+    second: Magikarp_82
+  - first:
+      213: -174857020346367709
+    second: Magikarp_83
+  - first:
+      213: 4385105150771636954
+    second: Magikarp_84
+  - first:
+      213: 6310365126355321949
+    second: Magikarp_85
+  - first:
+      213: 1219985975152419511
+    second: Magikarp_86
+  - first:
+      213: 1796514972695325225
+    second: Magikarp_87
+  - first:
+      213: 1887631759531684138
+    second: Magikarp_88
+  - first:
+      213: -7190781261431157516
+    second: Magikarp_89
+  - first:
+      213: -3561266519748857237
+    second: Magikarp_90
+  - first:
+      213: 8323722285200611939
+    second: Magikarp_91
+  - first:
+      213: -1064187066746984230
+    second: Magikarp_92
+  - first:
+      213: -4712580644762763268
+    second: Magikarp_93
+  - first:
+      213: -2282045136516040153
+    second: Magikarp_94
+  - first:
+      213: 6893037957929433784
+    second: Magikarp_95
+  - first:
+      213: 5604753911722551206
+    second: Magikarp_96
+  - first:
+      213: 1064726983996383085
+    second: Magikarp_97
+  - first:
+      213: 9209920967230113715
+    second: Magikarp_98
+  - first:
+      213: -8614808445317138077
+    second: Magikarp_99
+  - first:
+      213: 5190601455657747581
+    second: Magikarp_100
+  - first:
+      213: -463837830089564728
+    second: Magikarp_101
+  - first:
+      213: -2777709308657541029
+    second: Magikarp_102
+  - first:
+      213: 3047755211357662093
+    second: Magikarp_103
+  - first:
+      213: -6486393676022687046
+    second: Magikarp_104
+  - first:
+      213: -458623586374385882
+    second: Magikarp_105
+  - first:
+      213: 1085640008036916282
+    second: Magikarp_106
+  - first:
+      213: -1319319983598716334
+    second: Magikarp_107
+  - first:
+      213: 384773791352377847
+    second: Magikarp_108
+  - first:
+      213: 3217312717929517740
+    second: Magikarp_109
+  - first:
+      213: 1936999563008829675
+    second: Magikarp_110
+  - first:
+      213: -4895698944198702929
+    second: Magikarp_111
+  - first:
+      213: 5740119196877107784
+    second: Magikarp_112
+  - first:
+      213: 7433051372866614759
+    second: Magikarp_113
+  - first:
+      213: 8058409905389894278
+    second: Magikarp_114
+  - first:
+      213: 4702778884592959794
+    second: Magikarp_115
+  - first:
+      213: 8695268897973218201
+    second: Magikarp_116
+  - first:
+      213: -144524325032398616
+    second: Magikarp_117
+  - first:
+      213: -6913868967391415066
+    second: Magikarp_118
+  - first:
+      213: -7833525939911366562
+    second: Magikarp_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magikarp_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 807
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a6a5c0c2e52e40800000000000000
+      internalID: 5631156226674304961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 807
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c876fb19c836060800000000000000
+      internalID: 6945549607944817749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 808
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956dac49772e6a80800000000000000
+      internalID: -8471790447106366051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 808
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e08730389a5b80800000000000000
+      internalID: -8405238421676563010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 811
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b3118afb5705fe0800000000000000
+      internalID: -1202331634489017475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 811
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b06effae6d326ed0800000000000000
+      internalID: -2422306103963524942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 814
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bde44ef3418de650800000000000000
+      internalID: 6263804785770950073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 814
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73649fe9106668780800000000000000
+      internalID: -8681139074561915337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 817
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c151676bcb1cdd030800000000000000
+      internalID: 3521183499932800284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 817
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad508d3007a76880800000000000000
+      internalID: -8617735742476493403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 746
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6214a2323e5870800000000000000
+      internalID: 8673425125444578315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 746
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf8aeecc902bbed0800000000000000
+      internalID: -2397286518786191427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 742
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d945b658f37130800000000000000
+      internalID: 3563464781472585308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 742
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c77ab5b3188710800000000000000
+      internalID: 1695626930943410803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 737
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aceef1cc0c31650800000000000000
+      internalID: 6202513094760909376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 737
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c49973b6fb894c0800000000000000
+      internalID: -4280460978600457085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 735
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f108c55835a04f60800000000000000
+      internalID: 8016588998095405553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 735
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f94f5b8ab94bae0800000000000000
+      internalID: -1534430424116977864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 735
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daefd5b04605c9c0800000000000000
+      internalID: -3907710226675012906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 735
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da927e39823752e60800000000000000
+      internalID: 7936876536427653549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 661
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fdb43dfb5efabd0800000000000000
+      internalID: -2616620246432489630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 661
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b39899c7494b20800000000000000
+      internalID: 3119103148104595174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 661
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58652b0a53ab9f2c0800000000000000
+      internalID: -4397278821658503547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 661
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d269759055089ede0800000000000000
+      internalID: -1303369514429737427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 665
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4cb4c949bdf1b0800000000000000
+      internalID: -5621133033404084702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 665
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69cfe6ec1acbb00800000000000000
+      internalID: 845728738036192946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 667
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c59c6229326760800000000000000
+      internalID: 7449579553637648278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 667
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8abd361827a36c40800000000000000
+      internalID: 5504426960190552717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 671
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9087b2ca8286c4d0800000000000000
+      internalID: -3114658559796215651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 671
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0580e4c320ac570800000000000000
+      internalID: 8487598905763582145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 601
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f21f48dfefdb10800000000000000
+      internalID: 2008587671149146677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 601
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d0c36e94eb3140800000000000000
+      internalID: 4700602005020792752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 596
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354144652f6198cd0800000000000000
+      internalID: -2555486083470846893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 596
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097e8fd877857e970800000000000000
+      internalID: 8784086868715693968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 592
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9dc060cad51c430800000000000000
+      internalID: 3801422553894672807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 592
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1657834d2483b5f0800000000000000
+      internalID: -742104183644662246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 589
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d3f03f9cdb8ce40800000000000000
+      internalID: 5676996005364448634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 589
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecec72674875fcdd0800000000000000
+      internalID: -2463654244718752050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 588
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11360513fbf83e60800000000000000
+      internalID: 7942374964316221727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 588
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3549bd82d08d500800000000000000
+      internalID: 421101034292925369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 515
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c8c9bb0f234a4c0800000000000000
+      internalID: -4277237736573989741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 515
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2728bf41ab2aaa220800000000000000
+      internalID: 2497987863430005362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 517
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b04d4c7d4620e70800000000000000
+      internalID: 9079930676615318296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 517
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b89d1faf2d3fee30800000000000000
+      internalID: 4534910624796088498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 521
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4acae1f93060e30800000000000000
+      internalID: 4469263662161110270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 521
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead12bade6d00640800000000000000
+      internalID: 5044267898921671403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 525
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e4c20ec526a2870800000000000000
+      internalID: 8658841384610713247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 525
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c7f0eef116768b0800000000000000
+      internalID: -5159048058363741101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 526
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c244239fd9b81980800000000000000
+      internalID: -8567893921174895928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 526
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6096460f631a69f60800000000000000
+      internalID: 8040791442050017542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 453
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5507a5381cb9e80800000000000000
+      internalID: -8170724329031445060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 453
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c4c9f3fc27bb5b0800000000000000
+      internalID: -5351557497748697990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 452
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9a346298154e030800000000000000
+      internalID: 3523030458004908539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 452
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6f0d5eeeff2ba0800000000000000
+      internalID: -6111385869601509502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 447
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d0ea029d45f070800000000000000
+      internalID: 8139497191185110239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 447
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad754300d9d4e00800000000000000
+      internalID: 1030652513941445165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_56
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 443
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b77918192fddb70800000000000000
+      internalID: 8925556743276559258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_57
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 443
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6bf2c0e2f2f7e0800000000000000
+      internalID: -1733055859426366627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 442
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165e268ed3102fa0800000000000000
+      internalID: -5827636071362570721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_59
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 442
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452e12ec09942590800000000000000
+      internalID: -7699861182284421811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 369
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f817a1e8c668eb90800000000000000
+      internalID: -7212401790268532495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 369
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b5588d41170a4b0800000000000000
+      internalID: -5431216816262915288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 371
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b962c6a740e49abf0800000000000000
+      internalID: -312632917984794981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 371
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddaadd02d9bd9730800000000000000
+      internalID: 4007563555256315355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 375
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a1cf515b9324440800000000000000
+      internalID: 4918557192962710064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 375
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b446aa0a46e5fa10800000000000000
+      internalID: 1942712019960874160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_66
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 379
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b04518fda1cd5a10800000000000000
+      internalID: 1899887570755862704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_67
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 379
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343dfcd8c90f23d20800000000000000
+      internalID: 3256930035727061827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 380
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73faf0c531e650ea0800000000000000
+      internalID: -5907194306798571721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 380
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38384efa74b9bc0800000000000000
+      internalID: -3775345041841355782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 307
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e8464fb78d7b10800000000000000
+      internalID: 1980888666700573074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 307
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e7ef0e5b80f730800000000000000
+      internalID: 4030874902606637029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 306
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c5a60c85f304920800000000000000
+      internalID: 2972445404482395174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_73
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 306
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1615c64cac09620800000000000000
+      internalID: 2778943915067269631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_74
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 301
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c851fce77a1500720800000000000000
+      internalID: 2810335947308078476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_75
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 301
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13509798a3d5e5b70800000000000000
+      internalID: 8889645220471833905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_76
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 297
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79cbda622fa7120800000000000000
+      internalID: 2412506798347818933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_77
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 297
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc15f1d7846c8d0800000000000000
+      internalID: -2826492013894841448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 296
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11d981bc6b15240800000000000000
+      internalID: 4778801663024370162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_79
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 296
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66474f8ae2776ca40800000000000000
+      internalID: 5388125046482170982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb6ec66e6a3dc30800000000000000
+      internalID: 4383030370961374653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 223
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be35ec8107a7940c0800000000000000
+      internalID: -4591003723256409109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_82
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 224
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ffdecadb8e6370800000000000000
+      internalID: 8317739333689800368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32185c76778c29df0800000000000000
+      internalID: -174857020346367709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 227
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaaa7eb6e50bdc30800000000000000
+      internalID: 4385105150771636954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 227
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540c6f06abe29750800000000000000
+      internalID: 6310365126355321949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_86
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 230
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22be7d7c24ee010800000000000000
+      internalID: 1219985975152419511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_87
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 230
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aec2d69d08ee810800000000000000
+      internalID: 1796514972695325225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_88
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 233
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b1ad8517323a10800000000000000
+      internalID: 1887631759531684138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_89
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 233
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc4cd68a86353c90800000000000000
+      internalID: -7190781261431157516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62b0ebf7f6d39ec0800000000000000
+      internalID: -3561266519748857237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 162
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9262415dc38370800000000000000
+      internalID: 8323722285200611939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_92
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 158
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad82bf7408f3b31f0800000000000000
+      internalID: -1064187066746984230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 158
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb8853fdc899eb0800000000000000
+      internalID: -4712580644762763268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_94
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 153
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72abd840a0c8450e0800000000000000
+      internalID: -2282045136516040153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_95
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 153
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bafaa9708df8af50800000000000000
+      internalID: 6893037957929433784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_96
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a724b9ccf518cd40800000000000000
+      internalID: 5604753911722551206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_97
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f90effc8ba6ce00800000000000000
+      internalID: 1064726983996383085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_98
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 151
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b74c2dc25630df70800000000000000
+      internalID: 9209920967230113715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_99
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 151
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36936d8bc5d027880800000000000000
+      internalID: -8614808445317138077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 77
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740b1fd588b80840800000000000000
+      internalID: 5190601455657747581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_101
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 77
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9f1873fd1099f0800000000000000
+      internalID: -463837830089564728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 78
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50eb28c9189379d0800000000000000
+      internalID: -2777709308657541029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 78
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba15f873dcb4a20800000000000000
+      internalID: 3047755211357662093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 81
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abad35b6153bbf5a0800000000000000
+      internalID: -6486393676022687046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_105
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 81
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff9803744a2a9f0800000000000000
+      internalID: -458623586374385882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_106
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 84
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1ef8d5d7f01f00800000000000000
+      internalID: 1085640008036916282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_107
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 84
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a36880775d0bde0800000000000000
+      internalID: -1319319983598716334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_108
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 87
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1507089bdf65500800000000000000
+      internalID: 384773791352377847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_109
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 87
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca21983fed036ac20800000000000000
+      internalID: 3217312717929517740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be86a3307da91ea10800000000000000
+      internalID: 1936999563008829675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa808cfafbbfe0cb0800000000000000
+      internalID: -4895698944198702929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_112
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842b2424ffff8af40800000000000000
+      internalID: 5740119196877107784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_113
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 12
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5b1f477d0872760800000000000000
+      internalID: 7433051372866614759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_114
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af0491d1935df60800000000000000
+      internalID: 8058409905389894278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 7
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310f59aa70a34140800000000000000
+      internalID: 4702778884592959794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_116
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 5
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b22324efccba870800000000000000
+      internalID: 8695268897973218201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_117
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 5
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07a0164eb8efdf0800000000000000
+      internalID: -144524325032398616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_118
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4b90f2ec00d00a0800000000000000
+      internalID: -6913868967391415066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magikarp_119
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 5
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5866c459a9b94390800000000000000
+      internalID: -7833525939911366562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 2be23cb1c98df4846800b5af725a58c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6617802690040470640
+    second: Taillow_0
+  - first:
+      213: -6007465365451179351
+    second: Taillow_1
+  - first:
+      213: 1583729598152648295
+    second: Taillow_2
+  - first:
+      213: 2790511524266117232
+    second: Taillow_3
+  - first:
+      213: -791163166802490136
+    second: Taillow_4
+  - first:
+      213: 663733371847064008
+    second: Taillow_5
+  - first:
+      213: 8765873026966323626
+    second: Taillow_6
+  - first:
+      213: -2705939063461491496
+    second: Taillow_7
+  - first:
+      213: 2977822873007420126
+    second: Taillow_8
+  - first:
+      213: -8656840170274492070
+    second: Taillow_9
+  - first:
+      213: 5288284111232739343
+    second: Taillow_10
+  - first:
+      213: 7336059227967973113
+    second: Taillow_11
+  - first:
+      213: 8355417090083032941
+    second: Taillow_12
+  - first:
+      213: 2732550810500219708
+    second: Taillow_13
+  - first:
+      213: 2770449180332432833
+    second: Taillow_14
+  - first:
+      213: -8988977978383680423
+    second: Taillow_15
+  - first:
+      213: -3120627228941087566
+    second: Taillow_16
+  - first:
+      213: -209578062154783082
+    second: Taillow_17
+  - first:
+      213: 1519807705361530022
+    second: Taillow_18
+  - first:
+      213: -1053418251889168090
+    second: Taillow_19
+  - first:
+      213: 8925017784352507369
+    second: Taillow_20
+  - first:
+      213: -3954372199948617564
+    second: Taillow_21
+  - first:
+      213: -7491487200757181474
+    second: Taillow_22
+  - first:
+      213: -4786708949344756235
+    second: Taillow_23
+  - first:
+      213: 1019169789313142944
+    second: Taillow_24
+  - first:
+      213: 8488329822923213970
+    second: Taillow_25
+  - first:
+      213: 4663836982993946799
+    second: Taillow_26
+  - first:
+      213: 1047422434620639257
+    second: Taillow_27
+  - first:
+      213: -7774244385899202228
+    second: Taillow_28
+  - first:
+      213: -6463317009076417633
+    second: Taillow_29
+  - first:
+      213: 1895960389382297194
+    second: Taillow_30
+  - first:
+      213: -8688927682835605762
+    second: Taillow_31
+  - first:
+      213: 1308681092961883275
+    second: Taillow_32
+  - first:
+      213: -7480921758800366985
+    second: Taillow_33
+  - first:
+      213: 5907045667685853357
+    second: Taillow_34
+  - first:
+      213: 6539195523953869172
+    second: Taillow_35
+  - first:
+      213: -3958447989031055708
+    second: Taillow_36
+  - first:
+      213: 3185068702618914627
+    second: Taillow_37
+  - first:
+      213: -137749697419954766
+    second: Taillow_38
+  - first:
+      213: -3549154269109352418
+    second: Taillow_39
+  - first:
+      213: -6848773014458618084
+    second: Taillow_40
+  - first:
+      213: 1442189711590956810
+    second: Taillow_41
+  - first:
+      213: -8314489849426192063
+    second: Taillow_42
+  - first:
+      213: 2038221756844026635
+    second: Taillow_43
+  - first:
+      213: -4426482127002873296
+    second: Taillow_44
+  - first:
+      213: 4119209027563819790
+    second: Taillow_45
+  - first:
+      213: -3361837464645803964
+    second: Taillow_46
+  - first:
+      213: -3419657724135820700
+    second: Taillow_47
+  - first:
+      213: 6978241595449275229
+    second: Taillow_48
+  - first:
+      213: -457030953438990014
+    second: Taillow_49
+  - first:
+      213: 6701392283102151901
+    second: Taillow_50
+  - first:
+      213: -8352475401357098486
+    second: Taillow_51
+  - first:
+      213: 1856906730631345929
+    second: Taillow_52
+  - first:
+      213: -7639257300447747834
+    second: Taillow_53
+  - first:
+      213: 337860585065680851
+    second: Taillow_54
+  - first:
+      213: -2915860803169714018
+    second: Taillow_55
+  - first:
+      213: -8008645425601080127
+    second: Taillow_56
+  - first:
+      213: 6390756439513904213
+    second: Taillow_57
+  - first:
+      213: -6768097221541882116
+    second: Taillow_58
+  - first:
+      213: 3366342712588254512
+    second: Taillow_59
+  - first:
+      213: 1228058719093201022
+    second: Taillow_60
+  - first:
+      213: -8882884672578345355
+    second: Taillow_61
+  - first:
+      213: 6278388882841367484
+    second: Taillow_62
+  - first:
+      213: -7841508036605742534
+    second: Taillow_63
+  - first:
+      213: 3522817196215379571
+    second: Taillow_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Taillow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093638a1487d824a0800000000000000
+      internalID: -6617802690040470640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf1db341231aca0800000000000000
+      internalID: -6007465365451179351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7662926bda98af510800000000000000
+      internalID: 1583729598152648295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07804815273e9b620800000000000000
+      internalID: 2790511524266117232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec4d53aa493505f0800000000000000
+      internalID: -791163166802490136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9348e2cfd063900800000000000000
+      internalID: 663733371847064008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1818e0313a6a970800000000000000
+      internalID: 8765873026966323626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc468a22c2927ad0800000000000000
+      internalID: -2705939063461491496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 280
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2f3a5302a535920800000000000000
+      internalID: 2977822873007420126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 280
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f4752bb9bcd780800000000000000
+      internalID: -8656840170274492070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ae517162c36940800000000000000
+      internalID: 5288284111232739343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e14eeffaeec560800000000000000
+      internalID: 7336059227967973113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f80a4139764f370800000000000000
+      internalID: 8355417090083032941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3342960c78fbe520800000000000000
+      internalID: 2732550810500219708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9cfdd9dc927620800000000000000
+      internalID: 2770449180332432833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb1a0872cb04380800000000000000
+      internalID: -8988977978383680423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 234
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0e8ea11e41b4d0800000000000000
+      internalID: -3120627228941087566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ac84ecdd671df0800000000000000
+      internalID: -209578062154783082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb9f44e01771510800000000000000
+      internalID: 1519807705361530022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 234
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621bb306ea18161f0800000000000000
+      internalID: -1053418251889168090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5006a53680cdb70800000000000000
+      internalID: 8925017784352507369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f1607f6f3f19c0800000000000000
+      internalID: -3954372199948617564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed39b7f1514e80890800000000000000
+      internalID: -7491487200757181474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5f175291329db0800000000000000
+      internalID: -4786708949344756235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d1d90681d42e00800000000000000
+      internalID: 1019169789313142944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c41b7300b9cc570800000000000000
+      internalID: 8488329822923213970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 188
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80fa5a60749b040800000000000000
+      internalID: 4663836982993946799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188651a721398e00800000000000000
+      internalID: 1047422434620639257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c493765bbe55c1490800000000000000
+      internalID: -7774244385899202228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 188
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8243ac6fad46a0800000000000000
+      internalID: -6463317009076417633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66d75dcdedcf4a10800000000000000
+      internalID: 1895960389382297194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69681fe4aba6780800000000000000
+      internalID: -8688927682835605762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b845346358e592210800000000000000
+      internalID: 1308681092961883275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772b636cb4d6e2890800000000000000
+      internalID: -7480921758800366985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 142
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8ec66ecba0af150800000000000000
+      internalID: 5907045667685853357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4714812dea3efba50800000000000000
+      internalID: 6539195523953869172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec1f7d684c019c0800000000000000
+      internalID: -3958447989031055708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f80dc1c13a33c20800000000000000
+      internalID: 3185068702618914627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5bd59416d961ef0800000000000000
+      internalID: -137749697419954766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_39
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180da81ffedebec0800000000000000
+      internalID: -3549154269109352418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa9edca3544f0a0800000000000000
+      internalID: -6848773014458618084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1a12d6efa30410800000000000000
+      internalID: 1442189711590956810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495c54b88ffc9c80800000000000000
+      internalID: -8314489849426192063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b292e83e7394c10800000000000000
+      internalID: 2038221756844026635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_44
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 96
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032d06f35f9f192c0800000000000000
+      internalID: -4426482127002873296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03168b39ce5a2930800000000000000
+      internalID: 4119209027563819790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ef2f33aa5851d0800000000000000
+      internalID: -3361837464645803964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_47
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462b6730b6fea80d0800000000000000
+      internalID: -3419657724135820700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53fb9d32c1b7d060800000000000000
+      internalID: 6978241595449275229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 96
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24139e0f4cc48a9f0800000000000000
+      internalID: -457030953438990014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd409d6a6c0200d50800000000000000
+      internalID: 6701392283102151901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 50
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020ce230eb061c80800000000000000
+      internalID: -8352475401357098486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907305c45de05c910800000000000000
+      internalID: 1856906730631345929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 50
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601a003b5f7ebf590800000000000000
+      internalID: -7639257300447747834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 50
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df027c796250b400800000000000000
+      internalID: 337860585065680851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9085946c08c887d0800000000000000
+      internalID: -2915860803169714018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 50
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c49df2ca639bd090800000000000000
+      internalID: -8008645425601080127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 50
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554344f3f1780b850800000000000000
+      internalID: 6390756439513904213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_58
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 50
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf610b89f63e212a0800000000000000
+      internalID: -6768097221541882116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_59
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 50
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3c088cd6a7be20800000000000000
+      internalID: 3366342712588254512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e781fd206e0fa0110800000000000000
+      internalID: 1228058719093201022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a43e2477a9b480800000000000000
+      internalID: -8882884672578345355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37583bc61512750800000000000000
+      internalID: 6278388882841367484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a327ebe9cfd5d2390800000000000000
+      internalID: -7841508036605742534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taillow_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762e05439f83e030800000000000000
+      internalID: 3522817196215379571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

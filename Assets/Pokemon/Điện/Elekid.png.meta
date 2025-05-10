@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: 74f041fe3bdd5694aaee9ef5c04dc3f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8170615606859361442
+    second: Elekid_0
+  - first:
+      213: -1489737777835293788
+    second: Elekid_1
+  - first:
+      213: 6737712960636145290
+    second: Elekid_2
+  - first:
+      213: 194276108050728193
+    second: Elekid_3
+  - first:
+      213: 1099335417877024606
+    second: Elekid_4
+  - first:
+      213: -5919560210099596900
+    second: Elekid_5
+  - first:
+      213: 8557532969764294738
+    second: Elekid_6
+  - first:
+      213: -6404831771059022941
+    second: Elekid_7
+  - first:
+      213: -191106819519316661
+    second: Elekid_8
+  - first:
+      213: -2358988797560774013
+    second: Elekid_9
+  - first:
+      213: 1526458255296958126
+    second: Elekid_10
+  - first:
+      213: -6302851367962317997
+    second: Elekid_11
+  - first:
+      213: 510924318103487476
+    second: Elekid_12
+  - first:
+      213: -6845963873594658921
+    second: Elekid_13
+  - first:
+      213: -677386545496259587
+    second: Elekid_14
+  - first:
+      213: -4349163307907969587
+    second: Elekid_15
+  - first:
+      213: 2285418758366445016
+    second: Elekid_16
+  - first:
+      213: 3056062274451603099
+    second: Elekid_17
+  - first:
+      213: 3588654551224336371
+    second: Elekid_18
+  - first:
+      213: 6290557227853735699
+    second: Elekid_19
+  - first:
+      213: -6480107198514337378
+    second: Elekid_20
+  - first:
+      213: -987693046197070988
+    second: Elekid_21
+  - first:
+      213: 8939433477461896997
+    second: Elekid_22
+  - first:
+      213: 1816203329000192652
+    second: Elekid_23
+  - first:
+      213: 5525845523852012441
+    second: Elekid_24
+  - first:
+      213: -6783937304858637575
+    second: Elekid_25
+  - first:
+      213: 1924258277443097104
+    second: Elekid_26
+  - first:
+      213: -7335064126978894069
+    second: Elekid_27
+  - first:
+      213: 6841045494628430013
+    second: Elekid_28
+  - first:
+      213: 5222346124163974023
+    second: Elekid_29
+  - first:
+      213: 8368263754683889995
+    second: Elekid_30
+  - first:
+      213: -2579204451942733420
+    second: Elekid_31
+  - first:
+      213: 4910455020711072302
+    second: Elekid_32
+  - first:
+      213: -1273713925090112296
+    second: Elekid_33
+  - first:
+      213: -3746442927669917367
+    second: Elekid_34
+  - first:
+      213: -7330379319827522884
+    second: Elekid_35
+  - first:
+      213: -899267000454773936
+    second: Elekid_36
+  - first:
+      213: -7279577985334657158
+    second: Elekid_37
+  - first:
+      213: -4798087294958876600
+    second: Elekid_38
+  - first:
+      213: 6354771189771443237
+    second: Elekid_39
+  - first:
+      213: 352572446385562662
+    second: Elekid_40
+  - first:
+      213: -1164267253687240043
+    second: Elekid_41
+  - first:
+      213: 5397673975319898591
+    second: Elekid_42
+  - first:
+      213: -7908870146605154961
+    second: Elekid_43
+  - first:
+      213: -3436591726158967421
+    second: Elekid_44
+  - first:
+      213: -7188875482707701685
+    second: Elekid_45
+  - first:
+      213: -1459437498335133960
+    second: Elekid_46
+  - first:
+      213: -5555731031030588932
+    second: Elekid_47
+  - first:
+      213: 8343217877312213591
+    second: Elekid_48
+  - first:
+      213: -5091676012686655506
+    second: Elekid_49
+  - first:
+      213: -8680173762193395522
+    second: Elekid_50
+  - first:
+      213: 8457562194003256848
+    second: Elekid_51
+  - first:
+      213: -6607371218813900444
+    second: Elekid_52
+  - first:
+      213: 3299632919437501616
+    second: Elekid_53
+  - first:
+      213: 3509183580590972230
+    second: Elekid_54
+  - first:
+      213: 5558252142948435620
+    second: Elekid_55
+  - first:
+      213: -5099137455817510708
+    second: Elekid_56
+  - first:
+      213: -1131439012675198168
+    second: Elekid_57
+  - first:
+      213: 6874112636614956122
+    second: Elekid_58
+  - first:
+      213: -912963145890073945
+    second: Elekid_59
+  - first:
+      213: 1600699790959728243
+    second: Elekid_60
+  - first:
+      213: 7358555693992137058
+    second: Elekid_61
+  - first:
+      213: 7108110490647640122
+    second: Elekid_62
+  - first:
+      213: -1656755365711466282
+    second: Elekid_63
+  - first:
+      213: -8243693855074556325
+    second: Elekid_64
+  - first:
+      213: 252003010309451379
+    second: Elekid_65
+  - first:
+      213: -3603857654429997189
+    second: Elekid_66
+  - first:
+      213: 6335602609030674918
+    second: Elekid_67
+  - first:
+      213: -2243533457895524176
+    second: Elekid_68
+  - first:
+      213: 159833428010193551
+    second: Elekid_69
+  - first:
+      213: -934221170117497934
+    second: Elekid_70
+  - first:
+      213: 7673837947945911609
+    second: Elekid_71
+  - first:
+      213: -3338145592201712935
+    second: Elekid_72
+  - first:
+      213: -7186653968063606750
+    second: Elekid_73
+  - first:
+      213: -3566437160963831626
+    second: Elekid_74
+  - first:
+      213: -4643806255887252015
+    second: Elekid_75
+  - first:
+      213: 4302800812855953748
+    second: Elekid_76
+  - first:
+      213: 1043308725360782969
+    second: Elekid_77
+  - first:
+      213: 1848998665313334800
+    second: Elekid_78
+  - first:
+      213: 2567287697701676350
+    second: Elekid_79
+  - first:
+      213: 8267394384928013253
+    second: Elekid_80
+  - first:
+      213: 1501976023574143604
+    second: Elekid_81
+  - first:
+      213: -624310311376678939
+    second: Elekid_82
+  - first:
+      213: 3255566484050180782
+    second: Elekid_83
+  - first:
+      213: -3226702925028240712
+    second: Elekid_84
+  - first:
+      213: 1642567368092294369
+    second: Elekid_85
+  - first:
+      213: -9057926236799485295
+    second: Elekid_86
+  - first:
+      213: -5745801846678249626
+    second: Elekid_87
+  - first:
+      213: 6831147117251065263
+    second: Elekid_88
+  - first:
+      213: 2710438542036339694
+    second: Elekid_89
+  - first:
+      213: -157594790989265650
+    second: Elekid_90
+  - first:
+      213: -7104055922209910041
+    second: Elekid_91
+  - first:
+      213: 5060963611588479919
+    second: Elekid_92
+  - first:
+      213: -4658322116711601473
+    second: Elekid_93
+  - first:
+      213: -6187018955611184126
+    second: Elekid_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elekid_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 424
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5392e435642c9e80800000000000000
+      internalID: -8170615606859361442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 424
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3c5af4263635be0800000000000000
+      internalID: -1489737777835293788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 424
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e43416d3a218d50800000000000000
+      internalID: 6737712960636145290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 424
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10585b8471532b200800000000000000
+      internalID: 194276108050728193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 424
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc09fecbf914f00800000000000000
+      internalID: 1099335417877024606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 424
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c911a722a5f79dda0800000000000000
+      internalID: -5919560210099596900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 424
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2509e7075e672c670800000000000000
+      internalID: 8557532969764294738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 424
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a314ef30777d17a0800000000000000
+      internalID: -6404831771059022941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 424
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d75643c5d095df0800000000000000
+      internalID: -191106819519316661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 424
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a344ef20334fd0800000000000000
+      internalID: -2358988797560774013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae007712b11f2510800000000000000
+      internalID: 1526458255296958126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 377
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b65842316c788a0800000000000000
+      internalID: -6302851367962317997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 377
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3caa7d5fa271700800000000000000
+      internalID: 510924318103487476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 377
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fab31e0204ef0a0800000000000000
+      internalID: -6845963873594658921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 377
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3011c96807996f0800000000000000
+      internalID: -677386545496259587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 377
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd8bf9a30ba4a3c0800000000000000
+      internalID: -4349163307907969587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 377
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3277804077bf10800000000000000
+      internalID: 2285418758366445016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 377
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef8286270596a20800000000000000
+      internalID: 3056062274451603099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 377
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffb0530d467dc130800000000000000
+      internalID: 3588654551224336371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 377
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317ec7d487c8c4750800000000000000
+      internalID: 6290557227853735699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 330
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99e91606d80216a0800000000000000
+      internalID: -6480107198514337378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 330
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473dc4258620b42f0800000000000000
+      internalID: -987693046197070988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 330
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe955726f3f0c70800000000000000
+      internalID: 8939433477461896997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 330
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a30f81e43743910800000000000000
+      internalID: 1816203329000192652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 330
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba1ec0a3fbfac40800000000000000
+      internalID: 5525845523852012441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 330
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa416dc6fc9ad1a0800000000000000
+      internalID: -6783937304858637575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 330
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d91b45b654ba10800000000000000
+      internalID: 1924258277443097104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 330
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0756b21a0e943a90800000000000000
+      internalID: -7335064126978894069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 330
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03d97c1a640fe50800000000000000
+      internalID: 6841045494628430013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 330
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7838ee87120897840800000000000000
+      internalID: 5222346124163974023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 283
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49b5b44c8b022470800000000000000
+      internalID: 8368263754683889995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 283
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499e8d65733d43cd0800000000000000
+      internalID: -2579204451942733420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 283
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22540b13d0752440800000000000000
+      internalID: 4910455020711072302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 283
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc098dfeebd25ee0800000000000000
+      internalID: -1273713925090112296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 283
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949c5fcb106f10cc0800000000000000
+      internalID: -3746442927669917367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 283
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba9fccb8d2454a90800000000000000
+      internalID: -7330379319827522884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 283
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05389a77d692583f0800000000000000
+      internalID: -899267000454773936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 283
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fbf55246eb9fa90800000000000000
+      internalID: -7279577985334657158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 283
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84849aec605c96db0800000000000000
+      internalID: -4798087294958876600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_39
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 283
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c96336abea03850800000000000000
+      internalID: 6354771189771443237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624e660a5c694e400800000000000000
+      internalID: 352572446385562662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 236
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a3a50f911b7dfe0800000000000000
+      internalID: -1164267253687240043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 236
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd92058e1e368ea40800000000000000
+      internalID: 5397673975319898591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 236
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d78e0318c0e3290800000000000000
+      internalID: -7908870146605154961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 236
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d8f3c6806ce40d0800000000000000
+      internalID: -3436591726158967421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 236
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4051b636dbfb3c90800000000000000
+      internalID: -7188875482707701685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 236
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe79d3e3590fbbe0800000000000000
+      internalID: -1459437498335133960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 236
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf99ec3101416e2b0800000000000000
+      internalID: -5555731031030588932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 236
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75212e4847019c370800000000000000
+      internalID: 8343217877312213591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 236
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef3f60b4abb659b0800000000000000
+      internalID: -5091676012686655506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 189
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0fbcbe3f3d98780800000000000000
+      internalID: -8680173762193395522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 189
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016665f510c4f5570800000000000000
+      internalID: 8457562194003256848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 189
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469257342e6ed44a0800000000000000
+      internalID: -6607371218813900444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 189
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4e14478a6aacd20800000000000000
+      internalID: 3299632919437501616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 189
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d12c4cfdf13b030800000000000000
+      internalID: 3509183580590972230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 189
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6ce7800e0e22d40800000000000000
+      internalID: 5558252142948435620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 189
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0bb1510893c39b0800000000000000
+      internalID: -5099137455817510708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 189
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e97c66325c40f0800000000000000
+      internalID: -1131439012675198168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 189
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54557bb501c56f50800000000000000
+      internalID: 6874112636614956122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_59
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 189
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f23c1bd08453f0800000000000000
+      internalID: -912963145890073945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 142
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765230aaf3d63610800000000000000
+      internalID: 1600699790959728243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26154589a67de1660800000000000000
+      internalID: 7358555693992137058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 142
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38b743b4d415a260800000000000000
+      internalID: 7108110490647640122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 142
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0bb03d5c50209e0800000000000000
+      internalID: -1656755365711466282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_64
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 142
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e533ad14889d80800000000000000
+      internalID: -8243693855074556325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 142
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee2d7176b4f7300800000000000000
+      internalID: 252003010309451379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77a0aeae868cfdc0800000000000000
+      internalID: -3603857654429997189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9bf4561059ce750800000000000000
+      internalID: 6335602609030674918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_68
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 142
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8fe60f43e5dd0e0800000000000000
+      internalID: -2243533457895524176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 142
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82d7cbe7a7d73200800000000000000
+      internalID: 159833428010193551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb2f75abcaf803f0800000000000000
+      internalID: -934221170117497934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9358a37b4f2fe7a60800000000000000
+      internalID: 7673837947945911609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 95
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae74825468ca1d0800000000000000
+      internalID: -3338145592201712935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_73
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220dae5ea40e34c90800000000000000
+      internalID: -7186653968063606750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 95
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88ff24c48718ec0800000000000000
+      internalID: -3566437160963831626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 95
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d58a1070d2ed8fb0800000000000000
+      internalID: -4643806255887252015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_76
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598a85ca8e96bb30800000000000000
+      internalID: 4302800812855953748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 95
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee13e02c39a7e00800000000000000
+      internalID: 1043308725360782969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_78
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 95
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163c2c5d76f8a910800000000000000
+      internalID: 1848998665313334800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_79
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 95
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e352db91f86d0a320800000000000000
+      internalID: 2567287697701676350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb71bbf36fabb270800000000000000
+      internalID: 8267394384928013253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4726a425c3718d410800000000000000
+      internalID: 1501976023574143604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_82
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef87cc54110657f0800000000000000
+      internalID: -624310311376678939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_83
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 48
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7a70f7781e2d20800000000000000
+      internalID: 3255566484050180782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_84
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 48
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b25af519c27833d0800000000000000
+      internalID: -3226702925028240712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_85
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec1ace81529bc610800000000000000
+      internalID: 1642567368092294369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_86
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a30ed1418cb4280800000000000000
+      internalID: -9057926236799485295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_87
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 48
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f95fab9afc240b0800000000000000
+      internalID: -5745801846678249626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_88
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 48
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fe243c1c1dce50800000000000000
+      internalID: 6831147117251065263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_89
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 48
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb8a935e796d9520800000000000000
+      internalID: 2710438542036339694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0502a06f5c10ddf0800000000000000
+      internalID: -157594790989265650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e21b2417c2596d90800000000000000
+      internalID: -7104055922209910041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_92
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc8e137972c3640800000000000000
+      internalID: 5060963611588479919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba2f0837b05a5fb0800000000000000
+      internalID: -4658322116711601473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elekid_94
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ef244a0b432aa0800000000000000
+      internalID: -6187018955611184126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

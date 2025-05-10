@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 0a776fb60edf7e7469bbc0c37ae42e5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4263711643185718168
+    second: Meganium_0
+  - first:
+      213: 5851737090529856115
+    second: Meganium_1
+  - first:
+      213: 9136630347885948008
+    second: Meganium_2
+  - first:
+      213: -2907263114459972919
+    second: Meganium_3
+  - first:
+      213: -163433032197663969
+    second: Meganium_4
+  - first:
+      213: 9129610132683534178
+    second: Meganium_5
+  - first:
+      213: -6196597947440645177
+    second: Meganium_6
+  - first:
+      213: 3905789503060123567
+    second: Meganium_7
+  - first:
+      213: 2459985679951853111
+    second: Meganium_8
+  - first:
+      213: -8580792207332259372
+    second: Meganium_9
+  - first:
+      213: 6014060440856857032
+    second: Meganium_10
+  - first:
+      213: 2849150283398202238
+    second: Meganium_11
+  - first:
+      213: -7217071626098587109
+    second: Meganium_12
+  - first:
+      213: 8004522103000646803
+    second: Meganium_13
+  - first:
+      213: -3107979761591897527
+    second: Meganium_14
+  - first:
+      213: 4590886669769456686
+    second: Meganium_15
+  - first:
+      213: -7090536725157485188
+    second: Meganium_16
+  - first:
+      213: 8104143587185425170
+    second: Meganium_17
+  - first:
+      213: 8980182823646401864
+    second: Meganium_18
+  - first:
+      213: -8442723157523016388
+    second: Meganium_19
+  - first:
+      213: -6059416883414046836
+    second: Meganium_20
+  - first:
+      213: -619874585204141347
+    second: Meganium_21
+  - first:
+      213: -4265309651006785848
+    second: Meganium_22
+  - first:
+      213: -452495586129647341
+    second: Meganium_23
+  - first:
+      213: 1962280042802695161
+    second: Meganium_24
+  - first:
+      213: -823642764642968667
+    second: Meganium_25
+  - first:
+      213: 358292656458910278
+    second: Meganium_26
+  - first:
+      213: 424476725560732255
+    second: Meganium_27
+  - first:
+      213: 911549302693973573
+    second: Meganium_28
+  - first:
+      213: 7308527157152668120
+    second: Meganium_29
+  - first:
+      213: -4743197126568537565
+    second: Meganium_30
+  - first:
+      213: 1755815665494860391
+    second: Meganium_31
+  - first:
+      213: 8991148794812788181
+    second: Meganium_32
+  - first:
+      213: -8337208344951306667
+    second: Meganium_33
+  - first:
+      213: -380408480516426995
+    second: Meganium_34
+  - first:
+      213: 1527704881630274337
+    second: Meganium_35
+  - first:
+      213: 3907119341931828671
+    second: Meganium_36
+  - first:
+      213: -4090887411460978032
+    second: Meganium_37
+  - first:
+      213: -7147637442901884753
+    second: Meganium_38
+  - first:
+      213: -1901879895244252698
+    second: Meganium_39
+  - first:
+      213: -6143586689191453871
+    second: Meganium_40
+  - first:
+      213: 731923889965803511
+    second: Meganium_41
+  - first:
+      213: -5340119426951458866
+    second: Meganium_42
+  - first:
+      213: -5179407697687135911
+    second: Meganium_43
+  - first:
+      213: -7272573308597866893
+    second: Meganium_44
+  - first:
+      213: -2112204727793783663
+    second: Meganium_45
+  - first:
+      213: -8038373312201052425
+    second: Meganium_46
+  - first:
+      213: 6313710132447492396
+    second: Meganium_47
+  - first:
+      213: 8845814623780406455
+    second: Meganium_48
+  - first:
+      213: 2686090130594399381
+    second: Meganium_49
+  - first:
+      213: 1256455554618165154
+    second: Meganium_50
+  - first:
+      213: 1821892619505156483
+    second: Meganium_51
+  - first:
+      213: 4009179340881456703
+    second: Meganium_52
+  - first:
+      213: -2816276060258551612
+    second: Meganium_53
+  - first:
+      213: 3225459850744422043
+    second: Meganium_54
+  - first:
+      213: 790099900221112624
+    second: Meganium_55
+  - first:
+      213: -3095732106615602117
+    second: Meganium_56
+  - first:
+      213: 7881544009496220943
+    second: Meganium_57
+  - first:
+      213: -6774073433078461573
+    second: Meganium_58
+  - first:
+      213: -3044468170534376127
+    second: Meganium_59
+  - first:
+      213: -1135821066370192886
+    second: Meganium_60
+  - first:
+      213: 7389967057816864792
+    second: Meganium_61
+  - first:
+      213: -1405094729498801144
+    second: Meganium_62
+  - first:
+      213: -3123689289806785476
+    second: Meganium_63
+  - first:
+      213: 9004412903544271226
+    second: Meganium_64
+  - first:
+      213: -2135812735768820111
+    second: Meganium_65
+  - first:
+      213: 7277616322135809584
+    second: Meganium_66
+  - first:
+      213: 6019084159069671082
+    second: Meganium_67
+  - first:
+      213: 3286779038426071368
+    second: Meganium_68
+  - first:
+      213: -3693503675042205728
+    second: Meganium_69
+  - first:
+      213: -1160777540001887632
+    second: Meganium_70
+  - first:
+      213: -3890999384530266573
+    second: Meganium_71
+  - first:
+      213: 8254169273307015015
+    second: Meganium_72
+  - first:
+      213: -1542685936819910431
+    second: Meganium_73
+  - first:
+      213: -7925501687671775895
+    second: Meganium_74
+  - first:
+      213: 7990913525927882588
+    second: Meganium_75
+  - first:
+      213: -4635855464030070856
+    second: Meganium_76
+  - first:
+      213: 3133211131794579021
+    second: Meganium_77
+  - first:
+      213: -2170302292968238743
+    second: Meganium_78
+  - first:
+      213: 6417133554250335533
+    second: Meganium_79
+  - first:
+      213: -2983377342784636349
+    second: Meganium_80
+  - first:
+      213: 3840986014465930414
+    second: Meganium_81
+  - first:
+      213: 3840433869528951986
+    second: Meganium_82
+  - first:
+      213: 1347135036777501316
+    second: Meganium_83
+  - first:
+      213: -6930270128918746154
+    second: Meganium_84
+  - first:
+      213: 9055800301258395492
+    second: Meganium_85
+  - first:
+      213: 5250199041634224670
+    second: Meganium_86
+  - first:
+      213: -1820413812815226736
+    second: Meganium_87
+  - first:
+      213: -8261335643287819126
+    second: Meganium_88
+  - first:
+      213: -6149850257803924418
+    second: Meganium_89
+  - first:
+      213: 7274832940982347021
+    second: Meganium_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meganium_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 832
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89328cc362fbb2b30800000000000000
+      internalID: 4263711643185718168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 832
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a820841eb853150800000000000000
+      internalID: 5851737090529856115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cabc9b4e4dbce70800000000000000
+      internalID: 9136630347885948008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 832
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca740ac99357a7d0800000000000000
+      internalID: -2907263114459972919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 832
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f131b4be58e5bbdf0800000000000000
+      internalID: -163433032197663969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 832
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa8608b04e2be70800000000000000
+      internalID: 9129610132683534178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 832
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb2ee6ff2410aa0800000000000000
+      internalID: -6196597947440645177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 832
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1959fbd6243630800000000000000
+      internalID: 3905789503060123567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 832
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736f31e31ff932220800000000000000
+      internalID: 2459985679951853111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 832
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9458e43f6eae880800000000000000
+      internalID: -8580792207332259372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 740
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9800b6b1c367350800000000000000
+      internalID: 6014060440856857032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 740
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7347a956173a8720800000000000000
+      internalID: 2849150283398202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 740
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ac7dff79fc7db90800000000000000
+      internalID: -7217071626098587109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 740
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394cd126176c51f60800000000000000
+      internalID: 8004522103000646803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 740
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9423635afdc3ed4d0800000000000000
+      internalID: -3107979761591897527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 740
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3fa34a1b16bf30800000000000000
+      internalID: 4590886669769456686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 740
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75602e6a6a599d90800000000000000
+      internalID: -7090536725157485188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 740
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b72faa7a3b77070800000000000000
+      internalID: 8104143587185425170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 740
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8451285f2b400ac70800000000000000
+      internalID: 8980182823646401864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 740
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3550ea050c65da80800000000000000
+      internalID: -8442723157523016388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 648
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e91ed270a8eba0800000000000000
+      internalID: -6059416883414046836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 648
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd25d975953c567f0800000000000000
+      internalID: -619874585204141347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 648
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6f1b298739ec4c0800000000000000
+      internalID: -4265309651006785848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 648
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196f4e69a968b9f0800000000000000
+      internalID: -452495586129647341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 648
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc7156d4b6b3b10800000000000000
+      internalID: 1962280042802695161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 648
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab92a7f445d194f0800000000000000
+      internalID: -823642764642968667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 648
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a4dd1d549e8f400800000000000000
+      internalID: 358292656458910278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 648
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae77a355b04e500800000000000000
+      internalID: 424476725560732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 648
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e445ed24976ac00800000000000000
+      internalID: 911549302693973573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 648
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d951692aba1d6560800000000000000
+      internalID: 7308527157152668120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 556
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3229a3b0857cc2eb0800000000000000
+      internalID: -4743197126568537565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 556
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76223e88b09ed5810800000000000000
+      internalID: 1755815665494860391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 556
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd6f75113af6cc70800000000000000
+      internalID: 8991148794812788181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 556
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55641c4ce294c4c80800000000000000
+      internalID: -8337208344951306667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 556
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03b541a08488baf0800000000000000
+      internalID: -380408480516426995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 556
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e337ee7f733510800000000000000
+      internalID: 1527704881630274337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 556
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb597e63750e83630800000000000000
+      internalID: 3907119341931828671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_37
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 556
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a40cfd29f3a37c0800000000000000
+      internalID: -4090887411460978032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_38
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 556
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04d809d9d7ecc90800000000000000
+      internalID: -7147637442901884753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 556
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e95286df4a2b95e0800000000000000
+      internalID: -1901879895244252698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 464
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bdcefc4789dbaa0800000000000000
+      internalID: -6143586689191453871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 464
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a80866e0582a00800000000000000
+      internalID: 731923889965803511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4562aca514e5b0800000000000000
+      internalID: -5340119426951458866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 464
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9593f60042c0f18b0800000000000000
+      internalID: -5179407697687135911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 464
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e690a8b11a21b90800000000000000
+      internalID: -7272573308597866893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 464
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c63f2bdf0ffa2e0800000000000000
+      internalID: -2112204727793783663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 464
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea64acf06f17090800000000000000
+      internalID: -8038373312201052425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 464
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29315bf9edce9750800000000000000
+      internalID: 6313710132447492396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_48
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 464
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4036f7885a2ca70800000000000000
+      internalID: 8845814623780406455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_49
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 464
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59403c40eb8e64520800000000000000
+      internalID: 2686090130594399381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a705118ba3df6110800000000000000
+      internalID: 1256455554618165154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 372
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c2844fa9a84910800000000000000
+      internalID: 1821892619505156483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 372
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ee2167e5773a730800000000000000
+      internalID: 4009179340881456703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 372
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83ade28d39ae8d0800000000000000
+      internalID: -2816276060258551612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 372
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed7e025a223cc20800000000000000
+      internalID: 3225459850744422043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 372
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03140c15caff6fa00800000000000000
+      internalID: 790099900221112624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 372
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34c7690d00c905d0800000000000000
+      internalID: -3095732106615602117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 372
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0551a7b48ed06d60800000000000000
+      internalID: 7881544009496220943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_58
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 372
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b82fa6a18adf1a0800000000000000
+      internalID: -6774073433078461573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_59
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 372
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14da0554450efb5d0800000000000000
+      internalID: -3044468170534376127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 280
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a699a02c0cc30f0800000000000000
+      internalID: -1135821066370192886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_61
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 280
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8184307a2ef6e8660800000000000000
+      internalID: 7389967057816864792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 280
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c437cb9c9108ce0800000000000000
+      internalID: -1405094729498801144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 280
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34df54142d66a4d0800000000000000
+      internalID: -3123689289806785476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 280
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7133be04d916fc70800000000000000
+      internalID: 9004412903544271226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 280
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768eb102a11c52e0800000000000000
+      internalID: -2135812735768820111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_66
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 280
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e5d7c8c794ff460800000000000000
+      internalID: 7277616322135809584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 280
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae4786f625188350800000000000000
+      internalID: 6019084159069671082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_68
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84106901f1cfc9d20800000000000000
+      internalID: 3286779038426071368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_69
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 280
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef62800af90ebcc0800000000000000
+      internalID: -3693503675042205728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a8fe83af614efe0800000000000000
+      internalID: -1160777540001887632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 188
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3365fc7dca4600ac0800000000000000
+      internalID: -3890999384530266573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 188
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767a86bb833bc8270800000000000000
+      internalID: 8254169273307015015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 188
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8cbdf5057479ae0800000000000000
+      internalID: -1542685936819910431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 188
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d9097c436f20290800000000000000
+      internalID: -7925501687671775895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 188
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fabcf938d65ee60800000000000000
+      internalID: 7990913525927882588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_76
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 189
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71f6c64022aafb0800000000000000
+      internalID: -4635855464030070856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_77
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 189
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e5ae48ce66b7b20800000000000000
+      internalID: 3133211131794579021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_78
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 191
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619964309981e1e0800000000000000
+      internalID: -2170302292968238743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_79
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 191
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25c459d7fc3e0950800000000000000
+      internalID: 6417133554250335533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a7f540d1ae896d0800000000000000
+      internalID: -2983377342784636349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 99
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43c730e6ced4530800000000000000
+      internalID: 3840986014465930414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 99
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bce6a0c146fb4530800000000000000
+      internalID: 3840433869528951986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 99
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4821b93bd2cf1b210800000000000000
+      internalID: 1347135036777501316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 96
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db2c40390cb2df90800000000000000
+      internalID: -6930270128918746154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 96
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc161f46aacad70800000000000000
+      internalID: 9055800301258395492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_86
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 96
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a44bc26347cd840800000000000000
+      internalID: 5250199041634224670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_87
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 96
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981fee38479cb6e0800000000000000
+      internalID: -1820413812815226736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_88
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 96
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6e8bb007d95d80800000000000000
+      internalID: -8261335643287819126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_89
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 96
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca0c916c757aaa0800000000000000
+      internalID: -6149850257803924418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meganium_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05209f140665f460800000000000000
+      internalID: 7274832940982347021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

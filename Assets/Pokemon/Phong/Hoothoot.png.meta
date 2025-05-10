@@ -1,0 +1,3492 @@
+fileFormatVersion: 2
+guid: 2bd1f73c2b31a7544a7c25f701926c56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4114745201091046242
+    second: Hoothoot_0
+  - first:
+      213: -1565494865609027917
+    second: Hoothoot_1
+  - first:
+      213: -656563888141917115
+    second: Hoothoot_2
+  - first:
+      213: -2471950353409737443
+    second: Hoothoot_3
+  - first:
+      213: -5320928520143398511
+    second: Hoothoot_4
+  - first:
+      213: -3122009642231464385
+    second: Hoothoot_5
+  - first:
+      213: -7677103276169764189
+    second: Hoothoot_6
+  - first:
+      213: 8226977000874436587
+    second: Hoothoot_7
+  - first:
+      213: -835682939434930793
+    second: Hoothoot_8
+  - first:
+      213: 3228089223995461470
+    second: Hoothoot_9
+  - first:
+      213: -6421663216825476510
+    second: Hoothoot_10
+  - first:
+      213: 1505758975439458142
+    second: Hoothoot_11
+  - first:
+      213: 9100329401849658515
+    second: Hoothoot_12
+  - first:
+      213: 2962194549279737860
+    second: Hoothoot_13
+  - first:
+      213: -3230233208078961982
+    second: Hoothoot_14
+  - first:
+      213: -8181084047953534933
+    second: Hoothoot_15
+  - first:
+      213: 6789688153569768379
+    second: Hoothoot_16
+  - first:
+      213: 6285082425816302107
+    second: Hoothoot_17
+  - first:
+      213: 4401499214040861462
+    second: Hoothoot_18
+  - first:
+      213: -8085278878447168491
+    second: Hoothoot_19
+  - first:
+      213: 2063511083898169641
+    second: Hoothoot_20
+  - first:
+      213: 8038499111649912614
+    second: Hoothoot_21
+  - first:
+      213: -4046728078828384239
+    second: Hoothoot_22
+  - first:
+      213: -5500053321155387499
+    second: Hoothoot_23
+  - first:
+      213: -8439690381149944280
+    second: Hoothoot_24
+  - first:
+      213: -6338578783058040353
+    second: Hoothoot_25
+  - first:
+      213: -5972379635356477725
+    second: Hoothoot_26
+  - first:
+      213: -7334555844878086341
+    second: Hoothoot_27
+  - first:
+      213: 1222592505402721632
+    second: Hoothoot_28
+  - first:
+      213: 2451088375217355740
+    second: Hoothoot_29
+  - first:
+      213: 3600591626335432452
+    second: Hoothoot_30
+  - first:
+      213: 6281955304038934392
+    second: Hoothoot_31
+  - first:
+      213: -2867196399495563717
+    second: Hoothoot_32
+  - first:
+      213: 8734935443646384216
+    second: Hoothoot_33
+  - first:
+      213: 899444971678216682
+    second: Hoothoot_34
+  - first:
+      213: -6858492972338558665
+    second: Hoothoot_35
+  - first:
+      213: -6832789076994408938
+    second: Hoothoot_36
+  - first:
+      213: 8420051611980227961
+    second: Hoothoot_37
+  - first:
+      213: 2658793973409191781
+    second: Hoothoot_38
+  - first:
+      213: -9088344050601667538
+    second: Hoothoot_39
+  - first:
+      213: -2338054330739770269
+    second: Hoothoot_40
+  - first:
+      213: -2542693426101755067
+    second: Hoothoot_41
+  - first:
+      213: 7163673319455627613
+    second: Hoothoot_42
+  - first:
+      213: 6999926369520693446
+    second: Hoothoot_43
+  - first:
+      213: -4089410214400701547
+    second: Hoothoot_44
+  - first:
+      213: 1820438837934329317
+    second: Hoothoot_45
+  - first:
+      213: 5277568693142802600
+    second: Hoothoot_46
+  - first:
+      213: -8789593159788768191
+    second: Hoothoot_47
+  - first:
+      213: -1251039748237996300
+    second: Hoothoot_48
+  - first:
+      213: -6354054234270568761
+    second: Hoothoot_49
+  - first:
+      213: 7812585640100008617
+    second: Hoothoot_50
+  - first:
+      213: -3675973931101046148
+    second: Hoothoot_51
+  - first:
+      213: 1232760490948207039
+    second: Hoothoot_52
+  - first:
+      213: -9000595014774876255
+    second: Hoothoot_53
+  - first:
+      213: 5886316711803624496
+    second: Hoothoot_54
+  - first:
+      213: 2901817483835545212
+    second: Hoothoot_55
+  - first:
+      213: -2750362467644637372
+    second: Hoothoot_56
+  - first:
+      213: 331472874094346711
+    second: Hoothoot_57
+  - first:
+      213: 8767367126258935569
+    second: Hoothoot_58
+  - first:
+      213: 4170702741928858947
+    second: Hoothoot_59
+  - first:
+      213: -9096550738556706707
+    second: Hoothoot_60
+  - first:
+      213: 7346656645881606755
+    second: Hoothoot_61
+  - first:
+      213: 1186828221039845525
+    second: Hoothoot_62
+  - first:
+      213: -2123781667804138319
+    second: Hoothoot_63
+  - first:
+      213: 3382187866531263088
+    second: Hoothoot_64
+  - first:
+      213: -5122824330889096688
+    second: Hoothoot_65
+  - first:
+      213: 116973347275532814
+    second: Hoothoot_66
+  - first:
+      213: -1174905661473273122
+    second: Hoothoot_67
+  - first:
+      213: 4337975324731238521
+    second: Hoothoot_68
+  - first:
+      213: -882154045300753990
+    second: Hoothoot_69
+  - first:
+      213: -3435070703125857453
+    second: Hoothoot_70
+  - first:
+      213: 4736562836393996755
+    second: Hoothoot_71
+  - first:
+      213: 6017766663379573120
+    second: Hoothoot_72
+  - first:
+      213: -6897434719002952867
+    second: Hoothoot_73
+  - first:
+      213: 5884878092158996136
+    second: Hoothoot_74
+  - first:
+      213: 8328387892959445487
+    second: Hoothoot_75
+  - first:
+      213: -4171300413597588975
+    second: Hoothoot_76
+  - first:
+      213: 595163577522488361
+    second: Hoothoot_77
+  - first:
+      213: 3323413187696644659
+    second: Hoothoot_78
+  - first:
+      213: -4929313671739047233
+    second: Hoothoot_79
+  - first:
+      213: -5352971406497007964
+    second: Hoothoot_80
+  - first:
+      213: -33452727251389277
+    second: Hoothoot_81
+  - first:
+      213: 2392123363008426415
+    second: Hoothoot_82
+  - first:
+      213: -5867552108552712381
+    second: Hoothoot_83
+  - first:
+      213: -5639343846035898952
+    second: Hoothoot_84
+  - first:
+      213: 4070915342300888567
+    second: Hoothoot_85
+  - first:
+      213: -5137092552090457896
+    second: Hoothoot_86
+  - first:
+      213: 7034044275150848677
+    second: Hoothoot_87
+  - first:
+      213: 2304267637742404495
+    second: Hoothoot_88
+  - first:
+      213: -4763469467862331292
+    second: Hoothoot_89
+  - first:
+      213: 8373991420255065602
+    second: Hoothoot_90
+  - first:
+      213: 8427761877454968428
+    second: Hoothoot_91
+  - first:
+      213: 4037639344628816089
+    second: Hoothoot_92
+  - first:
+      213: 5204558309943589073
+    second: Hoothoot_93
+  - first:
+      213: -7446916722648609750
+    second: Hoothoot_94
+  - first:
+      213: -6942762142763571941
+    second: Hoothoot_95
+  - first:
+      213: -308887474690731892
+    second: Hoothoot_96
+  - first:
+      213: 6596294233667721233
+    second: Hoothoot_97
+  - first:
+      213: -6261303538986886095
+    second: Hoothoot_98
+  - first:
+      213: -3891015777219553511
+    second: Hoothoot_99
+  - first:
+      213: 6972764391828215521
+    second: Hoothoot_100
+  - first:
+      213: -3809732298613899413
+    second: Hoothoot_101
+  - first:
+      213: 5560117094098535385
+    second: Hoothoot_102
+  - first:
+      213: -4066526663710789528
+    second: Hoothoot_103
+  - first:
+      213: -3720514641683979686
+    second: Hoothoot_104
+  - first:
+      213: -3056837110970466351
+    second: Hoothoot_105
+  - first:
+      213: -7856524155829828018
+    second: Hoothoot_106
+  - first:
+      213: -6118848724870727760
+    second: Hoothoot_107
+  - first:
+      213: -7981224245394121374
+    second: Hoothoot_108
+  - first:
+      213: 5647191402397491543
+    second: Hoothoot_109
+  - first:
+      213: -6471466389042150700
+    second: Hoothoot_110
+  - first:
+      213: -5958644287488814896
+    second: Hoothoot_111
+  - first:
+      213: 8191592566587394428
+    second: Hoothoot_112
+  - first:
+      213: -5945507852794020623
+    second: Hoothoot_113
+  - first:
+      213: 8345668655997213542
+    second: Hoothoot_114
+  - first:
+      213: 5637331889392945171
+    second: Hoothoot_115
+  - first:
+      213: -9174453209798646205
+    second: Hoothoot_116
+  - first:
+      213: -6529882054101070127
+    second: Hoothoot_117
+  - first:
+      213: 2894606423824635741
+    second: Hoothoot_118
+  - first:
+      213: -795813810242289291
+    second: Hoothoot_119
+  - first:
+      213: 5374253561057876300
+    second: Hoothoot_120
+  - first:
+      213: 5675193214924210389
+    second: Hoothoot_121
+  - first:
+      213: -9033297097994294808
+    second: Hoothoot_122
+  - first:
+      213: -2777633154789840198
+    second: Hoothoot_123
+  - first:
+      213: 1162709880465918294
+    second: Hoothoot_124
+  - first:
+      213: -1525913540766705855
+    second: Hoothoot_125
+  - first:
+      213: -2854606756407071172
+    second: Hoothoot_126
+  - first:
+      213: -3221123421413131069
+    second: Hoothoot_127
+  - first:
+      213: -8364062994344129930
+    second: Hoothoot_128
+  - first:
+      213: 2121346930353238249
+    second: Hoothoot_129
+  - first:
+      213: 2386315294398432006
+    second: Hoothoot_130
+  - first:
+      213: 8723525880274500812
+    second: Hoothoot_131
+  - first:
+      213: 8202331942392553675
+    second: Hoothoot_132
+  - first:
+      213: 4781046962247679662
+    second: Hoothoot_133
+  - first:
+      213: 8100138638680442945
+    second: Hoothoot_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoothoot_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 931
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9499bb5a0d75e6c0800000000000000
+      internalID: -4114745201091046242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 931
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0dadc6be364ae0800000000000000
+      internalID: -1565494865609027917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 931
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a3f25f9a63e6f0800000000000000
+      internalID: -656563888141917115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 931
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d7c92204ed1bdd0800000000000000
+      internalID: -2471950353409737443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 931
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999b91d3b34826b0800000000000000
+      internalID: -5320928520143398511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 931
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ef27185c46ca4d0800000000000000
+      internalID: -3122009642231464385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 931
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e9efce33757590800000000000000
+      internalID: -7677103276169764189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 931
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7ed607ef71c2270800000000000000
+      internalID: 8226977000874436587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 931
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d60225bce0764f0800000000000000
+      internalID: -835682939434930793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 931
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f048bcb0a7ccc20800000000000000
+      internalID: 3228089223995461470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 860
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26adce5e35ba1e6a0800000000000000
+      internalID: -6421663216825476510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 860
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fcc607fc785e410800000000000000
+      internalID: 1505758975439458142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 860
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cba48106dda4e70800000000000000
+      internalID: 9100329401849658515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 860
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408ca698f34db1920800000000000000
+      internalID: 2962194549279737860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 860
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c278c20308eb23d0800000000000000
+      internalID: -3230233208078961982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 860
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206d145763f67e80800000000000000
+      internalID: -8181084047953534933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 860
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb334310761d93e50800000000000000
+      internalID: 6789688153569768379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 860
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12c4de9a29193750800000000000000
+      internalID: 6285082425816302107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 860
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b011c0734451d30800000000000000
+      internalID: 4401499214040861462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 860
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514103c92b15bcf80800000000000000
+      internalID: -8085278878447168491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 789
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e4d9d56013ac10800000000000000
+      internalID: 2063511083898169641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 789
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627af2d2a5c7e8f60800000000000000
+      internalID: 8038499111649912614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 789
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110d5d6b04227d7c0800000000000000
+      internalID: -4046728078828384239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 789
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f53da15a2eba3b0800000000000000
+      internalID: -5500053321155387499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 789
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c641505230ea80800000000000000
+      internalID: -8439690381149944280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 789
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd96ff61e28d808a0800000000000000
+      internalID: -6338578783058040353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 789
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6dcca5d58dd1da0800000000000000
+      internalID: -5972379635356477725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 789
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fc6c8b15c663a90800000000000000
+      internalID: -7334555844878086341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 789
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0658595f76587f010800000000000000
+      internalID: 1222592505402721632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 789
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7bed04e3040220800000000000000
+      internalID: 2451088375217355740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 718
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f28f4e10fd7f130800000000000000
+      internalID: 3600591626335432452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 718
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8772f18d01dfd2750800000000000000
+      internalID: 6281955304038934392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 718
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36b9c2d01ca538d0800000000000000
+      internalID: -2867196399495563717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 718
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858038e9189b83970800000000000000
+      internalID: 8734935443646384216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 718
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae134efaf687b7c00800000000000000
+      internalID: 899444971678216682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 718
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7394f31cafcb1d0a0800000000000000
+      internalID: -6858492972338558665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_36
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 718
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e3490498e0d21a0800000000000000
+      internalID: -6832789076994408938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_37
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 718
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975698a64580ad470800000000000000
+      internalID: 8420051611980227961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 718
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567110c280fe5e420800000000000000
+      internalID: 2658793973409191781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 718
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245a53fc37bfd180800000000000000
+      internalID: -9088344050601667538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 647
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c31b649ff8d8fd0800000000000000
+      internalID: -2338054330739770269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 647
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543eb7cfcc986bcd0800000000000000
+      internalID: -2542693426101755067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 647
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d599815edea7a6360800000000000000
+      internalID: 7163673319455627613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 647
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0bb2522fbb42160800000000000000
+      internalID: 6999926369520693446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 647
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bcacd931f7f37c0800000000000000
+      internalID: -4089410214400701547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 647
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed866e5a7f734910800000000000000
+      internalID: 1820438837934329317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 647
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0df70c3c0bd3940800000000000000
+      internalID: 5277568693142802600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 647
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14456962797150680800000000000000
+      internalID: -8789593159788768191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_48
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 647
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe416e2af963aee0800000000000000
+      internalID: -1251039748237996300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 647
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce6cb2d65dd1d7a0800000000000000
+      internalID: -6354054234270568761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29a7f2f31eb6c60800000000000000
+      internalID: 7812585640100008617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 576
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a30219f215cfcc0800000000000000
+      internalID: -3675973931101046148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 576
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1aa149225ab1110800000000000000
+      internalID: 1232760490948207039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 576
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a711317586771380800000000000000
+      internalID: -9000595014774876255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 576
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c1082ccd560b150800000000000000
+      internalID: 5886316711803624496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 576
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76190780a3554820800000000000000
+      internalID: 2901817483835545212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_56
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 576
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f797068efb4d9d0800000000000000
+      internalID: -2750362467644637372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 576
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d14211a2d0a99400800000000000000
+      internalID: 331472874094346711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 576
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e91823f1fba970800000000000000
+      internalID: 8767367126258935569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_59
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 576
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345da64eb0051e930800000000000000
+      internalID: 4170702741928858947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 505
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a2038c4f82c180800000000000000
+      internalID: -9096550738556706707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 505
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36239809b4194f560800000000000000
+      internalID: 7346656645881606755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902d7c9af5787010800000000000000
+      internalID: 1186828221039845525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 505
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b43c0e43dfc682e0800000000000000
+      internalID: -2123781667804138319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 505
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727b3ce1f1ffee20800000000000000
+      internalID: 3382187866531263088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_65
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 505
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01290a6b96218e8b0800000000000000
+      internalID: -5122824330889096688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 505
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aeb8cb3a29f9100800000000000000
+      internalID: 116973347275532814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_67
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 505
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda4a4b9685e1bfe0800000000000000
+      internalID: -1174905661473273122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 505
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978e3030395933c30800000000000000
+      internalID: 4337975324731238521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_69
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 505
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9bca4d195f1c3f0800000000000000
+      internalID: -882154045300753990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 434
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf4d1356d2450d0800000000000000
+      internalID: -3435070703125857453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 434
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b497edc6abb140800000000000000
+      internalID: 4736562836393996755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 434
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0895de795e6638350800000000000000
+      internalID: 6017766663379573120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_73
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 434
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf160daa36740a0800000000000000
+      internalID: -6897434719002952867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_74
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 432
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae8d9502794ba150800000000000000
+      internalID: 5884878092158996136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 432
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe10387b9a0649370800000000000000
+      internalID: 8328387892959445487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_76
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 432
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126314df509c16c0800000000000000
+      internalID: -4171300413597588975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_77
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 432
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248a75de12724800800000000000000
+      internalID: 595163577522488361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_78
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d18e9fa22f1e20800000000000000
+      internalID: 3323413187696644659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_79
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 432
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28489055f879bb0800000000000000
+      internalID: -4929313671739047233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a63ce6fddc66b5b0800000000000000
+      internalID: -5352971406497007964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 359
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4b96bfbe6298ff0800000000000000
+      internalID: -33452727251389277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_82
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 361
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1b70f4687823120800000000000000
+      internalID: 2392123363008426415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 363
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f0f94e174429ea0800000000000000
+      internalID: -5867552108552712381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 363
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdbeba86a60db1b0800000000000000
+      internalID: -5639343846035898952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_85
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 368
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd38886febce7830800000000000000
+      internalID: 4070915342300888567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_86
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 374
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8e7569a8165b8b0800000000000000
+      internalID: -5137092552090457896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_87
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 374
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a28cb21002fd9160800000000000000
+      internalID: 7034044275150848677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_88
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 383
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83801f35376aff10800000000000000
+      internalID: 2304267637742404495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_89
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 383
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46095a5c1c1c4edb0800000000000000
+      internalID: -4763469467862331292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 304
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206d87454d4663470800000000000000
+      internalID: 8373991420255065602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 304
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66584d76cc65f470800000000000000
+      internalID: 8427761877454968428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 297
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ddb37793980830800000000000000
+      internalID: 4037639344628816089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_93
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 291
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8befc353e4a3840800000000000000
+      internalID: 5204558309943589073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_94
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 291
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c0d9a32bc37a890800000000000000
+      internalID: -7446916722648609750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 292
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152c809d9a56af90800000000000000
+      internalID: -6942762142763571941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_96
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 292
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80dd737a7c96bbf0800000000000000
+      internalID: -308887474690731892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 291
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118d8b728aeba8b50800000000000000
+      internalID: 6596294233667721233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_98
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 291
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c5ac7ea916b19a0800000000000000
+      internalID: -6261303538986886095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_99
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 291
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917536f14c5500ac0800000000000000
+      internalID: -3891015777219553511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 221
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d965654c34c060800000000000000
+      internalID: 6972764391828215521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 221
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f39c3c8ac112bc0800000000000000
+      internalID: -3809732298613899413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_102
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3025fc901892d40800000000000000
+      internalID: 5560117094098535385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_103
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 221
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8603dd37b8bc097c0800000000000000
+      internalID: -4066526663710789528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 221
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5269c045a31e5cc0800000000000000
+      internalID: -3720514641683979686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_105
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 220
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfbf58e7dee395d0800000000000000
+      internalID: -3056837110970466351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_106
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 220
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46cc7ae7e408f290800000000000000
+      internalID: -7856524155829828018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_107
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 220
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b77ab7f08b751ba0800000000000000
+      internalID: -6118848724870727760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_108
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 220
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d5c8cc5defc3190800000000000000
+      internalID: -7981224245394121374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_109
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 220
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ea8e09aade5e40800000000000000
+      internalID: 5647191402397491543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d243414b9bb036a0800000000000000
+      internalID: -6471466389042150700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_111
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 150
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0915d3794ae4da0800000000000000
+      internalID: -5958644287488814896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_112
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 150
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c790c24d9026ea170800000000000000
+      internalID: 8191592566587394428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_113
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 150
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcbae8cb105d7da0800000000000000
+      internalID: -5945507852794020623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_114
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 151
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b53d5ec65c1d370800000000000000
+      internalID: 8345668655997213542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_115
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 151
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3188f3c4c73db3e40800000000000000
+      internalID: 5637331889392945171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_116
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 156
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346628df96bcda080800000000000000
+      internalID: -9174453209798646205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_117
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 162
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8b1c5ed23165a0800000000000000
+      internalID: -6529882054101070127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_118
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 162
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5791a8c435bb2820800000000000000
+      internalID: 2894606423824635741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_119
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 170
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57188255e83b4f4f0800000000000000
+      internalID: -795813810242289291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 99
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c499bb7c32f259a40800000000000000
+      internalID: 5374253561057876300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 90
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c347192652ce40800000000000000
+      internalID: 5675193214924210389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_122
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9ab7b562843a280800000000000000
+      internalID: -9033297097994294808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_123
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 83
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba676cbc5dd379d0800000000000000
+      internalID: -2777633154789840198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_124
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 77
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659020ad976c22010800000000000000
+      internalID: 1162709880465918294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_125
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 77
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14754a428bdd2dae0800000000000000
+      internalID: -1525913540766705855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_126
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 77
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e2de687466268d0800000000000000
+      internalID: -2854606756407071172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_127
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 77
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccbaf080554c43d0800000000000000
+      internalID: -3221123421413131069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_128
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 77
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac0277501eceb80800000000000000
+      internalID: -8364062994344129930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_129
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 77
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0f1153bc9807d10800000000000000
+      internalID: 2121346930353238249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60343b4fd15ed1120800000000000000
+      internalID: 2386315294398432006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc30b2a190301970800000000000000
+      internalID: 8723525880274500812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0e52c917984d170800000000000000
+      internalID: 8202331942392553675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_133
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaebb3f81e0b95240800000000000000
+      internalID: 4781046962247679662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoothoot_134
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c6fdec29796070800000000000000
+      internalID: 8100138638680442945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

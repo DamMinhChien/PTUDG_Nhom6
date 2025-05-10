@@ -1,0 +1,3692 @@
+fileFormatVersion: 2
+guid: 75e8dae0d81d792488de2d71e3a361a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2175814085841678711
+    second: Charizard_0
+  - first:
+      213: -1284449921612848494
+    second: Charizard_1
+  - first:
+      213: -4783525309107825974
+    second: Charizard_2
+  - first:
+      213: -8965551655205561795
+    second: Charizard_3
+  - first:
+      213: 4929699079415751810
+    second: Charizard_4
+  - first:
+      213: -6270229999784626272
+    second: Charizard_5
+  - first:
+      213: 5972348580077502062
+    second: Charizard_6
+  - first:
+      213: 4932981318926737410
+    second: Charizard_7
+  - first:
+      213: -9141282702161060060
+    second: Charizard_8
+  - first:
+      213: -5940990944553205952
+    second: Charizard_9
+  - first:
+      213: 7018355800251514393
+    second: Charizard_10
+  - first:
+      213: -233218154828885245
+    second: Charizard_11
+  - first:
+      213: 7314004493616370361
+    second: Charizard_12
+  - first:
+      213: -4508618517166614149
+    second: Charizard_13
+  - first:
+      213: -8885076288403366106
+    second: Charizard_14
+  - first:
+      213: -7249229521874781669
+    second: Charizard_15
+  - first:
+      213: -87433479157574132
+    second: Charizard_16
+  - first:
+      213: 1667738672694831702
+    second: Charizard_17
+  - first:
+      213: -8118815564631275185
+    second: Charizard_18
+  - first:
+      213: 5855469095135711032
+    second: Charizard_19
+  - first:
+      213: -2744641000976620631
+    second: Charizard_20
+  - first:
+      213: 5444571925953258025
+    second: Charizard_21
+  - first:
+      213: 1010241060201098130
+    second: Charizard_22
+  - first:
+      213: 6236016904526108858
+    second: Charizard_23
+  - first:
+      213: -8230524416009545962
+    second: Charizard_24
+  - first:
+      213: -1091814278837830530
+    second: Charizard_25
+  - first:
+      213: -5249574770569370801
+    second: Charizard_26
+  - first:
+      213: 445102687126426660
+    second: Charizard_27
+  - first:
+      213: 3139179166756163790
+    second: Charizard_28
+  - first:
+      213: -2399157052572557898
+    second: Charizard_29
+  - first:
+      213: 8860874122836681301
+    second: Charizard_30
+  - first:
+      213: -3833693154644218620
+    second: Charizard_31
+  - first:
+      213: 4590827583746174917
+    second: Charizard_32
+  - first:
+      213: 5787676458109194754
+    second: Charizard_33
+  - first:
+      213: 644488217731796515
+    second: Charizard_34
+  - first:
+      213: 6253277745435752495
+    second: Charizard_35
+  - first:
+      213: 3842716907063471739
+    second: Charizard_36
+  - first:
+      213: -2890140180328364752
+    second: Charizard_37
+  - first:
+      213: 5829865092229202243
+    second: Charizard_38
+  - first:
+      213: -7053309318045018618
+    second: Charizard_39
+  - first:
+      213: 3945767830629859965
+    second: Charizard_40
+  - first:
+      213: -7855897698463190061
+    second: Charizard_41
+  - first:
+      213: -4803095949891681146
+    second: Charizard_42
+  - first:
+      213: 7183331402366035939
+    second: Charizard_43
+  - first:
+      213: 2552374262461871863
+    second: Charizard_44
+  - first:
+      213: 3070751114614085884
+    second: Charizard_45
+  - first:
+      213: -3658254774044344044
+    second: Charizard_46
+  - first:
+      213: 643791538878244376
+    second: Charizard_47
+  - first:
+      213: -7122758262246187696
+    second: Charizard_48
+  - first:
+      213: 8151347288362714683
+    second: Charizard_49
+  - first:
+      213: -2325201064485116840
+    second: Charizard_50
+  - first:
+      213: -5761804143846027881
+    second: Charizard_51
+  - first:
+      213: -5697719009333170046
+    second: Charizard_52
+  - first:
+      213: 1088412203186963069
+    second: Charizard_53
+  - first:
+      213: 6174514204520427094
+    second: Charizard_54
+  - first:
+      213: 4966960263962061693
+    second: Charizard_55
+  - first:
+      213: -4296824292890540966
+    second: Charizard_56
+  - first:
+      213: -5494641570778543071
+    second: Charizard_57
+  - first:
+      213: 8158535874067334128
+    second: Charizard_58
+  - first:
+      213: -5759057581345733790
+    second: Charizard_59
+  - first:
+      213: -8732147530227603422
+    second: Charizard_60
+  - first:
+      213: -5903780478723952327
+    second: Charizard_61
+  - first:
+      213: -5974396705615193373
+    second: Charizard_62
+  - first:
+      213: -7120325641946528165
+    second: Charizard_63
+  - first:
+      213: -3974769770392064817
+    second: Charizard_64
+  - first:
+      213: -3525346708741332698
+    second: Charizard_65
+  - first:
+      213: 2918107758035672235
+    second: Charizard_66
+  - first:
+      213: -3782475498743546674
+    second: Charizard_67
+  - first:
+      213: 4915811693774510899
+    second: Charizard_68
+  - first:
+      213: 8635640519286428411
+    second: Charizard_69
+  - first:
+      213: 5866600377035123839
+    second: Charizard_70
+  - first:
+      213: 6886377096867578231
+    second: Charizard_71
+  - first:
+      213: -7613808940295581955
+    second: Charizard_72
+  - first:
+      213: 2629054886443404397
+    second: Charizard_73
+  - first:
+      213: -4691834334115011296
+    second: Charizard_74
+  - first:
+      213: -3729161391613478051
+    second: Charizard_75
+  - first:
+      213: 4882835695781852871
+    second: Charizard_76
+  - first:
+      213: -8423563596671264566
+    second: Charizard_77
+  - first:
+      213: 6538035521128703293
+    second: Charizard_78
+  - first:
+      213: 7769512242354884521
+    second: Charizard_79
+  - first:
+      213: 8502703654555082556
+    second: Charizard_80
+  - first:
+      213: 3647379807029676521
+    second: Charizard_81
+  - first:
+      213: 1210548041791439797
+    second: Charizard_82
+  - first:
+      213: -9007672732094296008
+    second: Charizard_83
+  - first:
+      213: -7199221050760541407
+    second: Charizard_84
+  - first:
+      213: 2396201697414181115
+    second: Charizard_85
+  - first:
+      213: -2307502532359276214
+    second: Charizard_86
+  - first:
+      213: -4942109732937176300
+    second: Charizard_87
+  - first:
+      213: 347061366474532935
+    second: Charizard_88
+  - first:
+      213: 555548337354046085
+    second: Charizard_89
+  - first:
+      213: -1672176134501863603
+    second: Charizard_90
+  - first:
+      213: 3861566144665587428
+    second: Charizard_91
+  - first:
+      213: 7617116512808750956
+    second: Charizard_92
+  - first:
+      213: -5781011522051453402
+    second: Charizard_93
+  - first:
+      213: 9164387658266167302
+    second: Charizard_94
+  - first:
+      213: 1650828131626899345
+    second: Charizard_95
+  - first:
+      213: -8389353098571600895
+    second: Charizard_96
+  - first:
+      213: 7831432107032742723
+    second: Charizard_97
+  - first:
+      213: 8416990087854919494
+    second: Charizard_98
+  - first:
+      213: -7419360509903079698
+    second: Charizard_99
+  - first:
+      213: -2182873805855040237
+    second: Charizard_100
+  - first:
+      213: 402386690389263609
+    second: Charizard_101
+  - first:
+      213: -3134724000035934975
+    second: Charizard_102
+  - first:
+      213: 7071043431150548997
+    second: Charizard_103
+  - first:
+      213: 8816500552349309255
+    second: Charizard_104
+  - first:
+      213: -8327670676286649733
+    second: Charizard_105
+  - first:
+      213: -3294777722440569212
+    second: Charizard_106
+  - first:
+      213: 3964817545640646490
+    second: Charizard_107
+  - first:
+      213: -1384429293334480915
+    second: Charizard_108
+  - first:
+      213: 1123568740315878297
+    second: Charizard_109
+  - first:
+      213: -2342690542949016797
+    second: Charizard_110
+  - first:
+      213: -1482781808929847666
+    second: Charizard_111
+  - first:
+      213: 6513707082641790296
+    second: Charizard_112
+  - first:
+      213: -4169260467884525088
+    second: Charizard_113
+  - first:
+      213: 8917340679962067167
+    second: Charizard_114
+  - first:
+      213: -8139814479633837871
+    second: Charizard_115
+  - first:
+      213: -7128757054430983127
+    second: Charizard_116
+  - first:
+      213: 6825628268501575267
+    second: Charizard_117
+  - first:
+      213: -1807694910599944565
+    second: Charizard_118
+  - first:
+      213: 8750042104850188983
+    second: Charizard_119
+  - first:
+      213: 7703815374847016585
+    second: Charizard_120
+  - first:
+      213: -2952130308035329833
+    second: Charizard_121
+  - first:
+      213: 930651523910023461
+    second: Charizard_122
+  - first:
+      213: 2076292201968707887
+    second: Charizard_123
+  - first:
+      213: -8734131438027556156
+    second: Charizard_124
+  - first:
+      213: 1385156400490065341
+    second: Charizard_125
+  - first:
+      213: 7142370323807010498
+    second: Charizard_126
+  - first:
+      213: 3915297750686383408
+    second: Charizard_127
+  - first:
+      213: -2285395838554528720
+    second: Charizard_128
+  - first:
+      213: 5995918365637062346
+    second: Charizard_129
+  - first:
+      213: 8549521282640886626
+    second: Charizard_130
+  - first:
+      213: 2356128978270299771
+    second: Charizard_131
+  - first:
+      213: 436875308908428262
+    second: Charizard_132
+  - first:
+      213: -1595125833778881828
+    second: Charizard_133
+  - first:
+      213: -3715436179123065816
+    second: Charizard_134
+  - first:
+      213: -8736207328132525042
+    second: Charizard_135
+  - first:
+      213: -4996282428458159882
+    second: Charizard_136
+  - first:
+      213: 2134660914489319407
+    second: Charizard_137
+  - first:
+      213: -5106142713986348309
+    second: Charizard_138
+  - first:
+      213: 5327738166160176197
+    second: Charizard_139
+  - first:
+      213: -6523786164429891947
+    second: Charizard_140
+  - first:
+      213: -990791330106836857
+    second: Charizard_141
+  - first:
+      213: 952858368906129320
+    second: Charizard_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charizard_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1418
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e8d1ced94fdc1e0800000000000000
+      internalID: -2175814085841678711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1418
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ec720a97bc2ee0800000000000000
+      internalID: -1284449921612848494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1418
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2998853118d9db0800000000000000
+      internalID: -4783525309107825974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1418
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9e086546f39380800000000000000
+      internalID: -8965551655205561795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1418
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284652ea13fc96440800000000000000
+      internalID: 4929699079415751810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1418
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f6da490babf8a0800000000000000
+      internalID: -6270229999784626272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1418
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef356046b02e250800000000000000
+      internalID: 5972348580077502062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1418
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200244e9f58757440800000000000000
+      internalID: 4932981318926737410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_8
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1418
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f5442a0d3a32180800000000000000
+      internalID: -9141282702161060060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1418
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff710763c5d8da0800000000000000
+      internalID: -5940990944553205952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1317
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e3b4d5a65366160800000000000000
+      internalID: 7018355800251514393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1317
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3039046e25173ccf0800000000000000
+      internalID: -233218154828885245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1317
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b25d9fe550908560800000000000000
+      internalID: 7314004493616370361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1317
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b791988a85b2e61c0800000000000000
+      internalID: -4508618517166614149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1317
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f987bd03ed1b480800000000000000
+      internalID: -8885076288403366106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1317
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af06d6820956b90800000000000000
+      internalID: -7249229521874781669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1317
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c061655c6bf59cef0800000000000000
+      internalID: -87433479157574132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1317
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a282c9c7ff42710800000000000000
+      internalID: 1667738672694831702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1317
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498d31624c245f80800000000000000
+      internalID: -8118815564631275185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1317
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f87d05e1ec24150800000000000000
+      internalID: 5855469095135711032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1216
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e0d42d8319e9d0800000000000000
+      internalID: -2744641000976620631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1216
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9222280f1510f8b40800000000000000
+      internalID: 5444571925953258025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29becca44e8150e00800000000000000
+      internalID: 1010241060201098130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1216
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81c97b558ca8650800000000000000
+      internalID: 6236016904526108858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1216
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617529c96ad47cd80800000000000000
+      internalID: -8230524416009545962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1216
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cfb25b2b819d0f0800000000000000
+      internalID: -1091814278837830530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1216
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f432c524f83c527b0800000000000000
+      internalID: -5249574770569370801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_27
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1216
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4241eb229825d2600800000000000000
+      internalID: 445102687126426660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1216
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0dec0f1da909b20800000000000000
+      internalID: 3139179166756163790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1216
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd1a093f5b74bed0800000000000000
+      internalID: -2399157052572557898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1115
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a12b511628fa70800000000000000
+      internalID: 8860874122836681301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1115
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da59b336cfbcac0800000000000000
+      internalID: -3833693154644218620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1115
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf614a3d55e5bf30800000000000000
+      internalID: 4590827583746174917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1115
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2025d700315f15050800000000000000
+      internalID: 5787676458109194754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1115
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e04df8e9ea1f800800000000000000
+      internalID: 644488217731796515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_35
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1115
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28bd8a6afa18c650800000000000000
+      internalID: 6253277745435752495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_36
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1115
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee7e9daa2145530800000000000000
+      internalID: 3842716907063471739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1115
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035c17091d824e7d0800000000000000
+      internalID: -2890140180328364752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1115
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34185c6d967d7e050800000000000000
+      internalID: 5829865092229202243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1115
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60659f69b8c9d1e90800000000000000
+      internalID: -7053309318045018618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1014
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d724bd6bfee22c630800000000000000
+      internalID: 3945767830629859965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1014
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3fa436aae3af290800000000000000
+      internalID: -7855897698463190061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1014
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c6947ea9f75db0800000000000000
+      internalID: -4803095949891681146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1014
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7afedf9d150b360800000000000000
+      internalID: 7183331402366035939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1014
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6b3ef5edadb6320800000000000000
+      internalID: 2552374262461871863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1014
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf815348edf7d9a20800000000000000
+      internalID: 3070751114614085884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1014
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c53f4aa44b3dc0800000000000000
+      internalID: -3658254774044344044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_47
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1014
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8166d306ef43fe800800000000000000
+      internalID: 643791538878244376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1014
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d56d53911e62d90800000000000000
+      internalID: -7122758262246187696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1014
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3604bbcb276f1170800000000000000
+      internalID: 8151347288362714683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 913
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854210883f93bbfd0800000000000000
+      internalID: -2325201064485116840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 913
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0fa498a5f900b0800000000000000
+      internalID: -5761804143846027881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 913
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280b4b2bfb2ade0b0800000000000000
+      internalID: -5697719009333170046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_53
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 913
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c824d121da1f00800000000000000
+      internalID: 1088412203186963069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 913
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2b0d74f740b550800000000000000
+      internalID: 6174514204520427094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_55
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 913
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b60f24b003ee440800000000000000
+      internalID: 4966960263962061693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_56
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 913
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a548df7321d9e54c0800000000000000
+      internalID: -4296824292890540966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_57
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 913
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c86ad6a9c1fb3b0800000000000000
+      internalID: -5494641570778543071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_58
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 913
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38015d621f83170800000000000000
+      internalID: 8158535874067334128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 913
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2630ede74a7b310b0800000000000000
+      internalID: -5759057581345733790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 812
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228aa7e061e21d680800000000000000
+      internalID: -8732147530227603422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 812
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931f5c52fee811ea0800000000000000
+      internalID: -5903780478723952327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_62
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 812
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eada8699dda61da0800000000000000
+      internalID: -5974396705615193373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 812
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560ca2cd858f2d90800000000000000
+      internalID: -7120325641946528165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 812
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcce1dbf3f7c6d8c0800000000000000
+      internalID: -3974769770392064817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 812
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216163b8d3731fc0800000000000000
+      internalID: -3525346708741332698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_66
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 812
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac170e8b833f7820800000000000000
+      internalID: 2918107758035672235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_67
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 812
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccb5c50392f18bc0800000000000000
+      internalID: -3782475498743546674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_68
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 812
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b142eb0b8783440800000000000000
+      internalID: 4915811693774510899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_69
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 812
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf299087c45f7d770800000000000000
+      internalID: 8635640519286428411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 711
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce958d5f95a6150800000000000000
+      internalID: 5866600377035123839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 711
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7718d28eb73519f50800000000000000
+      internalID: 6886377096867578231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 711
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0df5cb11565690800000000000000
+      internalID: -7613808940295581955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_73
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 711
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc6796d774c7420800000000000000
+      internalID: 2629054886443404397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 711
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e712188143eeb0800000000000000
+      internalID: -4691834334115011296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 711
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf6c6e87b5f3cc0800000000000000
+      internalID: -3729161391613478051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_76
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 711
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6bca7e13153c340800000000000000
+      internalID: 4882835695781852871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_77
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 711
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85f7de98d791b80800000000000000
+      internalID: -8423563596671264566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_78
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 711
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3523cd9aa4cbba50800000000000000
+      internalID: 6538035521128703293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 711
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8c93483ad2db60800000000000000
+      internalID: 7769512242354884521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 610
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fdb20bcebaff570800000000000000
+      internalID: 8502703654555082556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 610
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9cfee1c981e9230800000000000000
+      internalID: 3647379807029676521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 610
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3068eb70bbcc010800000000000000
+      internalID: 1210548041791439797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_83
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 610
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8301c86ff515ef280800000000000000
+      internalID: -9007672732094296008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 610
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b47e1f89a371c90800000000000000
+      internalID: -7199221050760541407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_85
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 610
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07f888fb4014120800000000000000
+      internalID: 2396201697414181115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_86
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 610
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4939682caa1affd0800000000000000
+      internalID: -2307502532359276214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_87
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 610
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b674fd1691a6bb0800000000000000
+      internalID: -4942109732937176300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_88
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 610
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e9f7597201d400800000000000000
+      internalID: 347061366474532935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_89
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 610
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58afb87f444b5b700800000000000000
+      internalID: 555548337354046085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 509
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f612d4aac3bc8e0800000000000000
+      internalID: -1672176134501863603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 509
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8779f2f9079530800000000000000
+      internalID: 3861566144665587428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_92
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 509
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4ab67c1f65b960800000000000000
+      internalID: 7617116512808750956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 509
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ecea956a8b5cfa0800000000000000
+      internalID: -5781011522051453402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 509
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608cdea25027e2f70800000000000000
+      internalID: 9164387658266167302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 509
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197d7d2707be8e610800000000000000
+      internalID: 1650828131626899345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 509
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c21583ec7039b80800000000000000
+      internalID: -8389353098571600895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_97
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 509
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b86463206deac60800000000000000
+      internalID: 7831432107032742723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_98
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 509
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f8398c3e72fc470800000000000000
+      internalID: 8416990087854919494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_99
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 509
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee67aaafce2290990800000000000000
+      internalID: -7419360509903079698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 408
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5184c6dfd4b1e0800000000000000
+      internalID: -2182873805855040237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 408
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f44ffe1090959500800000000000000
+      internalID: 402386690389263609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 408
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d67f461293f74d0800000000000000
+      internalID: -3134724000035934975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_103
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 408
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50876116984612260800000000000000
+      internalID: 7071043431150548997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 408
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d0d06a808a5a70800000000000000
+      internalID: 8816500552349309255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_105
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 408
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a4f7d44ab2e6c80800000000000000
+      internalID: -8327670676286649733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_106
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 408
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2f003e199642d0800000000000000
+      internalID: -3294777722440569212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_107
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 408
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57952f1d8cd50730800000000000000
+      internalID: 3964817545640646490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 408
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7372a84e489cce0800000000000000
+      internalID: -1384429293334480915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_109
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 408
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d24ff0d7b79f00800000000000000
+      internalID: 1123568740315878297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 307
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b5bd00d571d7fd0800000000000000
+      internalID: -2342690542949016797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_111
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 307
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8643570dc91c6be0800000000000000
+      internalID: -1482781808929847666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 307
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8555fcf9416556a50800000000000000
+      internalID: 6513707082641790296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_113
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 307
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f9a3b1bfc326c0800000000000000
+      internalID: -4169260467884525088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_114
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 307
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd087423a12c0cb70800000000000000
+      internalID: 8917340679962067167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_115
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 307
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d018db7bd1990f80800000000000000
+      internalID: -8139814479633837871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_116
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 307
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cc4909a31911d90800000000000000
+      internalID: -7128757054430983127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_117
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 307
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366a6e81fb089be50800000000000000
+      internalID: 6825628268501575267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_118
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 307
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a86f6e07c9e6e0800000000000000
+      internalID: -1807694910599944565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_119
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 307
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba8e454fe46e6970800000000000000
+      internalID: 8750042104850188983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 206
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef2f0544379ea60800000000000000
+      internalID: 7703815374847016585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_121
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 206
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0c3ea302de707d0800000000000000
+      internalID: -2952130308035329833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 206
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529355451a65aec00800000000000000
+      internalID: 930651523910023461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_123
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 206
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29224cc1c870dc10800000000000000
+      internalID: 2076292201968707887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_124
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 206
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabbc68bb12ac680800000000000000
+      internalID: -8734131438027556156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 206
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda1994860193310800000000000000
+      internalID: 1385156400490065341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_126
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 206
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cefec4b7fbce1360800000000000000
+      internalID: 7142370323807010498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_127
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 206
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3c836f8ee55630800000000000000
+      internalID: 3915297750686383408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_128
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 206
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342dc7e794a840e0800000000000000
+      internalID: -2285395838554528720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_129
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 206
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acea90e5cf7c53350800000000000000
+      internalID: 5995918365637062346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 105
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bb37b2f4006a670800000000000000
+      internalID: 8549521282640886626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_131
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 105
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762eca82d6a2b020800000000000000
+      internalID: 2356128978270299771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_132
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 105
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb30ae57c7101600800000000000000
+      internalID: 436875308908428262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_133
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 105
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda9f896189fcd9e0800000000000000
+      internalID: -1595125833778881828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 105
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c2cb5fa7e107cc0800000000000000
+      internalID: -3715436179123065816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_135
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 105
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e041f72b8b1c2c680800000000000000
+      internalID: -8736207328132525042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_136
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 105
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0b93e4a93a9aab0800000000000000
+      internalID: -4996282428458159882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_137
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 105
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefdb04bac6df9d10800000000000000
+      internalID: 2134660914489319407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_138
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 105
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea056051465329b0800000000000000
+      internalID: -5106142713986348309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_139
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 105
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b44272adefe940800000000000000
+      internalID: 5327738166160176197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965c864c0bd675a0800000000000000
+      internalID: -6523786164429891947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_141
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788f172e8800042f0800000000000000
+      internalID: -990791330106836857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charizard_142
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af68e753ab393d00800000000000000
+      internalID: 952858368906129320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

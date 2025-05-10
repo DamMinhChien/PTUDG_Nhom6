@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: cd34b20db70266e44bcc7ed768e60465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7862162389032788125
+    second: Tentacool_0
+  - first:
+      213: 2764216305503461320
+    second: Tentacool_1
+  - first:
+      213: 5356706157280705275
+    second: Tentacool_2
+  - first:
+      213: -2670776614227264338
+    second: Tentacool_3
+  - first:
+      213: -8373662793632457089
+    second: Tentacool_4
+  - first:
+      213: 4983452576621597007
+    second: Tentacool_5
+  - first:
+      213: -5755457018789959865
+    second: Tentacool_6
+  - first:
+      213: -8237659965460380204
+    second: Tentacool_7
+  - first:
+      213: 7499844056715268250
+    second: Tentacool_8
+  - first:
+      213: 5989960918502833151
+    second: Tentacool_9
+  - first:
+      213: -7059081318039629176
+    second: Tentacool_10
+  - first:
+      213: 3831474092331325939
+    second: Tentacool_11
+  - first:
+      213: -8426798741721722445
+    second: Tentacool_12
+  - first:
+      213: 7405918521121279059
+    second: Tentacool_13
+  - first:
+      213: -768401907073472505
+    second: Tentacool_14
+  - first:
+      213: 3195857144957131666
+    second: Tentacool_15
+  - first:
+      213: -8299847870328436991
+    second: Tentacool_16
+  - first:
+      213: -4981831315346700813
+    second: Tentacool_17
+  - first:
+      213: 8757908053170602699
+    second: Tentacool_18
+  - first:
+      213: -4361756052921562807
+    second: Tentacool_19
+  - first:
+      213: 6283042753738482863
+    second: Tentacool_20
+  - first:
+      213: 2883421973669625948
+    second: Tentacool_21
+  - first:
+      213: 440952037211768193
+    second: Tentacool_22
+  - first:
+      213: 96067471659294340
+    second: Tentacool_23
+  - first:
+      213: 284335108114824896
+    second: Tentacool_24
+  - first:
+      213: 7536341483779265016
+    second: Tentacool_25
+  - first:
+      213: -738192103927582090
+    second: Tentacool_26
+  - first:
+      213: 5641604574144707746
+    second: Tentacool_27
+  - first:
+      213: -7675525498361757178
+    second: Tentacool_28
+  - first:
+      213: 5229448669891417941
+    second: Tentacool_29
+  - first:
+      213: -6405079885321492196
+    second: Tentacool_30
+  - first:
+      213: 9127522350419303516
+    second: Tentacool_31
+  - first:
+      213: 8063346087212719335
+    second: Tentacool_32
+  - first:
+      213: 6188404695093869989
+    second: Tentacool_33
+  - first:
+      213: 8501026063275248958
+    second: Tentacool_34
+  - first:
+      213: 3058957311812365133
+    second: Tentacool_35
+  - first:
+      213: 1394754782250258456
+    second: Tentacool_36
+  - first:
+      213: -261140181598550479
+    second: Tentacool_37
+  - first:
+      213: -3249520561774329231
+    second: Tentacool_38
+  - first:
+      213: -5111571624659459579
+    second: Tentacool_39
+  - first:
+      213: 8322385345555193897
+    second: Tentacool_40
+  - first:
+      213: -6948529727377208776
+    second: Tentacool_41
+  - first:
+      213: 6133895421037268963
+    second: Tentacool_42
+  - first:
+      213: 1718810071675096723
+    second: Tentacool_43
+  - first:
+      213: -4653128785362135048
+    second: Tentacool_44
+  - first:
+      213: -4481819662936557053
+    second: Tentacool_45
+  - first:
+      213: -5681574834620382964
+    second: Tentacool_46
+  - first:
+      213: 3175365824486480728
+    second: Tentacool_47
+  - first:
+      213: 5686071728422619524
+    second: Tentacool_48
+  - first:
+      213: -187546996015051510
+    second: Tentacool_49
+  - first:
+      213: -1163325968773078478
+    second: Tentacool_50
+  - first:
+      213: 2377264944729001124
+    second: Tentacool_51
+  - first:
+      213: -5340784879865783241
+    second: Tentacool_52
+  - first:
+      213: -2900600357260942147
+    second: Tentacool_53
+  - first:
+      213: 3145442645985106771
+    second: Tentacool_54
+  - first:
+      213: -1344176014346597122
+    second: Tentacool_55
+  - first:
+      213: 5948588190494518107
+    second: Tentacool_56
+  - first:
+      213: -2447039011049161789
+    second: Tentacool_57
+  - first:
+      213: 2859220898826627228
+    second: Tentacool_58
+  - first:
+      213: -3049877361153697894
+    second: Tentacool_59
+  - first:
+      213: 5473908277698031294
+    second: Tentacool_60
+  - first:
+      213: -2408308168159290525
+    second: Tentacool_61
+  - first:
+      213: 2837619300026115024
+    second: Tentacool_62
+  - first:
+      213: 3280649579627890847
+    second: Tentacool_63
+  - first:
+      213: -1303576272831038952
+    second: Tentacool_64
+  - first:
+      213: -4880598993611889879
+    second: Tentacool_65
+  - first:
+      213: 7179837637980599120
+    second: Tentacool_66
+  - first:
+      213: -495099978761855260
+    second: Tentacool_67
+  - first:
+      213: -3498359923793635476
+    second: Tentacool_68
+  - first:
+      213: 6584031493250336997
+    second: Tentacool_69
+  - first:
+      213: 8644676214380727639
+    second: Tentacool_70
+  - first:
+      213: -6471497471086423704
+    second: Tentacool_71
+  - first:
+      213: 2407468972946414515
+    second: Tentacool_72
+  - first:
+      213: -5826808397050536900
+    second: Tentacool_73
+  - first:
+      213: -391497953094677261
+    second: Tentacool_74
+  - first:
+      213: 1292430871285048055
+    second: Tentacool_75
+  - first:
+      213: -5973147153957115065
+    second: Tentacool_76
+  - first:
+      213: 6167860505724262436
+    second: Tentacool_77
+  - first:
+      213: -2700763454020298531
+    second: Tentacool_78
+  - first:
+      213: -8748139815270389946
+    second: Tentacool_79
+  - first:
+      213: 2094149667478496894
+    second: Tentacool_80
+  - first:
+      213: -3787734861828178933
+    second: Tentacool_81
+  - first:
+      213: -1142788785134971674
+    second: Tentacool_82
+  - first:
+      213: 607553186229161152
+    second: Tentacool_83
+  - first:
+      213: 8124591182411015664
+    second: Tentacool_84
+  - first:
+      213: 2120110090802058444
+    second: Tentacool_85
+  - first:
+      213: -277054712240249149
+    second: Tentacool_86
+  - first:
+      213: 4748113070718744007
+    second: Tentacool_87
+  - first:
+      213: -152615236930206711
+    second: Tentacool_88
+  - first:
+      213: -2593935632390333563
+    second: Tentacool_89
+  - first:
+      213: -5914121487726058724
+    second: Tentacool_90
+  - first:
+      213: -5519764938042145488
+    second: Tentacool_91
+  - first:
+      213: -7151639499538720290
+    second: Tentacool_92
+  - first:
+      213: -476298207616508059
+    second: Tentacool_93
+  - first:
+      213: 4538870057382131443
+    second: Tentacool_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tentacool_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 739
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906cbc89030c1d60800000000000000
+      internalID: 7862162389032788125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 739
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf50eb95187c5620800000000000000
+      internalID: 2764216305503461320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 737
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa3dd67ed7d65a40800000000000000
+      internalID: 5356706157280705275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 737
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac309ad1de7fead0800000000000000
+      internalID: -2670776614227264338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 735
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed1a40e06cacb80800000000000000
+      internalID: -8373662793632457089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 735
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41198807b7c82540800000000000000
+      internalID: 4983452576621597007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 734
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747eefac5528020b0800000000000000
+      internalID: -5755457018789959865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 734
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5074a08e3fdad80800000000000000
+      internalID: -8237659965460380204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 733
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9096570f6cc41860800000000000000
+      internalID: 7499844056715268250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 733
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb75dd18bd902350800000000000000
+      internalID: 5989960918502833151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 654
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882d6ad11fa190e90800000000000000
+      internalID: -7059081318039629176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 654
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9558f03612c2530800000000000000
+      internalID: 3831474092331325939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 656
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d7f5013ffd0b80800000000000000
+      internalID: -8426798741721722445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c8bee18ab17c660800000000000000
+      internalID: 7405918521121279059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 658
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708272469861655f0800000000000000
+      internalID: -768401907073472505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 658
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b50161427f95c20800000000000000
+      internalID: 3195857144957131666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 662
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078a4f165401dc80800000000000000
+      internalID: -8299847870328436991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 662
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c7d540dafcdab0800000000000000
+      internalID: -4981831315346700813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 660
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc244c419f65a8970800000000000000
+      internalID: 8757908053170602699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 660
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94943bcbafde773c0800000000000000
+      internalID: -4361756052921562807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ac25781ad13750800000000000000
+      internalID: 6283042753738482863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 578
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50422e0209f30820800000000000000
+      internalID: 2883421973669625948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 576
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850ef4aa839e1600800000000000000
+      internalID: 440952037211768193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 576
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ed8b24bdc455100800000000000000
+      internalID: 96067471659294340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 574
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3b5c364922f300800000000000000
+      internalID: 284335108114824896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 574
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f114b676a6769860800000000000000
+      internalID: 7536341483779265016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 574
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f56d413a61c5f0800000000000000
+      internalID: -738192103927582090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 574
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac3d1d38710b4e40800000000000000
+      internalID: 5641604574144707746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 575
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c1b5d93e0b7590800000000000000
+      internalID: -7675525498361757178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 575
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575404cbdbb29840800000000000000
+      internalID: 5229448669891417941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 495
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a965a7c59c17a0800000000000000
+      internalID: -6405079885321492196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 495
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c5e20d7397bae70800000000000000
+      internalID: 9127522350419303516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 496
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec995d7b82c6ef60800000000000000
+      internalID: 8063346087212719335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 496
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adfd695841a1e550800000000000000
+      internalID: 6188404695093869989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 494
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dcbd70a26b9f570800000000000000
+      internalID: 8501026063275248958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 494
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4be8a1d779937a20800000000000000
+      internalID: 3058957311812365133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 493
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ddc0b51a2b5310800000000000000
+      internalID: 1394754782250258456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 493
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136cc3f636e306cf0800000000000000
+      internalID: -261140181598550479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 492
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1720d19044267e2d0800000000000000
+      internalID: -3249520561774329231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 492
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e43c80bc0019b0800000000000000
+      internalID: -5111571624659459579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 411
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ebbdb06d0f7370800000000000000
+      internalID: 8322385345555193897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 411
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8070270dd19f90800000000000000
+      internalID: -6948529727377208776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 414
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef425cf269ff1550800000000000000
+      internalID: 6133895421037268963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 414
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ece8e47a07ad710800000000000000
+      internalID: 1718810071675096723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_44
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 417
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f75856e504cc6fb0800000000000000
+      internalID: -4653128785362135048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 417
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3e4323c06dc1c0800000000000000
+      internalID: -4481819662936557053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 420
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0147a94acdf621b0800000000000000
+      internalID: -5681574834620382964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 420
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9e60c46a211c20800000000000000
+      internalID: 3175365824486480728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_48
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 425
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48985046c1cf8ee40800000000000000
+      internalID: 5686071728422619524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 425
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc4d33003b56df0800000000000000
+      internalID: -187546996015051510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 339
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322b49e1390bdfe0800000000000000
+      internalID: -1163325968773078478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 339
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac8f873fddbdf020800000000000000
+      internalID: 2377264944729001124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 337
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c92ddc278b1e5b0800000000000000
+      internalID: -5340784879865783241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 337
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42716d75ffeb7d0800000000000000
+      internalID: -2900600357260942147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 335
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9e47db6bd6ab20800000000000000
+      internalID: 3145442645985106771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_55
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 335
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc45456907885de0800000000000000
+      internalID: -1344176014346597122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 332
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b62893171ad8250800000000000000
+      internalID: 5948588190494518107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 332
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb34e20cfe5a0ed0800000000000000
+      internalID: -2447039011049161789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_58
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 332
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982fe8324efda720800000000000000
+      internalID: 2859220898826627228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_59
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 332
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979defe2b8aca5d0800000000000000
+      internalID: -3049877361153697894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 251
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebee249939a37fb40800000000000000
+      internalID: 5473908277698031294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 251
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b91371b78f39ed0800000000000000
+      internalID: -2408308168159290525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 251
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d369d118bf316720800000000000000
+      internalID: 2837619300026115024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 251
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98414a3965378d20800000000000000
+      internalID: 3280649579627890847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 253
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a37485944c8ede0800000000000000
+      internalID: -1303576272831038952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 253
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92362a6e211a44cb0800000000000000
+      internalID: -4880598993611889879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 251
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05330d49a48e3a360800000000000000
+      internalID: 7179837637980599120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_67
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 251
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee9895413d0129f0800000000000000
+      internalID: -495099978761855260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_68
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 250
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6751d53f24537fc0800000000000000
+      internalID: -3498359923793635476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8cb2962cd2f5b50800000000000000
+      internalID: 6584031493250336997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 168
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d8e6c273f08f770800000000000000
+      internalID: 8644676214380727639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 168
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8611e07665f9036a0800000000000000
+      internalID: -6471497471086423704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_72
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 168
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbde3c864c096120800000000000000
+      internalID: 2407468972946414515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c1a8772a4032fa0800000000000000
+      internalID: -5826808397050536900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 171
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fccf779fae119af0800000000000000
+      internalID: -391497953094677261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 171
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a1b3a703afe110800000000000000
+      internalID: 1292430871285048055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_76
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 174
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b20418f4e1b1da0800000000000000
+      internalID: -5973147153957115065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 174
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281bd38374a89550800000000000000
+      internalID: 6167860505724262436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_78
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 177
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd853c4a2f5f48ad0800000000000000
+      internalID: -2700763454020298531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 177
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6476b59003d589680800000000000000
+      internalID: -8748139815270389946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76ee8cf60aef0d10800000000000000
+      internalID: 2094149667478496894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3e5126334f6bc0800000000000000
+      internalID: -3787734861828178933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4dab897aff320f0800000000000000
+      internalID: -1142788785134971674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_83
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 96
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc885767667e6800800000000000000
+      internalID: 607553186229161152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_84
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 94
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f521ec62a850c070800000000000000
+      internalID: 8124591182411015664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_85
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 94
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc45afe05e42c6d10800000000000000
+      internalID: 2120110090802058444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_86
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 92
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c662950534b72cf0800000000000000
+      internalID: -277054712240249149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 92
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c574956eafa4e140800000000000000
+      internalID: 4748113070718744007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_88
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 89
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048677204dc1edf0800000000000000
+      internalID: -152615236930206711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_89
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 89
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b552d194d700cd0800000000000000
+      internalID: -2593935632390333563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13659d57d1dceda0800000000000000
+      internalID: -5914121487726058724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358758a80bd563b0800000000000000
+      internalID: -5519764938042145488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9975424c540cc90800000000000000
+      internalID: -7151639499538720290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_93
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fdcdfbd49d369f0800000000000000
+      internalID: -476298207616508059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacool_94
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63bebe44e4dfe30800000000000000
+      internalID: 4538870057382131443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

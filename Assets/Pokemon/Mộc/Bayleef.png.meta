@@ -1,0 +1,3092 @@
+fileFormatVersion: 2
+guid: dc51342159a85cf429e712013efdcda6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4775386460781380808
+    second: Bayleef_0
+  - first:
+      213: 4239132617038369372
+    second: Bayleef_1
+  - first:
+      213: -3426352931866848997
+    second: Bayleef_2
+  - first:
+      213: 3506360762476202414
+    second: Bayleef_3
+  - first:
+      213: 469757995232841080
+    second: Bayleef_4
+  - first:
+      213: 697890821127294476
+    second: Bayleef_5
+  - first:
+      213: -4011986467482992668
+    second: Bayleef_6
+  - first:
+      213: -2767370025324718341
+    second: Bayleef_7
+  - first:
+      213: 8098358835842317401
+    second: Bayleef_8
+  - first:
+      213: -1649694679589962394
+    second: Bayleef_9
+  - first:
+      213: 80887561421843696
+    second: Bayleef_10
+  - first:
+      213: -8623193731557202910
+    second: Bayleef_11
+  - first:
+      213: -322504763665218646
+    second: Bayleef_12
+  - first:
+      213: -3724482611743498926
+    second: Bayleef_13
+  - first:
+      213: 7818476578833819611
+    second: Bayleef_14
+  - first:
+      213: -8599388198133384903
+    second: Bayleef_15
+  - first:
+      213: 4425315008905975784
+    second: Bayleef_16
+  - first:
+      213: 8133136401558191394
+    second: Bayleef_17
+  - first:
+      213: 6526000296412670143
+    second: Bayleef_18
+  - first:
+      213: 2234486435277419752
+    second: Bayleef_19
+  - first:
+      213: -1548410421909728560
+    second: Bayleef_20
+  - first:
+      213: 349130594561743317
+    second: Bayleef_21
+  - first:
+      213: 6897669719829763948
+    second: Bayleef_22
+  - first:
+      213: -98595092828636631
+    second: Bayleef_23
+  - first:
+      213: -2018593019387911873
+    second: Bayleef_24
+  - first:
+      213: -4944596599292982566
+    second: Bayleef_25
+  - first:
+      213: 3444570694402816328
+    second: Bayleef_26
+  - first:
+      213: 716490616358884285
+    second: Bayleef_27
+  - first:
+      213: 3559142165632666856
+    second: Bayleef_28
+  - first:
+      213: 6371397510435176746
+    second: Bayleef_29
+  - first:
+      213: -1948217400038595475
+    second: Bayleef_30
+  - first:
+      213: -7165271227556876395
+    second: Bayleef_31
+  - first:
+      213: 8099512517004527586
+    second: Bayleef_32
+  - first:
+      213: -6070488626544609488
+    second: Bayleef_33
+  - first:
+      213: -5996797494765620552
+    second: Bayleef_34
+  - first:
+      213: 5346825235970259614
+    second: Bayleef_35
+  - first:
+      213: 3902644470123032565
+    second: Bayleef_36
+  - first:
+      213: -1321698874445581826
+    second: Bayleef_37
+  - first:
+      213: 4767512815575453882
+    second: Bayleef_38
+  - first:
+      213: 284978048142954719
+    second: Bayleef_39
+  - first:
+      213: 4634870223886870599
+    second: Bayleef_40
+  - first:
+      213: -74873400338236138
+    second: Bayleef_41
+  - first:
+      213: 143245431054178046
+    second: Bayleef_42
+  - first:
+      213: -673357558452372665
+    second: Bayleef_43
+  - first:
+      213: 7449569664915447409
+    second: Bayleef_44
+  - first:
+      213: 6675641252776622773
+    second: Bayleef_45
+  - first:
+      213: 1930106199214299513
+    second: Bayleef_46
+  - first:
+      213: 4678739632464296517
+    second: Bayleef_47
+  - first:
+      213: 4196655565239831777
+    second: Bayleef_48
+  - first:
+      213: 9198552753747443926
+    second: Bayleef_49
+  - first:
+      213: -2861240629670027485
+    second: Bayleef_50
+  - first:
+      213: 6160985404541278348
+    second: Bayleef_51
+  - first:
+      213: 5084280348096762885
+    second: Bayleef_52
+  - first:
+      213: -4959107149922129406
+    second: Bayleef_53
+  - first:
+      213: 4921998540969030456
+    second: Bayleef_54
+  - first:
+      213: 2383863735043122220
+    second: Bayleef_55
+  - first:
+      213: 9056582010364380
+    second: Bayleef_56
+  - first:
+      213: -2329793658749521528
+    second: Bayleef_57
+  - first:
+      213: 5010642241062571615
+    second: Bayleef_58
+  - first:
+      213: 2503502396347963549
+    second: Bayleef_59
+  - first:
+      213: -8345196676202490840
+    second: Bayleef_60
+  - first:
+      213: -6483179039952871003
+    second: Bayleef_61
+  - first:
+      213: -6200675635949857155
+    second: Bayleef_62
+  - first:
+      213: -3241581149237921341
+    second: Bayleef_63
+  - first:
+      213: 6214969260939480444
+    second: Bayleef_64
+  - first:
+      213: -5086350611480610205
+    second: Bayleef_65
+  - first:
+      213: 154016152017240270
+    second: Bayleef_66
+  - first:
+      213: 1739130049941423343
+    second: Bayleef_67
+  - first:
+      213: 1776960990439982127
+    second: Bayleef_68
+  - first:
+      213: -5625162886953316611
+    second: Bayleef_69
+  - first:
+      213: -4134401874216064909
+    second: Bayleef_70
+  - first:
+      213: -5570494905114059129
+    second: Bayleef_71
+  - first:
+      213: -8809276972884519621
+    second: Bayleef_72
+  - first:
+      213: 3754700896723213374
+    second: Bayleef_73
+  - first:
+      213: 2536639819254108978
+    second: Bayleef_74
+  - first:
+      213: -1677035386294225273
+    second: Bayleef_75
+  - first:
+      213: 1465903475510611385
+    second: Bayleef_76
+  - first:
+      213: -1310635000739704012
+    second: Bayleef_77
+  - first:
+      213: -8353612380923381213
+    second: Bayleef_78
+  - first:
+      213: -4975651325565757014
+    second: Bayleef_79
+  - first:
+      213: 1175349401774225355
+    second: Bayleef_80
+  - first:
+      213: 812264570310757898
+    second: Bayleef_81
+  - first:
+      213: -3313400054305902777
+    second: Bayleef_82
+  - first:
+      213: -6583142046155887119
+    second: Bayleef_83
+  - first:
+      213: -1562733335712459008
+    second: Bayleef_84
+  - first:
+      213: -2886094618507402243
+    second: Bayleef_85
+  - first:
+      213: -242375270692849098
+    second: Bayleef_86
+  - first:
+      213: -8784748902489796744
+    second: Bayleef_87
+  - first:
+      213: 8205157340827099483
+    second: Bayleef_88
+  - first:
+      213: -422449708929100546
+    second: Bayleef_89
+  - first:
+      213: -1421674295154065294
+    second: Bayleef_90
+  - first:
+      213: -6961602748063703684
+    second: Bayleef_91
+  - first:
+      213: -2108868296431300229
+    second: Bayleef_92
+  - first:
+      213: -1582895424826120605
+    second: Bayleef_93
+  - first:
+      213: 5920942028662682278
+    second: Bayleef_94
+  - first:
+      213: 436496253385297743
+    second: Bayleef_95
+  - first:
+      213: -4748769262856356730
+    second: Bayleef_96
+  - first:
+      213: 4501323499586291581
+    second: Bayleef_97
+  - first:
+      213: 8688541865532736297
+    second: Bayleef_98
+  - first:
+      213: -5759258234096211324
+    second: Bayleef_99
+  - first:
+      213: -2003160150218443044
+    second: Bayleef_100
+  - first:
+      213: 1763750469091103478
+    second: Bayleef_101
+  - first:
+      213: -4776001808226083114
+    second: Bayleef_102
+  - first:
+      213: 6711530959189658863
+    second: Bayleef_103
+  - first:
+      213: 2902985972515332694
+    second: Bayleef_104
+  - first:
+      213: -8083982810906238172
+    second: Bayleef_105
+  - first:
+      213: 8781716427133756022
+    second: Bayleef_106
+  - first:
+      213: -4664524651284048421
+    second: Bayleef_107
+  - first:
+      213: -2863404515332917537
+    second: Bayleef_108
+  - first:
+      213: -1903517834520661980
+    second: Bayleef_109
+  - first:
+      213: -5871507675735323381
+    second: Bayleef_110
+  - first:
+      213: -4371859737122205709
+    second: Bayleef_111
+  - first:
+      213: 2574678004558010263
+    second: Bayleef_112
+  - first:
+      213: 2441958815413296199
+    second: Bayleef_113
+  - first:
+      213: 3167029591564665696
+    second: Bayleef_114
+  - first:
+      213: 8672731490329580885
+    second: Bayleef_115
+  - first:
+      213: 4831627035448892797
+    second: Bayleef_116
+  - first:
+      213: -4160938890599944875
+    second: Bayleef_117
+  - first:
+      213: -1069401191158225265
+    second: Bayleef_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bayleef_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 995
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b7ae3a05b6abdb0800000000000000
+      internalID: -4775386460781380808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 995
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c521852c7ac64da30800000000000000
+      internalID: 4239132617038369372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 995
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1155fc79262370d0800000000000000
+      internalID: -3426352931866848997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 995
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea903c5398819a030800000000000000
+      internalID: 3506360762476202414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 995
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc044686ae48600800000000000000
+      internalID: 469757995232841080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 995
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e4c4511086fa900800000000000000
+      internalID: 697890821127294476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 995
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef7002709f8258c0800000000000000
+      internalID: -4011986467482992668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 995
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6d476cf935899d0800000000000000
+      internalID: -2767370025324718341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 995
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cf60a4476236070800000000000000
+      internalID: 8098358835842317401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 995
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d303bed6b1b19e0800000000000000
+      internalID: -1649694679589962394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 905
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fceb4dfece5f1100800000000000000
+      internalID: 80887561421843696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 905
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22468212df2445880800000000000000
+      internalID: -8623193731557202910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 905
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30d5b40ab368bf0800000000000000
+      internalID: -322504763665218646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 905
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd8ea3ccaff4cc0800000000000000
+      internalID: -3724482611743498926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 905
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e91e360fc08c60800000000000000
+      internalID: 7818476578833819611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 905
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939b29ccef5d8a880800000000000000
+      internalID: -8599388198133384903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 905
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79b05ed80e96d30800000000000000
+      internalID: 4425315008905975784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 905
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dbcac4774bed070800000000000000
+      internalID: 8133136401558191394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 905
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb865cf71b2019a50800000000000000
+      internalID: 6526000296412670143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 905
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b326f29d720f10800000000000000
+      internalID: 2234486435277419752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 815
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2de83dce0f28ae0800000000000000
+      internalID: -1548410421909728560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 815
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d21d0d6c58d400800000000000000
+      internalID: 349130594561743317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 815
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67db64901279bf50800000000000000
+      internalID: 6897669719829763948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 815
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3a531948b1aef0800000000000000
+      internalID: -98595092828636631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 815
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31ec4508548cf3e0800000000000000
+      internalID: -2018593019387911873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 815
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada898d2793416bb0800000000000000
+      internalID: -4944596599292982566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 815
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b993ebc29dcf20800000000000000
+      internalID: 3444570694402816328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 815
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3d8f06b6c71f900800000000000000
+      internalID: 716490616358884285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 815
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec46a741fc946130800000000000000
+      internalID: 3559142165632666856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 815
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a210c445740cb6850800000000000000
+      internalID: 6371397510435176746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 725
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64e675c89a86f4e0800000000000000
+      internalID: -1948217400038595475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 725
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f252228c7df8c90800000000000000
+      internalID: -7165271227556876395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 725
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e782ed98bf376070800000000000000
+      internalID: 8099512517004527586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 725
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03772c9c1ca41cba0800000000000000
+      internalID: -6070488626544609488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 725
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2fa8e637817cca0800000000000000
+      internalID: -5996797494765620552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 725
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af912393db33a40800000000000000
+      internalID: 5346825235970259614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_36
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 725
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff635ee77af82630800000000000000
+      internalID: 3902644470123032565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 725
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef133a850e168ade0800000000000000
+      internalID: -1321698874445581826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_38
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 725
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab05f7a75ab992240800000000000000
+      internalID: 4767512815575453882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 725
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05850660274f300800000000000000
+      internalID: 284978048142954719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 635
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748efca79ed525040800000000000000
+      internalID: 4634870223886870599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 635
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db6b10a0ff5fef0800000000000000
+      internalID: -74873400338236138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 634
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69ea9e5f8ecf100800000000000000
+      internalID: 143245431054178046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 634
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b3f914ed0c7a6f0800000000000000
+      internalID: -673357558452372665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 634
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e9fc60420326760800000000000000
+      internalID: 7449569664915447409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 634
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bab1bfa954a4ac50800000000000000
+      internalID: 6675641252776622773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 634
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97992feac5d19ca10800000000000000
+      internalID: 1930106199214299513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_47
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 634
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a739d18e83ee040800000000000000
+      internalID: 4678739632464296517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 634
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec49c270048d3a30800000000000000
+      internalID: 4196655565239831777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 634
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0cec65ef2d7af70800000000000000
+      internalID: 9198552753747443926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 544
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f5a9b8ec4da48d0800000000000000
+      internalID: -2861240629670027485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 544
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c889c084597308550800000000000000
+      internalID: 6160985404541278348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 544
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049ec6f90efe8640800000000000000
+      internalID: 5084280348096762885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 544
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aaac55256bd2bb0800000000000000
+      internalID: -4959107149922129406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833337b58937e4440800000000000000
+      internalID: 4921998540969030456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_55
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 544
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c246e20df6f251120800000000000000
+      internalID: 2383863735043122220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 544
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd16b91d9ec202000800000000000000
+      internalID: 9056582010364380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 544
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f64ad209eaafd0800000000000000
+      internalID: -2329793658749521528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_58
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 544
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0a1b1290698540800000000000000
+      internalID: 5010642241062571615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_59
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 544
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98d8a45a2a3eb220800000000000000
+      internalID: 2503502396347963549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 454
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241e2676d7ef2c80800000000000000
+      internalID: -8345196676202490840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 454
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e954330f1706a0800000000000000
+      internalID: -6483179039952871003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 454
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d761ac79c56c2f9a0800000000000000
+      internalID: -6200675635949857155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_63
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 454
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c932119e179303d0800000000000000
+      internalID: -3241581149237921341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 454
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d05405d91004650800000000000000
+      internalID: 6214969260939480444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 454
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a7b974117a969b0800000000000000
+      internalID: -5086350611480610205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_66
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 454
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec009aecfdc232200800000000000000
+      internalID: 154016152017240270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 454
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe447fce091a22810800000000000000
+      internalID: 1739130049941423343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_68
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 454
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24c6e62b9809a810800000000000000
+      internalID: 1776960990439982127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_69
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 454
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfecf6f58286fe1b0800000000000000
+      internalID: -5625162886953316611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37864a08667af96c0800000000000000
+      internalID: -4134401874216064909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 364
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e9d85c560a1b2b0800000000000000
+      internalID: -5570494905114059129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 364
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35903744492fb580800000000000000
+      internalID: -8809276972884519621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 364
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c170382906b1430800000000000000
+      internalID: 3754700896723213374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 364
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23390c5d974f33320800000000000000
+      internalID: 2536639819254108978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 364
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7863c249339f9b8e0800000000000000
+      internalID: -1677035386294225273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 364
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd02dcb17fe75410800000000000000
+      internalID: 1465903475510611385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_77
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 364
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43357be2960bfcde0800000000000000
+      internalID: -1310635000739704012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_78
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 364
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ab1c38cc1021c80800000000000000
+      internalID: -8353612380923381213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_79
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 364
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa993754b7fe2fab0800000000000000
+      internalID: -4975651325565757014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 275
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc778bbbd0eaf4010800000000000000
+      internalID: 1175349401774225355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 275
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0209b25eb54b00800000000000000
+      internalID: 812264570310757898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 274
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f265ca4307402d0800000000000000
+      internalID: -3313400054305902777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_83
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 274
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fda0f0203bf3a4a0800000000000000
+      internalID: -6583142046155887119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 274
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00792369f4e005ae0800000000000000
+      internalID: -1562733335712459008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 274
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df323b35c3882f7d0800000000000000
+      internalID: -2886094618507402243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 274
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a7308b9f8e2acf0800000000000000
+      internalID: -242375270692849098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 274
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc712ba6d461680800000000000000
+      internalID: -8784748902489796744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_88
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 275
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512032f0239ed170800000000000000
+      internalID: 8205157340827099483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_89
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 275
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef450db5a38232af0800000000000000
+      internalID: -422449708929100546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 184
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270c90bc2c2354ce0800000000000000
+      internalID: -1421674295154065294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_91
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 184
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d974e4f2b636f90800000000000000
+      internalID: -6961602748063703684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 184
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b711129257bcbb2e0800000000000000
+      internalID: -2108868296431300229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e5a66ffc680ae0800000000000000
+      internalID: -1582895424826120605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_94
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 184
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2be1297696b2250800000000000000
+      internalID: 5920942028662682278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 184
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc1d0a70fbe0600800000000000000
+      internalID: 436496253385297743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 184
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c3727f38bf81eb0800000000000000
+      internalID: -4748769262856356730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_97
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 184
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7785f3bfd9e77e30800000000000000
+      internalID: 4501323499586291581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 184
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9234037fac6e39870800000000000000
+      internalID: 8688541865532736297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_99
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 184
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa3f266210310b0800000000000000
+      internalID: -5759258234096211324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 94
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f202e4785334e0800000000000000
+      internalID: -2003160150218443044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 94
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f29a96f4b91a7810800000000000000
+      internalID: 1763750469091103478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_102
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9f06e8ab38bdb0800000000000000
+      internalID: -4776001808226083114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec498129d5242d50800000000000000
+      internalID: 6711530959189658863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_104
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 94
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652e7bf7c5a794820800000000000000
+      internalID: 2902985972515332694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 94
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423e199d67cefcf80800000000000000
+      internalID: -8083982810906238172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_106
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 94
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672258d109ceed970800000000000000
+      internalID: 8781716427133756022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_107
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 94
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5592a1b87444fb0800000000000000
+      internalID: -4664524651284048421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_108
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 94
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f457a3c42348d0800000000000000
+      internalID: -2863404515332917537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_109
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 94
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42076c16d985595e0800000000000000
+      internalID: -1903517834520661980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d01d3a0e6348ea0800000000000000
+      internalID: -5871507675735323381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_111
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff8ff07bb80453c0800000000000000
+      internalID: -4371859737122205709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79711b001081bb320800000000000000
+      internalID: 2574678004558010263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cd7d4ca9493e120800000000000000
+      internalID: 2441958815413296199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_114
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063cc5642ac83fb20800000000000000
+      internalID: 3167029591564665696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_115
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555071275bbb5870800000000000000
+      internalID: 8672731490329580885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_116
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dda1f80336d0340800000000000000
+      internalID: 4831627035448892797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_117
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55daea5ef106146c0800000000000000
+      internalID: -4160938890599944875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bayleef_118
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8662a65849b821f0800000000000000
+      internalID: -1069401191158225265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

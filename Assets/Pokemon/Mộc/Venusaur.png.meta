@@ -1,0 +1,4292 @@
+fileFormatVersion: 2
+guid: 688f4ba63a9a82d46a00e9148a94005c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5485963421013563980
+    second: Venusaur_0
+  - first:
+      213: 7622428425337018257
+    second: Venusaur_1
+  - first:
+      213: -4809139585218016000
+    second: Venusaur_2
+  - first:
+      213: -5300961866932056470
+    second: Venusaur_3
+  - first:
+      213: 6395107493764971925
+    second: Venusaur_4
+  - first:
+      213: -2546395800466512001
+    second: Venusaur_5
+  - first:
+      213: 7375195137311057381
+    second: Venusaur_6
+  - first:
+      213: -6280433800507135532
+    second: Venusaur_7
+  - first:
+      213: 6956914010696902847
+    second: Venusaur_8
+  - first:
+      213: -7209130494650448219
+    second: Venusaur_9
+  - first:
+      213: -4395446700529623141
+    second: Venusaur_10
+  - first:
+      213: 8610721562309873357
+    second: Venusaur_11
+  - first:
+      213: -7900996891161854499
+    second: Venusaur_12
+  - first:
+      213: 8468033418845177507
+    second: Venusaur_13
+  - first:
+      213: 3815355287238638331
+    second: Venusaur_14
+  - first:
+      213: 5484999367020206092
+    second: Venusaur_15
+  - first:
+      213: 3208753145670458897
+    second: Venusaur_16
+  - first:
+      213: 3750253445898074953
+    second: Venusaur_17
+  - first:
+      213: 7381794650421792260
+    second: Venusaur_18
+  - first:
+      213: 3987511953292401488
+    second: Venusaur_19
+  - first:
+      213: 5004414626983407946
+    second: Venusaur_20
+  - first:
+      213: -7554557203504391277
+    second: Venusaur_21
+  - first:
+      213: -4319248244969694831
+    second: Venusaur_22
+  - first:
+      213: -3636444752740832226
+    second: Venusaur_23
+  - first:
+      213: 8438691248740343258
+    second: Venusaur_24
+  - first:
+      213: -7288200408216597698
+    second: Venusaur_25
+  - first:
+      213: 680840029957998517
+    second: Venusaur_26
+  - first:
+      213: -2465489615317854892
+    second: Venusaur_27
+  - first:
+      213: -4188427499997014917
+    second: Venusaur_28
+  - first:
+      213: 4001381600427932731
+    second: Venusaur_29
+  - first:
+      213: -5643938858525412655
+    second: Venusaur_30
+  - first:
+      213: 2560885502736587455
+    second: Venusaur_31
+  - first:
+      213: -1970059714035877190
+    second: Venusaur_32
+  - first:
+      213: -4838197321145133014
+    second: Venusaur_33
+  - first:
+      213: -8855031801685457293
+    second: Venusaur_34
+  - first:
+      213: 5347696632053401797
+    second: Venusaur_35
+  - first:
+      213: -7791558540095023752
+    second: Venusaur_36
+  - first:
+      213: -5105007115305907775
+    second: Venusaur_37
+  - first:
+      213: 6385722951007532198
+    second: Venusaur_38
+  - first:
+      213: -7972912196119851406
+    second: Venusaur_39
+  - first:
+      213: -6121532082934522480
+    second: Venusaur_40
+  - first:
+      213: 4888186347042401143
+    second: Venusaur_41
+  - first:
+      213: 854325826613490037
+    second: Venusaur_42
+  - first:
+      213: 4668866841374866119
+    second: Venusaur_43
+  - first:
+      213: -6345901318555094231
+    second: Venusaur_44
+  - first:
+      213: -8604758143023660488
+    second: Venusaur_45
+  - first:
+      213: -5910506775470641251
+    second: Venusaur_46
+  - first:
+      213: 269447471596970535
+    second: Venusaur_47
+  - first:
+      213: 717328716596413674
+    second: Venusaur_48
+  - first:
+      213: 3056926632887263650
+    second: Venusaur_49
+  - first:
+      213: 8515468733314700398
+    second: Venusaur_50
+  - first:
+      213: 1682874965605790936
+    second: Venusaur_51
+  - first:
+      213: -1351659821767197355
+    second: Venusaur_52
+  - first:
+      213: -3803795267992721494
+    second: Venusaur_53
+  - first:
+      213: 7305341127105175643
+    second: Venusaur_54
+  - first:
+      213: 3168600623335336659
+    second: Venusaur_55
+  - first:
+      213: 8183040748100094636
+    second: Venusaur_56
+  - first:
+      213: -8802972963529018643
+    second: Venusaur_57
+  - first:
+      213: 2531531434681459074
+    second: Venusaur_58
+  - first:
+      213: -869946358027275962
+    second: Venusaur_59
+  - first:
+      213: -8837670962131375268
+    second: Venusaur_60
+  - first:
+      213: 3121807620864652580
+    second: Venusaur_61
+  - first:
+      213: 3542320624530325877
+    second: Venusaur_62
+  - first:
+      213: 8414061781094467783
+    second: Venusaur_63
+  - first:
+      213: 6701922777800718463
+    second: Venusaur_64
+  - first:
+      213: 1509382897633253965
+    second: Venusaur_65
+  - first:
+      213: -3150219392823516844
+    second: Venusaur_66
+  - first:
+      213: -2633497588978493244
+    second: Venusaur_67
+  - first:
+      213: 2919227155450247714
+    second: Venusaur_68
+  - first:
+      213: 3422249763618409214
+    second: Venusaur_69
+  - first:
+      213: 2734115332723670617
+    second: Venusaur_70
+  - first:
+      213: 4431084006975014194
+    second: Venusaur_71
+  - first:
+      213: 8192070574001540561
+    second: Venusaur_72
+  - first:
+      213: -697127900773369495
+    second: Venusaur_73
+  - first:
+      213: -3543358234137108688
+    second: Venusaur_74
+  - first:
+      213: -4527202142104297979
+    second: Venusaur_75
+  - first:
+      213: -371104833810335494
+    second: Venusaur_76
+  - first:
+      213: 2343112956279986859
+    second: Venusaur_77
+  - first:
+      213: -8267704915107766830
+    second: Venusaur_78
+  - first:
+      213: -6132969467802466357
+    second: Venusaur_79
+  - first:
+      213: 228081165713607171
+    second: Venusaur_80
+  - first:
+      213: 2766341617468347046
+    second: Venusaur_81
+  - first:
+      213: 169234001418022746
+    second: Venusaur_82
+  - first:
+      213: 6149129105226208704
+    second: Venusaur_83
+  - first:
+      213: 2677964128694212684
+    second: Venusaur_84
+  - first:
+      213: 2897886526995706462
+    second: Venusaur_85
+  - first:
+      213: 5617730050188535718
+    second: Venusaur_86
+  - first:
+      213: -5750069878994085837
+    second: Venusaur_87
+  - first:
+      213: -3963347258095087687
+    second: Venusaur_88
+  - first:
+      213: -7893806072963230266
+    second: Venusaur_89
+  - first:
+      213: -7017547809639028931
+    second: Venusaur_90
+  - first:
+      213: -3106398175654664210
+    second: Venusaur_91
+  - first:
+      213: 102276382951260667
+    second: Venusaur_92
+  - first:
+      213: 8731883521421891393
+    second: Venusaur_93
+  - first:
+      213: 5761617898133664947
+    second: Venusaur_94
+  - first:
+      213: -1404950324462367309
+    second: Venusaur_95
+  - first:
+      213: -2846887601990889211
+    second: Venusaur_96
+  - first:
+      213: -5061328183798011034
+    second: Venusaur_97
+  - first:
+      213: -3607579194349540468
+    second: Venusaur_98
+  - first:
+      213: 6516790472438506097
+    second: Venusaur_99
+  - first:
+      213: -7440654759935944639
+    second: Venusaur_100
+  - first:
+      213: 4281104836750670323
+    second: Venusaur_101
+  - first:
+      213: -684352823131050625
+    second: Venusaur_102
+  - first:
+      213: 8588828376008191117
+    second: Venusaur_103
+  - first:
+      213: 2221789386228466597
+    second: Venusaur_104
+  - first:
+      213: -5032739628165430877
+    second: Venusaur_105
+  - first:
+      213: 3795724163213868806
+    second: Venusaur_106
+  - first:
+      213: 5612099643771198815
+    second: Venusaur_107
+  - first:
+      213: -1861634668163006371
+    second: Venusaur_108
+  - first:
+      213: -1524353758970768894
+    second: Venusaur_109
+  - first:
+      213: 3874433434867000576
+    second: Venusaur_110
+  - first:
+      213: 4801809873221509122
+    second: Venusaur_111
+  - first:
+      213: -7487043902132170575
+    second: Venusaur_112
+  - first:
+      213: -6409273966222182111
+    second: Venusaur_113
+  - first:
+      213: 5595321212403884743
+    second: Venusaur_114
+  - first:
+      213: -505454807788880956
+    second: Venusaur_115
+  - first:
+      213: -4728384588701187683
+    second: Venusaur_116
+  - first:
+      213: -6690919706623046407
+    second: Venusaur_117
+  - first:
+      213: 1956596687063085153
+    second: Venusaur_118
+  - first:
+      213: -5720487928050835658
+    second: Venusaur_119
+  - first:
+      213: -7377675495583519634
+    second: Venusaur_120
+  - first:
+      213: 3429320664505764879
+    second: Venusaur_121
+  - first:
+      213: -7582535917657446365
+    second: Venusaur_122
+  - first:
+      213: -4577178034093142033
+    second: Venusaur_123
+  - first:
+      213: 3765481085690276364
+    second: Venusaur_124
+  - first:
+      213: -8808400873684749839
+    second: Venusaur_125
+  - first:
+      213: 927182361873987921
+    second: Venusaur_126
+  - first:
+      213: -8942535118699172548
+    second: Venusaur_127
+  - first:
+      213: -3758672762859234528
+    second: Venusaur_128
+  - first:
+      213: 3189270143773570320
+    second: Venusaur_129
+  - first:
+      213: 7771191208974469350
+    second: Venusaur_130
+  - first:
+      213: 760412353852576232
+    second: Venusaur_131
+  - first:
+      213: -1790422285440958581
+    second: Venusaur_132
+  - first:
+      213: -5777163172560539083
+    second: Venusaur_133
+  - first:
+      213: -6389694829539129429
+    second: Venusaur_134
+  - first:
+      213: -7127793805631156139
+    second: Venusaur_135
+  - first:
+      213: -1188869174279298865
+    second: Venusaur_136
+  - first:
+      213: 3979237835307921414
+    second: Venusaur_137
+  - first:
+      213: 2172432675990065920
+    second: Venusaur_138
+  - first:
+      213: -4674339929577725401
+    second: Venusaur_139
+  - first:
+      213: -7792539927319364041
+    second: Venusaur_140
+  - first:
+      213: 8106742419492517454
+    second: Venusaur_141
+  - first:
+      213: 724736157769834628
+    second: Venusaur_142
+  - first:
+      213: -8681093327466182442
+    second: Venusaur_143
+  - first:
+      213: -8368397176911937759
+    second: Venusaur_144
+  - first:
+      213: 8678180819280213224
+    second: Venusaur_145
+  - first:
+      213: -3630949419545292686
+    second: Venusaur_146
+  - first:
+      213: 8272645227476069566
+    second: Venusaur_147
+  - first:
+      213: 6503277750670360716
+    second: Venusaur_148
+  - first:
+      213: 8184068836191828091
+    second: Venusaur_149
+  - first:
+      213: 1020583821564251609
+    second: Venusaur_150
+  - first:
+      213: 9023780839990749452
+    second: Venusaur_151
+  - first:
+      213: 3282276671045972410
+    second: Venusaur_152
+  - first:
+      213: 6481876776954309472
+    second: Venusaur_153
+  - first:
+      213: -1279507953323169207
+    second: Venusaur_154
+  - first:
+      213: 3678012379098443843
+    second: Venusaur_155
+  - first:
+      213: 3285251803546597297
+    second: Venusaur_156
+  - first:
+      213: 4509408264928244337
+    second: Venusaur_157
+  - first:
+      213: -2712905320652191659
+    second: Venusaur_158
+  - first:
+      213: 9105620120941918418
+    second: Venusaur_159
+  - first:
+      213: 3859819962554772406
+    second: Venusaur_160
+  - first:
+      213: -3741584207731751482
+    second: Venusaur_161
+  - first:
+      213: 2844429794534519231
+    second: Venusaur_162
+  - first:
+      213: 1183466895015512386
+    second: Venusaur_163
+  - first:
+      213: -3331641893301603352
+    second: Venusaur_164
+  - first:
+      213: 4938778362132440369
+    second: Venusaur_165
+  - first:
+      213: 8879325759865874732
+    second: Venusaur_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Venusaur_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1302
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4adc406aae022c40800000000000000
+      internalID: 5485963421013563980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1302
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1979d0a744e48c960800000000000000
+      internalID: 7622428425337018257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1302
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8fc3f601824db0800000000000000
+      internalID: -4809139585218016000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1302
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e8f9984433f66b0800000000000000
+      internalID: -5300961866932056470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1302
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dbc42026cffb850800000000000000
+      internalID: 6395107493764971925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1302
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a5a7c28269acd0800000000000000
+      internalID: -2546395800466512001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1302
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e52d94e6e4f95660800000000000000
+      internalID: 7375195137311057381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1302
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d96a6dcbba67d8a0800000000000000
+      internalID: -6280433800507135532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1302
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e684fe6ceb8060800000000000000
+      internalID: 6956914010696902847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1302
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a68ceeb20604fb90800000000000000
+      internalID: -7209130494650448219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1221
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd4c1938c3003c0800000000000000
+      internalID: -4395446700529623141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1221
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcec64da3ad6f7770800000000000000
+      internalID: 8610721562309873357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1221
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf4d250350a5290800000000000000
+      internalID: -7900996891161854499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1221
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a64764678f748570800000000000000
+      internalID: 8468033418845177507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1221
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa74cb4b6dd2f430800000000000000
+      internalID: 3815355287238638331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1221
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085b701dd1ae1c40800000000000000
+      internalID: 5484999367020206092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1221
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eda9b3cf7c78c20800000000000000
+      internalID: 3208753145670458897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1221
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b707ca3a39b0430800000000000000
+      internalID: 3750253445898074953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_18
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1221
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e0547cf17617660800000000000000
+      internalID: 7381794650421792260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1221
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b1e99aefc765730800000000000000
+      internalID: 3987511953292401488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1140
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417d16b690437540800000000000000
+      internalID: 5004414626983407946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1140
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b90c9cf32d82790800000000000000
+      internalID: -7554557203504391277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1140
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991ad50b92fe04c0800000000000000
+      internalID: -4319248244969694831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1140
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cac8b93c0c88dc0800000000000000
+      internalID: -3636444752740832226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1140
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add9d5a0bf04c1570800000000000000
+      internalID: 8438691248740343258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1140
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8460e75c1bda90800000000000000
+      internalID: -7288200408216597698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1140
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b743866664d27900800000000000000
+      internalID: 680840029957998517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1140
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4559091f142d8cdd0800000000000000
+      internalID: -2465489615317854892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_28
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1140
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7453374167bfd5c0800000000000000
+      internalID: -4188427499997014917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1140
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c7a488d53c78730800000000000000
+      internalID: 4001381600427932731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1059
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2b193d283bca1b0800000000000000
+      internalID: -5643938858525412655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1059
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbadf0debc71a8320800000000000000
+      internalID: 2560885502736587455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1059
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba759eb021f8a4e0800000000000000
+      internalID: -1970059714035877190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1059
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d5e79b254bdcb0800000000000000
+      internalID: -4838197321145133014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1059
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37640c90e7b9c1580800000000000000
+      internalID: -8855031801685457293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1059
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c88818e0c5d63a40800000000000000
+      internalID: 5347696632053401797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1059
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87599fa0ac2ded390800000000000000
+      internalID: -7791558540095023752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1059
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9895c731f5729b0800000000000000
+      internalID: -5105007115305907775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_38
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1059
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4fcd0e035ae9850800000000000000
+      internalID: 6385722951007532198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_39
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1059
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e85e499968a5190800000000000000
+      internalID: -7972912196119851406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 978
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dd78bf003fb0ba0800000000000000
+      internalID: -6121532082934522480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 978
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b606b759356d340800000000000000
+      internalID: 4888186347042401143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 978
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5713db910dc2bdb00800000000000000
+      internalID: 854325826613490037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 978
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cabfbfc7a52bc040800000000000000
+      internalID: 4668866841374866119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 978
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92337df6f54dee7a0800000000000000
+      internalID: -6345901318555094231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 978
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832cce21f02c59880800000000000000
+      internalID: -8604758143023660488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 977
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f68852769a9fda0800000000000000
+      internalID: -5910506775470641251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 977
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7222a2e3c054db300800000000000000
+      internalID: 269447471596970535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_48
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 976
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48aebcaa674f900800000000000000
+      internalID: 717328716596413674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_49
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 976
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a12da983926c6a20800000000000000
+      internalID: 3056926632887263650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 897
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e641b2132b50d2670800000000000000
+      internalID: 8515468733314700398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 897
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b45e6dd5ca5710800000000000000
+      internalID: 1682874965605790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_52
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 897
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df562bd80fd3de0800000000000000
+      internalID: -1351659821767197355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 897
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa76bfc6b54363bc0800000000000000
+      internalID: -3803795267992721494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 897
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e72cbc09c16560800000000000000
+      internalID: 7305341127105175643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_55
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 897
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daebfc9a7129fb20800000000000000
+      internalID: 3168600623335336659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_56
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 897
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8d0d6430009170800000000000000
+      internalID: 8183040748100094636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 897
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23c75dabe85d580800000000000000
+      internalID: -8802972963529018643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_58
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 897
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2816ced5d6ec12320800000000000000
+      internalID: 2531531434681459074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 897
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b32485645de3f0800000000000000
+      internalID: -869946358027275962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 816
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bef5c75194a5580800000000000000
+      internalID: -8837670962131375268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 816
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425bebabd73e25b20800000000000000
+      internalID: 3121807620864652580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 816
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718ba907d9d82130800000000000000
+      internalID: 3542320624530325877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_63
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 816
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8835c3c90c4c470800000000000000
+      internalID: 8414061781094467783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_64
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 816
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7839e21243020d50800000000000000
+      internalID: 6701922777800718463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_65
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 816
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ada739fb762f410800000000000000
+      internalID: 1509382897633253965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_66
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 816
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451253e172c2844d0800000000000000
+      internalID: -3150219392823516844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_67
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 816
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d61c45efe37bd0800000000000000
+      internalID: -2633497588978493244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_68
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 816
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a394391ad238820800000000000000
+      internalID: 2919227155450247714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_69
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 816
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac32537064e7f20800000000000000
+      internalID: 3422249763618409214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 735
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e71fdb86781f520800000000000000
+      internalID: 2734115332723670617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 735
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23509ad6d6f5e7d30800000000000000
+      internalID: 4431084006975014194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 735
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddca4a98c410b170800000000000000
+      internalID: 8192070574001540561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_73
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 735
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b3672edd4356f0800000000000000
+      internalID: -697127900773369495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 735
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f5d46a57673dec0800000000000000
+      internalID: -3543358234137108688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 735
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5c7d43a52c21c0800000000000000
+      internalID: -4527202142104297979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_76
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 735
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8fd4eae1299daf0800000000000000
+      internalID: -371104833810335494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_77
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 735
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa1fa3c1d8648020800000000000000
+      internalID: 2343112956279986859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_78
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 735
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd10431f26334d80800000000000000
+      internalID: -8267704915107766830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_79
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 735
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7415d43c053eaa0800000000000000
+      internalID: -6132969467802466357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 654
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a015e9c9e4a2300800000000000000
+      internalID: 228081165713607171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 654
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2949c5b05046620800000000000000
+      internalID: 2766341617468347046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 654
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f607a7d6d395200800000000000000
+      internalID: 169234001418022746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_83
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 654
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5160b7758165550800000000000000
+      internalID: 6149129105226208704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_84
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 654
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c489e04cf2a0a2520800000000000000
+      internalID: 2677964128694212684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_85
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 654
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5238f0517c573820800000000000000
+      internalID: 2897886526995706462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_86
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 654
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7668577bf26fd40800000000000000
+      internalID: 5617730050188535718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_87
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 654
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33852e409e5a330b0800000000000000
+      internalID: -5750069878994085837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_88
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 654
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf49bfdaac5ff8c0800000000000000
+      internalID: -3963347258095087687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_89
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 654
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c594372331937290800000000000000
+      internalID: -7893806072963230266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 573
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37252c9279ac9e90800000000000000
+      internalID: -7017547809639028931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 573
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ae21515bd3e4d0800000000000000
+      internalID: -3106398175654664210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 573
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c8b214db5b6100800000000000000
+      internalID: 102276382951260667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 573
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147507a9cc1ed2970800000000000000
+      internalID: 8731883521421891393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 573
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43ac5b3f065ff40800000000000000
+      internalID: 5761617898133664947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_95
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 573
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc957af1d908ce0800000000000000
+      internalID: -1404950324462367309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_96
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 573
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5019ed73fc2dd78d0800000000000000
+      internalID: -2846887601990889211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_97
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 573
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66beb0935dc82c9b0800000000000000
+      internalID: -5061328183798011034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_98
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 573
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba4b526dd4fedc0800000000000000
+      internalID: -3607579194349540468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_99
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 573
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172e851486a407a50800000000000000
+      internalID: 6516790472438506097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 492
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d2b90beb7db890800000000000000
+      internalID: -7440654759935944639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 492
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9fab0ba2a896b30800000000000000
+      internalID: 4281104836750670323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_102
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 491
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dec34bbb0b086f0800000000000000
+      internalID: -684352823131050625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 491
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c63c407e5a13770800000000000000
+      internalID: 8588828376008191117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_104
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 490
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a381ebdca165de10800000000000000
+      internalID: 2221789386228466597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_105
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 490
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10b2809fd182ab0800000000000000
+      internalID: -5032739628165430877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_106
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 492
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fbabd040f1da430800000000000000
+      internalID: 3795724163213868806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_107
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 492
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d141f44ee22ed40800000000000000
+      internalID: 5612099643771198815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_108
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 492
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d508796f1252a26e0800000000000000
+      internalID: -1861634668163006371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_109
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 492
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2021484255868dae0800000000000000
+      internalID: -1524353758970768894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 411
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e42f6ea0c4c530800000000000000
+      internalID: 3874433434867000576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_111
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 411
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200e45c73a473a240800000000000000
+      internalID: 4801809873221509122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_112
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 411
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b058a33d3da81890800000000000000
+      internalID: -7487043902132170575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 411
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129fa27194fad07a0800000000000000
+      internalID: -6409273966222182111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_114
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 411
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2aa855ff296ad40800000000000000
+      internalID: 5595321212403884743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_115
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 411
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbfab3c7834cf8f0800000000000000
+      internalID: -505454807788880956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_116
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 411
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91c805c447616eb0800000000000000
+      internalID: -4728384588701187683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_117
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 411
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc82121af31523a0800000000000000
+      internalID: -6690919706623046407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_118
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 411
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f915025a372b10800000000000000
+      internalID: 1956596687063085153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_119
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 411
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f9e92b98ebc90b0800000000000000
+      internalID: -5720487928050835658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 330
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ce3a1b93b3d9990800000000000000
+      internalID: -7377675495583519634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_121
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 330
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cc5cc99f4679f20800000000000000
+      internalID: 3429320664505764879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 330
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3282363c1cb65c690800000000000000
+      internalID: -7582535917657446365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_123
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 330
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef482434d89a70c0800000000000000
+      internalID: -4577178034093142033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 330
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6509d81da14430800000000000000
+      internalID: 3765481085690276364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_125
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 330
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b7c4031642c580800000000000000
+      internalID: -8808400873684749839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_126
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 330
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159b18912730edc00800000000000000
+      internalID: 927182361873987921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_127
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 330
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dea7a60bbb5e380800000000000000
+      internalID: -8942535118699172548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_128
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 330
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd6d6590386dbc0800000000000000
+      internalID: -3758672762859234528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_129
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 330
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f16c5c40924c20800000000000000
+      internalID: 3189270143773570320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 249
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8cf842b31d8db60800000000000000
+      internalID: 7771191208974469350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_131
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 249
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1933ac1078d8a00800000000000000
+      internalID: 760412353852576232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_132
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f395eda642727e0800000000000000
+      internalID: -1790422285440958581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_133
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 248
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327f0a04b463dfa0800000000000000
+      internalID: -5777163172560539083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_134
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 248
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba78b26186e3357a0800000000000000
+      internalID: -6389694829539129429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_135
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 248
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55010276c4df41d90800000000000000
+      internalID: -7127793805631156139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_136
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 249
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0abaee8c9408fe0800000000000000
+      internalID: -1188869174279298865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 249
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600b2527ab7193730800000000000000
+      internalID: 3979237835307921414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_138
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 249
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d6de3208062e10800000000000000
+      internalID: 2172432675990065920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_139
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 249
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722681a8998612fb0800000000000000
+      internalID: -4674339929577725401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_140
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb41609365bd390800000000000000
+      internalID: -7792539927319364041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_141
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e463177774fe08070800000000000000
+      internalID: 8106742419492517454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_142
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480a0c712b7ce0a00800000000000000
+      internalID: 724736157769834628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_143
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 168
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d84d52fc9f868780800000000000000
+      internalID: -8681093327466182442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_144
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 167
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f38c2fa1b7ddb80800000000000000
+      internalID: -8368397176911937759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_145
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 167
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e43ec5e9771f6870800000000000000
+      internalID: 8678180819280213224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_146
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 166
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27097929db64c9dc0800000000000000
+      internalID: -3630949419545292686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_147
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 166
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcaa8801075ec270800000000000000
+      internalID: 8272645227476069566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_148
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 168
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80886c88a8404a50800000000000000
+      internalID: 6503277750670360716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_149
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 168
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fe86de37a39170800000000000000
+      internalID: 8184068836191828091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd09d31497d92e00800000000000000
+      internalID: 1020583821564251609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_151
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 87
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09ef9a2dd8ea3d70800000000000000
+      internalID: 9023780839990749452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_152
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 87
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab13f38fd3dfc8d20800000000000000
+      internalID: 3282276671045972410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_153
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2730169044f950800000000000000
+      internalID: 6481876776954309472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_154
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 87
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aa2eaab464e3ee0800000000000000
+      internalID: -1279507953323169207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_155
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 87
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340f6a795ccea0330800000000000000
+      internalID: 3678012379098443843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_156
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 87
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b73b1cfb1f879d20800000000000000
+      internalID: 3285251803546597297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_157
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 87
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723242dce2a49e30800000000000000
+      internalID: 4509408264928244337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_158
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 87
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55842450cf2d95ad0800000000000000
+      internalID: -2712905320652191659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_159
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 87
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d87460a149ad5e70800000000000000
+      internalID: 9105620120941918418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_160
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe9054ec5d09530800000000000000
+      internalID: 3859819962554772406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_161
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c500f0acf8331cc0800000000000000
+      internalID: -3741584207731751482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_162
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb174c3e3d1797720800000000000000
+      internalID: 2844429794534519231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_163
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 6
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24985d8eed48c6010800000000000000
+      internalID: 1183466895015512386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_164
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 6
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b2fe8951a3c1d0800000000000000
+      internalID: -3331641893301603352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_165
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1352a4be0c01a8440800000000000000
+      internalID: 4938778362132440369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusaur_166
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 6
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e7c1ebb3b93b70800000000000000
+      internalID: 8879325759865874732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

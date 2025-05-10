@@ -1,0 +1,3242 @@
+fileFormatVersion: 2
+guid: 4bb38781b138db54bb5c5326588e46b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1534896975370797768
+    second: Sceptile_0
+  - first:
+      213: 2879347875963629748
+    second: Sceptile_1
+  - first:
+      213: 3024715534401433281
+    second: Sceptile_2
+  - first:
+      213: 6158386124186132129
+    second: Sceptile_3
+  - first:
+      213: -8244918372070248646
+    second: Sceptile_4
+  - first:
+      213: -8200356076404135388
+    second: Sceptile_5
+  - first:
+      213: 693873544438579746
+    second: Sceptile_6
+  - first:
+      213: 7609009526683865957
+    second: Sceptile_7
+  - first:
+      213: -5900503226969333850
+    second: Sceptile_8
+  - first:
+      213: -1248759285377118915
+    second: Sceptile_9
+  - first:
+      213: 5319968276711127759
+    second: Sceptile_10
+  - first:
+      213: -1706060861018418876
+    second: Sceptile_11
+  - first:
+      213: -7646239692080275952
+    second: Sceptile_12
+  - first:
+      213: 7803377621790855743
+    second: Sceptile_13
+  - first:
+      213: 5940725670571237153
+    second: Sceptile_14
+  - first:
+      213: 4415644787874463646
+    second: Sceptile_15
+  - first:
+      213: 7162646193409882872
+    second: Sceptile_16
+  - first:
+      213: 7619661764222829599
+    second: Sceptile_17
+  - first:
+      213: 3704452136953072663
+    second: Sceptile_18
+  - first:
+      213: 8214242682791681141
+    second: Sceptile_19
+  - first:
+      213: 7906698457567649737
+    second: Sceptile_20
+  - first:
+      213: 8475540133578296554
+    second: Sceptile_21
+  - first:
+      213: -476249629963611651
+    second: Sceptile_22
+  - first:
+      213: -3597797176590812463
+    second: Sceptile_23
+  - first:
+      213: 4686541493057484575
+    second: Sceptile_24
+  - first:
+      213: 3905370077416868892
+    second: Sceptile_25
+  - first:
+      213: -5830322896036014211
+    second: Sceptile_26
+  - first:
+      213: 6553205826298920286
+    second: Sceptile_27
+  - first:
+      213: 7738111998118689919
+    second: Sceptile_28
+  - first:
+      213: 1993734116485050206
+    second: Sceptile_29
+  - first:
+      213: -7533794667174961788
+    second: Sceptile_30
+  - first:
+      213: -1267573603828985835
+    second: Sceptile_31
+  - first:
+      213: 8434404032563951796
+    second: Sceptile_32
+  - first:
+      213: 5585963168956477450
+    second: Sceptile_33
+  - first:
+      213: 838110703198485673
+    second: Sceptile_34
+  - first:
+      213: -7709910059934428081
+    second: Sceptile_35
+  - first:
+      213: -4150729848111472747
+    second: Sceptile_36
+  - first:
+      213: -3208032502005605155
+    second: Sceptile_37
+  - first:
+      213: 5782782768179733169
+    second: Sceptile_38
+  - first:
+      213: 7546212953232532925
+    second: Sceptile_39
+  - first:
+      213: -2783645774680415363
+    second: Sceptile_40
+  - first:
+      213: 5141566037940477881
+    second: Sceptile_41
+  - first:
+      213: 1556918558566576598
+    second: Sceptile_42
+  - first:
+      213: -8400674700203435656
+    second: Sceptile_43
+  - first:
+      213: -1774454130255778384
+    second: Sceptile_44
+  - first:
+      213: -1917819167554420024
+    second: Sceptile_45
+  - first:
+      213: -6218971338606600592
+    second: Sceptile_46
+  - first:
+      213: 1133465676817919887
+    second: Sceptile_47
+  - first:
+      213: -8691609572170465740
+    second: Sceptile_48
+  - first:
+      213: 8298388824912768522
+    second: Sceptile_49
+  - first:
+      213: 4253681896827721601
+    second: Sceptile_50
+  - first:
+      213: 71955183091931812
+    second: Sceptile_51
+  - first:
+      213: -5554139541223188686
+    second: Sceptile_52
+  - first:
+      213: -4324185830549199167
+    second: Sceptile_53
+  - first:
+      213: -4009060821950897285
+    second: Sceptile_54
+  - first:
+      213: 7768831447762678919
+    second: Sceptile_55
+  - first:
+      213: 294312347534288065
+    second: Sceptile_56
+  - first:
+      213: -1146392874339019246
+    second: Sceptile_57
+  - first:
+      213: -3886050328057840208
+    second: Sceptile_58
+  - first:
+      213: 7078843243970475541
+    second: Sceptile_59
+  - first:
+      213: -1184582703629865309
+    second: Sceptile_60
+  - first:
+      213: -5140075102896203754
+    second: Sceptile_61
+  - first:
+      213: -7883227097990036556
+    second: Sceptile_62
+  - first:
+      213: -5774848991270388887
+    second: Sceptile_63
+  - first:
+      213: -8219421477519642351
+    second: Sceptile_64
+  - first:
+      213: -6608768058507861035
+    second: Sceptile_65
+  - first:
+      213: -6259948072521404628
+    second: Sceptile_66
+  - first:
+      213: -33609555659364799
+    second: Sceptile_67
+  - first:
+      213: 5857316211961236331
+    second: Sceptile_68
+  - first:
+      213: 7299961089525038685
+    second: Sceptile_69
+  - first:
+      213: -1842337114210997335
+    second: Sceptile_70
+  - first:
+      213: -6805782981663569666
+    second: Sceptile_71
+  - first:
+      213: -5957475670806851807
+    second: Sceptile_72
+  - first:
+      213: -1162458756130314620
+    second: Sceptile_73
+  - first:
+      213: 591076594340059253
+    second: Sceptile_74
+  - first:
+      213: 5718007746135034730
+    second: Sceptile_75
+  - first:
+      213: -3396196225736991297
+    second: Sceptile_76
+  - first:
+      213: -1058666927461550537
+    second: Sceptile_77
+  - first:
+      213: 8777132187894021484
+    second: Sceptile_78
+  - first:
+      213: -8933518846118100612
+    second: Sceptile_79
+  - first:
+      213: -3339810885165479122
+    second: Sceptile_80
+  - first:
+      213: 2089377438667426463
+    second: Sceptile_81
+  - first:
+      213: -4441962388528024034
+    second: Sceptile_82
+  - first:
+      213: 7715550917309306960
+    second: Sceptile_83
+  - first:
+      213: 3307591973232802998
+    second: Sceptile_84
+  - first:
+      213: 501200676381280967
+    second: Sceptile_85
+  - first:
+      213: 1312635792567418513
+    second: Sceptile_86
+  - first:
+      213: -2519725714089927060
+    second: Sceptile_87
+  - first:
+      213: -4739855512918780991
+    second: Sceptile_88
+  - first:
+      213: -3847180332304449485
+    second: Sceptile_89
+  - first:
+      213: 2067921262068737332
+    second: Sceptile_90
+  - first:
+      213: -77602312704521570
+    second: Sceptile_91
+  - first:
+      213: -4787306132417955907
+    second: Sceptile_92
+  - first:
+      213: -6015544960544233783
+    second: Sceptile_93
+  - first:
+      213: -2660896392360626225
+    second: Sceptile_94
+  - first:
+      213: 1127284496086008449
+    second: Sceptile_95
+  - first:
+      213: -7058339726577874587
+    second: Sceptile_96
+  - first:
+      213: 2393424356315620729
+    second: Sceptile_97
+  - first:
+      213: -4529849896513545027
+    second: Sceptile_98
+  - first:
+      213: 2983444600845748656
+    second: Sceptile_99
+  - first:
+      213: -2790801635194375611
+    second: Sceptile_100
+  - first:
+      213: 6603514077726757587
+    second: Sceptile_101
+  - first:
+      213: 2735782096633140327
+    second: Sceptile_102
+  - first:
+      213: 7480940818151280797
+    second: Sceptile_103
+  - first:
+      213: 4989576531581251013
+    second: Sceptile_104
+  - first:
+      213: -4048130508516059485
+    second: Sceptile_105
+  - first:
+      213: -5515367153917275380
+    second: Sceptile_106
+  - first:
+      213: -1395032230634405834
+    second: Sceptile_107
+  - first:
+      213: 1567686284626642055
+    second: Sceptile_108
+  - first:
+      213: 5793466496844665876
+    second: Sceptile_109
+  - first:
+      213: -8218294804002259155
+    second: Sceptile_110
+  - first:
+      213: 4501568772688851135
+    second: Sceptile_111
+  - first:
+      213: 1664143966132112117
+    second: Sceptile_112
+  - first:
+      213: 797097728143784708
+    second: Sceptile_113
+  - first:
+      213: 2850779860168962306
+    second: Sceptile_114
+  - first:
+      213: 9031205560517920660
+    second: Sceptile_115
+  - first:
+      213: -3118837471680283844
+    second: Sceptile_116
+  - first:
+      213: 7075223084352017708
+    second: Sceptile_117
+  - first:
+      213: -6076959759227812234
+    second: Sceptile_118
+  - first:
+      213: -4197068366667133595
+    second: Sceptile_119
+  - first:
+      213: -1043659991341226288
+    second: Sceptile_120
+  - first:
+      213: 4364095673401860077
+    second: Sceptile_121
+  - first:
+      213: 4877411372611182199
+    second: Sceptile_122
+  - first:
+      213: -5358745538120261608
+    second: Sceptile_123
+  - first:
+      213: -6090309323000237859
+    second: Sceptile_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sceptile_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1000
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83db3384553f2bae0800000000000000
+      internalID: -1534896975370797768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1000
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0769343af75f720800000000000000
+      internalID: 2879347875963629748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1000
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce6a9eb0c2f9f920800000000000000
+      internalID: 3024715534401433281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1000
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae1fc92d8bf67550800000000000000
+      internalID: 6158386124186132129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1000
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f29ae8c6a249d80800000000000000
+      internalID: -8244918372070248646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1000
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a273a889b723e80800000000000000
+      internalID: -8200356076404135388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1000
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228d47ff4221a900800000000000000
+      internalID: 693873544438579746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1000
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5631e8aa9d1a89960800000000000000
+      internalID: 7609009526683865957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1000
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5278c3933d1ea0800000000000000
+      internalID: -5900503226969333850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1000
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d4021db048baee0800000000000000
+      internalID: -1248759285377118915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 917
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab6b516f254d940800000000000000
+      internalID: 5319968276711127759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 917
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441dccd9faad258e0800000000000000
+      internalID: -1706060861018418876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 917
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e1016f28913e590800000000000000
+      internalID: -7646239692080275952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 917
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32931b5a9a2b4c60800000000000000
+      internalID: 7803377621790855743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 917
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f5176a582b17250800000000000000
+      internalID: 5940725670571237153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 917
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fff8b1a85874d30800000000000000
+      internalID: 4415644787874463646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 917
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fafff973c4d66360800000000000000
+      internalID: 7162646193409882872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 917
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14c02df00a7eb960800000000000000
+      internalID: 7619661764222829599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 917
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c468e679bd86330800000000000000
+      internalID: 3704452136953072663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 917
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c56a6f23adef170800000000000000
+      internalID: 8214242682791681141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 834
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd27d0b5c3abd60800000000000000
+      internalID: 7906698457567649737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec408d98da2f9570800000000000000
+      internalID: 8475540133578296554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 834
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df19b9d1c750469f0800000000000000
+      internalID: -476249629963611651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 834
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab663a78e021ec0800000000000000
+      internalID: -3597797176590812463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 834
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17f1d658a0f90140800000000000000
+      internalID: 4686541493057484575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 834
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4fd4d469a23630800000000000000
+      internalID: 3905370077416868892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 834
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7752f76738861fa0800000000000000
+      internalID: -5830322896036014211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 834
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d31988af9a1fa50800000000000000
+      internalID: 6553205826298920286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_28
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 834
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c7d003ddb436b60800000000000000
+      internalID: 7738111998118689919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_29
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 834
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2bad9d9a2bab10800000000000000
+      internalID: 1993734116485050206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 751
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ddd4c7aa5927790800000000000000
+      internalID: -7533794667174961788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 751
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5109c11f58ca86ee0800000000000000
+      internalID: -1267573603828985835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 751
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b81db7c50d0570800000000000000
+      internalID: 8434404032563951796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 751
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00f01e08e3558d40800000000000000
+      internalID: 5585963168956477450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 751
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac399a7e3191ab00800000000000000
+      internalID: 838110703198485673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 751
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44d56b36a5e00590800000000000000
+      internalID: -7709910059934428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 751
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f54b4d135a566c0800000000000000
+      internalID: -4150729848111472747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 751
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc5c02bf67ca73d0800000000000000
+      internalID: -3208032502005605155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_38
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 751
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b26a960a42904050800000000000000
+      internalID: 5782782768179733169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 751
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db560ec03b889b860800000000000000
+      internalID: 7546212953232532925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 668
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7328a39ae08e59d0800000000000000
+      internalID: -2783645774680415363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 668
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf97a002138a5740800000000000000
+      internalID: 5141566037940477881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 668
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1f29b1e294b9510800000000000000
+      internalID: 1556918558566576598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 668
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87953cc6edeca6b80800000000000000
+      internalID: -8400674700203435656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 668
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd21e7be5fdf57e0800000000000000
+      internalID: -1774454130255778384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 668
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2cb7ec0a98265e0800000000000000
+      internalID: -1917819167554420024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_46
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 668
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e940e5486c1b9a0800000000000000
+      internalID: -6218971338606600592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 668
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f64d71701eabf00800000000000000
+      internalID: 1133465676817919887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_48
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 668
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ef46ce423316780800000000000000
+      internalID: -8691609572170465740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_49
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 668
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2ff46bacc92370800000000000000
+      internalID: 8298388824912768522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 585
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871defe52d180b30800000000000000
+      internalID: 4253681896827721601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 585
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa51f79bd2aff000800000000000000
+      internalID: 71955183091931812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 585
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d07ca38bbbe2b0800000000000000
+      internalID: -5554139541223188686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 585
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6665bc5e76df3c0800000000000000
+      internalID: -4324185830549199167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 585
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736ea06c64fc58c0800000000000000
+      internalID: -4009060821950897285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_55
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 585
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78437cb6a0f60db60800000000000000
+      internalID: 7768831447762678919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 585
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4eacf458b951400800000000000000
+      internalID: 294312347534288065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_57
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 585
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216dbff21c13710f0800000000000000
+      internalID: -1146392874339019246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_58
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 585
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd72d8d0d9f11ac0800000000000000
+      internalID: -3886050328057840208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_59
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 585
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b881dc6a1d3260800000000000000
+      internalID: 7078843243970475541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 502
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee117ae448f8fe0800000000000000
+      internalID: -1184582703629865309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 502
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618da0d5de8caa8b0800000000000000
+      internalID: -5140075102896203754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 502
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b30294b8b6299290800000000000000
+      internalID: -7883227097990036556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 502
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b3ecb507d9bdfa0800000000000000
+      internalID: -5774848991270388887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 502
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b93de6bfbeed80800000000000000
+      internalID: -8219421477519642351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_65
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 502
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e0bd2770f844a0800000000000000
+      internalID: -6608768058507861035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_66
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 502
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f68f805623029a0800000000000000
+      internalID: -6259948072521404628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_67
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 502
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1466dd58948988ff0800000000000000
+      internalID: -33609555659364799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_68
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 502
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0617bf0e594150800000000000000
+      internalID: 5857316211961236331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_69
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 502
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e305f1febae4560800000000000000
+      internalID: 7299961089525038685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab6feed724be66e0800000000000000
+      internalID: -1842337114210997335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 419
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef84b8fcf600d81a0800000000000000
+      internalID: -6805782981663569666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 419
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8683017bc25da0800000000000000
+      internalID: -5957475670806851807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 419
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4866fc69bed1edfe0800000000000000
+      internalID: -1162458756130314620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 419
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578dfa8e70de33800800000000000000
+      internalID: 591076594340059253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_75
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 419
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8f43ffb17a5f40800000000000000
+      internalID: 5718007746135034730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 419
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd9c69c6894ed0d0800000000000000
+      internalID: -3396196225736991297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_77
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 419
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736333dd90cde41f0800000000000000
+      internalID: -1058666927461550537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 419
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df11eb833aec970800000000000000
+      internalID: 8777132187894021484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 419
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718fd6f0f3c50480800000000000000
+      internalID: -8933518846118100612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 336
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8abce1bb96a1d0800000000000000
+      internalID: -3339810885165479122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 336
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9acc71e5b5fefc10800000000000000
+      internalID: 2089377438667426463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 336
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16342efdbafa52c0800000000000000
+      internalID: -4441962388528024034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 336
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05819a83ea4231b60800000000000000
+      internalID: 7715550917309306960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_84
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 336
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7972106de6ed20800000000000000
+      internalID: 3307591973232802998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca44e41c5f94f600800000000000000
+      internalID: 501200676381280967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_86
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 336
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb1777c4b673210800000000000000
+      internalID: 1312635792567418513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_87
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 336
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e904820d2280dd0800000000000000
+      internalID: -2519725714089927060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_88
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 336
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39cc91686a83eb0800000000000000
+      internalID: -4739855512918780991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_89
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 336
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330cf1afed11c9ac0800000000000000
+      internalID: -3847180332304449485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a5197e6bb2bc10800000000000000
+      internalID: 2067921262068737332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 253
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a8f759b1d4ceef0800000000000000
+      internalID: -77602312704521570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 253
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7bd22df62109db0800000000000000
+      internalID: -4787306132417955907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 253
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6ae58eabd748ca0800000000000000
+      internalID: -6015544960544233783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_94
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 253
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f93544d8921bd0800000000000000
+      internalID: -2660896392360626225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_95
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 253
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182030ec64be4af00800000000000000
+      internalID: 1127284496086008449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_96
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 253
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5694c455a6dbb0e90800000000000000
+      internalID: -7058339726577874587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_97
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 253
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e5fa65c6273120800000000000000
+      internalID: 2393424356315620729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_98
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 253
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5870f48db221c0800000000000000
+      internalID: -4529849896513545027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_99
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 253
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c778be03576920800000000000000
+      internalID: 2983444600845748656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f8a7f2b41549d0800000000000000
+      internalID: -2790801635194375611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 170
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d138111564ab50800000000000000
+      internalID: 6603514077726757587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_102
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 170
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76411b4725377f520800000000000000
+      internalID: 2735782096633140327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_103
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 170
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9090a3d904a1d760800000000000000
+      internalID: 7480940818151280797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_104
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 170
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda6886b698e3540800000000000000
+      internalID: 4989576531581251013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_105
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 170
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a69a7b10c622d7c0800000000000000
+      internalID: -4048130508516059485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 170
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0357e09bca7573b0800000000000000
+      internalID: -5515367153917275380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_107
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 170
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630c0d2d399d3ace0800000000000000
+      internalID: -1395032230634405834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_108
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 170
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844c62be5a81c510800000000000000
+      internalID: 1567686284626642055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_109
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 170
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4149d827517866050800000000000000
+      internalID: 5793466496844665876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb10c0b60c2fd80800000000000000
+      internalID: -8218294804002259155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb03c1cc2f8c87e30800000000000000
+      internalID: 4501568772688851135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 87
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa0a64ce1a381710800000000000000
+      internalID: 1664143966132112117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_113
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 87
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf749192cdf0b00800000000000000
+      internalID: 797097728143784708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_114
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 87
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017532cd21009720800000000000000
+      internalID: 2850779860168962306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_115
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 87
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970430ab99455d70800000000000000
+      internalID: 9031205560517920660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_116
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 87
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bb15408d9a7b4d0800000000000000
+      internalID: -3118837471680283844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_117
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 87
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c251279b8ed303260800000000000000
+      internalID: 7075223084352017708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_118
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 87
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67602eccb4d4aaba0800000000000000
+      internalID: -6076959759227812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_119
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 87
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dc6cabe8401c5c0800000000000000
+      internalID: -4197068366667133595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a1d574cc2481f0800000000000000
+      internalID: -1043659991341226288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defdfea94e1609c30800000000000000
+      internalID: 4364095673401860077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_122
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e90ff3dcb00b340800000000000000
+      internalID: 4877411372611182199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810e1ae2359e1a5b0800000000000000
+      internalID: -5358745538120261608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptile_124
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 4
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0325640ffda7ba0800000000000000
+      internalID: -6090309323000237859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
