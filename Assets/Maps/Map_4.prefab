@@ -65,7 +65,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4272574899404498392
 Transform:
   m_ObjectHideFlags: 0
@@ -3159,8 +3159,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1493113283
-  m_SortingLayer: 0
+  m_SortingLayerID: -974104745
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0.5, z: 0}
