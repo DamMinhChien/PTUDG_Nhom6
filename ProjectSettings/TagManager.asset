@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - active_zone
+  - Map
+  - not_active
   layers:
   - Default
   - TransparentFX
