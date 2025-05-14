@@ -2,32 +2,18 @@
 
 public class OnTriggerEnter : MonoBehaviour
 {
-    public GameObject targetGrid;  // Grid bạn muốn chuyển tới
-    public Transform targetPosition; // Vị trí spawn tại map mới
+    public string mapDisplayName; // VD: "Bến tàu phía Tây"
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            // Tắt tất cả Grid trong MapTho
-            foreach (Transform grid in transform.parent)
-            {
-                grid.gameObject.SetActive(false);
-            }
-
-            // Bật Grid mới
-            targetGrid.SetActive(true);
-
-            // Di chuyển player
-            other.transform.position = targetPosition.position;
-
-            // Reset velocity
-            Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
-            if (rb != null)
-            {
-                rb.linearVelocity = Vector2.zero;
-            }
+            Debug.Log("Player vào map: " + mapDisplayName);
+            MapManager mm = Object.FindFirstObjectByType<MapManager>();
+            if (mm != null)
+                mm.EnterMap(mapDisplayName);
+            else
+                Debug.LogError("Không tìm thấy MapManager!");
         }
     }
-
 }
