@@ -35,6 +35,7 @@ public class Chest : MonoBehaviour
 
         // Nếu có âm thanh, hiệu ứng, item... thêm tại đây
         Debug.Log("Chest opened!");
+
     }
 
     private void OnTriggerEnter2D(Collider2D other)

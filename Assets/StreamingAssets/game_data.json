@@ -1,0 +1,359 @@
+{
+  "items": [
+    {
+      "id": "item_001",
+      "name": "Tất trung cầu",
+      "description": "Bất luận là Pokemon nào thì xác suất bắt được là 100%.",
+      "price": 2,
+      "currency": "gold",
+      "icon": "iron_sword"
+    },
+    {
+      "id": "item_002",
+      "name": "Phong ấn cầu",
+      "description": "Quả cầu có thể bắt được nhiều sủng vật thông thường.",
+      "price": 50,
+      "currency": "coin",
+      "icon": "small_potion"
+    },
+    {
+      "id": "item_003",
+      "name": "Cao cấp cầu",
+      "description": "Quả cầu có thể bắt được nhiều sủng vật hiếm.",
+      "price": 200,
+      "currency": "coin",
+      "icon": "wizard_hat"
+    },
+    {
+      "id": "item_004",
+      "name": "Bánh quy",
+      "description": "Khôi phục một phần sinh mệnh của Pokemon.",
+      "price": 100,
+      "currency": "coin",
+      "icon": "golden_apple"
+    },
+    {
+      "id": "item_005",
+      "name": "Chocolate",
+      "description": "Khôi phục toàn bộ sinh mệnh của Pokemon.",
+      "price": 250,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_006",
+      "name": "Năng lượng thạch",
+      "description": "Khôi phục một phần kỹ năng của Pokemon.",
+      "price": 100,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_007",
+      "name": "Tụ năng thạch",
+      "description": "Khôi phục toàn bộ kỹ năng của Pokemon.",
+      "price": 250,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_008",
+      "name": "Sinh mệnh thạch",
+      "description": "Hồi sinh Pokemon cùng một phần chỉ số sinh mạng và kỹ năng.",
+      "price": 300,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_009",
+      "name": "Linh hồn thạch",
+      "description": "Hồi sinh Pokemon cùng toàn bộ chỉ số sinh mạng và kỹ năng.",
+      "price": 750,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_010",
+      "name": "Tị quái hàn",
+      "description": "Trong tời gian ngắn người chơi không gặp Pokemon khiêu khích.",
+      "price": 300,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_011",
+      "name": "Chìa khóa",
+      "description": "Dùng để mở hoàng kim bảo rương.",
+      "price": 600,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_012",
+      "name": "Đá tiến hóa sơ cấp",
+      "description": "Dùng để tiến hóa Pokemon cấp thấp.",
+      "price": 1000,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_014",
+      "name": "Đá tiến hóa cao cấp",
+      "description": "Dùng để tiến hóa Pokemon cấp cao.",
+      "price": 2,
+      "currency": "gold",
+      "icon": "diamond"
+    }
+  ],
+  "jewelries": [
+    {
+      "id": "jewelry_001",
+      "name": "Mạn đà la thạch",
+      "description": "Khi chỉ số sinh mạng Pokemon thấp hơn 30%, gia tăng lực công kích 100%.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_002",
+      "name": "Hồng sắc hải loa",
+      "description": "Tăng 10% lực công kích của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_003",
+      "name": "Quy xác tái phiến",
+      "description": "Tăng 15% lực phòng thủ của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_004",
+      "name": "Ô nha uế",
+      "description": "Tăng 20% sức đối kháng của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_005",
+      "name": "Viễn cổ long cốt",
+      "description": "Tăng 10% sát thương chí mạng của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_006",
+      "name": "Mật phong xào",
+      "description": "Sau khi chiến đấu sủng vật lấy được thêm 20% kinh nghiệm.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_007",
+      "name": "Ký cư giải xác",
+      "description": "Pokemon không trực tiếp tham chiến cũng có thể đạt được kinh nghiệm tương ứng.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_008",
+      "name": "Hấp huyết đằng mạn",
+      "description": "Pokemon công kích mục tiêu được hồi 1 phần chỉ số sinh mạng.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_009",
+      "name": "Sủng vật lôi đạt",
+      "description": "Gia tăng tỷ lệ bắt được Pokemon 20%.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    }
+  ],
+  "pokemon_types": [
+    {
+      "id": "type_001",
+      "name": "Thủy",
+      "skills": [
+        {
+          "id": "skill_001",
+          "name": "Thủy chi công kích",
+          "description": "Thương tổn thấp.",
+          "power": 1,
+          "level": 0
+        },
+        {
+          "id": "skill_002",
+          "name": "Thủy bích",
+          "description": "Thương tổn thấp, tăng phòng thủ thêm 20% trong 2 hiệp.",
+          "power": 0.7,
+          "level": 10
+        },
+        {
+          "id": "skill_003",
+          "name": "Thủy công",
+          "description": "Thương tổn thấp, tăng công kích thêm 15% trong 2 hiệp.",
+          "power": 0.7,
+          "level": 10
+        },
+        {
+          "id": "skill_004",
+          "name": "Ray lạnh",
+          "description": "Thương tổn trung bình, nhưng có xác suất 10% tấn công kẻ địch lần nữa.",
+          "power": 1.25,
+          "level": 20
+        },
+        {
+          "id": "skill_005",
+          "name": "Bạo phong tuyết",
+          "description": "Thương tổn cao.",
+          "power": 1.5,
+          "level": 20
+        },
+        {
+          "id": "skill_006",
+          "name": "Băng phong hãm tịnh",
+          "description": "Thương tổn trung bình, tăng 50% xác suất hồi phục 10% chỉ số sinh mạng trong 3 hiệp.",
+          "power": 1.5,
+          "level": 30
+        },
+        {
+          "id": "skill_007",
+          "name": "Thuật cầu tuyết",
+          "description": "Tăng 30% xác suất bắn ngược thương tổn đến kẻ địch trong 4 hiệp.",
+          "power": 0,
+          "level": 30
+        }
+      ],
+      "icon": "water"
+    },
+    {
+      "id": "type_002",
+      "name": "Hỏa",
+      "skills": [
+        {
+          "id": "skill_001",
+          "name": "Hỏa trảm",
+          "description": "Thương tổn thấp.",
+          "power": 1,
+          "level": 0
+        },
+        {
+          "id": "skill_002",
+          "name": "Dương viêm",
+          "description": "Thương tổn thấp, gây hiệu ứng đốt cháy gây 5% thương tổn cho kẻ địch, dy trì 3 hiệp.",
+          "power": 0.7,
+          "level": 10
+        },
+        {
+          "id": "skill_003",
+          "name": "Viêm hỏa phá",
+          "description": "Giảm phòng ngự xuống 30% đồng thời tăng lực công kích thêm 40%, duy trì 3 hiệp.",
+          "power": 0,
+          "level": 10
+        },
+        {
+          "id": "skill_004",
+          "name": "Vĩnh hằng hỏa ảnh",
+          "description": "Thương tổn trung bình, nhưng nếu kẻ địch đang dính hiệu ứng đốt cháy sẽ gây thêm 20% thương tổn.",
+          "power": 1.25,
+          "level": 20
+        },
+        {
+          "id": "skill_005",
+          "name": "Thien hỏa tế",
+          "description": "Tăng khả năng phòng ngự lên 50%. Các hiệp tiếp theo sẽ giảm 20% lực công kích của bản thân.",
+          "power": 0,
+          "level": 20
+        },
+        {
+          "id": "skill_006",
+          "name": "Diễm kích",
+          "description": "Thương tổn cao.",
+          "power": 1.5,
+          "level": 30
+        },
+        {
+          "id": "skill_007",
+          "name": "Hỏa vân triệu",
+          "description": "Thương tổn trung bình, tự tăng xác suất công kích chí mạng 3 hiệp sau thêm 20%.",
+          "power": 1.25,
+          "level": 30
+        }
+      ],
+      "icon": "fire"
+    },
+    {
+      "id": "type_003",
+      "name": "Mộc",
+      "icon": "grass"
+    },
+    {
+      "id": "type_004",
+      "name": "Thổ",
+      "icon": "earth"
+    },
+    {
+      "id": "type_005",
+      "name": "Điện",
+      "icon": "grass"
+    },
+    {
+      "id": "type_006",
+      "name": "Quỷ",
+      "icon": "grass"
+    },
+    {
+      "id": "type_007",
+      "name": "Phong",
+      "icon": "grass"
+    }
+  ],
+  "pokemon": [
+    {
+      "id": "pokemon_001",
+      "name": "Thủy quái",
+      "description": "Thủy quái là một Pokemon thuộc hệ Thủy, có khả năng tấn công và phòng thủ tốt.",
+      "type": "type_001",
+      "level": 1,
+      "max_level": 100,
+      "hp" : 100,
+      "attack": 37,
+      "defense": 13,
+      "lucky": 5
+    },
+    {
+      "id": "pokemon_002",
+      "name": "Hỏa quái",
+      "description": "Hỏa quái là một Pokemon thuộc hệ Hỏa, có khả năng tấn công mạnh mẽ.",
+      "type": "type_002",
+      "level": 1,
+      "max_level": 100,
+      "hp" : 100,
+      "attack": 50,
+      "defense": 10,
+      "lucky": 5
+    },
+    {
+      "id": "pokemon_003",
+      "name": "Mộc quái",
+      "description": "Mộc quái là một Pokemon thuộc hệ Mộc, có khả năng phòng thủ tốt.",
+      "type": "type_003",
+      "level": 1,
+      "max_level": 100,
+      "hp" : 100,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 5
+    }
+  ]
+}
