@@ -10,11 +10,15 @@ public class Chest : MonoBehaviour
     private bool isPlayerInRange = false;
     private bool isOpened = false;
 
+    [Header("Âm thanh")]
+    private AudioSource audioSource;
+
     void Start()
     {
         // Đảm bảo trạng thái ban đầu đúng
         chestClosedVisual.SetActive(true);
         chestOpenedVisual.SetActive(false);
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -28,14 +32,14 @@ public class Chest : MonoBehaviour
     private void OpenChest()
     {
         isOpened = true;
-
+        audioSource.Play();
         // Đổi hiển thị hình ảnh
         chestClosedVisual.SetActive(false);
         chestOpenedVisual.SetActive(true);
 
         // Nếu có âm thanh, hiệu ứng, item... thêm tại đây
         Debug.Log("Chest opened!");
-
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other)
