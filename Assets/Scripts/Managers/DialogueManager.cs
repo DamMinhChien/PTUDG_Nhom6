@@ -93,4 +93,6 @@ public class DialogueManager : MonoBehaviour
         isDialogueActive = false;
         dialogueUI.SetActive(false);
     }
+    public bool IsDialogueActive => isDialogueActive;
+
 }
