@@ -1,0 +1,21 @@
+{
+  "npcs": [
+    {
+      "id": "npc_01",
+      "npcName": "Trưởng Làng",
+      "dialogues": [
+        "Hé lô, chào cháu!",
+        "Ăn com chưa nhể."
+      ],
+      "interactionType": "Talk"
+    },
+    {
+      "id": "npc_02",
+      "npcName": "Thương nhân",
+      "dialogues": [
+        "Cháu có muốn mua gì không?"
+      ],
+      "interactionType": "Shop"
+    }
+  ]
+}
