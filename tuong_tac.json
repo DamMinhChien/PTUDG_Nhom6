@@ -1,0 +1,17 @@
+[
+  {
+    "id": "001",
+    "name": "pk Thỏ Di Lạc",
+    "triggerType": "PK",
+    "areaId": "DuongPhoPhiaDong",
+    "conditions": {
+      "hasItem": "map",
+      "questCompleted": "intro_quest"
+    },
+    "lines": [
+      "Chính là con thỏ ngươi, mau giúp ta báo cáo kết quả để vượt qua"
+    ],
+    "dialogueId": "dlg_001",
+    "once": true
+  }
+]
