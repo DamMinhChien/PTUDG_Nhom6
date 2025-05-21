@@ -1,16 +1,4 @@
-﻿/*using System.Collections.Generic;
-using UnityEngine;
-
-[CreateAssetMenu(fileName = "New NPC", menuName = "NPC/NPC Data")]
-public class NPCData : ScriptableObject
-{
-    public string npcId;
-    public string displayName;
-    [TextArea(2, 5)]
-    public List<string> dialogues;
-    public Sprite portrait;
-}
-*/
+﻿using Game.Enums;
 using System.Collections.Generic;
 
 [System.Serializable]
@@ -18,9 +6,11 @@ public class NPCData
 {
     public string id;
     public string npcName;
+    public string questId;
     public List<string> dialogues;
-    public string interactionType; // Ví dụ: "Talk", "Quest"
+    public InteractionType interactionType; // Ví dụ: "Talk", "Quest"
 }
+[System.Serializable]
 public class NPCDataList
 {
     public List<NPCData> npcs;
