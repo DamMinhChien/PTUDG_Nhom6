@@ -58,6 +58,7 @@ public class MapPortal : MonoBehaviour
 
             // Cập nhật collider mới cho camera
             FindFirstObjectByType<CameraBoundsManager>()?.UpdateCameraBounds();
+            //var something = FindFirstObjectByType<SomeType>();
 
             // Di chuyển player
             other.transform.position = targetPosition.position;

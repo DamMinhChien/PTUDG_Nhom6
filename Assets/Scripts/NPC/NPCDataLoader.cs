@@ -15,7 +15,7 @@ public class NPCDataLoader : MonoBehaviour
         LoadNPCData();
     }
 
-    private void LoadNPCData()
+    /*private void LoadNPCData()
     {
         TextAsset jsonFile = Resources.Load<TextAsset>("npc_data");
         if (jsonFile == null)
@@ -29,6 +29,32 @@ public class NPCDataLoader : MonoBehaviour
         npcDataDict = new Dictionary<string, NPCData>();
         foreach (var npc in npcList.npcs)
         {
+            npcDataDict[npc.id] = npc;
+        }
+    }*/
+
+    private void LoadNPCData()
+    {
+        TextAsset jsonFile = Resources.Load<TextAsset>("npc_data");
+        if (jsonFile == null)
+        {
+            Debug.LogError("❌ Không tìm thấy file npc_data.json trong Resources!");
+            return;
+        }
+
+        Debug.Log("✅ Tìm thấy file npc_data.json, nội dung:\n" + jsonFile.text);
+
+        NPCDataList npcList = JsonUtility.FromJson<NPCDataList>(jsonFile.text);
+        if (npcList == null || npcList.npcs == null)
+        {
+            Debug.LogError("❌ Không thể parse JSON hoặc danh sách NPC trống.");
+            return;
+        }
+
+        npcDataDict = new Dictionary<string, NPCData>();
+        foreach (var npc in npcList.npcs)
+        {
+            Debug.Log($"✅ Đã load NPC: {npc.id} - {npc.npcName}");
             npcDataDict[npc.id] = npc;
         }
     }
