@@ -36,6 +36,7 @@ public class MapPortal : MonoBehaviour
 
             // Bật map mới
             targetMap.SetActive(true);
+            GameManager.Instance.SetCurrentMap(targetMap);
 
             // Tìm phần tử có tag "not_active" bên trong targetMap và đổi tag thành "active_zone"
             Transform[] children = targetMap.GetComponentsInChildren<Transform>(true);
@@ -56,7 +57,7 @@ public class MapPortal : MonoBehaviour
             }
 
             // Cập nhật collider mới cho camera
-            FindObjectOfType<CameraBoundsManager>()?.UpdateCameraBounds();
+            FindFirstObjectByType<CameraBoundsManager>()?.UpdateCameraBounds();
 
             // Di chuyển player
             other.transform.position = targetPosition.position;
