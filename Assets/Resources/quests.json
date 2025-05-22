@@ -1,0 +1,18 @@
+[
+  {
+    "questId": "quest_001",
+    "title": "Tiêu diệt Slime",
+    "description": "Tiêu diệt 3 Slime để lấy 3 Slime Core.",
+    "requiredItem": "slime_core",
+    "requiredAmount": 3,
+    "isCompleted": false
+  },
+  {
+    "questId": "quest_002",
+    "title": "Thu thập táo",
+    "description": "Tìm và mang 5 quả táo về làng.",
+    "requiredItem": "apple",
+    "requiredAmount": 5,
+    "isCompleted": false
+  }
+]

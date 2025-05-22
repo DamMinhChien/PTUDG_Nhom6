@@ -15,6 +15,8 @@ public class DialogueManager : MonoBehaviour
     private bool isTyping = false;
     private Coroutine typingCoroutine;
 
+    private System.Action onDialogueComplete;
+
     [SerializeField] private float typingSpeed = 0.03f;
 
     private void Awake()
@@ -27,6 +29,7 @@ public class DialogueManager : MonoBehaviour
     {
         dialogueUI.SetActive(false);
         dialogueLines = new Queue<string>();
+        //ShowDialogue(new List<string> { "TEST: Nếu bạn thấy dòng này, UI hoạt động!" });
     }
 
     private void Update()
@@ -48,8 +51,7 @@ public class DialogueManager : MonoBehaviour
     }
 
     private string currentFullLine = "";
-
-    public void ShowDialogue(List<string> lines)
+    public void ShowDialogue(List<string> lines, System.Action onComplete = null)
     {
         if (lines == null || lines.Count == 0) return;
 
@@ -59,8 +61,11 @@ public class DialogueManager : MonoBehaviour
 
         dialogueUI.SetActive(true);
         isDialogueActive = true;
+        onDialogueComplete = onComplete;
+
         ShowNextLine();
     }
+
 
     public void ShowNextLine()
     {
@@ -92,7 +97,16 @@ public class DialogueManager : MonoBehaviour
     {
         isDialogueActive = false;
         dialogueUI.SetActive(false);
+
+        if (onDialogueComplete != null)
+        {
+            onDialogueComplete.Invoke();
+            onDialogueComplete = null;
+        }
+        Debug.Log("Kết thúc thoại → gọi callback");
+
     }
+
     public bool IsDialogueActive => isDialogueActive;
 
 }
