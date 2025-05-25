@@ -13,6 +13,14 @@ public class QuestManager : MonoBehaviour
             Instance = this;
     }
 
+    private void Start()
+    {
+        foreach (var questPair in QuestLoader.Instance.GetAllQuests())
+        {
+            quests.Add(questPair.Value);
+        }
+    }
+
     public void LoadQuestsFromJSON(TextAsset questJSON)
     {
         Quest[] questArray = JsonHelper.FromJson<Quest>(questJSON.text);
@@ -39,14 +47,14 @@ public class QuestManager : MonoBehaviour
         if (quest != null && !quest.isCompleted)
         {
             quest.isCompleted = true;
-            Debug.Log("Đã hoàn thành nhiệm vụ: " + quest.title);
-            // TODO: thưởng vàng, vật phẩm
+            Debug.Log("🎯 Đã hoàn thành nhiệm vụ: " + quest.title);
+
+            QuestCompletePopup.Instance?.Show(quest.title);
+
+            // TODO: Thưởng vàng, vật phẩm
         }
     }
-    /*public bool HasQuest(string questId)
-    {
-        return activeQuests.ContainsKey(questId);
-    }*/
+
     public bool HasQuest(string questId)
     {
         bool exists = activeQuests.ContainsKey(questId);
@@ -54,16 +62,18 @@ public class QuestManager : MonoBehaviour
         return exists;
     }
 
-
-    [SerializeField] private TextAsset questJSON;
-    private void Start()
+    public void CheckQuestProgress(string itemId)
     {
-        QuestManager.Instance.LoadQuestsFromJSON(questJSON);
-    }
-
-    [System.Serializable]
-    private class QuestListWrapper
-    {
-        public List<Quest> quests;
+        foreach (var quest in activeQuests.Values)
+        {
+            if (!quest.isCompleted && quest.requiredItem == itemId)
+            {
+                int currentAmount = InventoryManager.Instance.GetItemAmount(itemId);
+                if (currentAmount >= quest.requiredAmount)
+                {
+                    CompleteQuest(quest.questId);
+                }
+            }
+        }
     }
 }

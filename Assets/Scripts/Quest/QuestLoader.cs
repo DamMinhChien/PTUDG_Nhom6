@@ -40,4 +40,10 @@ public class QuestLoader : MonoBehaviour
             return quest;
         return null;
     }
+
+    public Dictionary<string, Quest> GetAllQuests()
+    {
+        return questDict;
+    }
+
 }
