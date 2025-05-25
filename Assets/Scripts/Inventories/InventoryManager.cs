@@ -5,8 +5,8 @@ public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance;
 
-    private Dictionary<string, int> inventory = new Dictionary<string, int>();
-    
+    private Dictionary<string, Item> inventory = new Dictionary<string, Item>();
+
     public delegate void InventoryChanged();
     public event InventoryChanged OnInventoryChanged;
 
@@ -15,23 +15,29 @@ public class InventoryManager : MonoBehaviour
         if (Instance == null)
             Instance = this;
     }
-        
-    public Dictionary<string, int> GetAllItems()
+
+    private void Start()
     {
-        return new Dictionary<string, int>(inventory);
+        
+    }
+
+    public Dictionary<string, Item> GetAllItems()
+    {
+        return new Dictionary<string, Item>(inventory);
     }
 
     public bool HasItem(string itemId, int requiredAmount)
     {
-        return inventory.ContainsKey(itemId) && inventory[itemId] >= requiredAmount;
+        return inventory.ContainsKey(itemId) && inventory[itemId].quantity >= requiredAmount;
     }
 
     public int GetItemAmount(string itemId)
     {
         if (inventory.ContainsKey(itemId))
-            return inventory[itemId];
+            return inventory[itemId].quantity;
         return 0;
     }
+
     private void NotifyChange()
     {
         OnInventoryChanged?.Invoke();
@@ -39,12 +45,24 @@ public class InventoryManager : MonoBehaviour
 
     public void AddItem(string itemId, int amount)
     {
-        if (inventory.ContainsKey(itemId))
-            inventory[itemId] += amount;
-        else
-            inventory[itemId] = amount;
+        ItemData data = GameDataLoader.Instance.GetItemDataById(itemId);
+        if (data == null)
+        {
+            Debug.LogWarning($"Không tìm thấy dữ liệu item: {itemId}");
+            return;
+        }
 
-        Debug.Log($"Đã nhận {amount} x {itemId}");
+        if (!inventory.ContainsKey(itemId))
+        {
+            inventory[itemId] = new Item(data, amount);
+        }
+        else
+        {
+            inventory[itemId].quantity += amount;
+        }
+
+        Debug.Log($"✅ Nhận {amount} x {data.name}");
+        QuestManager.Instance.CheckQuestProgress(itemId);
         NotifyChange();
     }
 
@@ -52,11 +70,18 @@ public class InventoryManager : MonoBehaviour
     {
         if (!inventory.ContainsKey(itemId)) return;
 
-        inventory[itemId] -= amount;
-        if (inventory[itemId] <= 0)
+        inventory[itemId].quantity -= amount;
+        if (inventory[itemId].quantity <= 0)
             inventory.Remove(itemId);
 
         NotifyChange();
+    }
+
+    public Item GetItem(string itemId)
+    {
+        if (inventory.TryGetValue(itemId, out Item item))
+            return item;
+        return null;
     }
 
 }

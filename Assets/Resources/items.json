@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "item_pokeball",
+      "name": "Bóng Bắt Thú",
+      "description": "Dùng để bắt thú hoang dã.",
+      "price": 100,
+      "currency": "gold",
+      "icon": "Cau_cao_cap"
+    },
+    {
+      "id": "item_hp",
+      "name": "Bình Hồi Phục",
+      "description": "Hồi phục 50 HP cho thú nuôi.",
+      "price": 150,
+      "currency": "medicine",
+      "icon": "Thuoc_HP"
+    },
+    {
+      "id": "item_kn",
+      "name": "Thuốc Kinh Nhiệm",
+      "description": "Tăng 200Kn cho thú nuôi.",
+      "price": 150,
+      "currency": "medicine",
+      "icon": "Thuoc_KN"
+    },
+    {
+      "id": "tien_hoa_thuy",
+      "name": "Đá Tiến Hóa Thủy",
+      "description": "Giúp thú tiến hóa thú hệ thủy lên hình dạng mạnh hơn.",
+      "price": 1000,
+      "currency": "stone",
+      "icon": "Da_tien_hoa_thuy"
+    },
+    {
+      "id": "tien_hoa_hoa",
+      "name": "Đá Tiến Hóa Hỏa",
+      "description": "Giúp thú tiến hóa thú hệ hỏa lên hình dạng mạnh hơn.",
+      "price": 1000,
+      "currency": "stone",
+      "icon": "Da_tien_hoa_hoa"
+    },
+    {
+      "id": "tien_hoa_moc",
+      "name": "Đá Tiến Hóa Mộc",
+      "description": "Giúp thú tiến hóa thú hệ mộc lên hình dạng mạnh hơn.",
+      "price": 1000,
+      "currency": "stone",
+      "icon": "Da_tien_hoa_moc"
+    },
+    {
+      "id": "tien_hoa_tho",
+      "name": "Đá Tiến Hóa Thổ",
+      "description": "Giúp thú tiến hóa thú hệ thổ lên hình dạng mạnh hơn.",
+      "price": 1000,
+      "currency": "stone",
+      "icon": "Da_tien_hoa_tho"
+    }
+  ]
+}
