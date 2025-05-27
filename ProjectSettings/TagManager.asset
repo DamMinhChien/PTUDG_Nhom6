@@ -50,14 +50,14 @@ TagManager:
   - name: Water
     uniqueID: 1638962715
     locked: 0
-  - name: Decor
-    uniqueID: 955232409
-    locked: 0
   - name: Item
     uniqueID: 4089126073
     locked: 0
   - name: Player
     uniqueID: 3873462731
+    locked: 0
+  - name: Decor
+    uniqueID: 955232409
     locked: 0
   m_RenderingLayers:
   - Default
