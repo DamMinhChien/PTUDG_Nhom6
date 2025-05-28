@@ -17,7 +17,7 @@ public class QuestLoader : MonoBehaviour
 
     private void LoadQuests()
     {
-        TextAsset jsonFile = Resources.Load<TextAsset>("quests"); // Đường dẫn: Resources/Data/quests.json
+        TextAsset jsonFile = Resources.Load<TextAsset>("quests"); // Đường dẫn: Resources/quests.json
         if (jsonFile == null)
         {
             Debug.LogError("Không tìm thấy file quests.json trong Resources/Data!");

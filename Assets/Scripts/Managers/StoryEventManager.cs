@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class StoryEventManager : MonoBehaviour
 {
@@ -43,9 +44,23 @@ public class StoryEventManager : MonoBehaviour
             return;
         }
 
-        DialogueManager.Instance.ShowDialogue(e.lines);
+        DialogueManager.Instance.ShowDialogue(e.lines, () => OnDialogueEnd(e));
     }
 
+    void OnDialogueEnd(StoryEvent e)
+    {
+        Debug.Log("Đoạn thoại kết thúc, kiểm tra có cần chuyển cảnh...");
+
+        if (e.once) // Chỉ chuyển cảnh nếu sự kiện yêu cầu
+        {
+            Debug.Log("Sự kiện yêu cầu chuyển cảnh, đang chuyển...");
+            SceneManager.LoadScene("Main"); // Thay bằng tên cảnh thực tế
+        }
+        else
+        {
+            Debug.Log("Không cần chuyển cảnh.");
+        }
+    }
 
     public static class JsonUtilityWrapper
     {

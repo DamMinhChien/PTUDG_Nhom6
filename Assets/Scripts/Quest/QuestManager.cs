@@ -15,11 +15,24 @@ public class QuestManager : MonoBehaviour
 
     private void Start()
     {
-        foreach (var questPair in QuestLoader.Instance.GetAllQuests())
+        Debug.Log("📦 QuestManager.Start() chạy");
+
+        var allQuests = QuestLoader.Instance?.GetAllQuests();
+        if (allQuests == null)
+        {
+            Debug.LogWarning("⚠ QuestLoader.Instance.GetAllQuests() == null");
+            return;
+        }
+
+        Debug.Log("📄 Tổng số nhiệm vụ từ JSON: " + allQuests.Count);
+
+        foreach (var questPair in allQuests)
         {
             quests.Add(questPair.Value);
+            Debug.Log("✅ Thêm nhiệm vụ: " + questPair.Value.title);
         }
     }
+
 
     public void LoadQuestsFromJSON(TextAsset questJSON)
     {
