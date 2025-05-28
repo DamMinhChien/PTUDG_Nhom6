@@ -1,0 +1,1585 @@
+{
+  "items": [
+    {
+      "id": "item_001",
+      "name": "Tất trung cầu",
+      "description": "Bất luận là Pokemon nào thì xác suất bắt được là 100%.",
+      "price": 2,
+      "currency": "gold",
+      "icon": "iron_sword"
+    },
+    {
+      "id": "item_002",
+      "name": "Phong ấn cầu",
+      "description": "Quả cầu có thể bắt được nhiều sủng vật thông thường.",
+      "price": 50,
+      "currency": "coin",
+      "icon": "small_potion"
+    },
+    {
+      "id": "item_003",
+      "name": "Cao cấp cầu",
+      "description": "Quả cầu có thể bắt được nhiều sủng vật hiếm.",
+      "price": 200,
+      "currency": "coin",
+      "icon": "wizard_hat"
+    },
+    {
+      "id": "item_004",
+      "name": "Bánh quy",
+      "description": "Khôi phục một phần sinh mệnh của Pokemon.",
+      "price": 100,
+      "currency": "coin",
+      "icon": "golden_apple"
+    },
+    {
+      "id": "item_005",
+      "name": "Chocolate",
+      "description": "Khôi phục toàn bộ sinh mệnh của Pokemon.",
+      "price": 250,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_006",
+      "name": "Năng lượng thạch",
+      "description": "Khôi phục một phần kỹ năng của Pokemon.",
+      "price": 100,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_007",
+      "name": "Tụ năng thạch",
+      "description": "Khôi phục toàn bộ kỹ năng của Pokemon.",
+      "price": 250,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_008",
+      "name": "Sinh mệnh thạch",
+      "description": "Hồi sinh Pokemon cùng một phần chỉ số sinh mạng và kỹ năng.",
+      "price": 300,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_009",
+      "name": "Linh hồn thạch",
+      "description": "Hồi sinh Pokemon cùng toàn bộ chỉ số sinh mạng và kỹ năng.",
+      "price": 750,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_010",
+      "name": "Tị quái hàn",
+      "description": "Trong tời gian ngắn người chơi không gặp Pokemon khiêu khích.",
+      "price": 300,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_011",
+      "name": "Chìa khóa",
+      "description": "Dùng để mở hoàng kim bảo rương.",
+      "price": 600,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_012",
+      "name": "Đá tiến hóa sơ cấp",
+      "description": "Dùng để tiến hóa Pokemon cấp thấp.",
+      "price": 1000,
+      "currency": "coin",
+      "icon": "diamond"
+    },
+    {
+      "id": "item_014",
+      "name": "Đá tiến hóa cao cấp",
+      "description": "Dùng để tiến hóa Pokemon cấp cao.",
+      "price": 2,
+      "currency": "gold",
+      "icon": "diamond"
+    }
+  ],
+  "jewelries": [
+    {
+      "id": "jewelry_001",
+      "name": "Mạn đà la thạch",
+      "description": "Khi chỉ số sinh mạng Pokemon thấp hơn 30%, gia tăng lực công kích 100%.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_002",
+      "name": "Hồng sắc hải loa",
+      "description": "Tăng 10% lực công kích của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_003",
+      "name": "Quy xác tái phiến",
+      "description": "Tăng 15% lực phòng thủ của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_004",
+      "name": "Ô nha uế",
+      "description": "Tăng 20% sức đối kháng của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_005",
+      "name": "Viễn cổ long cốt",
+      "description": "Tăng 10% sát thương chí mạng của Pokemon.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_006",
+      "name": "Mật phong xào",
+      "description": "Sau khi chiến đấu sủng vật lấy được thêm 20% kinh nghiệm.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_007",
+      "name": "Ký cư giải xác",
+      "description": "Pokemon không trực tiếp tham chiến cũng có thể đạt được kinh nghiệm tương ứng.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_008",
+      "name": "Hấp huyết đằng mạn",
+      "description": "Pokemon công kích mục tiêu được hồi 1 phần chỉ số sinh mạng.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    },
+    {
+      "id": "jewelry_009",
+      "name": "Sủng vật lôi đạt",
+      "description": "Gia tăng tỷ lệ bắt được Pokemon 20%.",
+      "price": 5,
+      "currency": "gold",
+      "icon": "diamond"
+    }
+  ],
+  "pokemon_types": [
+    {
+      "id": "type_001",
+      "name": "Thủy",
+      "skills": [
+        {
+          "id": "skill_001",
+          "name": "Thủy chi công kích",
+          "description": "Thương tổn thấp.",
+          "power": 1,
+          "level": 0
+        },
+        {
+          "id": "skill_002",
+          "name": "Thủy bích",
+          "description": "Thương tổn thấp, tăng phòng thủ thêm 20% trong 2 hiệp.",
+          "power": 0.7,
+          "level": 10
+        },
+        {
+          "id": "skill_003",
+          "name": "Thủy công",
+          "description": "Thương tổn thấp, tăng công kích thêm 15% trong 2 hiệp.",
+          "power": 0.7,
+          "level": 10
+        },
+        {
+          "id": "skill_004",
+          "name": "Ray lạnh",
+          "description": "Thương tổn trung bình, nhưng có xác suất 10% tấn công kẻ địch lần nữa.",
+          "power": 1.25,
+          "level": 20
+        },
+        {
+          "id": "skill_005",
+          "name": "Bạo phong tuyết",
+          "description": "Thương tổn cao.",
+          "power": 1.5,
+          "level": 20
+        },
+        {
+          "id": "skill_006",
+          "name": "Băng phong hãm tịnh",
+          "description": "Thương tổn trung bình, tăng 50% xác suất hồi phục 10% chỉ số sinh mạng trong 3 hiệp.",
+          "power": 1.5,
+          "level": 30
+        },
+        {
+          "id": "skill_007",
+          "name": "Thuật cầu tuyết",
+          "description": "Tăng 30% xác suất bắn ngược thương tổn đến kẻ địch trong 4 hiệp.",
+          "power": 0,
+          "level": 30
+        }
+      ],
+      "icon": "water"
+    },
+    {
+      "id": "type_002",
+      "name": "Hỏa",
+      "skills": [
+        {
+          "id": "skill_001",
+          "name": "Hỏa trảm",
+          "description": "Thương tổn thấp.",
+          "power": 1,
+          "level": 0
+        },
+        {
+          "id": "skill_002",
+          "name": "Dương viêm",
+          "description": "Thương tổn thấp, gây hiệu ứng đốt cháy gây 5% thương tổn cho kẻ địch, dy trì 3 hiệp.",
+          "power": 0.7,
+          "level": 10
+        },
+        {
+          "id": "skill_003",
+          "name": "Viêm hỏa phá",
+          "description": "Giảm phòng ngự xuống 30% đồng thời tăng lực công kích thêm 40%, duy trì 3 hiệp.",
+          "power": 0,
+          "level": 10
+        },
+        {
+          "id": "skill_004",
+          "name": "Vĩnh hằng hỏa ảnh",
+          "description": "Thương tổn trung bình, nhưng nếu kẻ địch đang dính hiệu ứng đốt cháy sẽ gây thêm 20% thương tổn.",
+          "power": 1.25,
+          "level": 20
+        },
+        {
+          "id": "skill_005",
+          "name": "Thien hỏa tế",
+          "description": "Tăng khả năng phòng ngự lên 50%. Các hiệp tiếp theo sẽ giảm 20% lực công kích của bản thân.",
+          "power": 0,
+          "level": 20
+        },
+        {
+          "id": "skill_006",
+          "name": "Diễm kích",
+          "description": "Thương tổn cao.",
+          "power": 1.5,
+          "level": 30
+        },
+        {
+          "id": "skill_007",
+          "name": "Hỏa vân triệu",
+          "description": "Thương tổn trung bình, tự tăng xác suất công kích chí mạng 3 hiệp sau thêm 20%.",
+          "power": 1.25,
+          "level": 30
+        }
+      ],
+      "icon": "fire"
+    },
+    {
+      "id": "type_003",
+      "name": "Mộc",
+      "icon": "grass"
+    },
+    {
+      "id": "type_004",
+      "name": "Thổ",
+      "icon": "earth"
+    },
+    {
+      "id": "type_005",
+      "name": "Điện",
+      "icon": "grass"
+    },
+    {
+      "id": "type_006",
+      "name": "Quỷ",
+      "icon": "grass"
+    },
+    {
+      "id": "type_007",
+      "name": "Phong",
+      "icon": "grass"
+    }
+  ],
+  "pokemon": [
+    // Điện (type_005)
+    {
+      "id": "pokemon_001",
+      "name": "Pichu",
+      "type": "type_005",
+      "evolve_to": "pokemon_002",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 10
+    },
+    {
+      "id": "pokemon_002",
+      "name": "Pikachu",
+      "type": "type_005",
+      "evolve_from": "pokemon_001",
+      "evolve_to": "pokemon_003",
+      "level": 1,
+      "max_level": 100,
+      "hp": 55,
+      "attack": 25,
+      "defense": 15,
+      "lucky": 10
+    },
+    {
+      "id": "pokemon_003",
+      "name": "Raichu",
+      "type": "type_005",
+      "evolve_from": "pokemon_002",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 40,
+      "defense": 25,
+      "lucky": 10
+    },
+    {
+      "id": "pokemon_004",
+      "name": "Elekid",
+      "type": "type_005",
+      "evolve_to": "pokemon_005",
+      "level": 1,
+      "max_level": 100,
+      "hp": 45,
+      "attack": 20,
+      "defense": 12,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_005",
+      "name": "Electabuzz",
+      "type": "type_005",
+      "evolve_from": "pokemon_004",
+      "evolve_to": "pokemon_006",
+      "level": 1,
+      "max_level": 100,
+      "hp": 65,
+      "attack": 35,
+      "defense": 18,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_006",
+      "name": "Electivire",
+      "type": "type_005",
+      "evolve_from": "pokemon_005",
+      "level": 1,
+      "max_level": 100,
+      "hp": 85,
+      "attack": 55,
+      "defense": 25,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_007",
+      "name": "Magnemite",
+      "type": "type_005",
+      "evolve_to": "pokemon_008",
+      "level": 1,
+      "max_level": 100,
+      "hp": 35,
+      "attack": 18,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_008",
+      "name": "Magneton",
+      "type": "type_005",
+      "evolve_from": "pokemon_007",
+      "evolve_to": "pokemon_009",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 35,
+      "defense": 40,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_009",
+      "name": "Magnezone",
+      "type": "type_005",
+      "evolve_from": "pokemon_008",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 55,
+      "defense": 60,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_010",
+      "name": "Joltik",
+      "type": "type_005",
+      "evolve_to": "pokemon_011",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 6
+    },
+    {
+      "id": "pokemon_011",
+      "name": "Galvantula",
+      "type": "type_005",
+      "evolve_from": "pokemon_010",
+      "level": 1,
+      "max_level": 100,
+      "hp": 70,
+      "attack": 35,
+      "defense": 20,
+      "lucky": 6
+    },
+    {
+      "id": "pokemon_012",
+      "name": "Ampharos",
+      "type": "type_005",
+      "level": 1,
+      "max_level": 100,
+      "hp": 90,
+      "attack": 50,
+      "defense": 40,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_013",
+      "name": "Raikou_God_Dien",
+      "type": "type_005",
+      "level": 1,
+      "max_level": 100,
+      "hp": 120,
+      "attack": 70,
+      "defense": 50,
+      "lucky": 12
+    },
+    {
+      "id": "pokemon_014",
+      "name": "Zapdos",
+      "type": "type_005",
+      "level": 1,
+      "max_level": 100,
+      "hp": 110,
+      "attack": 65,
+      "defense": 45,
+      "lucky": 12
+    },
+    {
+      "id": "pokemon_015",
+      "name": "Meowth",
+      "type": "type_005",
+      "evolve_to": "pokemon_016",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 20,
+      "defense": 10,
+      "lucky": 10
+    },
+    {
+      "id": "pokemon_016",
+      "name": "Persian",
+      "type": "type_005",
+      "evolve_from": "pokemon_015",
+      "level": 1,
+      "max_level": 100,
+      "hp": 65,
+      "attack": 40,
+      "defense": 20,
+      "lucky": 10
+    },
+
+    // Hỏa (type_002)
+    {
+      "id": "pokemon_017",
+      "name": "Charmander",
+      "type": "type_002",
+      "evolve_to": "pokemon_018",
+      "level": 1,
+      "max_level": 100,
+      "hp": 39,
+      "attack": 17,
+      "defense": 10,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_018",
+      "name": "Charmeleon",
+      "type": "type_002",
+      "evolve_from": "pokemon_017",
+      "evolve_to": "pokemon_019",
+      "level": 1,
+      "max_level": 100,
+      "hp": 58,
+      "attack": 25,
+      "defense": 15,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_019",
+      "name": "Charizard",
+      "type": "type_002",
+      "evolve_from": "pokemon_018",
+      "level": 1,
+      "max_level": 100,
+      "hp": 78,
+      "attack": 40,
+      "defense": 25,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_020",
+      "name": "Chimchar",
+      "type": "type_002",
+      "evolve_to": "pokemon_021",
+      "level": 1,
+      "max_level": 100,
+      "hp": 44,
+      "attack": 16,
+      "defense": 11,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_021",
+      "name": "Monferno",
+      "type": "type_002",
+      "evolve_from": "pokemon_020",
+      "evolve_to": "pokemon_022",
+      "level": 1,
+      "max_level": 100,
+      "hp": 64,
+      "attack": 25,
+      "defense": 16,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_022",
+      "name": "Infernape",
+      "type": "type_002",
+      "evolve_from": "pokemon_021",
+      "level": 1,
+      "max_level": 100,
+      "hp": 76,
+      "attack": 38,
+      "defense": 22,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_023",
+      "name": "Cyndaquil",
+      "type": "type_002",
+      "evolve_to": "pokemon_024",
+      "level": 1,
+      "max_level": 100,
+      "hp": 39,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_024",
+      "name": "Quilava",
+      "type": "type_002",
+      "evolve_from": "pokemon_023",
+      "evolve_to": "pokemon_025",
+      "level": 1,
+      "max_level": 100,
+      "hp": 58,
+      "attack": 22,
+      "defense": 15,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_025",
+      "name": "Typhlosion",
+      "type": "type_002",
+      "evolve_from": "pokemon_024",
+      "level": 1,
+      "max_level": 100,
+      "hp": 78,
+      "attack": 36,
+      "defense": 22,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_026",
+      "name": "Slugma",
+      "type": "type_002",
+      "evolve_to": "pokemon_027",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 12,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_027",
+      "name": "Magcargo",
+      "type": "type_002",
+      "evolve_from": "pokemon_026",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 30,
+      "defense": 40,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_028",
+      "name": "Scizor",
+      "type": "type_002",
+      "level": 1,
+      "max_level": 100,
+      "hp": 70,
+      "attack": 40,
+      "defense": 30,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_029",
+      "name": "Entei_God_Hoa",
+      "type": "type_002",
+      "level": 1,
+      "max_level": 100,
+      "hp": 120,
+      "attack": 70,
+      "defense": 50,
+      "lucky": 12
+    },
+
+    // Mộc (type_003)
+    {
+      "id": "pokemon_030",
+      "name": "Bulbasaur",
+      "type": "type_003",
+      "evolve_to": "pokemon_031",
+      "level": 1,
+      "max_level": 100,
+      "hp": 45,
+      "attack": 16,
+      "defense": 13,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_031",
+      "name": "Ivysaur",
+      "type": "type_003",
+      "evolve_from": "pokemon_030",
+      "evolve_to": "pokemon_032",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 22,
+      "defense": 18,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_032",
+      "name": "Venusaur",
+      "type": "type_003",
+      "evolve_from": "pokemon_031",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 35,
+      "defense": 28,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_033",
+      "name": "Chikorita",
+      "type": "type_003",
+      "evolve_to": "pokemon_034",
+      "level": 1,
+      "max_level": 100,
+      "hp": 45,
+      "attack": 14,
+      "defense": 12,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_034",
+      "name": "Bayleef",
+      "type": "type_003",
+      "evolve_from": "pokemon_033",
+      "evolve_to": "pokemon_035",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 20,
+      "defense": 25,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_035",
+      "name": "Meganium",
+      "type": "type_003",
+      "evolve_from": "pokemon_034",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 32,
+      "defense": 30,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_036",
+      "name": "Treecko",
+      "type": "type_003",
+      "evolve_to": "pokemon_037",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_037",
+      "name": "Grovyle",
+      "type": "type_003",
+      "evolve_from": "pokemon_036",
+      "evolve_to": "pokemon_038",
+      "level": 1,
+      "max_level": 100,
+      "hp": 55,
+      "attack": 22,
+      "defense": 15,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_038",
+      "name": "Sceptile",
+      "type": "type_003",
+      "evolve_from": "pokemon_037",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 35,
+      "defense": 22,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_039",
+      "name": "Bellsprout",
+      "type": "type_003",
+      "evolve_to": "pokemon_040",
+      "level": 1,
+      "max_level": 100,
+      "hp": 50,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_040",
+      "name": "Victreebel",
+      "type": "type_003",
+      "evolve_from": "pokemon_039",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 32,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_041",
+      "name": "Carnivine",
+      "type": "type_003",
+      "level": 1,
+      "max_level": 100,
+      "hp": 74,
+      "attack": 25,
+      "defense": 18,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_042",
+      "name": "Jumpluff",
+      "type": "type_003",
+      "evolve_from": "pokemon_044",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 25,
+      "defense": 20,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_043",
+      "name": "Skiploom",
+      "type": "type_003",
+      "evolve_to": "pokemon_042",
+      "level": 1,
+      "max_level": 100,
+      "hp": 55,
+      "attack": 15,
+      "defense": 12,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_044",
+      "name": "Sunflora",
+      "type": "type_003",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 20,
+      "defense": 15,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_045",
+      "name": "Sunkern",
+      "type": "type_003",
+      "level": 1,
+      "max_level": 100,
+      "hp": 30,
+      "attack": 8,
+      "defense": 8,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_046",
+      "name": "Sudowoodo",
+      "type": "type_003",
+      "level": 1,
+      "max_level": 100,
+      "hp": 70,
+      "attack": 25,
+      "defense": 30,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_047",
+      "name": "Virizion_God_Moc",
+      "type": "type_003",
+      "level": 1,
+      "max_level": 100,
+      "hp": 100,
+      "attack": 60,
+      "defense": 40,
+      "lucky": 12
+    },
+
+    // Thủy (type_001)
+    {
+      "id": "pokemon_048",
+      "name": "Squirtle",
+      "type": "type_001",
+      "evolve_to": "pokemon_049",
+      "level": 1,
+      "max_level": 100,
+      "hp": 44,
+      "attack": 16,
+      "defense": 15,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_049",
+      "name": "Wartortle",
+      "type": "type_001",
+      "evolve_from": "pokemon_048",
+      "evolve_to": "pokemon_050",
+      "level": 1,
+      "max_level": 100,
+      "hp": 59,
+      "attack": 22,
+      "defense": 20,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_050",
+      "name": "Blastoise",
+      "type": "type_001",
+      "evolve_from": "pokemon_049",
+      "level": 1,
+      "max_level": 100,
+      "hp": 79,
+      "attack": 35,
+      "defense": 30,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_051",
+      "name": "Piplup",
+      "type": "type_001",
+      "evolve_to": "pokemon_052",
+      "level": 1,
+      "max_level": 100,
+      "hp": 53,
+      "attack": 15,
+      "defense": 12,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_052",
+      "name": "Prinplup",
+      "type": "type_001",
+      "evolve_from": "pokemon_051",
+      "evolve_to": "pokemon_053",
+      "level": 1,
+      "max_level": 100,
+      "hp": 64,
+      "attack": 20,
+      "defense": 18,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_053",
+      "name": "Empoleon",
+      "type": "type_001",
+      "evolve_from": "pokemon_052",
+      "level": 1,
+      "max_level": 100,
+      "hp": 84,
+      "attack": 30,
+      "defense": 25,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_054",
+      "name": "Psyduck",
+      "type": "type_001",
+      "evolve_to": "pokemon_055",
+      "level": 1,
+      "max_level": 100,
+      "hp": 50,
+      "attack": 18,
+      "defense": 12,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_055",
+      "name": "Golduck",
+      "type": "type_001",
+      "evolve_from": "pokemon_054",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 32,
+      "defense": 22,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_056",
+      "name": "Magikarp",
+      "type": "type_001",
+      "evolve_to": "pokemon_057",
+      "level": 1,
+      "max_level": 100,
+      "hp": 20,
+      "attack": 5,
+      "defense": 8,
+      "lucky": 6
+    },
+    {
+      "id": "pokemon_057",
+      "name": "Gyarados",
+      "type": "type_001",
+      "evolve_from": "pokemon_056",
+      "level": 1,
+      "max_level": 100,
+      "hp": 95,
+      "attack": 60,
+      "defense": 30,
+      "lucky": 9
+    },
+    {
+      "id": "pokemon_058",
+      "name": "Lapras",
+      "type": "type_001",
+      "level": 1,
+      "max_level": 100,
+      "hp": 130,
+      "attack": 40,
+      "defense": 40,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_059",
+      "name": "Staryu",
+      "type": "type_001",
+      "evolve_to": "pokemon_060",
+      "level": 1,
+      "max_level": 100,
+      "hp": 30,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_060",
+      "name": "Starmie",
+      "type": "type_001",
+      "evolve_from": "pokemon_059",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 30,
+      "defense": 25,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_061",
+      "name": "Tentacool",
+      "type": "type_001",
+      "evolve_to": "pokemon_062",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 12,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_062",
+      "name": "Tentacruel",
+      "type": "type_001",
+      "evolve_from": "pokemon_061",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 30,
+      "defense": 25,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_063",
+      "name": "Kyogre_God_Thuy",
+      "type": "type_001",
+      "level": 1,
+      "max_level": 100,
+      "hp": 150,
+      "attack": 80,
+      "defense": 60,
+      "lucky": 12
+    },
+
+    // Quỷ (type_006)
+    {
+      "id": "pokemon_064",
+      "name": "Ekans",
+      "type": "type_006",
+      "evolve_to": "pokemon_065",
+      "level": 1,
+      "max_level": 100,
+      "hp": 35,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_065",
+      "name": "Arbok",
+      "type": "type_006",
+      "evolve_from": "pokemon_064",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_066",
+      "name": "Gastly",
+      "type": "type_006",
+      "evolve_to": "pokemon_067",
+      "level": 1,
+      "max_level": 100,
+      "hp": 30,
+      "attack": 18,
+      "defense": 8,
+      "lucky": 9
+    },
+    {
+      "id": "pokemon_067",
+      "name": "Haunter",
+      "type": "type_006",
+      "evolve_from": "pokemon_066",
+      "evolve_to": "pokemon_068",
+      "level": 1,
+      "max_level": 100,
+      "hp": 45,
+      "attack": 28,
+      "defense": 13,
+      "lucky": 9
+    },
+    {
+      "id": "pokemon_068",
+      "name": "Gengar",
+      "type": "type_006",
+      "evolve_from": "pokemon_067",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 40,
+      "defense": 18,
+      "lucky": 9
+    },
+    {
+      "id": "pokemon_069",
+      "name": "Koffing",
+      "type": "type_006",
+      "evolve_to": "pokemon_070",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 18,
+      "defense": 12,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_070",
+      "name": "Weezing",
+      "type": "type_006",
+      "evolve_from": "pokemon_069",
+      "level": 1,
+      "max_level": 100,
+      "hp": 65,
+      "attack": 32,
+      "defense": 25,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_071",
+      "name": "Duskull",
+      "type": "type_006",
+      "evolve_to": "pokemon_072",
+      "level": 1,
+      "max_level": 100,
+      "hp": 20,
+      "attack": 10,
+      "defense": 15,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_072",
+      "name": "Dusclops",
+      "type": "type_006",
+      "evolve_from": "pokemon_071",
+      "evolve_to": "pokemon_073",
+      "level": 1,
+      "max_level": 100,
+      "hp": 45,
+      "attack": 20,
+      "defense": 30,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_073",
+      "name": "Dusknoir",
+      "type": "type_006",
+      "evolve_from": "pokemon_072",
+      "level": 1,
+      "max_level": 100,
+      "hp": 65,
+      "attack": 30,
+      "defense": 45,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_074",
+      "name": "Shuppet",
+      "type": "type_006",
+      "evolve_to": "pokemon_075",
+      "level": 1,
+      "max_level": 100,
+      "hp": 30,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_075",
+      "name": "Banette",
+      "type": "type_006",
+      "evolve_from": "pokemon_074",
+      "level": 1,
+      "max_level": 100,
+      "hp": 55,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_076",
+      "name": "Giratina_God_Quy",
+      "type": "type_006",
+      "level": 1,
+      "max_level": 100,
+      "hp": 150,
+      "attack": 80,
+      "defense": 60,
+      "lucky": 12
+    },
+
+    // Phong (type_007)
+    {
+      "id": "pokemon_077",
+      "name": "Zubat",
+      "type": "type_007",
+      "evolve_to": "pokemon_078",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_078",
+      "name": "Golbat",
+      "type": "type_007",
+      "evolve_from": "pokemon_077",
+      "evolve_to": "pokemon_079",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_079",
+      "name": "Crobat",
+      "type": "type_007",
+      "evolve_from": "pokemon_078",
+      "level": 1,
+      "max_level": 100,
+      "hp": 85,
+      "attack": 40,
+      "defense": 25,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_080",
+      "name": "Taillow",
+      "type": "type_007",
+      "evolve_to": "pokemon_081",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_081",
+      "name": "Swellow",
+      "type": "type_007",
+      "evolve_from": "pokemon_080",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_082",
+      "name": "Spearow",
+      "type": "type_007",
+      "evolve_to": "pokemon_083",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_083",
+      "name": "Fearow",
+      "type": "type_007",
+      "evolve_from": "pokemon_082",
+      "level": 1,
+      "max_level": 100,
+      "hp": 65,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_084",
+      "name": "Hoothoot",
+      "type": "type_007",
+      "evolve_to": "pokemon_085",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 15,
+      "defense": 10,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_085",
+      "name": "Noctowl",
+      "type": "type_007",
+      "evolve_from": "pokemon_084",
+      "level": 1,
+      "max_level": 100,
+      "hp": 100,
+      "attack": 30,
+      "defense": 20,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_086",
+      "name": "Yanma",
+      "type": "type_007",
+      "level": 1,
+      "max_level": 100,
+      "hp": 65,
+      "attack": 25,
+      "defense": 15,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_087",
+      "name": "Gligar",
+      "type": "type_007",
+      "evolve_to": "pokemon_088",
+      "level": 1,
+      "max_level": 100,
+      "hp": 55,
+      "attack": 20,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_088",
+      "name": "Gliscor",
+      "type": "type_007",
+      "evolve_from": "pokemon_087",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 35,
+      "defense": 30,
+      "lucky": 8
+    },
+    {
+      "id": "pokemon_089",
+      "name": "Ho-oh",
+      "type": "type_007",
+      "level": 1,
+      "max_level": 100,
+      "hp": 150,
+      "attack": 80,
+      "defense": 60,
+      "lucky": 12
+    },
+    {
+      "id": "pokemon_090",
+      "name": "Reshiram_God_Phong",
+      "type": "type_007",
+      "level": 1,
+      "max_level": 100,
+      "hp": 150,
+      "attack": 80,
+      "defense": 60,
+      "lucky": 12
+    },
+    // ...existing code...
+
+    // Thổ (type_004)
+    {
+      "id": "pokemon_091",
+      "name": "Sandshrew",
+      "type": "type_004",
+      "evolve_to": "pokemon_092",
+      "level": 1,
+      "max_level": 100,
+      "hp": 50,
+      "attack": 18,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_092",
+      "name": "Sandslash",
+      "type": "type_004",
+      "evolve_from": "pokemon_091",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 32,
+      "defense": 35,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_093",
+      "name": "Geodude",
+      "type": "type_004",
+      "evolve_to": "pokemon_094",
+      "level": 1,
+      "max_level": 100,
+      "hp": 40,
+      "attack": 20,
+      "defense": 20,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_094",
+      "name": "Graveler",
+      "type": "type_004",
+      "evolve_from": "pokemon_093",
+      "evolve_to": "pokemon_095",
+      "level": 1,
+      "max_level": 100,
+      "hp": 55,
+      "attack": 30,
+      "defense": 30,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_095",
+      "name": "Golem",
+      "type": "type_004",
+      "evolve_from": "pokemon_094",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 45,
+      "defense": 45,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_096",
+      "name": "Onix",
+      "type": "type_004",
+      "evolve_to": "pokemon_097",
+      "level": 1,
+      "max_level": 100,
+      "hp": 35,
+      "attack": 15,
+      "defense": 40,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_097",
+      "name": "Steelix",
+      "type": "type_004",
+      "evolve_from": "pokemon_096",
+      "level": 1,
+      "max_level": 100,
+      "hp": 75,
+      "attack": 35,
+      "defense": 60,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_098",
+      "name": "Aron",
+      "type": "type_004",
+      "evolve_to": "pokemon_099",
+      "level": 1,
+      "max_level": 100,
+      "hp": 50,
+      "attack": 20,
+      "defense": 30,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_099",
+      "name": "Lairon",
+      "type": "type_004",
+      "evolve_from": "pokemon_098",
+      "evolve_to": "pokemon_100",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 30,
+      "defense": 40,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_100",
+      "name": "Aggron",
+      "type": "type_004",
+      "evolve_from": "pokemon_099",
+      "level": 1,
+      "max_level": 100,
+      "hp": 80,
+      "attack": 45,
+      "defense": 60,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_101",
+      "name": "Rhyhorn",
+      "type": "type_004",
+      "evolve_to": "pokemon_102",
+      "level": 1,
+      "max_level": 100,
+      "hp": 60,
+      "attack": 25,
+      "defense": 30,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_102",
+      "name": "Rhydon",
+      "type": "type_004",
+      "evolve_from": "pokemon_101",
+      "evolve_to": "pokemon_103",
+      "level": 1,
+      "max_level": 100,
+      "hp": 105,
+      "attack": 40,
+      "defense": 45,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_103",
+      "name": "Rhyperior",
+      "type": "type_004",
+      "evolve_from": "pokemon_102",
+      "level": 1,
+      "max_level": 100,
+      "hp": 115,
+      "attack": 55,
+      "defense": 55,
+      "lucky": 7
+    },
+    {
+      "id": "pokemon_104",
+      "name": "Terrakion_God_Tho",
+      "type": "type_004",
+      "level": 1,
+      "max_level": 100,
+      "hp": 120,
+      "attack": 70,
+      "defense": 60,
+      "lucky": 12
+    }
+  ]
+}
