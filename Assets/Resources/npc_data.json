@@ -1,0 +1,17 @@
+{
+  "npcs": [
+    {
+      "id": "npc_01",
+      "npcName": "Bác nông dân",
+      "dialogues": ["Chào cháu!", "Trời đẹp đấy."],
+      "interactionType": 1,
+      "questId": "quest_001"
+    },
+    {
+      "id": "npc_02",
+      "npcName": "Thương nhân",
+      "dialogues": ["Mua hàng đi cháu!"],
+      "interactionType": "Shop"
+    }
+  ]
+}

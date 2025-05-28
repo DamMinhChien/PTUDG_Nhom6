@@ -1,0 +1,25 @@
+[
+  {
+    "id": "event_001",
+    "name": "Meet the Villager",
+    "triggerType": "OnEnterArea",
+    "areaId": "village_center",
+    "conditions": {
+      "hasItem": "map",
+      "questCompleted": "intro_quest"
+    },
+    "dialogueId": "dlg_001",
+    "once": true
+  },
+  {
+    "id": "event_002",
+    "name": "Find Hidden Cave",
+    "triggerType": "OnInteract",
+    "objectId": "old_tree",
+    "conditions": {
+      "level": 5
+    },
+    "cutsceneId": "cs_003",
+    "once": false
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "batdau",
+    "name": "Meet the Villager",
+    "triggerType": "OnStart",
+    "areaId": "village_center",
+    "conditions": {
+      "hasItem": "map",
+      "questCompleted": "intro_quest"
+    },
+    "lines": [
+      "Nghe đồn Thiên Địa chi sơ, vặn năm về trước có hai vị thần, một người duy trì trật tự, một người cai quản thế giới hỗn loạn, kiềm chế lẫn nhau, duy trì cân bằng thế giới.",
+      "Vị Bạch long, vị thần đứng đầu Thiên giới phụ trách cai quản trật tự. Ba vị thủ hộ thánh thú lần lượt là Lôi Kì Lân, Trình Vân Hạc cùng Minh Vương Long",
+      "Vị Hắc Long, vị thần Địa Giới phụ trách cai quản thế giới hỗn loạn. Bốn vị chiến thần thú lần lượt là Chiến Thần Đà, Tượng Quân Giải, Linh Quang Lộc và Hỏa Phượng Hoàng.",
+      "Ngàn năm trước, lực lượng hỗn độn thế lực không ngừng hùng mạnh, dần hình thành xu thế đàn áp Thiên Giới. Để cân bằng Thiên Địa, Bạch Long cùng Hắc Long đã tiến hành một cuộc Thiên Địa tranh chiến.",
+      "Một trăm năm sau, cuộc chiến kết thúc, Bạch Long cùng Hắc Long đã tan biến",
+      "Không lâu sau đó, thế gian xuất hiện hai Bảo châu, một trắng, một đen. Người ta tin rằng đây chính là linh hồn của các vị thần cổ đại, có năng lương vô tận.",
+      "Về sau hai Bảo châu này, một bay lên Thiên Giới, một rơi xuống nhân gian, tiếp tục sứ mệnh bao vệ thế giới.",
+      "Thên Giới và Địa Giới có mối liên hệ duy nhất thông đạo Thiên Giới Bạch Long Thần Điện cùng Địa Giới Hắc Long Thần Điện. Cứ sau một trăm năm, hai tòa thần điện mở ra lỗi thông nhau giưa Thiên Giới và Địa Giới có thể gặp gỡ.",
+      "Nhưng một trăm năm mới có một cơ hội nên có thể nói đây cũng là một nguy hiểm.",
+      "Hắc Thạch Mã Đầu: Haha! Tuy trăm năm mới có một dịp nhưng đây cũng là cơ hội tốt. Ý trời đã định! Chúng quân nghe lệnh!",
+      "Hắc Long Quân:!",
+      "Ngày nào đó. Tất cả thiên không thần điện cũng không thể thoát khỏi kiếp định này. Đây không phải chiến tranh, cuộc chiến của một phe, căn bản chính là... Chết chóc.",
+      "Một ngày sau đó, trước một ngôi đền hoang...",
+      "Sáu năm sau ..."
+    ],
+    "dialogueId": "dlg_001",
+    "once": true
+  }
+]
