@@ -10,10 +10,11 @@ public class QuestUIManager : MonoBehaviour
     public GameObject questPanel;
     public GameObject questEntryPrefab;
     public Transform questListContainer;
-
+    //
     public TextMeshProUGUI titleText;
-    public TextMeshProUGUI descriptionText;
     public TextMeshProUGUI progressText;
+    //
+    public TextMeshProUGUI descriptionText;
     public Button completeButton;
 
     private Quest currentQuest;
@@ -32,20 +33,36 @@ public class QuestUIManager : MonoBehaviour
         foreach (var quest in QuestManager.Instance.quests)
         {
             GameObject entry = Instantiate(questEntryPrefab, questListContainer);
-            entry.GetComponentInChildren<TextMeshProUGUI>().text = quest.title;
+
+            // ✅ Gán dữ liệu nhiệm vụ vào prefab
+            QuestEntryUI entryUI = entry.GetComponent<QuestEntryUI>();
+            if (entryUI != null)
+            {
+                entryUI.Setup(quest);
+            }
+            else
+            {
+                Debug.LogError("❌ Prefab thiếu script QuestEntryUI!");
+            }
+
+            // ✅ Gắn sự kiện click vào entry
             entry.GetComponent<Button>().onClick.AddListener(() => ShowQuestDetail(quest));
+
+            Debug.Log("🔹 Tạo entry cho: " + quest.title);
         }
     }
 
     public void ShowQuestDetail(Quest quest)
     {
         currentQuest = quest;
-        titleText.text = quest.title;
         descriptionText.text = quest.description;
+        //
+        titleText.text = quest.title;
 
         int current = InventoryManager.Instance.GetItemAmount(quest.requiredItem);
-        progressText.text = $"Tiến độ: {current}/{quest.requiredAmount}";
-
+        //
+        progressText.text = $"{current}/{quest.requiredAmount}" + (quest.isCompleted ? " ✅" : "");
+        //
         completeButton.gameObject.SetActive(!quest.isCompleted && current >= quest.requiredAmount);
     }
 
@@ -56,6 +73,7 @@ public class QuestUIManager : MonoBehaviour
         InventoryManager.Instance.RemoveItem(currentQuest.requiredItem, currentQuest.requiredAmount);
         currentQuest.isCompleted = true;
         completeButton.gameObject.SetActive(false);
+
         Debug.Log($"🎉 Hoàn thành nhiệm vụ: {currentQuest.title}");
     }
 

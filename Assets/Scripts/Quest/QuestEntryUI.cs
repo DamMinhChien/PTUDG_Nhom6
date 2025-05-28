@@ -22,6 +22,7 @@ public class QuestEntryUI : MonoBehaviour
     public void Setup(Quest data)
     {
         quest = data;
+        Debug.Log($"🧩 Setup item UI: {quest.title}");
         UpdateProgress();
     }
 
@@ -29,5 +30,6 @@ public class QuestEntryUI : MonoBehaviour
     {
         int current = InventoryManager.Instance.GetItemAmount(quest.requiredItem);
         progressText.text = $"{current}/{quest.requiredAmount}" + (quest.isCompleted ? " ✅" : "");
+        titleText.text = quest.title;
     }
 }
