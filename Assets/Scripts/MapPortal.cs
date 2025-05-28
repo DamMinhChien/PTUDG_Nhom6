@@ -14,13 +14,15 @@ public class MapPortal : MonoBehaviour
             GameObject map = GameObject.FindGameObjectWithTag("Map");
             if (map != null)
             {
-                foreach (Transform child in map.transform)
-                {
-                    foreach (Transform grandChild in child)
-                    {
-                        grandChild.gameObject.SetActive(false);
-                    }
-                }
+                //foreach (Transform child in map.transform)
+                //{
+                //    foreach (Transform grandChild in child)
+                //    {
+                //        grandChild.gameObject.SetActive(false);
+                //    }
+                //}
+                map.SetActive(false);
+
 
                 // Gỡ tag active_zone khỏi map cũ (nếu có)
                 GameObject oldActive = GameObject.FindGameObjectWithTag("active_zone");
