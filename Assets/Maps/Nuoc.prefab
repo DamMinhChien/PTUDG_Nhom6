@@ -16515,11 +16515,11 @@ GameObject:
   - component: {fileID: 2037714679397375278}
   m_Layer: 0
   m_Name: CauNhoBenSuoi
-  m_TagString: Untagged
+  m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7220141663631008162
 Transform:
   m_ObjectHideFlags: 0
@@ -19076,7 +19076,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525504171370166310, guid: 74d42d8550bcd5144b7f1ef2b85ac5d2, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 525504171370166310, guid: 74d42d8550bcd5144b7f1ef2b85ac5d2, type: 3}
+      propertyPath: m_TagString
+      value: Map
       objectReference: {fileID: 0}
     - target: {fileID: 684334367680674822, guid: 74d42d8550bcd5144b7f1ef2b85ac5d2, type: 3}
       propertyPath: m_SortingLayer
