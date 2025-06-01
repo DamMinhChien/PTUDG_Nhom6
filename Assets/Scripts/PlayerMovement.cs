@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
-
+using System;
 public class PlayerMovement : MonoBehaviour
 {
+    public event Action OnEncountered;
     public bool isEnableMove { get; set; }
     public float moveSpeed = 5f;
 
@@ -10,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 lastMoveDir = Vector2.down; // Mặc định hướng nhìn xuống
 
     private Animator animator;
+    private Collider2D npcCollider;
 
     void Start()
     {
@@ -18,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    void Update()
+    public void HandleUpdate()
     {
         // Nhập phím
         moveInput.x = Input.GetAxisRaw("Horizontal");
@@ -43,6 +45,29 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = moveInput * moveSpeed;
         }
-        
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("NPC"))
+        {
+            npcCollider = other.collider;
+        }
+    }
+
+    void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("NPC") && npcCollider == other.collider)
+        {
+            npcCollider = null;
+        }
+    }
+
+    void Update()
+    {
+        if (npcCollider != null && Input.GetKeyDown(KeyCode.E))
+        {
+            OnEncountered?.Invoke();
+        }
     }
 }

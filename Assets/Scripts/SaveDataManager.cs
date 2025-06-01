@@ -72,7 +72,7 @@ public class SaveDataManager : MonoBehaviour
         saveData = JsonUtility.FromJson<SaveData>(json);
     }
 
-    void SaveGame()
+    public void SaveGame()
     {
         string json = JsonUtility.ToJson(saveData, true);
         File.WriteAllText(saveDataPath, json);
@@ -98,5 +98,28 @@ public class SaveDataManager : MonoBehaviour
                 learnedSkillIds = new List<string>() // Chưa học kỹ năng nào
             });
         }
+    }
+
+    private void AddPokemonToPlayer(_Pokemon pokemon)
+    {
+        var saveManager = FindObjectOfType<SaveDataManager>();
+        if (saveManager != null)
+        {
+            var saved = new SavedPokemon
+            {
+                id = pokemon.Base.Id,
+                level = pokemon.Level,
+                currentHP = pokemon.HP,
+                learnedSkillIds = new List<string>() // Có thể lấy từ pokemon.Moves nếu muốn
+            };
+            saveManager.saveData.myPokemons.Add(saved);
+            saveManager.SaveGame();
+        }
+    }
+
+    public void AddPokemon(SavedPokemon pokemon)
+    {
+        saveData.myPokemons.Add(pokemon);
+        SaveGame();
     }
 }

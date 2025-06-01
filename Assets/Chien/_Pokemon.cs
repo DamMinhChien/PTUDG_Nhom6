@@ -62,7 +62,7 @@ public class _Pokemon
 
         HP -= damage;
 
-        if (HP < 0)
+        if (HP <= 0)
         {
             HP = 0;
             return true;

@@ -1,10 +1,12 @@
-using System.Collections;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening; // Đảm bảo đã import DOTween
 
 public class BattleSystem : MonoBehaviour
 {
     [SerializeField] GameObject dialogAttack;
-    PlayerMovement movement;
+    //PlayerMovement movement;
 
     [SerializeField] BattleUnit playerUnit;
     [SerializeField] BattleHud playerHud;
@@ -14,10 +16,21 @@ public class BattleSystem : MonoBehaviour
 
     [SerializeField] BattleDialogBox battleDialogBox;
 
+    [SerializeField] private GameController gameController;
+
+    [SerializeField] private GameObject pokeballPrefab; // Thêm prefab Pokéball
+
+    public SaveDataManager saveManager;
+
     private void Start()
     {
         SetupBattle();
         state = BattleState.PlayerAction;
+    }
+
+    public void HandleUpdate()
+    {
+
     }
 
     public void SetupBattle()
@@ -30,8 +43,7 @@ public class BattleSystem : MonoBehaviour
         enemyHud.SetData(enemyUnit.Pokemon);
 
         battleDialogBox.SetMoveNames(playerUnit.Pokemon);
-        battleDialogBox.Init(this); // G�n BattleSystem cho DialogBox
-
+        battleDialogBox.Init(this); // Gán BattleSystem cho DialogBox
     }
 
     public enum BattleState { Start, PlayerAction, PlayerMove, EnemyMove, Busy }
@@ -47,7 +59,8 @@ public class BattleSystem : MonoBehaviour
     public void Run()
     {
         gameObject.SetActive(false);
-        movement.isEnableMove = true;
+        if (gameController != null)
+            gameController.EndBattle();
     }
 
     public void Attack()
@@ -56,16 +69,15 @@ public class BattleSystem : MonoBehaviour
         if (attackDetails != null)
         {
             bool isActive = attackDetails.gameObject.activeSelf;
-            attackDetails.gameObject.SetActive(!isActive); 
+            attackDetails.gameObject.SetActive(!isActive);
         }
     }
-    
 
     public void OnMoveSelected(int moveIndex)
     {
         currentMove = moveIndex;
 
-        // ?n khung ch?n chi�u
+        // ?n khung ch?n chiêu
         if (dialogAttack != null)
             dialogAttack.SetActive(false);
 
@@ -74,46 +86,158 @@ public class BattleSystem : MonoBehaviour
     }
 
     int currentMove;
+
     IEnumerator PerformPlayerMove()
     {
         var move = playerUnit.Pokemon.Moves[currentMove];
 
-        // G�y s�t th??ng v� ki?m tra ??i th? c� b? h? g?c kh�ng
+        playerUnit.PlayAttackAnimation(enemyUnit.transform.position);
+        yield return new WaitForSeconds(0.4f);
+
         bool isFainted = enemyUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon, enemyUnit.Pokemon);
         enemyHud.UpdateHP();
 
-        // N?u ??i th? b? h? g?c th� d?ng l?i
-        if (isFainted)
-            yield break;
+        enemyUnit.PlayDefendAnimation();
+        yield return new WaitForSeconds(0.3f);
 
-        // N?u kh�ng, cho ??i th? t?n c�ng l?i
+        if (isFainted)
+        {
+            enemyUnit.PlayFaintAnimation();
+            yield return new WaitForSeconds(0.5f);
+            if (gameController != null)
+            {
+                Debug.Log("Thoát!");
+                gameController.EndBattle();
+            }
+                
+            yield break;
+        }
+
         StartCoroutine(EnemyMove());
     }
 
     IEnumerator EnemyMove()
     {
-        yield return new WaitForSeconds(1f); // Ch? 1 gi�y ?? t?o c?m gi�c c� th?i gian
+        yield return new WaitForSeconds(1f); // Ch? 1 giây ?? t?o c?m giác có th?i gian
 
-        // Ch?n chi�u ng?u nhi�n t? enemy
+        // Ch?n chiêu ng?u nhiên t? enemy
         int randomMoveIndex = Random.Range(0, enemyUnit.Pokemon.Moves.Count);
         var move = enemyUnit.Pokemon.Moves[randomMoveIndex];
 
-        // G�y s�t th??ng l�n ng??i ch?i
+        // Hi?u ?ng t?n công c?a ??i th?
+        enemyUnit.PlayAttackAnimation(playerUnit.transform.position);
+        yield return new WaitForSeconds(0.4f);
+
+        // Gây sát th??ng lên ng??i ch?i
         bool isFainted = playerUnit.Pokemon.TakeDamage(move, enemyUnit.Pokemon, playerUnit.Pokemon);
-        playerHud.UpdateHP() ;
+        playerHud.UpdateHP();
 
-        Debug.Log($"??ch d�ng chi�u: {move.Base.MoveName}");
+        // Hi?u ?ng phòng th? cho ng??i ch?i
+        playerUnit.PlayDefendAnimation();
+        yield return new WaitForSeconds(0.3f);
 
-        // N?u ng??i ch?i b? h? g?c th� k?t th�c
+        Debug.Log($"??ch dùng chiêu: {move.Base.MoveName}");
+
+        // N?u ng??i ch?i b? h? g?c thì k?t thúc
         if (isFainted)
         {
+            playerUnit.PlayFaintAnimation();
+            yield return new WaitForSeconds(0.5f);
             Debug.Log("Ng??i ch?i thua cu?c!");
             yield break;
         }
 
-        // N?u kh�ng th� quay l?i l??t ng??i ch?i
+        // N?u không thì quay l?i l??t ng??i ch?i
         state = BattleState.PlayerAction;
     }
 
+    public void TryCatchPokemon()
+    {
+        state = BattleState.Busy;
+        StartCoroutine(CatchPokemonCoroutine());
+    }
 
+    IEnumerator CatchPokemonCoroutine()
+    {
+        // Hiệu ứng ném Pokéball
+        GameObject pokeball = Instantiate(pokeballPrefab, playerUnit.transform.position, Quaternion.identity);
+        pokeball.transform.DOMove(enemyUnit.transform.position, 0.5f).SetEase(Ease.OutQuad);
+        yield return new WaitForSeconds(0.5f);
+
+        // Tính tỉ lệ bắt dựa trên HP
+        float catchRate = CalculateCatchRate(enemyUnit.Pokemon);
+        bool isCaught = Random.value < catchRate;
+
+        Vector3 originalEnemyScale = enemyUnit.transform.localScale;
+        Vector3 originalEnemyPos = enemyUnit.transform.position;
+
+        if (isCaught)
+        {
+            // Hiệu ứng: Pokémon bị hút vào Pokéball rồi biến mất
+            Sequence catchSeq = DOTween.Sequence();
+            catchSeq.Append(enemyUnit.transform.DOScale(0.1f, 0.4f).SetEase(Ease.InBack));
+            catchSeq.Join(enemyUnit.transform.DOMove(pokeball.transform.position, 0.4f).SetEase(Ease.InBack));
+            yield return catchSeq.WaitForCompletion();
+
+            enemyUnit.gameObject.SetActive(false); // Ẩn Pokémon địch
+            pokeball.transform.DOScale(Vector3.zero, 0.3f).SetEase(Ease.InBack); // Quả cầu biến mất
+            yield return new WaitForSeconds(0.3f);
+
+            Destroy(pokeball);
+
+            // Lưu Pokémon
+            AddPokemonToPlayer(enemyUnit.Pokemon);
+
+            // Thoát chiến đấu
+            if (gameController != null)
+                gameController.EndBattle();
+        }
+        else
+        {
+            // Hiệu ứng thất bại: Pokéball rơi xuống, rung lắc, rồi biến mất
+            float dropDistance = 0.5f;
+            Vector3 dropTarget = pokeball.transform.position + Vector3.down * dropDistance;
+
+            Sequence failSeq = DOTween.Sequence();
+            failSeq.Append(pokeball.transform.DOMove(dropTarget, 0.2f).SetEase(Ease.InQuad));
+            failSeq.Append(pokeball.transform.DOShakePosition(0.4f, 0.2f, 10, 90, false, true));
+            failSeq.Append(pokeball.transform.DOScale(Vector3.zero, 0.2f).SetEase(Ease.InBack));
+            yield return failSeq.WaitForCompletion();
+
+            Destroy(pokeball);
+
+            // Phục hồi lại hình ảnh Pokémon địch
+            enemyUnit.gameObject.SetActive(true);
+            enemyUnit.transform.localScale = originalEnemyScale;
+            enemyUnit.transform.position = originalEnemyPos;
+
+            // Địch tấn công lại
+            StartCoroutine(EnemyMove());
+        }
+    }
+
+    private float CalculateCatchRate(_Pokemon enemy)
+    {
+        // Tỉ lệ càng cao khi HP càng thấp, ví dụ:
+        float hpRate = 1f - (float)enemy.HP / enemy.MaxHP;
+        float baseRate = 0.2f; // Tỉ lệ cơ bản
+        float maxBonus = 0.7f; // Tối đa cộng thêm
+        return Mathf.Clamp(baseRate + hpRate * maxBonus, 0f, 0.95f);
+    }
+
+    private void AddPokemonToPlayer(_Pokemon pokemon)
+    {
+        if (saveManager != null)
+        {
+            var saved = new SavedPokemon
+            {
+                id = pokemon.Base.Id, // Đảm bảo PokemonBase có thuộc tính Id
+                level = pokemon.Level,
+                currentHP = pokemon.HP,
+                learnedSkillIds = new List<string>() // Có thể lấy từ pokemon.Moves nếu muốn
+            };
+            saveManager.saveData.myPokemons.Add(saved);
+            saveManager.SaveGame();
+        }
+    }
 }
