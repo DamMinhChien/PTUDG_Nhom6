@@ -2,6 +2,7 @@
 
 public class PlayerMovement : MonoBehaviour
 {
+    public bool isEnableMove { get; set; }
     public float moveSpeed = 5f;
 
     private Rigidbody2D rb;
@@ -12,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
+        isEnableMove = true;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
@@ -37,6 +39,10 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+        if (isEnableMove)
+        {
+            rb.linearVelocity = moveInput * moveSpeed;
+        }
+        
     }
 }
