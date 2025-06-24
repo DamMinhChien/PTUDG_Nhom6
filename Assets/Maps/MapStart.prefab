@@ -52849,7 +52849,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6405313666502173748, guid: c92ec27c37845b141b7a619377f0b33d, type: 3}
       propertyPath: m_SortingOrder
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53057,7 +53057,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 62919852782190678, guid: ddf0aa537f2f03b48a2896b14f5e678a, type: 3}
       propertyPath: m_SortingOrder
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5098540462155086827, guid: ddf0aa537f2f03b48a2896b14f5e678a, type: 3}
       propertyPath: m_Name
