@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections.Generic;
 
 public class EnemySpawner : MonoBehaviour
@@ -16,9 +16,21 @@ public class EnemySpawner : MonoBehaviour
     public Transform minPos;
     public Transform maxPos;
 
+    // Thêm biến lưu thời gian cập nhật độ khó
+    private float difficultyUpdateTimer = 0f;
+    private float difficultyUpdateInterval = 10f; // mỗi 10 giây tăng độ khó
+
     void Update()
     {
         if (PlayerController.Instance.gameObject.activeSelf){
+            // Tăng độ khó theo thời gian
+            difficultyUpdateTimer += Time.deltaTime;
+            if (difficultyUpdateTimer >= difficultyUpdateInterval)
+            {
+                difficultyUpdateTimer = 0f;
+                IncreaseDifficulty();
+            }
+
             waves[waveNumber].spawnTimer += Time.deltaTime;
             if (waves[waveNumber].spawnTimer >= waves[waveNumber].spawnInterval){
                 waves[waveNumber].spawnTimer = 0;
@@ -34,6 +46,16 @@ public class EnemySpawner : MonoBehaviour
             if (waveNumber >= waves.Count){
                 waveNumber = 0;
             }
+        }
+    }
+
+    // Hàm tăng độ khó
+    private void IncreaseDifficulty()
+    {
+        foreach (var wave in waves)
+        {
+            wave.enemiesPerWave += 1; // tăng số lượng enemy mỗi wave
+            wave.spawnInterval = Mathf.Max(0.1f, wave.spawnInterval * 0.95f); // giảm thời gian spawn, tối thiểu 0.1s
         }
     }
 

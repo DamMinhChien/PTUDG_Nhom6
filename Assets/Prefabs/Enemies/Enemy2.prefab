@@ -278,9 +278,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 1900435842482074304}
   rb: {fileID: 1884996380066364879}
-  moveSpeed: 1.3
+  moveSpeed: 1.6
   damage: 2
-  health: 10
+  health: 12
   experienceToGive: 2
   pushTime: 0.5
   destroyEffect: {fileID: 3655094787856938160, guid: 0ca0953cc88af3549bb5bc3445920d28, type: 3}

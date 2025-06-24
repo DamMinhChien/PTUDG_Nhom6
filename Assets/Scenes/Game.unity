@@ -1454,17 +1454,17 @@ MonoBehaviour:
   - enemyPrefab: {fileID: 3461690725988920738, guid: 7fb422a6215cad8439103df281dc40a1, type: 3}
     spawnTimer: 0
     spawnInterval: 1
-    enemiesPerWave: 30
+    enemiesPerWave: 40
     spawnedEnemyCount: 0
   - enemyPrefab: {fileID: 40043641672547100, guid: 3a7008591fb91c44bb7add1c03f4a1bf, type: 3}
     spawnTimer: 0
     spawnInterval: 1
-    enemiesPerWave: 30
+    enemiesPerWave: 50
     spawnedEnemyCount: 0
   - enemyPrefab: {fileID: 9166857696172220877, guid: f7689c3f70a8d49469dc5e4c1082f5c7, type: 3}
     spawnTimer: 0
     spawnInterval: 1
-    enemiesPerWave: 1
+    enemiesPerWave: 2
     spawnedEnemyCount: 0
   waveNumber: 0
   minPos: {fileID: 211513235}
